@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-04T12:22:14.058263+00:00",
+  "generated_at": "2026-10-04T18:42:55.760354+00:00",
   "official_sources_configured": 21,
   "official_sources_ok": 20,
   "official_sources_failed": 1,
   "independent_sources_configured": 59,
-  "independent_sources_failed": 9,
+  "independent_sources_failed": 10,
   "media_sources_configured": 94,
   "media_sources_active_7d": 43,
-  "media_items_7d": 178,
+  "media_items_7d": 173,
   "media_sources_failed": 0,
   "people_configured": 86,
   "people_active_7d": 8,
@@ -31,6 +31,12 @@
       "source": "SorceryRec",
       "url": "https://sorceryrec.com/pt/articles",
       "error": "404 Client Error: Not Found for url: https://sorceryrec.com/pt/articles"
+    },
+    {
+      "source_id": "fab-insights",
+      "source": "FaB Insights",
+      "url": "https://www.fabinsights.net/",
+      "error": "HTTPSConnectionPool(host='www.fabinsights.net', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.fabinsights.net', port=443) at 0x7f985c469250>, 'Connection to www.fabinsights.net timed out. (connect timeout=20)'))"
     },
     {
       "source_id": "rathe-adventures",
