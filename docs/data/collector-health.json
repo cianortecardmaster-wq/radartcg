@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-05T14:38:37.214717+00:00",
+  "generated_at": "2026-10-05T22:07:10.051974+00:00",
   "official_sources_configured": 21,
   "official_sources_ok": 19,
   "official_sources_failed": 2,
   "independent_sources_configured": 59,
-  "independent_sources_failed": 9,
+  "independent_sources_failed": 8,
   "media_sources_configured": 94,
-  "media_sources_active_7d": 43,
-  "media_items_7d": 176,
+  "media_sources_active_7d": 42,
+  "media_items_7d": 175,
   "media_sources_failed": 0,
   "people_configured": 86,
   "people_active_7d": 8,
-  "people_items_7d": 22,
+  "people_items_7d": 23,
   "people_sources_failed": 0,
   "errors": [
     {
@@ -24,19 +24,13 @@
       "source_id": "pokemon-cn",
       "source": "Pokémon China",
       "url": "https://www.pokemon.cn/topics-tcg/p/1",
-      "error": "HTTPSConnectionPool(host='www.pokemon.cn', port=443): Max retries exceeded with url: /topics-tcg/p/1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pokemon.cn', port=443) at 0x7f6b154196a0>, 'Connection to www.pokemon.cn timed out. (connect timeout=20)'))"
+      "error": "HTTPSConnectionPool(host='www.pokemon.cn', port=443): Max retries exceeded with url: /topics-tcg/p/1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pokemon.cn', port=443) at 0x7f6e2c55c110>, 'Connection to www.pokemon.cn timed out. (connect timeout=20)'))"
     },
     {
       "source_id": "sorcery-brasil",
       "source": "Sorcery Brasil",
       "url": "https://sorcery.com.br/artigos/",
       "error": "403 Client Error: Forbidden for url: https://sorcery.com.br/artigos/"
-    },
-    {
-      "source_id": "sorceryrec",
-      "source": "SorceryRec",
-      "url": "https://sorceryrec.com/pt/articles",
-      "error": "404 Client Error: Not Found for url: https://sorceryrec.com/pt/articles"
     },
     {
       "source_id": "rathe-adventures",
