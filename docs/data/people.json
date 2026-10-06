@@ -1,14 +1,403 @@
 {
-  "generated_at": "2026-10-06T13:21:59.469435+00:00",
+  "generated_at": "2026-10-06T20:17:15.227542+00:00",
   "window_days": 7,
   "count": 86,
   "artist_developer_count": 68,
   "pro_player_count": 18,
-  "active_count": 8,
-  "content_count": 26,
+  "active_count": 9,
+  "content_count": 25,
   "content_ready": true,
   "errors_count": 0,
   "people": [
+    {
+      "name": "Andrea Mengucci",
+      "category": "pro-player",
+      "games": [
+        "magic"
+      ],
+      "roles": [
+        "Pro player",
+        "YouTube / Twitch"
+      ],
+      "description": "Campeão de grande evento e criador diário; gameplay competitivo e Magic em papel.",
+      "profiles": [
+        {
+          "platform": "youtube",
+          "label": "YouTube — VEEDEO",
+          "url": "https://www.youtube.com/andreamengucci"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube — Mengu's Workshop",
+          "url": "https://www.youtube.com/@MengusWorkshop"
+        },
+        {
+          "platform": "twitch",
+          "label": "Twitch",
+          "url": "https://www.twitch.tv/andreamengucci"
+        },
+        {
+          "platform": "instagram",
+          "label": "Instagram",
+          "url": "https://www.instagram.com/mengu09/"
+        },
+        {
+          "platform": "x",
+          "label": "X",
+          "url": "https://x.com/Mengu09"
+        }
+      ],
+      "content_sources": [
+        {
+          "name": "Andrea Mengucci VEEDEO",
+          "platform": "youtube",
+          "language": "en",
+          "game_id": "magic",
+          "url": "https://www.youtube.com/andreamengucci",
+          "youtube_search_fallback": false,
+          "id": "5b879535bc0174c9",
+          "recent_items": [
+            {
+              "id": "06d253f77ac8e6373995",
+              "title": "Is the Gaak back with Darklight Phoenix? | Modern | MTGO",
+              "url": "https://www.youtube.com/watch?v=dsppXAE_Qjw",
+              "published_at": "2026-10-06T16:00:13+00:00",
+              "image_url": "https://i1.ytimg.com/vi/dsppXAE_Qjw/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Andrea Mengucci VEEDEO",
+              "excerpt": "Time stamps: 0:00 Intro 1:03 Round1 vs Grixis Affinity 12:22 Round2 vs Devoted Druid 20:42 Round3 vs Eldrazi 31:07 Round4 vs Eldrazi Decklist: https://partner.tcgplayer.com/enPEy6 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazi"
+            },
+            {
+              "id": "e598a0a80bb9901ebadc",
+              "title": "UB Murktide updates with Reality Fractures! | Modern | MTGO",
+              "url": "https://www.youtube.com/watch?v=ks7dNUvXs1A",
+              "published_at": "2026-10-04T16:00:34+00:00",
+              "image_url": "https://i4.ytimg.com/vi/ks7dNUvXs1A/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Andrea Mengucci VEEDEO",
+              "excerpt": "Time stamps: 0:00 Intro 1:44 Round1 vs Amulet Titan 15:38 Round2 vs MonoU Artifacts 27:36 Round3 vs Esper Goryo 48:02 Round4 vs Boros Ponza Decklist: https://partner.tcgplayer.com/n4Jkzx Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and lookin"
+            },
+            {
+              "id": "85b4d9d9f01de0b0aee7",
+              "title": "Is Pompous Battlemage better than Slickshot in UR Prowess? | Modern | MTGO",
+              "url": "https://www.youtube.com/watch?v=BpunJTx4QVE",
+              "published_at": "2026-10-02T16:00:22+00:00",
+              "image_url": "https://i3.ytimg.com/vi/BpunJTx4QVE/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Andrea Mengucci VEEDEO",
+              "excerpt": "Time stamps: 0:00 Intro 1:04 Round1 vs HollowOne 20:49 Round2 vs Grixis Reanimator 37:25 Round3 vs Esper Blink 1:04:33 Round4 vs 4c Ritual 1:25:00 Round5 vs Domain Zoo Decklist: https://partner.tcgplayer.com/7XkORV Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your ca"
+            },
+            {
+              "id": "1242c90c5dc106d0ce60",
+              "title": "A new Phoenix arises in Modern! BG Reanimator | Modern | MTGO",
+              "url": "https://www.youtube.com/watch?v=CefjtsHMV8M",
+              "published_at": "2026-10-01T16:00:19+00:00",
+              "image_url": "https://i4.ytimg.com/vi/CefjtsHMV8M/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Andrea Mengucci VEEDEO",
+              "excerpt": "Time stamps: 0:00 Intro 1:05 Round1 vs UR Wizards 28:04 Round2 vs Scapeshift 47:08 Round3 vs Esper Ketra Decklist: https://partner.tcgplayer.com/2R9k3D Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at your LGS. Head to heav"
+            },
+            {
+              "id": "8f174224601d0b3708d5",
+              "title": "5-0 🏆with the best deck in Modern! Part 2 | MTGO",
+              "url": "https://www.youtube.com/watch?v=Lt2UpgPKL6w",
+              "published_at": "2026-09-30T16:00:36+00:00",
+              "image_url": "https://i1.ytimg.com/vi/Lt2UpgPKL6w/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Andrea Mengucci VEEDEO",
+              "excerpt": "Time stamps: 0:00 Round4 vs Esper Goryo 45:03 Round5 vs Ruby Storm Decklist: https://partner.tcgplayer.com/4anydo Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at your LGS. Head to heavyplay.com/MENGU and use code MENGU for"
+            }
+          ],
+          "last_checked_at": "2026-10-06T20:17:14.090300+00:00",
+          "resolved_url": "https://www.youtube.com/channel/UCwIFsLCPrc1NGoNS0OGn0mw",
+          "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwIFsLCPrc1NGoNS0OGn0mw",
+          "resolved_channel_id": "UCwIFsLCPrc1NGoNS0OGn0mw",
+          "recent_count": 5,
+          "latest_published_at": "2026-10-06T16:00:13+00:00"
+        },
+        {
+          "name": "Mengu's Workshop",
+          "platform": "youtube",
+          "language": "en",
+          "game_id": "magic",
+          "url": "https://www.youtube.com/@MengusWorkshop",
+          "youtube_search_fallback": false,
+          "id": "d6d52298457dd5dd",
+          "recent_items": [
+            {
+              "id": "8f136aaecf7c33303442",
+              "title": "Your Deck Guide to Start Flesh and Blood + 160€ Giveaway! | What’s Silver Age",
+              "url": "https://www.youtube.com/watch?v=xCPbZUTxHIw",
+              "published_at": "2026-10-06T19:00:22+00:00",
+              "image_url": "https://i1.ytimg.com/vi/xCPbZUTxHIw/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Mengu's Workshop",
+              "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN"
+            },
+            {
+              "id": "16f4564fca5c3b512397",
+              "title": "The Best Strix Control Deck in Pauper! | Esper Affinity vs Esper Control | Mtg Gameplay",
+              "url": "https://www.youtube.com/watch?v=SoFi_tTof9Y",
+              "published_at": "2026-10-05T19:00:22+00:00",
+              "image_url": "https://i4.ytimg.com/vi/SoFi_tTof9Y/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Mengu's Workshop",
+              "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN"
+            },
+            {
+              "id": "ca22d19307d4a9dba8c5",
+              "title": "New Boros Affinity in Pauper! #paupermtgo #paupergameplay #pauper",
+              "url": "https://www.youtube.com/shorts/ZceGicBG8kI",
+              "published_at": "2026-10-02T19:00:29+00:00",
+              "image_url": "https://i3.ytimg.com/vi/ZceGicBG8kI/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Mengu's Workshop",
+              "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN"
+            },
+            {
+              "id": "ae4d9e3a1f966d98fb22",
+              "title": "Baleful Strix Legal in Pauper!! #paupermtgo #paupergameplay #pauper",
+              "url": "https://www.youtube.com/shorts/Uv0CeN1c9R0",
+              "published_at": "2026-10-01T19:00:08+00:00",
+              "image_url": "https://i2.ytimg.com/vi/Uv0CeN1c9R0/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Mengu's Workshop",
+              "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN"
+            }
+          ],
+          "last_checked_at": "2026-10-06T20:17:14.302206+00:00",
+          "resolved_url": "https://www.youtube.com/channel/UCGZdKNOxKdSNL1Qht9aC8tQ",
+          "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGZdKNOxKdSNL1Qht9aC8tQ",
+          "resolved_channel_id": "UCGZdKNOxKdSNL1Qht9aC8tQ",
+          "recent_count": 4,
+          "latest_published_at": "2026-10-06T19:00:22+00:00"
+        },
+        {
+          "name": "Andrea Mengucci",
+          "platform": "twitch",
+          "twitch_login": "andreamengucci",
+          "language": "en",
+          "game_id": "magic",
+          "url": "https://www.twitch.tv/andreamengucci",
+          "id": "5339172b5454719e",
+          "recent_items": [],
+          "last_checked_at": "2026-10-06T20:17:14.601466+00:00",
+          "resolved_url": "https://www.twitch.tv/andreamengucci",
+          "resolved_feed_url": null,
+          "resolved_channel_id": null,
+          "recent_count": 0,
+          "latest_published_at": null
+        }
+      ],
+      "id": "aebc613c27e321f2",
+      "recent_items": [
+        {
+          "id": "8f136aaecf7c33303442",
+          "title": "Your Deck Guide to Start Flesh and Blood + 160€ Giveaway! | What’s Silver Age",
+          "url": "https://www.youtube.com/watch?v=xCPbZUTxHIw",
+          "published_at": "2026-10-06T19:00:22+00:00",
+          "image_url": "https://i1.ytimg.com/vi/xCPbZUTxHIw/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Mengu's Workshop",
+          "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN",
+          "source_name": "Mengu's Workshop",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "06d253f77ac8e6373995",
+          "title": "Is the Gaak back with Darklight Phoenix? | Modern | MTGO",
+          "url": "https://www.youtube.com/watch?v=dsppXAE_Qjw",
+          "published_at": "2026-10-06T16:00:13+00:00",
+          "image_url": "https://i1.ytimg.com/vi/dsppXAE_Qjw/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Andrea Mengucci VEEDEO",
+          "excerpt": "Time stamps: 0:00 Intro 1:03 Round1 vs Grixis Affinity 12:22 Round2 vs Devoted Druid 20:42 Round3 vs Eldrazi 31:07 Round4 vs Eldrazi Decklist: https://partner.tcgplayer.com/enPEy6 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazi",
+          "source_name": "Andrea Mengucci VEEDEO",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "16f4564fca5c3b512397",
+          "title": "The Best Strix Control Deck in Pauper! | Esper Affinity vs Esper Control | Mtg Gameplay",
+          "url": "https://www.youtube.com/watch?v=SoFi_tTof9Y",
+          "published_at": "2026-10-05T19:00:22+00:00",
+          "image_url": "https://i4.ytimg.com/vi/SoFi_tTof9Y/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Mengu's Workshop",
+          "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN",
+          "source_name": "Mengu's Workshop",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "e598a0a80bb9901ebadc",
+          "title": "UB Murktide updates with Reality Fractures! | Modern | MTGO",
+          "url": "https://www.youtube.com/watch?v=ks7dNUvXs1A",
+          "published_at": "2026-10-04T16:00:34+00:00",
+          "image_url": "https://i4.ytimg.com/vi/ks7dNUvXs1A/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Andrea Mengucci VEEDEO",
+          "excerpt": "Time stamps: 0:00 Intro 1:44 Round1 vs Amulet Titan 15:38 Round2 vs MonoU Artifacts 27:36 Round3 vs Esper Goryo 48:02 Round4 vs Boros Ponza Decklist: https://partner.tcgplayer.com/n4Jkzx Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and lookin",
+          "source_name": "Andrea Mengucci VEEDEO",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "ca22d19307d4a9dba8c5",
+          "title": "New Boros Affinity in Pauper! #paupermtgo #paupergameplay #pauper",
+          "url": "https://www.youtube.com/shorts/ZceGicBG8kI",
+          "published_at": "2026-10-02T19:00:29+00:00",
+          "image_url": "https://i3.ytimg.com/vi/ZceGicBG8kI/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Mengu's Workshop",
+          "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN",
+          "source_name": "Mengu's Workshop",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "85b4d9d9f01de0b0aee7",
+          "title": "Is Pompous Battlemage better than Slickshot in UR Prowess? | Modern | MTGO",
+          "url": "https://www.youtube.com/watch?v=BpunJTx4QVE",
+          "published_at": "2026-10-02T16:00:22+00:00",
+          "image_url": "https://i3.ytimg.com/vi/BpunJTx4QVE/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Andrea Mengucci VEEDEO",
+          "excerpt": "Time stamps: 0:00 Intro 1:04 Round1 vs HollowOne 20:49 Round2 vs Grixis Reanimator 37:25 Round3 vs Esper Blink 1:04:33 Round4 vs 4c Ritual 1:25:00 Round5 vs Domain Zoo Decklist: https://partner.tcgplayer.com/7XkORV Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your ca",
+          "source_name": "Andrea Mengucci VEEDEO",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "ae4d9e3a1f966d98fb22",
+          "title": "Baleful Strix Legal in Pauper!! #paupermtgo #paupergameplay #pauper",
+          "url": "https://www.youtube.com/shorts/Uv0CeN1c9R0",
+          "published_at": "2026-10-01T19:00:08+00:00",
+          "image_url": "https://i2.ytimg.com/vi/Uv0CeN1c9R0/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Mengu's Workshop",
+          "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN",
+          "source_name": "Mengu's Workshop",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "1242c90c5dc106d0ce60",
+          "title": "A new Phoenix arises in Modern! BG Reanimator | Modern | MTGO",
+          "url": "https://www.youtube.com/watch?v=CefjtsHMV8M",
+          "published_at": "2026-10-01T16:00:19+00:00",
+          "image_url": "https://i4.ytimg.com/vi/CefjtsHMV8M/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Andrea Mengucci VEEDEO",
+          "excerpt": "Time stamps: 0:00 Intro 1:05 Round1 vs UR Wizards 28:04 Round2 vs Scapeshift 47:08 Round3 vs Esper Ketra Decklist: https://partner.tcgplayer.com/2R9k3D Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at your LGS. Head to heav",
+          "source_name": "Andrea Mengucci VEEDEO",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "8f174224601d0b3708d5",
+          "title": "5-0 🏆with the best deck in Modern! Part 2 | MTGO",
+          "url": "https://www.youtube.com/watch?v=Lt2UpgPKL6w",
+          "published_at": "2026-09-30T16:00:36+00:00",
+          "image_url": "https://i1.ytimg.com/vi/Lt2UpgPKL6w/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Andrea Mengucci VEEDEO",
+          "excerpt": "Time stamps: 0:00 Round4 vs Esper Goryo 45:03 Round5 vs Ruby Storm Decklist: https://partner.tcgplayer.com/4anydo Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at your LGS. Head to heavyplay.com/MENGU and use code MENGU for",
+          "source_name": "Andrea Mengucci VEEDEO",
+          "source_platform": "youtube"
+        }
+      ],
+      "recent_count": 9,
+      "latest_published_at": "2026-10-06T19:00:22+00:00"
+    },
+    {
+      "name": "Orson CaptainSass",
+      "category": "artist-developer",
+      "games": [
+        "flesh-and-blood"
+      ],
+      "roles": [
+        "Artista"
+      ],
+      "profiles": [
+        {
+          "platform": "artstation",
+          "label": "ArtStation",
+          "url": "https://www.artstation.com/mrcaptain"
+        },
+        {
+          "platform": "instagram",
+          "label": "Instagram",
+          "url": "https://www.instagram.com/captainsass_art/"
+        },
+        {
+          "platform": "linkedin",
+          "label": "LinkedIn",
+          "url": "https://fr.linkedin.com/in/orson-captainsass-bab08817b"
+        },
+        {
+          "platform": "website",
+          "label": "Site / Linktree",
+          "url": "https://captainsass.art/"
+        }
+      ],
+      "content_sources": [
+        {
+          "name": "Orson CaptainSass",
+          "platform": "artstation",
+          "language": "en",
+          "game_id": "flesh-and-blood",
+          "url": "https://www.artstation.com/mrcaptain",
+          "id": "13e37397dcd73586",
+          "recent_items": [
+            {
+              "id": "0532ca17733388d229cb",
+              "title": "Merging Lands Quickstart",
+              "url": "https://www.artstation.com/artwork/31EzAY",
+              "published_at": "2026-10-06T13:45:08.944000+00:00",
+              "image_url": "https://cdnb.artstation.com/p/assets/covers/images/102/993/575/20261006052035/small_square/orson-captainsass-orson-captainsass-merging-lands-quickstart-3-page-0021.jpg?1791282131",
+              "kind": "artwork",
+              "content_platform": "artstation",
+              "author": "Orson CaptainSass"
+            }
+          ],
+          "last_checked_at": "2026-10-06T20:17:11.501606+00:00",
+          "resolved_url": "https://www.artstation.com/mrcaptain",
+          "resolved_feed_url": null,
+          "resolved_channel_id": null,
+          "recent_count": 1,
+          "latest_published_at": "2026-10-06T13:45:08.944000+00:00"
+        }
+      ],
+      "id": "322314d5ef8e2230",
+      "recent_items": [
+        {
+          "id": "0532ca17733388d229cb",
+          "title": "Merging Lands Quickstart",
+          "url": "https://www.artstation.com/artwork/31EzAY",
+          "published_at": "2026-10-06T13:45:08.944000+00:00",
+          "image_url": "https://cdnb.artstation.com/p/assets/covers/images/102/993/575/20261006052035/small_square/orson-captainsass-orson-captainsass-merging-lands-quickstart-3-page-0021.jpg?1791282131",
+          "kind": "artwork",
+          "content_platform": "artstation",
+          "author": "Orson CaptainSass",
+          "source_name": "Orson CaptainSass",
+          "source_platform": "artstation"
+        }
+      ],
+      "recent_count": 1,
+      "latest_published_at": "2026-10-06T13:45:08.944000+00:00"
+    },
     {
       "name": "Federico Musetti",
       "category": "artist-developer",
@@ -118,43 +507,13 @@
               "kind": "artwork",
               "content_platform": "artstation",
               "author": "Federico Musetti"
-            },
-            {
-              "id": "9baf79dca4c02d1c9546",
-              "title": "Book cover \"Diebe der Nacht\"",
-              "url": "https://www.artstation.com/artwork/RqybvD",
-              "published_at": "2026-09-29T14:33:06.746000+00:00",
-              "image_url": "https://cdnb.artstation.com/p/assets/images/images/102/636/749/20260922155432/small_square/federico-musetti-1.jpg?1790110472",
-              "kind": "artwork",
-              "content_platform": "artstation",
-              "author": "Federico Musetti"
-            },
-            {
-              "id": "ce268e4caaa4a85a024a",
-              "title": "Terra - Flesh and Blood - TCG",
-              "url": "https://www.artstation.com/artwork/G1e4nN",
-              "published_at": "2026-09-29T14:32:45.540000+00:00",
-              "image_url": "https://cdna.artstation.com/p/assets/covers/images/102/634/888/small_square/federico-musetti-federico-musetti-thumbs-0013-2-2.jpg?1790105304",
-              "kind": "artwork",
-              "content_platform": "artstation",
-              "author": "Federico Musetti"
-            },
-            {
-              "id": "98af45919f60af5852c9",
-              "title": "Imperial Edict / Long Whisker Loyalty - Flesh and Blood - TCG",
-              "url": "https://www.artstation.com/artwork/q0e4nN",
-              "published_at": "2026-09-29T14:32:21.043000+00:00",
-              "image_url": "https://cdna.artstation.com/p/assets/covers/images/102/633/602/small_square/federico-musetti-federico-musetti-thumbs-0006-edict-long.jpg?1790102408",
-              "kind": "artwork",
-              "content_platform": "artstation",
-              "author": "Federico Musetti"
             }
           ],
-          "last_checked_at": "2026-10-06T13:21:49.624987+00:00",
+          "last_checked_at": "2026-10-06T20:17:08.273265+00:00",
           "resolved_url": "https://www.artstation.com/fedemusettiart",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
-          "recent_count": 9,
+          "recent_count": 6,
           "latest_published_at": "2026-10-06T07:29:44.806000+00:00"
         }
       ],
@@ -231,334 +590,10 @@
           "author": "Federico Musetti",
           "source_name": "Federico Musetti",
           "source_platform": "artstation"
-        },
-        {
-          "id": "9baf79dca4c02d1c9546",
-          "title": "Book cover \"Diebe der Nacht\"",
-          "url": "https://www.artstation.com/artwork/RqybvD",
-          "published_at": "2026-09-29T14:33:06.746000+00:00",
-          "image_url": "https://cdnb.artstation.com/p/assets/images/images/102/636/749/20260922155432/small_square/federico-musetti-1.jpg?1790110472",
-          "kind": "artwork",
-          "content_platform": "artstation",
-          "author": "Federico Musetti",
-          "source_name": "Federico Musetti",
-          "source_platform": "artstation"
-        },
-        {
-          "id": "ce268e4caaa4a85a024a",
-          "title": "Terra - Flesh and Blood - TCG",
-          "url": "https://www.artstation.com/artwork/G1e4nN",
-          "published_at": "2026-09-29T14:32:45.540000+00:00",
-          "image_url": "https://cdna.artstation.com/p/assets/covers/images/102/634/888/small_square/federico-musetti-federico-musetti-thumbs-0013-2-2.jpg?1790105304",
-          "kind": "artwork",
-          "content_platform": "artstation",
-          "author": "Federico Musetti",
-          "source_name": "Federico Musetti",
-          "source_platform": "artstation"
-        },
-        {
-          "id": "98af45919f60af5852c9",
-          "title": "Imperial Edict / Long Whisker Loyalty - Flesh and Blood - TCG",
-          "url": "https://www.artstation.com/artwork/q0e4nN",
-          "published_at": "2026-09-29T14:32:21.043000+00:00",
-          "image_url": "https://cdna.artstation.com/p/assets/covers/images/102/633/602/small_square/federico-musetti-federico-musetti-thumbs-0006-edict-long.jpg?1790102408",
-          "kind": "artwork",
-          "content_platform": "artstation",
-          "author": "Federico Musetti",
-          "source_name": "Federico Musetti",
-          "source_platform": "artstation"
         }
       ],
-      "recent_count": 9,
+      "recent_count": 6,
       "latest_published_at": "2026-10-06T07:29:44.806000+00:00"
-    },
-    {
-      "name": "Andrea Mengucci",
-      "category": "pro-player",
-      "games": [
-        "magic"
-      ],
-      "roles": [
-        "Pro player",
-        "YouTube / Twitch"
-      ],
-      "description": "Campeão de grande evento e criador diário; gameplay competitivo e Magic em papel.",
-      "profiles": [
-        {
-          "platform": "youtube",
-          "label": "YouTube — VEEDEO",
-          "url": "https://www.youtube.com/andreamengucci"
-        },
-        {
-          "platform": "youtube",
-          "label": "YouTube — Mengu's Workshop",
-          "url": "https://www.youtube.com/@MengusWorkshop"
-        },
-        {
-          "platform": "twitch",
-          "label": "Twitch",
-          "url": "https://www.twitch.tv/andreamengucci"
-        },
-        {
-          "platform": "instagram",
-          "label": "Instagram",
-          "url": "https://www.instagram.com/mengu09/"
-        },
-        {
-          "platform": "x",
-          "label": "X",
-          "url": "https://x.com/Mengu09"
-        }
-      ],
-      "content_sources": [
-        {
-          "name": "Andrea Mengucci VEEDEO",
-          "platform": "youtube",
-          "language": "en",
-          "game_id": "magic",
-          "url": "https://www.youtube.com/andreamengucci",
-          "youtube_search_fallback": false,
-          "id": "5b879535bc0174c9",
-          "recent_items": [
-            {
-              "id": "e598a0a80bb9901ebadc",
-              "title": "UB Murktide updates with Reality Fractures! | Modern | MTGO",
-              "url": "https://www.youtube.com/watch?v=ks7dNUvXs1A",
-              "published_at": "2026-10-04T16:00:34+00:00",
-              "image_url": "https://i4.ytimg.com/vi/ks7dNUvXs1A/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Andrea Mengucci VEEDEO",
-              "excerpt": "Time stamps: 0:00 Intro 1:44 Round1 vs Amulet Titan 15:38 Round2 vs MonoU Artifacts 27:36 Round3 vs Esper Goryo 48:02 Round4 vs Boros Ponza Decklist: https://partner.tcgplayer.com/n4Jkzx Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and lookin"
-            },
-            {
-              "id": "85b4d9d9f01de0b0aee7",
-              "title": "Is Pompous Battlemage better than Slickshot in UR Prowess? | Modern | MTGO",
-              "url": "https://www.youtube.com/watch?v=BpunJTx4QVE",
-              "published_at": "2026-10-02T16:00:22+00:00",
-              "image_url": "https://i3.ytimg.com/vi/BpunJTx4QVE/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Andrea Mengucci VEEDEO",
-              "excerpt": "Time stamps: 0:00 Intro 1:04 Round1 vs HollowOne 20:49 Round2 vs Grixis Reanimator 37:25 Round3 vs Esper Blink 1:04:33 Round4 vs 4c Ritual 1:25:00 Round5 vs Domain Zoo Decklist: https://partner.tcgplayer.com/7XkORV Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your ca"
-            },
-            {
-              "id": "1242c90c5dc106d0ce60",
-              "title": "A new Phoenix arises in Modern! BG Reanimator | Modern | MTGO",
-              "url": "https://www.youtube.com/watch?v=CefjtsHMV8M",
-              "published_at": "2026-10-01T16:00:19+00:00",
-              "image_url": "https://i4.ytimg.com/vi/CefjtsHMV8M/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Andrea Mengucci VEEDEO",
-              "excerpt": "Time stamps: 0:00 Intro 1:05 Round1 vs UR Wizards 28:04 Round2 vs Scapeshift 47:08 Round3 vs Esper Ketra Decklist: https://partner.tcgplayer.com/2R9k3D Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at your LGS. Head to heav"
-            },
-            {
-              "id": "8f174224601d0b3708d5",
-              "title": "5-0 🏆with the best deck in Modern! Part 2 | MTGO",
-              "url": "https://www.youtube.com/watch?v=Lt2UpgPKL6w",
-              "published_at": "2026-09-30T16:00:36+00:00",
-              "image_url": "https://i1.ytimg.com/vi/Lt2UpgPKL6w/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Andrea Mengucci VEEDEO",
-              "excerpt": "Time stamps: 0:00 Round4 vs Esper Goryo 45:03 Round5 vs Ruby Storm Decklist: https://partner.tcgplayer.com/4anydo Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at your LGS. Head to heavyplay.com/MENGU and use code MENGU for"
-            },
-            {
-              "id": "2aae2ec4e364c8f5834d",
-              "title": "5-0 🏆with the best deck in Modern! Part 1 | MTGO",
-              "url": "https://www.youtube.com/watch?v=-hMicKNhcbg",
-              "published_at": "2026-09-29T16:00:06+00:00",
-              "image_url": "https://i2.ytimg.com/vi/-hMicKNhcbg/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Andrea Mengucci VEEDEO",
-              "excerpt": "Time stamps: 0:00 Intro 1:17 Round1 vs Boros Ponza 15:53 Round2 vs Boros Ponza 58:56 Round3 vs UR Cori Decklist: https://partner.tcgplayer.com/4anydo Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at your LGS. Head to heavyp"
-            }
-          ],
-          "last_checked_at": "2026-10-06T13:21:58.125950+00:00",
-          "resolved_url": "https://www.youtube.com/channel/UCwIFsLCPrc1NGoNS0OGn0mw",
-          "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwIFsLCPrc1NGoNS0OGn0mw",
-          "resolved_channel_id": "UCwIFsLCPrc1NGoNS0OGn0mw",
-          "recent_count": 5,
-          "latest_published_at": "2026-10-04T16:00:34+00:00"
-        },
-        {
-          "name": "Mengu's Workshop",
-          "platform": "youtube",
-          "language": "en",
-          "game_id": "magic",
-          "url": "https://www.youtube.com/@MengusWorkshop",
-          "youtube_search_fallback": false,
-          "id": "d6d52298457dd5dd",
-          "recent_items": [
-            {
-              "id": "16f4564fca5c3b512397",
-              "title": "The Best Strix Control Deck in Pauper! | Esper Affinity vs Esper Control | Mtg Gameplay",
-              "url": "https://www.youtube.com/watch?v=SoFi_tTof9Y",
-              "published_at": "2026-10-05T19:00:22+00:00",
-              "image_url": "https://i4.ytimg.com/vi/SoFi_tTof9Y/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Mengu's Workshop",
-              "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN"
-            },
-            {
-              "id": "ca22d19307d4a9dba8c5",
-              "title": "New Boros Affinity in Pauper! #paupermtgo #paupergameplay #pauper",
-              "url": "https://www.youtube.com/shorts/ZceGicBG8kI",
-              "published_at": "2026-10-02T19:00:29+00:00",
-              "image_url": "https://i3.ytimg.com/vi/ZceGicBG8kI/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Mengu's Workshop",
-              "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN"
-            },
-            {
-              "id": "ae4d9e3a1f966d98fb22",
-              "title": "Baleful Strix Legal in Pauper!! #paupermtgo #paupergameplay #pauper",
-              "url": "https://www.youtube.com/shorts/Uv0CeN1c9R0",
-              "published_at": "2026-10-01T19:00:08+00:00",
-              "image_url": "https://i2.ytimg.com/vi/Uv0CeN1c9R0/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Mengu's Workshop",
-              "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN"
-            }
-          ],
-          "last_checked_at": "2026-10-06T13:21:58.391669+00:00",
-          "resolved_url": "https://www.youtube.com/channel/UCGZdKNOxKdSNL1Qht9aC8tQ",
-          "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGZdKNOxKdSNL1Qht9aC8tQ",
-          "resolved_channel_id": "UCGZdKNOxKdSNL1Qht9aC8tQ",
-          "recent_count": 3,
-          "latest_published_at": "2026-10-05T19:00:22+00:00"
-        },
-        {
-          "name": "Andrea Mengucci",
-          "platform": "twitch",
-          "twitch_login": "andreamengucci",
-          "language": "en",
-          "game_id": "magic",
-          "url": "https://www.twitch.tv/andreamengucci",
-          "id": "5339172b5454719e",
-          "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:58.670935+00:00",
-          "resolved_url": "https://www.twitch.tv/andreamengucci",
-          "resolved_feed_url": null,
-          "resolved_channel_id": null,
-          "recent_count": 0,
-          "latest_published_at": null
-        }
-      ],
-      "id": "aebc613c27e321f2",
-      "recent_items": [
-        {
-          "id": "16f4564fca5c3b512397",
-          "title": "The Best Strix Control Deck in Pauper! | Esper Affinity vs Esper Control | Mtg Gameplay",
-          "url": "https://www.youtube.com/watch?v=SoFi_tTof9Y",
-          "published_at": "2026-10-05T19:00:22+00:00",
-          "image_url": "https://i4.ytimg.com/vi/SoFi_tTof9Y/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Mengu's Workshop",
-          "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN",
-          "source_name": "Mengu's Workshop",
-          "source_platform": "youtube"
-        },
-        {
-          "id": "e598a0a80bb9901ebadc",
-          "title": "UB Murktide updates with Reality Fractures! | Modern | MTGO",
-          "url": "https://www.youtube.com/watch?v=ks7dNUvXs1A",
-          "published_at": "2026-10-04T16:00:34+00:00",
-          "image_url": "https://i4.ytimg.com/vi/ks7dNUvXs1A/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Andrea Mengucci VEEDEO",
-          "excerpt": "Time stamps: 0:00 Intro 1:44 Round1 vs Amulet Titan 15:38 Round2 vs MonoU Artifacts 27:36 Round3 vs Esper Goryo 48:02 Round4 vs Boros Ponza Decklist: https://partner.tcgplayer.com/n4Jkzx Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and lookin",
-          "source_name": "Andrea Mengucci VEEDEO",
-          "source_platform": "youtube"
-        },
-        {
-          "id": "ca22d19307d4a9dba8c5",
-          "title": "New Boros Affinity in Pauper! #paupermtgo #paupergameplay #pauper",
-          "url": "https://www.youtube.com/shorts/ZceGicBG8kI",
-          "published_at": "2026-10-02T19:00:29+00:00",
-          "image_url": "https://i3.ytimg.com/vi/ZceGicBG8kI/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Mengu's Workshop",
-          "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN",
-          "source_name": "Mengu's Workshop",
-          "source_platform": "youtube"
-        },
-        {
-          "id": "85b4d9d9f01de0b0aee7",
-          "title": "Is Pompous Battlemage better than Slickshot in UR Prowess? | Modern | MTGO",
-          "url": "https://www.youtube.com/watch?v=BpunJTx4QVE",
-          "published_at": "2026-10-02T16:00:22+00:00",
-          "image_url": "https://i3.ytimg.com/vi/BpunJTx4QVE/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Andrea Mengucci VEEDEO",
-          "excerpt": "Time stamps: 0:00 Intro 1:04 Round1 vs HollowOne 20:49 Round2 vs Grixis Reanimator 37:25 Round3 vs Esper Blink 1:04:33 Round4 vs 4c Ritual 1:25:00 Round5 vs Domain Zoo Decklist: https://partner.tcgplayer.com/7XkORV Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your ca",
-          "source_name": "Andrea Mengucci VEEDEO",
-          "source_platform": "youtube"
-        },
-        {
-          "id": "ae4d9e3a1f966d98fb22",
-          "title": "Baleful Strix Legal in Pauper!! #paupermtgo #paupergameplay #pauper",
-          "url": "https://www.youtube.com/shorts/Uv0CeN1c9R0",
-          "published_at": "2026-10-01T19:00:08+00:00",
-          "image_url": "https://i2.ytimg.com/vi/Uv0CeN1c9R0/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Mengu's Workshop",
-          "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN",
-          "source_name": "Mengu's Workshop",
-          "source_platform": "youtube"
-        },
-        {
-          "id": "1242c90c5dc106d0ce60",
-          "title": "A new Phoenix arises in Modern! BG Reanimator | Modern | MTGO",
-          "url": "https://www.youtube.com/watch?v=CefjtsHMV8M",
-          "published_at": "2026-10-01T16:00:19+00:00",
-          "image_url": "https://i4.ytimg.com/vi/CefjtsHMV8M/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Andrea Mengucci VEEDEO",
-          "excerpt": "Time stamps: 0:00 Intro 1:05 Round1 vs UR Wizards 28:04 Round2 vs Scapeshift 47:08 Round3 vs Esper Ketra Decklist: https://partner.tcgplayer.com/2R9k3D Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at your LGS. Head to heav",
-          "source_name": "Andrea Mengucci VEEDEO",
-          "source_platform": "youtube"
-        },
-        {
-          "id": "8f174224601d0b3708d5",
-          "title": "5-0 🏆with the best deck in Modern! Part 2 | MTGO",
-          "url": "https://www.youtube.com/watch?v=Lt2UpgPKL6w",
-          "published_at": "2026-09-30T16:00:36+00:00",
-          "image_url": "https://i1.ytimg.com/vi/Lt2UpgPKL6w/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Andrea Mengucci VEEDEO",
-          "excerpt": "Time stamps: 0:00 Round4 vs Esper Goryo 45:03 Round5 vs Ruby Storm Decklist: https://partner.tcgplayer.com/4anydo Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at your LGS. Head to heavyplay.com/MENGU and use code MENGU for",
-          "source_name": "Andrea Mengucci VEEDEO",
-          "source_platform": "youtube"
-        },
-        {
-          "id": "2aae2ec4e364c8f5834d",
-          "title": "5-0 🏆with the best deck in Modern! Part 1 | MTGO",
-          "url": "https://www.youtube.com/watch?v=-hMicKNhcbg",
-          "published_at": "2026-09-29T16:00:06+00:00",
-          "image_url": "https://i2.ytimg.com/vi/-hMicKNhcbg/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Andrea Mengucci VEEDEO",
-          "excerpt": "Time stamps: 0:00 Intro 1:17 Round1 vs Boros Ponza 15:53 Round2 vs Boros Ponza 58:56 Round3 vs UR Cori Decklist: https://partner.tcgplayer.com/4anydo Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at your LGS. Head to heavyp",
-          "source_name": "Andrea Mengucci VEEDEO",
-          "source_platform": "youtube"
-        }
-      ],
-      "recent_count": 8,
-      "latest_published_at": "2026-10-05T19:00:22+00:00"
     },
     {
       "name": "Jim Davis",
@@ -663,7 +698,7 @@
               "excerpt": "Back to in-universe Magic and the set I was most excited about in 2026 - will Reality Fracture live up to the hype? Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be stre"
             }
           ],
-          "last_checked_at": "2026-10-06T13:21:58.947100+00:00",
+          "last_checked_at": "2026-10-06T20:17:14.806849+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCocZb0xawRZuE1CKpUvOM8A",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCocZb0xawRZuE1CKpUvOM8A",
           "resolved_channel_id": "UCocZb0xawRZuE1CKpUvOM8A",
@@ -679,7 +714,7 @@
           "url": "https://www.twitch.tv/jimdavismtg",
           "id": "30290ddbff005188",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:59.224544+00:00",
+          "last_checked_at": "2026-10-06T20:17:15.022189+00:00",
           "resolved_url": "https://www.twitch.tv/jimdavismtg",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -914,7 +949,7 @@
               "author": "Alexis Susani"
             }
           ],
-          "last_checked_at": "2026-10-06T13:21:47.816483+00:00",
+          "last_checked_at": "2026-10-06T20:17:07.267290+00:00",
           "resolved_url": "https://alexis-susani.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -976,7 +1011,7 @@
               "author": "Arif Wijaya"
             }
           ],
-          "last_checked_at": "2026-10-06T13:21:48.436074+00:00",
+          "last_checked_at": "2026-10-06T20:17:07.661249+00:00",
           "resolved_url": "https://arifwijaya.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1027,7 +1062,7 @@
           "url": "https://yuginmaffioli.artstation.com/",
           "id": "e59eb2442642af3f",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:57.825888+00:00",
+          "last_checked_at": "2026-10-06T20:17:13.900883+00:00",
           "resolved_url": "https://yuginmaffioli.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1065,7 +1100,7 @@
           "url": "https://yiian.artstation.com/",
           "id": "04b0c3059826bc55",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:57.548057+00:00",
+          "last_checked_at": "2026-10-06T20:17:13.733708+00:00",
           "resolved_url": "https://yiian.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1108,7 +1143,7 @@
           "url": "https://wisnutan.artstation.com/",
           "id": "d8672361aa948656",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:57.126878+00:00",
+          "last_checked_at": "2026-10-06T20:17:13.550338+00:00",
           "resolved_url": "https://wisnutan.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1146,7 +1181,7 @@
           "url": "https://corbenyx.artstation.com/",
           "id": "9483b28f5e77cdde",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:56.890439+00:00",
+          "last_checked_at": "2026-10-06T20:17:13.367046+00:00",
           "resolved_url": "https://corbenyx.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1206,7 +1241,7 @@
           "url": "https://www.artstation.com/morano",
           "id": "49c9e176ceb6824c",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:56.592040+00:00",
+          "last_checked_at": "2026-10-06T20:17:13.156706+00:00",
           "resolved_url": "https://www.artstation.com/morano",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1327,7 +1362,7 @@
           "url": "https://simondominic.artstation.com/",
           "id": "e2f5ed1564770040",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:56.326872+00:00",
+          "last_checked_at": "2026-10-06T20:17:12.677536+00:00",
           "resolved_url": "https://simondominic.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1389,7 +1424,7 @@
           "url": "https://satriasa.artstation.com/",
           "id": "6b957fa69602ee96",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:56.016391+00:00",
+          "last_checked_at": "2026-10-06T20:17:12.491139+00:00",
           "resolved_url": "https://satriasa.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1451,7 +1486,7 @@
           "url": "https://samyang.artstation.com/",
           "id": "73f8663301c3471f",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:55.730670+00:00",
+          "last_checked_at": "2026-10-06T20:17:12.311309+00:00",
           "resolved_url": "https://samyang.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1529,7 +1564,7 @@
           "url": "https://riordan.artstation.com/",
           "id": "06b6de0c14e1e2d9",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:55.435507+00:00",
+          "last_checked_at": "2026-10-06T20:17:12.116242+00:00",
           "resolved_url": "https://riordan.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1597,7 +1632,7 @@
           "url": "https://rezaafshar.artstation.com/",
           "id": "20955e06edd78ba9",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:54.897042+00:00",
+          "last_checked_at": "2026-10-06T20:17:11.685063+00:00",
           "resolved_url": "https://rezaafshar.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1613,7 +1648,7 @@
           "youtube_search_fallback": false,
           "id": "4db0ca75580bf43c",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:55.155381+00:00",
+          "last_checked_at": "2026-10-06T20:17:11.886166+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCtDQNLj3bZ_jBFtdz5w40aQ",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtDQNLj3bZ_jBFtdz5w40aQ",
           "resolved_channel_id": "UCtDQNLj3bZ_jBFtdz5w40aQ",
@@ -1692,59 +1727,6 @@
       ],
       "content_sources": [],
       "id": "8e61c8ea91a03b5d",
-      "recent_items": [],
-      "recent_count": 0,
-      "latest_published_at": null
-    },
-    {
-      "name": "Orson CaptainSass",
-      "category": "artist-developer",
-      "games": [
-        "flesh-and-blood"
-      ],
-      "roles": [
-        "Artista"
-      ],
-      "profiles": [
-        {
-          "platform": "artstation",
-          "label": "ArtStation",
-          "url": "https://www.artstation.com/mrcaptain"
-        },
-        {
-          "platform": "instagram",
-          "label": "Instagram",
-          "url": "https://www.instagram.com/captainsass_art/"
-        },
-        {
-          "platform": "linkedin",
-          "label": "LinkedIn",
-          "url": "https://fr.linkedin.com/in/orson-captainsass-bab08817b"
-        },
-        {
-          "platform": "website",
-          "label": "Site / Linktree",
-          "url": "https://captainsass.art/"
-        }
-      ],
-      "content_sources": [
-        {
-          "name": "Orson CaptainSass",
-          "platform": "artstation",
-          "language": "en",
-          "game_id": "flesh-and-blood",
-          "url": "https://www.artstation.com/mrcaptain",
-          "id": "13e37397dcd73586",
-          "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:54.618282+00:00",
-          "resolved_url": "https://www.artstation.com/mrcaptain",
-          "resolved_feed_url": null,
-          "resolved_channel_id": null,
-          "recent_count": 0,
-          "latest_published_at": null
-        }
-      ],
-      "id": "322314d5ef8e2230",
       "recent_items": [],
       "recent_count": 0,
       "latest_published_at": null
@@ -1874,7 +1856,7 @@
           "url": "https://www.artstation.com/ninesicks",
           "id": "93ab4c9338a7eedf",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:54.341599+00:00",
+          "last_checked_at": "2026-10-06T20:17:11.309916+00:00",
           "resolved_url": "https://www.artstation.com/ninesicks",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1933,7 +1915,7 @@
           "url": "https://mateusz_wisniewski.artstation.com/",
           "id": "6f4719dcb89f11d3",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:53.782022+00:00",
+          "last_checked_at": "2026-10-06T20:17:10.979784+00:00",
           "resolved_url": "https://mateusz_wisniewski.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2013,7 +1995,7 @@
           "url": "https://www.artstation.com/mariusz",
           "id": "936bb3a5ba9068eb",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:53.507869+00:00",
+          "last_checked_at": "2026-10-06T20:17:10.773912+00:00",
           "resolved_url": "https://www.artstation.com/mariusz",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2056,7 +2038,7 @@
           "url": "https://www.artstation.com/mario_wibisono",
           "id": "1260517571477846",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:53.252656+00:00",
+          "last_checked_at": "2026-10-06T20:17:10.560467+00:00",
           "resolved_url": "https://www.artstation.com/mario_wibisono",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2099,7 +2081,7 @@
           "url": "https://innervalue.artstation.com/",
           "id": "ec4333813799bc87",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:52.912157+00:00",
+          "last_checked_at": "2026-10-06T20:17:10.377531+00:00",
           "resolved_url": "https://innervalue.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2138,7 +2120,7 @@
           "url": "https://www.artstation.com/mjfetesio",
           "id": "9bfa1845086db410",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:54.056271+00:00",
+          "last_checked_at": "2026-10-06T20:17:11.164247+00:00",
           "resolved_url": "https://www.artstation.com/mjfetesio",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2188,7 +2170,7 @@
           "url": "https://www.twitch.tv/lsv",
           "id": "9c36b3a13040cb13",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:59.345104+00:00",
+          "last_checked_at": "2026-10-06T20:17:15.125698+00:00",
           "resolved_url": "https://www.twitch.tv/lsv",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2226,7 +2208,7 @@
           "url": "https://lizhelart.artstation.com/",
           "id": "27c2542215355004",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:52.655620+00:00",
+          "last_checked_at": "2026-10-06T20:17:10.145767+00:00",
           "resolved_url": "https://lizhelart.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2269,7 +2251,7 @@
           "url": "https://dopaprime.artstation.com/",
           "id": "6309278ba135097d",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:52.396318+00:00",
+          "last_checked_at": "2026-10-06T20:17:09.946878+00:00",
           "resolved_url": "https://dopaprime.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2307,7 +2289,7 @@
           "url": "https://lasahido.artstation.com/",
           "id": "f81cc7d641f5d713",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:52.087119+00:00",
+          "last_checked_at": "2026-10-06T20:17:09.653541+00:00",
           "resolved_url": "https://lasahido.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2345,7 +2327,7 @@
           "url": "https://k_ptn.artstation.com/",
           "id": "a8d4dca5d86787c9",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:51.705191+00:00",
+          "last_checked_at": "2026-10-06T20:17:09.479460+00:00",
           "resolved_url": "https://k_ptn.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2410,7 +2392,7 @@
           "url": "https://www.artstation.com/kevin_sidharta",
           "id": "bf798db6840ed944",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:51.411034+00:00",
+          "last_checked_at": "2026-10-06T20:17:09.278822+00:00",
           "resolved_url": "https://www.artstation.com/kevin_sidharta",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2552,7 +2534,7 @@
           "url": "https://jguilherme08.artstation.com/",
           "id": "a139a80ecc09b443",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:51.176763+00:00",
+          "last_checked_at": "2026-10-06T20:17:09.065931+00:00",
           "resolved_url": "https://jguilherme08.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2624,7 +2606,7 @@
           "url": "https://jessada.artstation.com/",
           "id": "347f719df76d9bc5",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:50.714038+00:00",
+          "last_checked_at": "2026-10-06T20:17:08.864203+00:00",
           "resolved_url": "https://jessada.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2827,7 +2809,7 @@
           "url": "https://lindnr.artstation.com/",
           "id": "23f278d7050e13b0",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:50.255477+00:00",
+          "last_checked_at": "2026-10-06T20:17:08.672478+00:00",
           "resolved_url": "https://lindnr.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2883,7 +2865,7 @@
           "url": "https://krotz.artstation.com/",
           "id": "fea91eb02c7098f8",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:49.968146+00:00",
+          "last_checked_at": "2026-10-06T20:17:08.479334+00:00",
           "resolved_url": "https://krotz.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2929,7 +2911,7 @@
           "url": "https://www.twitch.tv/yellowhat",
           "id": "730413fc26c07ed3",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:58.826514+00:00",
+          "last_checked_at": "2026-10-06T20:17:14.705554+00:00",
           "resolved_url": "https://www.twitch.tv/yellowhat",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -3067,7 +3049,7 @@
           "url": "https://eilenecherie.artstation.com/",
           "id": "e79374ce24665a2e",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:49.321512+00:00",
+          "last_checked_at": "2026-10-06T20:17:08.056811+00:00",
           "resolved_url": "https://eilenecherie.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -3127,7 +3109,7 @@
           "url": "https://savagehenry.artstation.com/",
           "id": "995b69226ce0c049",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:48.762425+00:00",
+          "last_checked_at": "2026-10-06T20:17:07.877555+00:00",
           "resolved_url": "https://savagehenry.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -3300,7 +3282,7 @@
           "url": "https://aluisiocsantos.artstation.com/",
           "id": "ac26b661e34084d0",
           "recent_items": [],
-          "last_checked_at": "2026-10-06T13:21:48.135644+00:00",
+          "last_checked_at": "2026-10-06T20:17:07.456893+00:00",
           "resolved_url": "https://aluisiocsantos.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
