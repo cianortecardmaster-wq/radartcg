@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T10:31:33.012999+00:00",
+  "generated_at": "2026-10-13T19:15:02.788322+00:00",
   "window_days": 7,
   "count": 86,
   "artist_developer_count": 68,
@@ -9,6 +9,90 @@
   "content_ready": true,
   "errors_count": 0,
   "people": [
+    {
+      "name": "João G. Santos",
+      "category": "artist-developer",
+      "games": [
+        "flesh-and-blood"
+      ],
+      "roles": [
+        "Artista"
+      ],
+      "profiles": [
+        {
+          "platform": "artstation",
+          "label": "ArtStation",
+          "url": "https://jguilherme08.artstation.com/"
+        }
+      ],
+      "content_sources": [
+        {
+          "name": "João G. Santos",
+          "platform": "artstation",
+          "language": "en",
+          "game_id": "flesh-and-blood",
+          "url": "https://jguilherme08.artstation.com/",
+          "id": "a139a80ecc09b443",
+          "recent_items": [
+            {
+              "id": "c0326c9f30ec68568884",
+              "title": "Līchuntoþ",
+              "url": "https://www.artstation.com/artwork/411o31",
+              "published_at": "2026-10-13T18:46:05.768000+00:00",
+              "image_url": "https://cdna.artstation.com/p/assets/images/images/103/190/200/20261013131020/small_square/joao-g-santos-final-acho2.jpg?1791915020",
+              "kind": "artwork",
+              "content_platform": "artstation",
+              "author": "João G. Santos"
+            },
+            {
+              "id": "cdf5866bcaef36c0aa61",
+              "title": "Malice",
+              "url": "https://www.artstation.com/artwork/zzzJAQ",
+              "published_at": "2026-10-13T16:29:00.138000+00:00",
+              "image_url": "https://cdna.artstation.com/p/assets/covers/images/103/187/188/small_square/joao-g-santos-joao-g-santos-thumbnail-artstation.jpg?1791908934",
+              "kind": "artwork",
+              "content_platform": "artstation",
+              "author": "João G. Santos"
+            }
+          ],
+          "last_checked_at": "2026-10-13T19:14:53.986201+00:00",
+          "resolved_url": "https://jguilherme08.artstation.com/",
+          "resolved_feed_url": null,
+          "resolved_channel_id": null,
+          "recent_count": 2,
+          "latest_published_at": "2026-10-13T18:46:05.768000+00:00"
+        }
+      ],
+      "id": "25e87c07aed19ec3",
+      "recent_items": [
+        {
+          "id": "c0326c9f30ec68568884",
+          "title": "Līchuntoþ",
+          "url": "https://www.artstation.com/artwork/411o31",
+          "published_at": "2026-10-13T18:46:05.768000+00:00",
+          "image_url": "https://cdna.artstation.com/p/assets/images/images/103/190/200/20261013131020/small_square/joao-g-santos-final-acho2.jpg?1791915020",
+          "kind": "artwork",
+          "content_platform": "artstation",
+          "author": "João G. Santos",
+          "source_name": "João G. Santos",
+          "source_platform": "artstation"
+        },
+        {
+          "id": "cdf5866bcaef36c0aa61",
+          "title": "Malice",
+          "url": "https://www.artstation.com/artwork/zzzJAQ",
+          "published_at": "2026-10-13T16:29:00.138000+00:00",
+          "image_url": "https://cdna.artstation.com/p/assets/covers/images/103/187/188/small_square/joao-g-santos-joao-g-santos-thumbnail-artstation.jpg?1791908934",
+          "kind": "artwork",
+          "content_platform": "artstation",
+          "author": "João G. Santos",
+          "source_name": "João G. Santos",
+          "source_platform": "artstation"
+        }
+      ],
+      "recent_count": 2,
+      "latest_published_at": "2026-10-13T18:46:05.768000+00:00"
+    },
     {
       "name": "Andrea Mengucci",
       "category": "pro-player",
@@ -58,6 +142,17 @@
           "id": "5b879535bc0174c9",
           "recent_items": [
             {
+              "id": "1e1868defa1692e53ba2",
+              "title": "Kanister wins MOCS with Esper Ketra! | Modern | MTGO",
+              "url": "https://www.youtube.com/watch?v=Uc63YaxzK2U",
+              "published_at": "2026-10-13T16:00:11+00:00",
+              "image_url": "https://i2.ytimg.com/vi/Uc63YaxzK2U/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Andrea Mengucci VEEDEO",
+              "excerpt": "Time stamps: 0:00 Intro 0:54 Round1 vs HollowVine 16:50 Round2 vs Esper Ketra 40:43 Round3 vs WG Devoted Druid 1:20:27 Round4 vs UB Mill Decklist: https://partner.tcgplayer.com/GbdObL Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking a"
+            },
+            {
               "id": "b4da5d306c957b231b71",
               "title": "UB Frogler + Free Sideboard Guide by GP Top8er ScottMcNamara | Modern | MTGO",
               "url": "https://www.youtube.com/watch?v=g5PNl2JxAQ4",
@@ -100,25 +195,14 @@
               "content_platform": "youtube",
               "author": "Andrea Mengucci VEEDEO",
               "excerpt": "Time stamps: 0:00 Intro 1:19 Round1 vs Esper Goryo 15:56 Round2 vs Devoted Druid 27:01 Round3 vs Grixis Reanimator Decklist: https://partner.tcgplayer.com/yZQLR3 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at your LGS. He"
-            },
-            {
-              "id": "06d253f77ac8e6373995",
-              "title": "Is the Gaak back with Darklight Phoenix? | Modern | MTGO",
-              "url": "https://www.youtube.com/watch?v=dsppXAE_Qjw",
-              "published_at": "2026-10-06T16:00:13+00:00",
-              "image_url": "https://i1.ytimg.com/vi/dsppXAE_Qjw/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Andrea Mengucci VEEDEO",
-              "excerpt": "Time stamps: 0:00 Intro 1:03 Round1 vs Grixis Affinity 12:22 Round2 vs Devoted Druid 20:42 Round3 vs Eldrazi 31:07 Round4 vs Eldrazi Decklist: https://partner.tcgplayer.com/enPEy6 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazi"
             }
           ],
-          "last_checked_at": "2026-10-13T10:31:31.822617+00:00",
+          "last_checked_at": "2026-10-13T19:15:01.376235+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCwIFsLCPrc1NGoNS0OGn0mw",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwIFsLCPrc1NGoNS0OGn0mw",
           "resolved_channel_id": "UCwIFsLCPrc1NGoNS0OGn0mw",
           "recent_count": 5,
-          "latest_published_at": "2026-10-11T16:00:38+00:00"
+          "latest_published_at": "2026-10-13T16:00:11+00:00"
         },
         {
           "name": "Mengu's Workshop",
@@ -161,24 +245,13 @@
               "content_platform": "youtube",
               "author": "Mengu's Workshop",
               "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN"
-            },
-            {
-              "id": "8f136aaecf7c33303442",
-              "title": "Your Deck Guide to Start Flesh and Blood + 160€ Giveaway! | What’s Silver Age",
-              "url": "https://www.youtube.com/watch?v=xCPbZUTxHIw",
-              "published_at": "2026-10-06T19:00:22+00:00",
-              "image_url": "https://i1.ytimg.com/vi/xCPbZUTxHIw/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Mengu's Workshop",
-              "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN"
             }
           ],
-          "last_checked_at": "2026-10-13T10:31:32.031896+00:00",
+          "last_checked_at": "2026-10-13T19:15:01.662095+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCGZdKNOxKdSNL1Qht9aC8tQ",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGZdKNOxKdSNL1Qht9aC8tQ",
           "resolved_channel_id": "UCGZdKNOxKdSNL1Qht9aC8tQ",
-          "recent_count": 4,
+          "recent_count": 3,
           "latest_published_at": "2026-10-12T19:00:29+00:00"
         },
         {
@@ -190,7 +263,7 @@
           "url": "https://www.twitch.tv/andreamengucci",
           "id": "5339172b5454719e",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:32.242548+00:00",
+          "last_checked_at": "2026-10-13T19:15:01.872699+00:00",
           "resolved_url": "https://www.twitch.tv/andreamengucci",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -200,6 +273,19 @@
       ],
       "id": "aebc613c27e321f2",
       "recent_items": [
+        {
+          "id": "1e1868defa1692e53ba2",
+          "title": "Kanister wins MOCS with Esper Ketra! | Modern | MTGO",
+          "url": "https://www.youtube.com/watch?v=Uc63YaxzK2U",
+          "published_at": "2026-10-13T16:00:11+00:00",
+          "image_url": "https://i2.ytimg.com/vi/Uc63YaxzK2U/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Andrea Mengucci VEEDEO",
+          "excerpt": "Time stamps: 0:00 Intro 0:54 Round1 vs HollowVine 16:50 Round2 vs Esper Ketra 40:43 Round3 vs WG Devoted Druid 1:20:27 Round4 vs UB Mill Decklist: https://partner.tcgplayer.com/GbdObL Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking a",
+          "source_name": "Andrea Mengucci VEEDEO",
+          "source_platform": "youtube"
+        },
         {
           "id": "8b80d276e6d35292d1c1",
           "title": "This Deck can't be Stopped | Esper Leonardo vs Temur Tron | Mtg Paper Gameplay",
@@ -290,36 +376,10 @@
           "excerpt": "Time stamps: 0:00 Intro 1:19 Round1 vs Esper Goryo 15:56 Round2 vs Devoted Druid 27:01 Round3 vs Grixis Reanimator Decklist: https://partner.tcgplayer.com/yZQLR3 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at your LGS. He",
           "source_name": "Andrea Mengucci VEEDEO",
           "source_platform": "youtube"
-        },
-        {
-          "id": "8f136aaecf7c33303442",
-          "title": "Your Deck Guide to Start Flesh and Blood + 160€ Giveaway! | What’s Silver Age",
-          "url": "https://www.youtube.com/watch?v=xCPbZUTxHIw",
-          "published_at": "2026-10-06T19:00:22+00:00",
-          "image_url": "https://i1.ytimg.com/vi/xCPbZUTxHIw/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Mengu's Workshop",
-          "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN",
-          "source_name": "Mengu's Workshop",
-          "source_platform": "youtube"
-        },
-        {
-          "id": "06d253f77ac8e6373995",
-          "title": "Is the Gaak back with Darklight Phoenix? | Modern | MTGO",
-          "url": "https://www.youtube.com/watch?v=dsppXAE_Qjw",
-          "published_at": "2026-10-06T16:00:13+00:00",
-          "image_url": "https://i1.ytimg.com/vi/dsppXAE_Qjw/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Andrea Mengucci VEEDEO",
-          "excerpt": "Time stamps: 0:00 Intro 1:03 Round1 vs Grixis Affinity 12:22 Round2 vs Devoted Druid 20:42 Round3 vs Eldrazi 31:07 Round4 vs Eldrazi Decklist: https://partner.tcgplayer.com/enPEy6 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazi",
-          "source_name": "Andrea Mengucci VEEDEO",
-          "source_platform": "youtube"
         }
       ],
-      "recent_count": 9,
-      "latest_published_at": "2026-10-12T19:00:29+00:00"
+      "recent_count": 8,
+      "latest_published_at": "2026-10-13T16:00:11+00:00"
     },
     {
       "name": "Jim Davis",
@@ -424,7 +484,7 @@
               "excerpt": "Have you gotten YOUR Bingo card yet??? 🎰 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episod"
             }
           ],
-          "last_checked_at": "2026-10-13T10:31:32.492855+00:00",
+          "last_checked_at": "2026-10-13T19:15:02.156918+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCocZb0xawRZuE1CKpUvOM8A",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCocZb0xawRZuE1CKpUvOM8A",
           "resolved_channel_id": "UCocZb0xawRZuE1CKpUvOM8A",
@@ -440,7 +500,7 @@
           "url": "https://www.twitch.tv/jimdavismtg",
           "id": "30290ddbff005188",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:32.769163+00:00",
+          "last_checked_at": "2026-10-13T19:15:02.488002+00:00",
           "resolved_url": "https://www.twitch.tv/jimdavismtg",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -607,7 +667,7 @@
               "author": "Federico Musetti"
             }
           ],
-          "last_checked_at": "2026-10-13T10:31:25.334414+00:00",
+          "last_checked_at": "2026-10-13T19:14:52.587687+00:00",
           "resolved_url": "https://www.artstation.com/fedemusettiart",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -717,7 +777,7 @@
               "author": "Yiian Kho"
             }
           ],
-          "last_checked_at": "2026-10-13T10:31:31.202106+00:00",
+          "last_checked_at": "2026-10-13T19:15:00.777888+00:00",
           "resolved_url": "https://yiian.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -861,7 +921,7 @@
               "author": "Yugin Maffioli"
             }
           ],
-          "last_checked_at": "2026-10-13T10:31:31.594495+00:00",
+          "last_checked_at": "2026-10-13T19:15:01.052148+00:00",
           "resolved_url": "https://yuginmaffioli.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -886,83 +946,6 @@
       ],
       "recent_count": 1,
       "latest_published_at": "2026-10-07T15:18:44.277000+00:00"
-    },
-    {
-      "name": "Orson CaptainSass",
-      "category": "artist-developer",
-      "games": [
-        "flesh-and-blood"
-      ],
-      "roles": [
-        "Artista"
-      ],
-      "profiles": [
-        {
-          "platform": "artstation",
-          "label": "ArtStation",
-          "url": "https://www.artstation.com/mrcaptain"
-        },
-        {
-          "platform": "instagram",
-          "label": "Instagram",
-          "url": "https://www.instagram.com/captainsass_art/"
-        },
-        {
-          "platform": "linkedin",
-          "label": "LinkedIn",
-          "url": "https://fr.linkedin.com/in/orson-captainsass-bab08817b"
-        },
-        {
-          "platform": "website",
-          "label": "Site / Linktree",
-          "url": "https://captainsass.art/"
-        }
-      ],
-      "content_sources": [
-        {
-          "name": "Orson CaptainSass",
-          "platform": "artstation",
-          "language": "en",
-          "game_id": "flesh-and-blood",
-          "url": "https://www.artstation.com/mrcaptain",
-          "id": "13e37397dcd73586",
-          "recent_items": [
-            {
-              "id": "0532ca17733388d229cb",
-              "title": "Merging Lands Quickstart",
-              "url": "https://www.artstation.com/artwork/31EzAY",
-              "published_at": "2026-10-06T13:45:08.944000+00:00",
-              "image_url": "https://cdnb.artstation.com/p/assets/covers/images/102/993/575/20261006052035/small_square/orson-captainsass-orson-captainsass-merging-lands-quickstart-3-page-0021.jpg?1791282131",
-              "kind": "artwork",
-              "content_platform": "artstation",
-              "author": "Orson CaptainSass"
-            }
-          ],
-          "last_checked_at": "2026-10-13T10:31:28.867489+00:00",
-          "resolved_url": "https://www.artstation.com/mrcaptain",
-          "resolved_feed_url": null,
-          "resolved_channel_id": null,
-          "recent_count": 1,
-          "latest_published_at": "2026-10-06T13:45:08.944000+00:00"
-        }
-      ],
-      "id": "322314d5ef8e2230",
-      "recent_items": [
-        {
-          "id": "0532ca17733388d229cb",
-          "title": "Merging Lands Quickstart",
-          "url": "https://www.artstation.com/artwork/31EzAY",
-          "published_at": "2026-10-06T13:45:08.944000+00:00",
-          "image_url": "https://cdnb.artstation.com/p/assets/covers/images/102/993/575/20261006052035/small_square/orson-captainsass-orson-captainsass-merging-lands-quickstart-3-page-0021.jpg?1791282131",
-          "kind": "artwork",
-          "content_platform": "artstation",
-          "author": "Orson CaptainSass",
-          "source_name": "Orson CaptainSass",
-          "source_platform": "artstation"
-        }
-      ],
-      "recent_count": 1,
-      "latest_published_at": "2026-10-06T13:45:08.944000+00:00"
     },
     {
       "name": "Yuki Lee Bender",
@@ -1031,7 +1014,7 @@
           "url": "https://wisnutan.artstation.com/",
           "id": "d8672361aa948656",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:30.963603+00:00",
+          "last_checked_at": "2026-10-13T19:15:00.509025+00:00",
           "resolved_url": "https://wisnutan.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1069,7 +1052,7 @@
           "url": "https://corbenyx.artstation.com/",
           "id": "9483b28f5e77cdde",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:30.745613+00:00",
+          "last_checked_at": "2026-10-13T19:15:00.213602+00:00",
           "resolved_url": "https://corbenyx.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1129,7 +1112,7 @@
           "url": "https://www.artstation.com/morano",
           "id": "49c9e176ceb6824c",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:30.523282+00:00",
+          "last_checked_at": "2026-10-13T19:14:59.918715+00:00",
           "resolved_url": "https://www.artstation.com/morano",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1250,7 +1233,7 @@
           "url": "https://simondominic.artstation.com/",
           "id": "e2f5ed1564770040",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:30.324102+00:00",
+          "last_checked_at": "2026-10-13T19:14:59.549528+00:00",
           "resolved_url": "https://simondominic.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1312,7 +1295,7 @@
           "url": "https://satriasa.artstation.com/",
           "id": "6b957fa69602ee96",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:29.960995+00:00",
+          "last_checked_at": "2026-10-13T19:14:59.206635+00:00",
           "resolved_url": "https://satriasa.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1374,7 +1357,7 @@
           "url": "https://samyang.artstation.com/",
           "id": "73f8663301c3471f",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:29.713277+00:00",
+          "last_checked_at": "2026-10-13T19:14:58.961270+00:00",
           "resolved_url": "https://samyang.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1452,7 +1435,7 @@
           "url": "https://riordan.artstation.com/",
           "id": "06b6de0c14e1e2d9",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:29.516917+00:00",
+          "last_checked_at": "2026-10-13T19:14:58.666325+00:00",
           "resolved_url": "https://riordan.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1520,7 +1503,7 @@
           "url": "https://rezaafshar.artstation.com/",
           "id": "20955e06edd78ba9",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:29.058094+00:00",
+          "last_checked_at": "2026-10-13T19:14:58.043885+00:00",
           "resolved_url": "https://rezaafshar.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1536,7 +1519,7 @@
           "youtube_search_fallback": false,
           "id": "4db0ca75580bf43c",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:29.249164+00:00",
+          "last_checked_at": "2026-10-13T19:14:58.355749+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCtDQNLj3bZ_jBFtdz5w40aQ",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtDQNLj3bZ_jBFtdz5w40aQ",
           "resolved_channel_id": "UCtDQNLj3bZ_jBFtdz5w40aQ",
@@ -1615,6 +1598,59 @@
       ],
       "content_sources": [],
       "id": "8e61c8ea91a03b5d",
+      "recent_items": [],
+      "recent_count": 0,
+      "latest_published_at": null
+    },
+    {
+      "name": "Orson CaptainSass",
+      "category": "artist-developer",
+      "games": [
+        "flesh-and-blood"
+      ],
+      "roles": [
+        "Artista"
+      ],
+      "profiles": [
+        {
+          "platform": "artstation",
+          "label": "ArtStation",
+          "url": "https://www.artstation.com/mrcaptain"
+        },
+        {
+          "platform": "instagram",
+          "label": "Instagram",
+          "url": "https://www.instagram.com/captainsass_art/"
+        },
+        {
+          "platform": "linkedin",
+          "label": "LinkedIn",
+          "url": "https://fr.linkedin.com/in/orson-captainsass-bab08817b"
+        },
+        {
+          "platform": "website",
+          "label": "Site / Linktree",
+          "url": "https://captainsass.art/"
+        }
+      ],
+      "content_sources": [
+        {
+          "name": "Orson CaptainSass",
+          "platform": "artstation",
+          "language": "en",
+          "game_id": "flesh-and-blood",
+          "url": "https://www.artstation.com/mrcaptain",
+          "id": "13e37397dcd73586",
+          "recent_items": [],
+          "last_checked_at": "2026-10-13T19:14:57.780382+00:00",
+          "resolved_url": "https://www.artstation.com/mrcaptain",
+          "resolved_feed_url": null,
+          "resolved_channel_id": null,
+          "recent_count": 0,
+          "latest_published_at": null
+        }
+      ],
+      "id": "322314d5ef8e2230",
       "recent_items": [],
       "recent_count": 0,
       "latest_published_at": null
@@ -1744,7 +1780,7 @@
           "url": "https://www.artstation.com/ninesicks",
           "id": "93ab4c9338a7eedf",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:28.641160+00:00",
+          "last_checked_at": "2026-10-13T19:14:57.393854+00:00",
           "resolved_url": "https://www.artstation.com/ninesicks",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1803,7 +1839,7 @@
           "url": "https://mateusz_wisniewski.artstation.com/",
           "id": "6f4719dcb89f11d3",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:28.278633+00:00",
+          "last_checked_at": "2026-10-13T19:14:56.790801+00:00",
           "resolved_url": "https://mateusz_wisniewski.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1883,7 +1919,7 @@
           "url": "https://www.artstation.com/mariusz",
           "id": "936bb3a5ba9068eb",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:27.984262+00:00",
+          "last_checked_at": "2026-10-13T19:14:56.501891+00:00",
           "resolved_url": "https://www.artstation.com/mariusz",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1926,7 +1962,7 @@
           "url": "https://www.artstation.com/mario_wibisono",
           "id": "1260517571477846",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:27.750434+00:00",
+          "last_checked_at": "2026-10-13T19:14:56.229647+00:00",
           "resolved_url": "https://www.artstation.com/mario_wibisono",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1969,7 +2005,7 @@
           "url": "https://innervalue.artstation.com/",
           "id": "ec4333813799bc87",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:27.575108+00:00",
+          "last_checked_at": "2026-10-13T19:14:55.871855+00:00",
           "resolved_url": "https://innervalue.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2008,7 +2044,7 @@
           "url": "https://www.artstation.com/mjfetesio",
           "id": "9bfa1845086db410",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:28.479750+00:00",
+          "last_checked_at": "2026-10-13T19:14:57.133449+00:00",
           "resolved_url": "https://www.artstation.com/mjfetesio",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2058,7 +2094,7 @@
           "url": "https://www.twitch.tv/lsv",
           "id": "9c36b3a13040cb13",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:32.888503+00:00",
+          "last_checked_at": "2026-10-13T19:15:02.644481+00:00",
           "resolved_url": "https://www.twitch.tv/lsv",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2096,7 +2132,7 @@
           "url": "https://lizhelart.artstation.com/",
           "id": "27c2542215355004",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:27.331035+00:00",
+          "last_checked_at": "2026-10-13T19:14:55.577799+00:00",
           "resolved_url": "https://lizhelart.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2139,7 +2175,7 @@
           "url": "https://dopaprime.artstation.com/",
           "id": "6309278ba135097d",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:27.122106+00:00",
+          "last_checked_at": "2026-10-13T19:14:55.292565+00:00",
           "resolved_url": "https://dopaprime.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2177,7 +2213,7 @@
           "url": "https://lasahido.artstation.com/",
           "id": "f81cc7d641f5d713",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:26.931825+00:00",
+          "last_checked_at": "2026-10-13T19:14:54.872070+00:00",
           "resolved_url": "https://lasahido.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2215,7 +2251,7 @@
           "url": "https://k_ptn.artstation.com/",
           "id": "a8d4dca5d86787c9",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:26.640041+00:00",
+          "last_checked_at": "2026-10-13T19:14:54.597654+00:00",
           "resolved_url": "https://k_ptn.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2280,7 +2316,7 @@
           "url": "https://www.artstation.com/kevin_sidharta",
           "id": "bf798db6840ed944",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:26.405458+00:00",
+          "last_checked_at": "2026-10-13T19:14:54.298609+00:00",
           "resolved_url": "https://www.artstation.com/kevin_sidharta",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2398,44 +2434,6 @@
       "latest_published_at": null
     },
     {
-      "name": "João G. Santos",
-      "category": "artist-developer",
-      "games": [
-        "flesh-and-blood"
-      ],
-      "roles": [
-        "Artista"
-      ],
-      "profiles": [
-        {
-          "platform": "artstation",
-          "label": "ArtStation",
-          "url": "https://jguilherme08.artstation.com/"
-        }
-      ],
-      "content_sources": [
-        {
-          "name": "João G. Santos",
-          "platform": "artstation",
-          "language": "en",
-          "game_id": "flesh-and-blood",
-          "url": "https://jguilherme08.artstation.com/",
-          "id": "a139a80ecc09b443",
-          "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:26.202480+00:00",
-          "resolved_url": "https://jguilherme08.artstation.com/",
-          "resolved_feed_url": null,
-          "resolved_channel_id": null,
-          "recent_count": 0,
-          "latest_published_at": null
-        }
-      ],
-      "id": "25e87c07aed19ec3",
-      "recent_items": [],
-      "recent_count": 0,
-      "latest_published_at": null
-    },
-    {
       "name": "Joshua Scott",
       "category": "artist-developer",
       "games": [
@@ -2494,7 +2492,7 @@
           "url": "https://jessada.artstation.com/",
           "id": "347f719df76d9bc5",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:26.001486+00:00",
+          "last_checked_at": "2026-10-13T19:14:53.628145+00:00",
           "resolved_url": "https://jessada.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2697,7 +2695,7 @@
           "url": "https://lindnr.artstation.com/",
           "id": "23f278d7050e13b0",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:25.781826+00:00",
+          "last_checked_at": "2026-10-13T19:14:53.189163+00:00",
           "resolved_url": "https://lindnr.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2753,7 +2751,7 @@
           "url": "https://krotz.artstation.com/",
           "id": "fea91eb02c7098f8",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:25.572465+00:00",
+          "last_checked_at": "2026-10-13T19:14:52.879104+00:00",
           "resolved_url": "https://krotz.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2799,7 +2797,7 @@
           "url": "https://www.twitch.tv/yellowhat",
           "id": "730413fc26c07ed3",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:32.362487+00:00",
+          "last_checked_at": "2026-10-13T19:15:02.016915+00:00",
           "resolved_url": "https://www.twitch.tv/yellowhat",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2937,7 +2935,7 @@
           "url": "https://eilenecherie.artstation.com/",
           "id": "e79374ce24665a2e",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:25.107531+00:00",
+          "last_checked_at": "2026-10-13T19:14:52.147382+00:00",
           "resolved_url": "https://eilenecherie.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2997,7 +2995,7 @@
           "url": "https://savagehenry.artstation.com/",
           "id": "995b69226ce0c049",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:24.946956+00:00",
+          "last_checked_at": "2026-10-13T19:14:51.846593+00:00",
           "resolved_url": "https://savagehenry.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -3133,7 +3131,7 @@
           "url": "https://arifwijaya.artstation.com/",
           "id": "a2ca589ff5d23589",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:24.631502+00:00",
+          "last_checked_at": "2026-10-13T19:14:51.447101+00:00",
           "resolved_url": "https://arifwijaya.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -3208,7 +3206,7 @@
           "url": "https://aluisiocsantos.artstation.com/",
           "id": "ac26b661e34084d0",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:24.211023+00:00",
+          "last_checked_at": "2026-10-13T19:14:51.021977+00:00",
           "resolved_url": "https://aluisiocsantos.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -3246,7 +3244,7 @@
           "url": "https://alexis-susani.artstation.com/",
           "id": "5d13e225cd5c2a43",
           "recent_items": [],
-          "last_checked_at": "2026-10-13T10:31:17.210597+00:00",
+          "last_checked_at": "2026-10-13T19:14:50.588801+00:00",
           "resolved_url": "https://alexis-susani.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
