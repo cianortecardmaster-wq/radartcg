@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-24T20:49:40.116266+00:00",
+  "generated_at": "2026-10-24T23:15:03.757305+00:00",
   "official_sources_configured": 21,
-  "official_sources_ok": 20,
-  "official_sources_failed": 1,
+  "official_sources_ok": 19,
+  "official_sources_failed": 2,
   "independent_sources_configured": 59,
   "independent_sources_failed": 8,
   "media_sources_configured": 94,
   "media_sources_active_7d": 40,
-  "media_items_7d": 173,
+  "media_items_7d": 175,
   "media_sources_failed": 0,
   "people_configured": 86,
   "people_active_7d": 5,
@@ -19,6 +19,12 @@
       "source": "Flesh and Blood Official",
       "url": "https://fabtcg.com/en/articles/",
       "error": "403 Client Error: Forbidden for url: https://fabtcg.com/en/articles/"
+    },
+    {
+      "source_id": "pokemon-cn",
+      "source": "Pokémon China",
+      "url": "https://www.pokemon.cn/topics-tcg/p/1",
+      "error": "HTTPSConnectionPool(host='www.pokemon.cn', port=443): Read timed out. (read timeout=20)"
     },
     {
       "source_id": "sorcery-brasil",
