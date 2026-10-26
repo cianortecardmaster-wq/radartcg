@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T04:42:22.113211+00:00",
+  "generated_at": "2026-10-26T12:55:45.187416+00:00",
   "window_days": 7,
   "count": 86,
   "artist_developer_count": 68,
@@ -7,8 +7,117 @@
   "active_count": 5,
   "content_count": 15,
   "content_ready": true,
-  "errors_count": 4,
+  "errors_count": 0,
   "people": [
+    {
+      "name": "Federico Musetti",
+      "category": "artist-developer",
+      "games": [
+        "flesh-and-blood"
+      ],
+      "roles": [
+        "Artista"
+      ],
+      "profiles": [
+        {
+          "platform": "artstation",
+          "label": "ArtStation",
+          "url": "https://www.artstation.com/fedemusettiart"
+        },
+        {
+          "platform": "instagram",
+          "label": "Instagram",
+          "url": "https://www.instagram.com/federicomusettiart/"
+        },
+        {
+          "platform": "facebook",
+          "label": "Facebook",
+          "url": "https://www.facebook.com/federicomusettiart"
+        },
+        {
+          "platform": "pinterest",
+          "label": "Pinterest",
+          "url": "https://linktr.ee/federicomusettiart"
+        },
+        {
+          "platform": "linkedin",
+          "label": "LinkedIn",
+          "url": "https://linktr.ee/federicomusettiart"
+        },
+        {
+          "platform": "website",
+          "label": "Site / Linktree",
+          "url": "https://linktr.ee/federicomusettiart"
+        }
+      ],
+      "content_sources": [
+        {
+          "name": "Federico Musetti",
+          "platform": "artstation",
+          "language": "en",
+          "game_id": "flesh-and-blood",
+          "url": "https://www.artstation.com/fedemusettiart",
+          "id": "c756cbdf24a4560f",
+          "recent_items": [
+            {
+              "id": "880344afa4c659929472",
+              "title": "Kingsburg - cover",
+              "url": "https://www.artstation.com/artwork/yAD1L9",
+              "published_at": "2026-10-26T08:57:49.172000+00:00",
+              "image_url": "https://cdna.artstation.com/p/assets/images/images/102/636/402/small_square/federico-musetti-1.jpg?1790109431",
+              "kind": "artwork",
+              "content_platform": "artstation",
+              "author": "Federico Musetti"
+            },
+            {
+              "id": "e43cc839e1f0133e9087",
+              "title": "Space Elevator",
+              "url": "https://www.artstation.com/artwork/8vb2Jw",
+              "published_at": "2026-10-22T13:30:33.699000+00:00",
+              "image_url": "https://cdnb.artstation.com/p/assets/covers/images/102/637/055/small_square/federico-musetti-federico-musetti-thumbs-0031-layer-31.jpg?1790111399",
+              "kind": "artwork",
+              "content_platform": "artstation",
+              "author": "Federico Musetti"
+            }
+          ],
+          "last_checked_at": "2026-10-26T12:55:35.493496+00:00",
+          "resolved_url": "https://www.artstation.com/fedemusettiart",
+          "resolved_feed_url": null,
+          "resolved_channel_id": null,
+          "recent_count": 2,
+          "latest_published_at": "2026-10-26T08:57:49.172000+00:00"
+        }
+      ],
+      "id": "5e5395aee83820d1",
+      "recent_items": [
+        {
+          "id": "880344afa4c659929472",
+          "title": "Kingsburg - cover",
+          "url": "https://www.artstation.com/artwork/yAD1L9",
+          "published_at": "2026-10-26T08:57:49.172000+00:00",
+          "image_url": "https://cdna.artstation.com/p/assets/images/images/102/636/402/small_square/federico-musetti-1.jpg?1790109431",
+          "kind": "artwork",
+          "content_platform": "artstation",
+          "author": "Federico Musetti",
+          "source_name": "Federico Musetti",
+          "source_platform": "artstation"
+        },
+        {
+          "id": "e43cc839e1f0133e9087",
+          "title": "Space Elevator",
+          "url": "https://www.artstation.com/artwork/8vb2Jw",
+          "published_at": "2026-10-22T13:30:33.699000+00:00",
+          "image_url": "https://cdnb.artstation.com/p/assets/covers/images/102/637/055/small_square/federico-musetti-federico-musetti-thumbs-0031-layer-31.jpg?1790111399",
+          "kind": "artwork",
+          "content_platform": "artstation",
+          "author": "Federico Musetti",
+          "source_name": "Federico Musetti",
+          "source_platform": "artstation"
+        }
+      ],
+      "recent_count": 2,
+      "latest_published_at": "2026-10-26T08:57:49.172000+00:00"
+    },
     {
       "name": "Andrea Mengucci",
       "category": "pro-player",
@@ -102,13 +211,12 @@
               "excerpt": "Time stamps: 0:00 Intro 0:47 Round1 vs Yawgmoth 20:06 Round2 vs UR Prowess 28:56 Round3 vs Tron 46:00 Round4 vs Jeskai Ponza 1:09:50 Round5 vs Tron Decklist: https://partner.tcgplayer.com/QYdxVx Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, an"
             }
           ],
-          "last_checked_at": "2026-10-26T04:42:21.018689+00:00",
+          "last_checked_at": "2026-10-26T12:55:43.517230+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCwIFsLCPrc1NGoNS0OGn0mw",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwIFsLCPrc1NGoNS0OGn0mw",
           "resolved_channel_id": "UCwIFsLCPrc1NGoNS0OGn0mw",
           "recent_count": 4,
-          "latest_published_at": "2026-10-25T17:00:34+00:00",
-          "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwIFsLCPrc1NGoNS0OGn0mw"
+          "latest_published_at": "2026-10-25T17:00:34+00:00"
         },
         {
           "name": "Mengu's Workshop",
@@ -164,13 +272,12 @@
               "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN"
             }
           ],
-          "last_checked_at": "2026-10-26T04:42:21.206342+00:00",
+          "last_checked_at": "2026-10-26T12:55:43.781131+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCGZdKNOxKdSNL1Qht9aC8tQ",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGZdKNOxKdSNL1Qht9aC8tQ",
           "resolved_channel_id": "UCGZdKNOxKdSNL1Qht9aC8tQ",
           "recent_count": 4,
-          "latest_published_at": "2026-10-23T18:00:15+00:00",
-          "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCGZdKNOxKdSNL1Qht9aC8tQ"
+          "latest_published_at": "2026-10-23T18:00:15+00:00"
         },
         {
           "name": "Andrea Mengucci",
@@ -181,7 +288,7 @@
           "url": "https://www.twitch.tv/andreamengucci",
           "id": "5339172b5454719e",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:21.387933+00:00",
+          "last_checked_at": "2026-10-26T12:55:43.928056+00:00",
           "resolved_url": "https://www.twitch.tv/andreamengucci",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -391,13 +498,12 @@
               "excerpt": "Plz don't touch my sneks 🐍 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to"
             }
           ],
-          "last_checked_at": "2026-10-26T04:42:21.637002+00:00",
+          "last_checked_at": "2026-10-26T12:55:44.323998+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCocZb0xawRZuE1CKpUvOM8A",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCocZb0xawRZuE1CKpUvOM8A",
           "resolved_channel_id": "UCocZb0xawRZuE1CKpUvOM8A",
           "recent_count": 3,
-          "latest_published_at": "2026-10-25T17:00:01+00:00",
-          "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCocZb0xawRZuE1CKpUvOM8A"
+          "latest_published_at": "2026-10-25T17:00:01+00:00"
         },
         {
           "name": "Jim Davis MTG",
@@ -408,7 +514,7 @@
           "url": "https://www.twitch.tv/jimdavismtg",
           "id": "30290ddbff005188",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:21.855824+00:00",
+          "last_checked_at": "2026-10-26T12:55:44.568642+00:00",
           "resolved_url": "https://www.twitch.tv/jimdavismtg",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -544,115 +650,6 @@
       "latest_published_at": "2026-10-24T02:10:00+00:00"
     },
     {
-      "name": "Federico Musetti",
-      "category": "artist-developer",
-      "games": [
-        "flesh-and-blood"
-      ],
-      "roles": [
-        "Artista"
-      ],
-      "profiles": [
-        {
-          "platform": "artstation",
-          "label": "ArtStation",
-          "url": "https://www.artstation.com/fedemusettiart"
-        },
-        {
-          "platform": "instagram",
-          "label": "Instagram",
-          "url": "https://www.instagram.com/federicomusettiart/"
-        },
-        {
-          "platform": "facebook",
-          "label": "Facebook",
-          "url": "https://www.facebook.com/federicomusettiart"
-        },
-        {
-          "platform": "pinterest",
-          "label": "Pinterest",
-          "url": "https://linktr.ee/federicomusettiart"
-        },
-        {
-          "platform": "linkedin",
-          "label": "LinkedIn",
-          "url": "https://linktr.ee/federicomusettiart"
-        },
-        {
-          "platform": "website",
-          "label": "Site / Linktree",
-          "url": "https://linktr.ee/federicomusettiart"
-        }
-      ],
-      "content_sources": [
-        {
-          "name": "Federico Musetti",
-          "platform": "artstation",
-          "language": "en",
-          "game_id": "flesh-and-blood",
-          "url": "https://www.artstation.com/fedemusettiart",
-          "id": "c756cbdf24a4560f",
-          "recent_items": [
-            {
-              "id": "e43cc839e1f0133e9087",
-              "title": "Space Elevator",
-              "url": "https://www.artstation.com/artwork/8vb2Jw",
-              "published_at": "2026-10-22T13:30:33.699000+00:00",
-              "image_url": "https://cdnb.artstation.com/p/assets/covers/images/102/637/055/small_square/federico-musetti-federico-musetti-thumbs-0031-layer-31.jpg?1790111399",
-              "kind": "artwork",
-              "content_platform": "artstation",
-              "author": "Federico Musetti"
-            },
-            {
-              "id": "ff267c1f212bb975c0ac",
-              "title": "Monumental - African Empires - Board Game",
-              "url": "https://www.artstation.com/artwork/kwQVJl",
-              "published_at": "2026-10-19T08:47:05.768000+00:00",
-              "image_url": "https://cdnb.artstation.com/p/assets/images/images/102/635/545/20260922150702/small_square/federico-musetti-1.jpg?1790107622",
-              "kind": "artwork",
-              "content_platform": "artstation",
-              "author": "Federico Musetti"
-            }
-          ],
-          "last_checked_at": "2026-10-26T04:42:13.280297+00:00",
-          "resolved_url": "https://www.artstation.com/fedemusettiart",
-          "resolved_feed_url": null,
-          "resolved_channel_id": null,
-          "recent_count": 2,
-          "latest_published_at": "2026-10-22T13:30:33.699000+00:00"
-        }
-      ],
-      "id": "5e5395aee83820d1",
-      "recent_items": [
-        {
-          "id": "e43cc839e1f0133e9087",
-          "title": "Space Elevator",
-          "url": "https://www.artstation.com/artwork/8vb2Jw",
-          "published_at": "2026-10-22T13:30:33.699000+00:00",
-          "image_url": "https://cdnb.artstation.com/p/assets/covers/images/102/637/055/small_square/federico-musetti-federico-musetti-thumbs-0031-layer-31.jpg?1790111399",
-          "kind": "artwork",
-          "content_platform": "artstation",
-          "author": "Federico Musetti",
-          "source_name": "Federico Musetti",
-          "source_platform": "artstation"
-        },
-        {
-          "id": "ff267c1f212bb975c0ac",
-          "title": "Monumental - African Empires - Board Game",
-          "url": "https://www.artstation.com/artwork/kwQVJl",
-          "published_at": "2026-10-19T08:47:05.768000+00:00",
-          "image_url": "https://cdnb.artstation.com/p/assets/images/images/102/635/545/20260922150702/small_square/federico-musetti-1.jpg?1790107622",
-          "kind": "artwork",
-          "content_platform": "artstation",
-          "author": "Federico Musetti",
-          "source_name": "Federico Musetti",
-          "source_platform": "artstation"
-        }
-      ],
-      "recent_count": 2,
-      "latest_published_at": "2026-10-22T13:30:33.699000+00:00"
-    },
-    {
       "name": "Yuki Lee Bender",
       "category": "pro-player",
       "games": [
@@ -714,7 +711,7 @@
           "url": "https://yuginmaffioli.artstation.com/",
           "id": "e59eb2442642af3f",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:20.758410+00:00",
+          "last_checked_at": "2026-10-26T12:55:43.230110+00:00",
           "resolved_url": "https://yuginmaffioli.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -752,7 +749,7 @@
           "url": "https://yiian.artstation.com/",
           "id": "04b0c3059826bc55",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:20.441628+00:00",
+          "last_checked_at": "2026-10-26T12:55:42.948243+00:00",
           "resolved_url": "https://yiian.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -795,7 +792,7 @@
           "url": "https://wisnutan.artstation.com/",
           "id": "d8672361aa948656",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:20.192513+00:00",
+          "last_checked_at": "2026-10-26T12:55:42.715804+00:00",
           "resolved_url": "https://wisnutan.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -833,7 +830,7 @@
           "url": "https://corbenyx.artstation.com/",
           "id": "9483b28f5e77cdde",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:19.938537+00:00",
+          "last_checked_at": "2026-10-26T12:55:42.444420+00:00",
           "resolved_url": "https://corbenyx.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -893,7 +890,7 @@
           "url": "https://www.artstation.com/morano",
           "id": "49c9e176ceb6824c",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:19.660008+00:00",
+          "last_checked_at": "2026-10-26T12:55:42.194450+00:00",
           "resolved_url": "https://www.artstation.com/morano",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1014,7 +1011,7 @@
           "url": "https://simondominic.artstation.com/",
           "id": "e2f5ed1564770040",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:19.391411+00:00",
+          "last_checked_at": "2026-10-26T12:55:41.917486+00:00",
           "resolved_url": "https://simondominic.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1076,7 +1073,7 @@
           "url": "https://satriasa.artstation.com/",
           "id": "6b957fa69602ee96",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:19.131041+00:00",
+          "last_checked_at": "2026-10-26T12:55:41.646745+00:00",
           "resolved_url": "https://satriasa.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1138,7 +1135,7 @@
           "url": "https://samyang.artstation.com/",
           "id": "73f8663301c3471f",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:18.901574+00:00",
+          "last_checked_at": "2026-10-26T12:55:41.389284+00:00",
           "resolved_url": "https://samyang.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1216,7 +1213,7 @@
           "url": "https://riordan.artstation.com/",
           "id": "06b6de0c14e1e2d9",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:18.637004+00:00",
+          "last_checked_at": "2026-10-26T12:55:41.123306+00:00",
           "resolved_url": "https://riordan.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1284,7 +1281,7 @@
           "url": "https://rezaafshar.artstation.com/",
           "id": "20955e06edd78ba9",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:18.163215+00:00",
+          "last_checked_at": "2026-10-26T12:55:40.546916+00:00",
           "resolved_url": "https://rezaafshar.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1300,13 +1297,12 @@
           "youtube_search_fallback": false,
           "id": "4db0ca75580bf43c",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:18.460988+00:00",
+          "last_checked_at": "2026-10-26T12:55:40.813089+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCtDQNLj3bZ_jBFtdz5w40aQ",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtDQNLj3bZ_jBFtdz5w40aQ",
           "resolved_channel_id": "UCtDQNLj3bZ_jBFtdz5w40aQ",
           "recent_count": 0,
-          "latest_published_at": null,
-          "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtDQNLj3bZ_jBFtdz5w40aQ"
+          "latest_published_at": null
         }
       ],
       "id": "7f50840e5a45ed76",
@@ -1424,7 +1420,7 @@
           "url": "https://www.artstation.com/mrcaptain",
           "id": "13e37397dcd73586",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:17.908347+00:00",
+          "last_checked_at": "2026-10-26T12:55:40.251608+00:00",
           "resolved_url": "https://www.artstation.com/mrcaptain",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1562,7 +1558,7 @@
           "url": "https://www.artstation.com/ninesicks",
           "id": "93ab4c9338a7eedf",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:17.654557+00:00",
+          "last_checked_at": "2026-10-26T12:55:39.947404+00:00",
           "resolved_url": "https://www.artstation.com/ninesicks",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1621,7 +1617,7 @@
           "url": "https://mateusz_wisniewski.artstation.com/",
           "id": "6f4719dcb89f11d3",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:17.143004+00:00",
+          "last_checked_at": "2026-10-26T12:55:39.405417+00:00",
           "resolved_url": "https://mateusz_wisniewski.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1701,7 +1697,7 @@
           "url": "https://www.artstation.com/mariusz",
           "id": "936bb3a5ba9068eb",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:16.875671+00:00",
+          "last_checked_at": "2026-10-26T12:55:39.121113+00:00",
           "resolved_url": "https://www.artstation.com/mariusz",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1744,7 +1740,7 @@
           "url": "https://www.artstation.com/mario_wibisono",
           "id": "1260517571477846",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:16.595793+00:00",
+          "last_checked_at": "2026-10-26T12:55:38.816081+00:00",
           "resolved_url": "https://www.artstation.com/mario_wibisono",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1787,7 +1783,7 @@
           "url": "https://innervalue.artstation.com/",
           "id": "ec4333813799bc87",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:16.305111+00:00",
+          "last_checked_at": "2026-10-26T12:55:38.565956+00:00",
           "resolved_url": "https://innervalue.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1826,7 +1822,7 @@
           "url": "https://www.artstation.com/mjfetesio",
           "id": "9bfa1845086db410",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:17.418902+00:00",
+          "last_checked_at": "2026-10-26T12:55:39.718250+00:00",
           "resolved_url": "https://www.artstation.com/mjfetesio",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1876,7 +1872,7 @@
           "url": "https://www.twitch.tv/lsv",
           "id": "9c36b3a13040cb13",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:21.980151+00:00",
+          "last_checked_at": "2026-10-26T12:55:44.907841+00:00",
           "resolved_url": "https://www.twitch.tv/lsv",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1914,7 +1910,7 @@
           "url": "https://lizhelart.artstation.com/",
           "id": "27c2542215355004",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:16.032623+00:00",
+          "last_checked_at": "2026-10-26T12:55:38.264911+00:00",
           "resolved_url": "https://lizhelart.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1957,7 +1953,7 @@
           "url": "https://dopaprime.artstation.com/",
           "id": "6309278ba135097d",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:15.697528+00:00",
+          "last_checked_at": "2026-10-26T12:55:37.907168+00:00",
           "resolved_url": "https://dopaprime.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1995,7 +1991,7 @@
           "url": "https://lasahido.artstation.com/",
           "id": "f81cc7d641f5d713",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:15.385746+00:00",
+          "last_checked_at": "2026-10-26T12:55:37.623642+00:00",
           "resolved_url": "https://lasahido.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2033,7 +2029,7 @@
           "url": "https://k_ptn.artstation.com/",
           "id": "a8d4dca5d86787c9",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:15.064563+00:00",
+          "last_checked_at": "2026-10-26T12:55:37.344443+00:00",
           "resolved_url": "https://k_ptn.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2098,7 +2094,7 @@
           "url": "https://www.artstation.com/kevin_sidharta",
           "id": "bf798db6840ed944",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:14.772816+00:00",
+          "last_checked_at": "2026-10-26T12:55:37.071632+00:00",
           "resolved_url": "https://www.artstation.com/kevin_sidharta",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2240,7 +2236,7 @@
           "url": "https://jguilherme08.artstation.com/",
           "id": "a139a80ecc09b443",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:14.480782+00:00",
+          "last_checked_at": "2026-10-26T12:55:36.809595+00:00",
           "resolved_url": "https://jguilherme08.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2312,7 +2308,7 @@
           "url": "https://jessada.artstation.com/",
           "id": "347f719df76d9bc5",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:14.197123+00:00",
+          "last_checked_at": "2026-10-26T12:55:36.510797+00:00",
           "resolved_url": "https://jessada.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2515,7 +2511,7 @@
           "url": "https://lindnr.artstation.com/",
           "id": "23f278d7050e13b0",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:13.906541+00:00",
+          "last_checked_at": "2026-10-26T12:55:36.191162+00:00",
           "resolved_url": "https://lindnr.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2571,7 +2567,7 @@
           "url": "https://krotz.artstation.com/",
           "id": "fea91eb02c7098f8",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:13.605869+00:00",
+          "last_checked_at": "2026-10-26T12:55:35.818138+00:00",
           "resolved_url": "https://krotz.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2617,7 +2613,7 @@
           "url": "https://www.twitch.tv/yellowhat",
           "id": "730413fc26c07ed3",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:21.512183+00:00",
+          "last_checked_at": "2026-10-26T12:55:44.126633+00:00",
           "resolved_url": "https://www.twitch.tv/yellowhat",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2755,7 +2751,7 @@
           "url": "https://eilenecherie.artstation.com/",
           "id": "e79374ce24665a2e",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:13.007412+00:00",
+          "last_checked_at": "2026-10-26T12:55:35.081540+00:00",
           "resolved_url": "https://eilenecherie.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2815,7 +2811,7 @@
           "url": "https://savagehenry.artstation.com/",
           "id": "995b69226ce0c049",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:12.776997+00:00",
+          "last_checked_at": "2026-10-26T12:55:34.807542+00:00",
           "resolved_url": "https://savagehenry.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2951,7 +2947,7 @@
           "url": "https://arifwijaya.artstation.com/",
           "id": "a2ca589ff5d23589",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:12.458582+00:00",
+          "last_checked_at": "2026-10-26T12:55:34.464756+00:00",
           "resolved_url": "https://arifwijaya.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -3026,7 +3022,7 @@
           "url": "https://aluisiocsantos.artstation.com/",
           "id": "ac26b661e34084d0",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:12.126756+00:00",
+          "last_checked_at": "2026-10-26T12:55:34.171984+00:00",
           "resolved_url": "https://aluisiocsantos.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -3064,7 +3060,7 @@
           "url": "https://alexis-susani.artstation.com/",
           "id": "5d13e225cd5c2a43",
           "recent_items": [],
-          "last_checked_at": "2026-10-26T04:42:11.777798+00:00",
+          "last_checked_at": "2026-10-26T12:55:33.876466+00:00",
           "resolved_url": "https://alexis-susani.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
