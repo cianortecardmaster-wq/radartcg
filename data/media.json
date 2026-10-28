@@ -1,12 +1,596 @@
 {
-  "generated_at": "2026-10-28T05:36:35.651223+00:00",
+  "generated_at": "2026-10-28T12:47:44.232183+00:00",
   "window_days": 7,
   "count": 94,
-  "active_count": 39,
-  "content_count": 154,
+  "active_count": 38,
+  "content_count": 156,
   "content_ready": true,
-  "errors_count": 66,
+  "errors_count": 0,
   "sources": [
+    {
+      "name": "Dice Commando",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "notícias",
+        "regras",
+        "banimentos",
+        "meta"
+      ],
+      "url": "https://www.youtube.com/results?search_query=Dice+Commando+Flesh+and+Blood",
+      "id": "b775d28072ee407f",
+      "recent_items": [
+        {
+          "id": "76fd18b601110fd85033",
+          "title": "Pump'n'Thrust Dorinthea in SAGE | Flesh and Blood TCG | Go Again! Ep908",
+          "url": "https://www.youtube.com/watch?v=PC8F75nJHPI",
+          "published_at": "2026-10-28T11:15:27+00:00",
+          "image_url": "https://i1.ytimg.com/vi/PC8F75nJHPI/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Dice Commando",
+          "excerpt": "Pumping and Thrusting with Dorinthea... now with EVEN MORE VIGOROUS pumps! This is a Members-First early access video! Become a Dice Commando Channel Member for access to exclusive videos, access to the Discord, and seasonal events: https://www.youtube.com/channel/UCgclEXaTMqVFktXfEU0KCQw/join Sealed product source Gongaii Games. Use Code COMMANDO10 at check"
+        },
+        {
+          "id": "68ce671a2ae12c67cb13",
+          "title": "3.0 Chatter - Dice & Budz \"After Dark\" | Flesh and Blood TCG | Go Again! Ep907",
+          "url": "https://www.youtube.com/watch?v=nSP79vCzZPM",
+          "published_at": "2026-10-27T11:15:20+00:00",
+          "image_url": "https://i3.ytimg.com/vi/nSP79vCzZPM/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Dice Commando",
+          "excerpt": "“DICE… AND…. BUDZZZZZ….” Our BUD stuck around after our original shoot to chat 3.0 first reactions... let's do this! Find our State of Fab video here: https://youtu.be/sBOM1SWD5QE Find Flesh and Buds here: @freshandbuds This is a Members-First early access video! Become a Dice Commando Channel Member for access to exclusive videos, access to the Discord, and"
+        },
+        {
+          "id": "eb23503713cfdf2d773a",
+          "title": "🤢 SPOILER 🤢 Sick Intent : Mastery Pack Assassin | Flesh and Blood TCG | Go Again! Ep909",
+          "url": "https://www.youtube.com/watch?v=_qOXI8leRqw",
+          "published_at": "2026-10-27T02:24:49+00:00",
+          "image_url": "https://i4.ytimg.com/vi/_qOXI8leRqw/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Dice Commando",
+          "excerpt": "For our Assassins, it's all about completing the contract. But success? Well, it can be... INFECTIOUS... October 29th on Dice Commando. Become a Dice Commando Channel Member for access to exclusive videos, access to the Discord, and seasonal events: https://www.youtube.com/channel/UCgclEXaTMqVFktXfEU0KCQw/join Sealed product source Gongaii Games. Use Code CO"
+        },
+        {
+          "id": "58d420ee4237d0cdaac0",
+          "title": "Dice & Buds - State of Bipolar FaB | Flesh and Blood TCG | Go Again! Ep906",
+          "url": "https://www.youtube.com/watch?v=sBOM1SWD5QE",
+          "published_at": "2026-10-26T11:15:36+00:00",
+          "image_url": "https://i4.ytimg.com/vi/sBOM1SWD5QE/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Dice Commando",
+          "excerpt": "“DICE… AND…. BUDZZZZZ….” Our guest today has a reputation for an infectiously positive attitude – but does so with a fair and balanced outlook on things. He joins us to talk the overall state of Flesh and Blood. Find our 3.0 video here: https://youtu.be/nSP79vCzZPM Find Flesh and Buds here: @freshandbuds This is a Members-First early access video! Become a D"
+        },
+        {
+          "id": "e5bf010f9020505234c8",
+          "title": "Fab 3.0 Breakdown & Reactions | Flesh and Blood TCG | Go Again! Ep905",
+          "url": "https://www.youtube.com/watch?v=NGwoYcWwAmI",
+          "published_at": "2026-10-23T11:15:37+00:00",
+          "image_url": "https://i3.ytimg.com/vi/NGwoYcWwAmI/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Dice Commando",
+          "excerpt": "DC's recap & reactions to the Fab3.0 changes. 00:00 - Intro 01:20 - 3.0 or 3.ohno? 03:40 - Why 3.0? 06:45 - The Changes 09:10 - Premier Play 13:25 - Product Changes 22:30 - In-Store Play 28:55 - Weekend Warriors 34:05 - GEM Pack Sadness 35:10 - DC's Positives 37:45 - DC's Concerns 40:35 - WrapUp This is a Members-First early access video! Become a Dice Comma"
+        }
+      ],
+      "last_checked_at": "2026-10-28T12:47:10.579935+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCgclEXaTMqVFktXfEU0KCQw",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgclEXaTMqVFktXfEU0KCQw",
+      "resolved_channel_id": "UCgclEXaTMqVFktXfEU0KCQw",
+      "recent_count": 5,
+      "latest_published_at": "2026-10-28T11:15:27+00:00"
+    },
+    {
+      "name": "MaldHound",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "magic",
+      "focus": [
+        "Commander",
+        "humor",
+        "memes",
+        "comunidade"
+      ],
+      "url": "https://www.youtube.com/results?search_query=MaldHound+MTG",
+      "id": "c432eee2b1b51916",
+      "recent_items": [
+        {
+          "id": "89b26848496f87c6c0fd",
+          "title": "THEY ARE MEMEING ON US",
+          "url": "https://www.youtube.com/shorts/2ELnh5yLk2I",
+          "published_at": "2026-10-28T03:19:17+00:00",
+          "image_url": "https://i3.ytimg.com/vi/2ELnh5yLk2I/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "MaldHound",
+          "excerpt": ""
+        },
+        {
+          "id": "b755eda013002aca7599",
+          "title": "I would NEVER Put You In a Situation",
+          "url": "https://www.youtube.com/shorts/raePz-AfjHE",
+          "published_at": "2026-10-27T04:53:32+00:00",
+          "image_url": "https://i3.ytimg.com/vi/raePz-AfjHE/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "MaldHound",
+          "excerpt": ""
+        },
+        {
+          "id": "f16b538068f6bf00c7c1",
+          "title": "I'm Stealing This Bracket 4 Deck",
+          "url": "https://www.youtube.com/watch?v=AB3-eU84gNE",
+          "published_at": "2026-10-26T20:30:48+00:00",
+          "image_url": "https://i2.ytimg.com/vi/AB3-eU84gNE/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "MaldHound",
+          "excerpt": "Click this link https://boot.dev/?promo=MALDHOUND and use my code MALDHOUND to get 25% off your first payment for boot.dev. I make fun of and (sometimes) improve my viewers commanders decks! Niv - https://moxfield.com/decks/pKyRz-mluUS2_h9DBAS6cw Podcasting Deck - https://moxfield.com/decks/W7SVOrjI6ky6vptVpo5nPQ Democracy - https://moxfield.com/decks/41JZOZ"
+        },
+        {
+          "id": "3f927d3f3b35d67e2d7f",
+          "title": "I\"M CUBING YOU I'M CUBING YOU",
+          "url": "https://www.youtube.com/shorts/X41vDuCOfsY",
+          "published_at": "2026-10-26T03:20:51+00:00",
+          "image_url": "https://i1.ytimg.com/vi/X41vDuCOfsY/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "MaldHound",
+          "excerpt": ""
+        },
+        {
+          "id": "4a7565c82211ed09b24a",
+          "title": "THE YAPPENING + deck roast raffle",
+          "url": "https://www.youtube.com/watch?v=yuB-iXfkFqQ",
+          "published_at": "2026-10-25T21:49:08+00:00",
+          "image_url": "https://i2.ytimg.com/vi/yuB-iXfkFqQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "MaldHound",
+          "excerpt": ""
+        },
+        {
+          "id": "4742b176b870d6180b62",
+          "title": "He Was Our Savior",
+          "url": "https://www.youtube.com/shorts/o3_EOdt4KC8",
+          "published_at": "2026-10-24T22:21:29+00:00",
+          "image_url": "https://i4.ytimg.com/vi/o3_EOdt4KC8/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "MaldHound",
+          "excerpt": ""
+        },
+        {
+          "id": "5c487cd2abb003f40923",
+          "title": "PLEASE GAVIN SAVE MY SON",
+          "url": "https://www.youtube.com/shorts/KFQZPYbxUPs",
+          "published_at": "2026-10-24T03:06:01+00:00",
+          "image_url": "https://i4.ytimg.com/vi/KFQZPYbxUPs/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "MaldHound",
+          "excerpt": ""
+        },
+        {
+          "id": "fdc51bca56e649ced1fc",
+          "title": "POV: It's NOT Bracket 2",
+          "url": "https://www.youtube.com/shorts/OHVbCAvAM44",
+          "published_at": "2026-10-23T02:25:57+00:00",
+          "image_url": "https://i4.ytimg.com/vi/OHVbCAvAM44/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "MaldHound",
+          "excerpt": ""
+        },
+        {
+          "id": "479d9a432af6ba8fab56",
+          "title": "CUSTOM CARD REVIEW DAY",
+          "url": "https://www.youtube.com/watch?v=zMMiLgbTOcU",
+          "published_at": "2026-10-22T22:10:31+00:00",
+          "image_url": "https://i3.ytimg.com/vi/zMMiLgbTOcU/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "MaldHound",
+          "excerpt": ""
+        },
+        {
+          "id": "3d5d3ba717f58b6a3b64",
+          "title": "The Best Wolf in MTG",
+          "url": "https://www.youtube.com/shorts/-tNnYEVYmdI",
+          "published_at": "2026-10-22T02:31:35+00:00",
+          "image_url": "https://i2.ytimg.com/vi/-tNnYEVYmdI/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "MaldHound",
+          "excerpt": ""
+        }
+      ],
+      "last_checked_at": "2026-10-28T12:47:35.636257+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCZfLLRbcus7Fm0STiCz0AfQ",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZfLLRbcus7Fm0STiCz0AfQ",
+      "resolved_channel_id": "UCZfLLRbcus7Fm0STiCz0AfQ",
+      "recent_count": 10,
+      "latest_published_at": "2026-10-28T03:19:17+00:00"
+    },
+    {
+      "name": "The Spike Feeders",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "magic",
+      "focus": [
+        "Commander",
+        "cEDH",
+        "gameplay",
+        "comunidade"
+      ],
+      "url": "https://www.youtube.com/results?search_query=The+Spike+Feeders+MTG",
+      "id": "20e030dce3d60bb7",
+      "recent_items": [
+        {
+          "id": "6be5296ba3769c0a1d87",
+          "title": "LIVE COMMANDER GAMEPLAY ft. @HurryUpandPass 27-OCT-2026",
+          "url": "https://www.youtube.com/watch?v=_DUs-a3ai0k",
+          "published_at": "2026-10-28T03:18:17+00:00",
+          "image_url": "https://i4.ytimg.com/vi/_DUs-a3ai0k/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "The Spike Feeders",
+          "excerpt": "Check out Moxfield for our decklists! https://moxfield.com/lists/vj7Zq-youtube-stream-decks-27-oct-2026 Join the Discord! https://discord.gg/RfN62pS"
+        },
+        {
+          "id": "3791c206de27933867d6",
+          "title": "DUPLICATING a deck on @moxfield #mtg",
+          "url": "https://www.youtube.com/shorts/F9Xa8aatCPk",
+          "published_at": "2026-10-26T20:43:28+00:00",
+          "image_url": "https://i3.ytimg.com/vi/F9Xa8aatCPk/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "The Spike Feeders",
+          "excerpt": "Jim walks you through how to duplicate someone else's #mtgcommander deck as a starting place to work on!"
+        },
+        {
+          "id": "4e2a3b593e3df8468331",
+          "title": "GOOFY and LIGHTHEARTED cEDH | Derevi VS Tivit VS Godo VS Rog/Si",
+          "url": "https://www.youtube.com/watch?v=K-SI7E8D2YU",
+          "published_at": "2026-10-22T20:02:16+00:00",
+          "image_url": "https://i4.ytimg.com/vi/K-SI7E8D2YU/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "The Spike Feeders",
+          "excerpt": "Check out Gamegenic's line of OFFICIALLY LICENSED Reality Fracture accessories https://www.gamegenic.com/magic-the-gathering/reality-fracture/ SELL YOUR CARDS to Star City Games and get a 30% store credit bonus! Sell Your Cards: https://bit.ly/sellyourcardstsf?aff=15 SCG Hartford: https://scgcon.starcitygames.com/event/scg-con-hartford-2026/aff=15 Spike Merc"
+        }
+      ],
+      "last_checked_at": "2026-10-28T12:47:33.961518+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCGh7-4mDFssqhu_UpOwRzIA",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGh7-4mDFssqhu_UpOwRzIA",
+      "resolved_channel_id": "UCGh7-4mDFssqhu_UpOwRzIA",
+      "recent_count": 3,
+      "latest_published_at": "2026-10-28T03:18:17+00:00"
+    },
+    {
+      "name": "TCG TALK",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "notícias",
+        "meta",
+        "opinião"
+      ],
+      "url": "https://www.youtube.com/results?search_query=TCG+TALK+Flesh+and+Blood",
+      "id": "bbaa7618326bb5af",
+      "recent_items": [
+        {
+          "id": "042e74557d4b51f78521",
+          "title": "Calling: Mexico City, Pro Quest & More Meta Shake Ups",
+          "url": "https://www.youtube.com/watch?v=z_pJkyeT4uQ",
+          "published_at": "2026-10-27T23:00:03+00:00",
+          "image_url": "https://i3.ytimg.com/vi/z_pJkyeT4uQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "It's a free for all this Pro Quest Season with the top contenders flying off into Living Legend Land. Which heroes will take hold of the meta as we head into the World Championship in Paris? 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https"
+        },
+        {
+          "id": "a80f7032c40942415b11",
+          "title": "🔴 Day 2 & Top 8 Calling Mexico City | Flesh and Blood #fabtcg",
+          "url": "https://www.youtube.com/watch?v=air-H9wAcxE",
+          "published_at": "2026-10-25T22:53:46+00:00",
+          "image_url": "https://i2.ytimg.com/vi/air-H9wAcxE/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "🏆 $20,000 USD is up for grabs as Mexico City's FIRST EVER Calling comes to a close! 🇲🇽 The stakes are high as Flesh and Blood's top competitors battle through the final rounds to make history and crown Mexico City's first Calling Champion! 🎙️ Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour: Las Vegas Finalist) and fan favorite Bryce Platz (Arca"
+        },
+        {
+          "id": "79355b6fba4f0a08443c",
+          "title": "🔴 Day 1 Calling Mexico City | Flesh and Blood #fabtcg",
+          "url": "https://www.youtube.com/watch?v=mC6DH4e3xYg",
+          "published_at": "2026-10-24T23:02:03+00:00",
+          "image_url": "https://i2.ytimg.com/vi/mC6DH4e3xYg/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "🏆 $20,000 USD is on the line at Mexico City's FIRST EVER Calling! History is in the making as Flesh and Blood's fiercest competitors battle it out for glory, huge prizes, and the chance to become Mexico City's first Calling Champion! 🇲🇽 🎙️ Join Pro Tour veteran Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour Las Vegas Finalist) and fan favorite"
+        }
+      ],
+      "last_checked_at": "2026-10-28T12:47:10.332510+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
+      "recent_count": 3,
+      "latest_published_at": "2026-10-27T23:00:03+00:00"
+    },
+    {
+      "name": "Funk",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "competitivo"
+      ],
+      "url": "https://www.youtube.com/results?search_query=Funk+Flesh+and+Blood+TCG",
+      "id": "155bf92e368b525b",
+      "recent_items": [
+        {
+          "id": "f69a665728ec94103466",
+          "title": "Calling: Mexico City, Pro Quest & More Meta Shake Ups",
+          "url": "https://www.youtube.com/watch?v=z_pJkyeT4uQ",
+          "published_at": "2026-10-27T23:00:03+00:00",
+          "image_url": "https://i3.ytimg.com/vi/z_pJkyeT4uQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "It's a free for all this Pro Quest Season with the top contenders flying off into Living Legend Land. Which heroes will take hold of the meta as we head into the World Championship in Paris? 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https"
+        },
+        {
+          "id": "242d5dd030f619ea90fe",
+          "title": "🔴 Day 2 & Top 8 Calling Mexico City | Flesh and Blood #fabtcg",
+          "url": "https://www.youtube.com/watch?v=air-H9wAcxE",
+          "published_at": "2026-10-25T22:53:46+00:00",
+          "image_url": "https://i2.ytimg.com/vi/air-H9wAcxE/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "🏆 $20,000 USD is up for grabs as Mexico City's FIRST EVER Calling comes to a close! 🇲🇽 The stakes are high as Flesh and Blood's top competitors battle through the final rounds to make history and crown Mexico City's first Calling Champion! 🎙️ Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour: Las Vegas Finalist) and fan favorite Bryce Platz (Arca"
+        },
+        {
+          "id": "f666f3c337d2d8435e9a",
+          "title": "🔴 Day 1 Calling Mexico City | Flesh and Blood #fabtcg",
+          "url": "https://www.youtube.com/watch?v=mC6DH4e3xYg",
+          "published_at": "2026-10-24T23:02:03+00:00",
+          "image_url": "https://i2.ytimg.com/vi/mC6DH4e3xYg/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "🏆 $20,000 USD is on the line at Mexico City's FIRST EVER Calling! History is in the making as Flesh and Blood's fiercest competitors battle it out for glory, huge prizes, and the chance to become Mexico City's first Calling Champion! 🇲🇽 🎙️ Join Pro Tour veteran Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour Las Vegas Finalist) and fan favorite"
+        }
+      ],
+      "last_checked_at": "2026-10-28T12:47:15.792288+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
+      "recent_count": 3,
+      "latest_published_at": "2026-10-27T23:00:03+00:00"
+    },
+    {
+      "name": "Formato For Fun",
+      "platform": "youtube",
+      "language": "pt",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "lore",
+        "conteúdo em português"
+      ],
+      "url": "https://www.youtube.com/results?search_query=Formato+For+Fun+Flesh+and+Blood",
+      "id": "c16bc511700f45dc",
+      "recent_items": [
+        {
+          "id": "71680bf55b4325de1415",
+          "title": "Calling: Mexico City, Pro Quest & More Meta Shake Ups",
+          "url": "https://www.youtube.com/watch?v=z_pJkyeT4uQ",
+          "published_at": "2026-10-27T23:00:03+00:00",
+          "image_url": "https://i3.ytimg.com/vi/z_pJkyeT4uQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "It's a free for all this Pro Quest Season with the top contenders flying off into Living Legend Land. Which heroes will take hold of the meta as we head into the World Championship in Paris? 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https"
+        },
+        {
+          "id": "955cbc851cc2b2be4df3",
+          "title": "🔴 Day 2 & Top 8 Calling Mexico City | Flesh and Blood #fabtcg",
+          "url": "https://www.youtube.com/watch?v=air-H9wAcxE",
+          "published_at": "2026-10-25T22:53:46+00:00",
+          "image_url": "https://i2.ytimg.com/vi/air-H9wAcxE/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "🏆 $20,000 USD is up for grabs as Mexico City's FIRST EVER Calling comes to a close! 🇲🇽 The stakes are high as Flesh and Blood's top competitors battle through the final rounds to make history and crown Mexico City's first Calling Champion! 🎙️ Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour: Las Vegas Finalist) and fan favorite Bryce Platz (Arca"
+        },
+        {
+          "id": "1d80cfd7339bb0d035f5",
+          "title": "🔴 Day 1 Calling Mexico City | Flesh and Blood #fabtcg",
+          "url": "https://www.youtube.com/watch?v=mC6DH4e3xYg",
+          "published_at": "2026-10-24T23:02:03+00:00",
+          "image_url": "https://i2.ytimg.com/vi/mC6DH4e3xYg/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "🏆 $20,000 USD is on the line at Mexico City's FIRST EVER Calling! History is in the making as Flesh and Blood's fiercest competitors battle it out for glory, huge prizes, and the chance to become Mexico City's first Calling Champion! 🇲🇽 🎙️ Join Pro Tour veteran Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour Las Vegas Finalist) and fan favorite"
+        }
+      ],
+      "last_checked_at": "2026-10-28T12:47:21.338801+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
+      "recent_count": 3,
+      "latest_published_at": "2026-10-27T23:00:03+00:00"
+    },
+    {
+      "name": "Dues of the Golden Sands",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "deck tech",
+        "competitivo"
+      ],
+      "url": "https://www.youtube.com/results?search_query=Dues+of+the+Golden+Sands+Flesh+and+Blood",
+      "id": "dbc698f4ffc4a5a6",
+      "recent_items": [
+        {
+          "id": "7392294e2b16fbd9e076",
+          "title": "Calling: Mexico City, Pro Quest & More Meta Shake Ups",
+          "url": "https://www.youtube.com/watch?v=z_pJkyeT4uQ",
+          "published_at": "2026-10-27T23:00:03+00:00",
+          "image_url": "https://i3.ytimg.com/vi/z_pJkyeT4uQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "It's a free for all this Pro Quest Season with the top contenders flying off into Living Legend Land. Which heroes will take hold of the meta as we head into the World Championship in Paris? 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https"
+        },
+        {
+          "id": "f50904dc34dbdd5310ca",
+          "title": "🔴 Day 2 & Top 8 Calling Mexico City | Flesh and Blood #fabtcg",
+          "url": "https://www.youtube.com/watch?v=air-H9wAcxE",
+          "published_at": "2026-10-25T22:53:46+00:00",
+          "image_url": "https://i2.ytimg.com/vi/air-H9wAcxE/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "🏆 $20,000 USD is up for grabs as Mexico City's FIRST EVER Calling comes to a close! 🇲🇽 The stakes are high as Flesh and Blood's top competitors battle through the final rounds to make history and crown Mexico City's first Calling Champion! 🎙️ Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour: Las Vegas Finalist) and fan favorite Bryce Platz (Arca"
+        },
+        {
+          "id": "9c2fbc4e9b7de4617077",
+          "title": "🔴 Day 1 Calling Mexico City | Flesh and Blood #fabtcg",
+          "url": "https://www.youtube.com/watch?v=mC6DH4e3xYg",
+          "published_at": "2026-10-24T23:02:03+00:00",
+          "image_url": "https://i2.ytimg.com/vi/mC6DH4e3xYg/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "🏆 $20,000 USD is on the line at Mexico City's FIRST EVER Calling! History is in the making as Flesh and Blood's fiercest competitors battle it out for glory, huge prizes, and the chance to become Mexico City's first Calling Champion! 🇲🇽 🎙️ Join Pro Tour veteran Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour Las Vegas Finalist) and fan favorite"
+        }
+      ],
+      "last_checked_at": "2026-10-28T12:47:14.754562+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
+      "recent_count": 3,
+      "latest_published_at": "2026-10-27T23:00:03+00:00"
+    },
+    {
+      "name": "Dozr",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "theorycraft",
+        "Illusionist",
+        "Ranger",
+        "Wizard"
+      ],
+      "url": "https://www.youtube.com/results?search_query=Dozr+Flesh+and+Blood+TCG",
+      "id": "c1d69dfa8fe005db",
+      "recent_items": [
+        {
+          "id": "6b1c2d649f1bc367c401",
+          "title": "Calling: Mexico City, Pro Quest & More Meta Shake Ups",
+          "url": "https://www.youtube.com/watch?v=z_pJkyeT4uQ",
+          "published_at": "2026-10-27T23:00:03+00:00",
+          "image_url": "https://i3.ytimg.com/vi/z_pJkyeT4uQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "It's a free for all this Pro Quest Season with the top contenders flying off into Living Legend Land. Which heroes will take hold of the meta as we head into the World Championship in Paris? 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https"
+        },
+        {
+          "id": "54ef228c5c1ab9046915",
+          "title": "🔴 Day 2 & Top 8 Calling Mexico City | Flesh and Blood #fabtcg",
+          "url": "https://www.youtube.com/watch?v=air-H9wAcxE",
+          "published_at": "2026-10-25T22:53:46+00:00",
+          "image_url": "https://i2.ytimg.com/vi/air-H9wAcxE/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "🏆 $20,000 USD is up for grabs as Mexico City's FIRST EVER Calling comes to a close! 🇲🇽 The stakes are high as Flesh and Blood's top competitors battle through the final rounds to make history and crown Mexico City's first Calling Champion! 🎙️ Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour: Las Vegas Finalist) and fan favorite Bryce Platz (Arca"
+        },
+        {
+          "id": "fad50ac2f648ca1cd007",
+          "title": "🔴 Day 1 Calling Mexico City | Flesh and Blood #fabtcg",
+          "url": "https://www.youtube.com/watch?v=mC6DH4e3xYg",
+          "published_at": "2026-10-24T23:02:03+00:00",
+          "image_url": "https://i2.ytimg.com/vi/mC6DH4e3xYg/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "🏆 $20,000 USD is on the line at Mexico City's FIRST EVER Calling! History is in the making as Flesh and Blood's fiercest competitors battle it out for glory, huge prizes, and the chance to become Mexico City's first Calling Champion! 🇲🇽 🎙️ Join Pro Tour veteran Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour Las Vegas Finalist) and fan favorite"
+        }
+      ],
+      "last_checked_at": "2026-10-28T12:47:12.822050+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
+      "recent_count": 3,
+      "latest_published_at": "2026-10-27T23:00:03+00:00"
+    },
+    {
+      "name": "Cthulhy TCG",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "decks",
+        "heróis"
+      ],
+      "url": "https://www.youtube.com/results?search_query=Cthulhy+TCG+Flesh+and+Blood",
+      "id": "7a0a20e93b35960d",
+      "recent_items": [
+        {
+          "id": "f9ef326291edd94ccba0",
+          "title": "Calling: Mexico City, Pro Quest & More Meta Shake Ups",
+          "url": "https://www.youtube.com/watch?v=z_pJkyeT4uQ",
+          "published_at": "2026-10-27T23:00:03+00:00",
+          "image_url": "https://i3.ytimg.com/vi/z_pJkyeT4uQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "It's a free for all this Pro Quest Season with the top contenders flying off into Living Legend Land. Which heroes will take hold of the meta as we head into the World Championship in Paris? 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https"
+        },
+        {
+          "id": "e8436a3ee28dc1886f1b",
+          "title": "🔴 Day 2 & Top 8 Calling Mexico City | Flesh and Blood #fabtcg",
+          "url": "https://www.youtube.com/watch?v=air-H9wAcxE",
+          "published_at": "2026-10-25T22:53:46+00:00",
+          "image_url": "https://i2.ytimg.com/vi/air-H9wAcxE/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "🏆 $20,000 USD is up for grabs as Mexico City's FIRST EVER Calling comes to a close! 🇲🇽 The stakes are high as Flesh and Blood's top competitors battle through the final rounds to make history and crown Mexico City's first Calling Champion! 🎙️ Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour: Las Vegas Finalist) and fan favorite Bryce Platz (Arca"
+        },
+        {
+          "id": "de777fa1ad6a9d9c5918",
+          "title": "🔴 Day 1 Calling Mexico City | Flesh and Blood #fabtcg",
+          "url": "https://www.youtube.com/watch?v=mC6DH4e3xYg",
+          "published_at": "2026-10-24T23:02:03+00:00",
+          "image_url": "https://i2.ytimg.com/vi/mC6DH4e3xYg/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "🏆 $20,000 USD is on the line at Mexico City's FIRST EVER Calling! History is in the making as Flesh and Blood's fiercest competitors battle it out for glory, huge prizes, and the chance to become Mexico City's first Calling Champion! 🇲🇽 🎙️ Join Pro Tour veteran Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour Las Vegas Finalist) and fan favorite"
+        }
+      ],
+      "last_checked_at": "2026-10-28T12:47:18.850572+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
+      "recent_count": 3,
+      "latest_published_at": "2026-10-27T23:00:03+00:00"
+    },
     {
       "name": "NumotTheNummy",
       "platform": "youtube",
@@ -153,13 +737,12 @@
           "excerpt": "Thanks for watching! ✅ Subscribe: https://www.youtube.com/c/NumotTheNummyYT?sub_confirmation=1 ☑️ Join the Nummy Sub Club to unlock exclusive perks: https://www.youtube.com/channel/UCLzE7jLdn7dqxK-0OdXeuaw/join ---------------------------------------------------------------- • Twitch: https://www.twitch.tv/numotthenummy • Twitter: https://www.twitter.com/num"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:27.007786+00:00",
+      "last_checked_at": "2026-10-28T12:47:34.815647+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCLzE7jLdn7dqxK-0OdXeuaw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLzE7jLdn7dqxK-0OdXeuaw",
       "resolved_channel_id": "UCLzE7jLdn7dqxK-0OdXeuaw",
       "recent_count": 12,
-      "latest_published_at": "2026-10-27T21:00:25+00:00",
-      "last_error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCLzE7jLdn7dqxK-0OdXeuaw"
+      "latest_published_at": "2026-10-27T21:00:25+00:00"
     },
     {
       "name": "TCGTed",
@@ -252,13 +835,12 @@
           "excerpt": "INTO THE AM PARTNER LINK - http://bit.ly/4nn4PTk #fabtcg #tcg Twitter: https://twitter.com/tcgted IG: https://www.instagram.com/tcg_ted/"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:09.308523+00:00",
+      "last_checked_at": "2026-10-28T12:47:12.072262+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCOdxqo7yrE5CKVFHKHCnPsA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOdxqo7yrE5CKVFHKHCnPsA",
       "resolved_channel_id": "UCOdxqo7yrE5CKVFHKHCnPsA",
       "recent_count": 7,
-      "latest_published_at": "2026-10-27T20:40:15+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCOdxqo7yrE5CKVFHKHCnPsA"
+      "latest_published_at": "2026-10-27T20:40:15+00:00"
     },
     {
       "name": "Nitpicking Nerds",
@@ -352,13 +934,12 @@
           "excerpt": ""
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:26.299562+00:00",
+      "last_checked_at": "2026-10-28T12:47:33.718109+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCh76d0-ff5eaN68V2OaoghA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh76d0-ff5eaN68V2OaoghA",
       "resolved_channel_id": "UCh76d0-ff5eaN68V2OaoghA",
       "recent_count": 7,
-      "latest_published_at": "2026-10-27T20:15:29+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCh76d0-ff5eaN68V2OaoghA"
+      "latest_published_at": "2026-10-27T20:15:29+00:00"
     },
     {
       "name": "Loro",
@@ -428,13 +1009,12 @@
           "excerpt": "I am playing and winning a lot with Puffin Hightail of flesh and blood tcg PORTFOLIO: https://ttvornanen.portfoliobox.net/ INPRINT: https://www.inprnt.com/profile/loro23/ ETSY: https://www.etsy.com/fi-en/shop/LorosAlters INSTAGRAM: https://www.instagram.com/lorooftheworld/ TWITCH: https://www.twitch.tv/loro23 Welcome to my channel! I’m an artist and a passio"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:10.975940+00:00",
+      "last_checked_at": "2026-10-28T12:47:14.188531+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCV5U06pp0cdzM4JIfSDCCKQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV5U06pp0cdzM4JIfSDCCKQ",
       "resolved_channel_id": "UCV5U06pp0cdzM4JIfSDCCKQ",
       "recent_count": 5,
-      "latest_published_at": "2026-10-27T19:00:25+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCV5U06pp0cdzM4JIfSDCCKQ"
+      "latest_published_at": "2026-10-27T19:00:25+00:00"
     },
     {
       "name": "PleasantKenobi",
@@ -526,37 +1106,14 @@
           "content_platform": "youtube",
           "author": "PleasantKenobi",
           "excerpt": "Star Trek Debut stream happened - we are officially in the Star Trek hype cycle now - so let's talk about the set. Find Gamegenic's incredible selection of Reality Fracture accessories here: https://www.gamegenic.com/ #commander #edh #magicthegathering"
-        },
-        {
-          "id": "bd45ef5f633c24aac1c1",
-          "title": "Star Trek pushes MTG's Power Scaling to Breaking Point",
-          "url": "https://www.youtube.com/shorts/ZKSqqgSOeww",
-          "published_at": "2026-10-21T10:13:27+00:00",
-          "image_url": "https://i3.ytimg.com/vi/ZKSqqgSOeww/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "PleasantKenobi",
-          "excerpt": ""
-        },
-        {
-          "id": "a08cf2d65ac244bcb0d6",
-          "title": "Vintage Cube just got a New Toy",
-          "url": "https://www.youtube.com/shorts/J-5VSh_IsX4",
-          "published_at": "2026-10-21T10:03:15+00:00",
-          "image_url": "https://i3.ytimg.com/vi/J-5VSh_IsX4/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "PleasantKenobi",
-          "excerpt": "Deep Space 9 makes me feel joy."
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:26.167463+00:00",
+      "last_checked_at": "2026-10-28T12:47:33.570416+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC_b074DeDtbHukufPf2O1kw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_b074DeDtbHukufPf2O1kw",
       "resolved_channel_id": "UC_b074DeDtbHukufPf2O1kw",
-      "recent_count": 9,
-      "latest_published_at": "2026-10-27T18:01:48+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC_b074DeDtbHukufPf2O1kw"
+      "recent_count": 7,
+      "latest_published_at": "2026-10-27T18:01:48+00:00"
     },
     {
       "name": "The Command Zone",
@@ -617,13 +1174,12 @@
           "excerpt": "Support the show and become a Patron! Be a part of our community, receive awesome rewards, and more :) http://www.patreon.com/commandzone ---------- Show Notes: Teferi’s Protection, Fierce Guardianship, Toxic Deluge: Without Commander precons we wouldn’t have a ton of the format’s foremost staples. For this episode, we delved through ALL 150+ PRECONS to find"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:24.337275+00:00",
+      "last_checked_at": "2026-10-28T12:47:31.197251+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCLsiaNUb42gRAP7ewbJ0ecQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLsiaNUb42gRAP7ewbJ0ecQ",
       "resolved_channel_id": "UCLsiaNUb42gRAP7ewbJ0ecQ",
       "recent_count": 4,
-      "latest_published_at": "2026-10-27T18:00:31+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCLsiaNUb42gRAP7ewbJ0ecQ"
+      "latest_published_at": "2026-10-27T18:00:31+00:00"
     },
     {
       "name": "Tolarian Community College",
@@ -696,13 +1252,12 @@
           "excerpt": "Thank you Helix Sleep for sponsoring! Visit https://helixsleep.com/tolarian to take advantage of their Fall Savings Event - 20% off sitewide! 3 Key Tips To Improve Your Magic: The Gathering Draft Game: https://youtu.be/vMuypCwQ7WU Be sure to watch our Reality Fracture Shuffle Up & Play here: https://youtu.be/3r3md8snmJo Our New and Updated Beginner's Guide T"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:24.020568+00:00",
+      "last_checked_at": "2026-10-28T12:47:30.801301+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC7-hR5EfgpM6oHfiGDkxfMA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7-hR5EfgpM6oHfiGDkxfMA",
       "resolved_channel_id": "UC7-hR5EfgpM6oHfiGDkxfMA",
       "recent_count": 5,
-      "latest_published_at": "2026-10-27T16:21:52+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC7-hR5EfgpM6oHfiGDkxfMA"
+      "latest_published_at": "2026-10-27T16:21:52+00:00"
     },
     {
       "name": "AggroBlaze96",
@@ -817,13 +1372,12 @@
           "excerpt": "Become a MEMBER on YouTube: https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w/join Join the Discord - https://discord.gg/pm9SUCHSCf Taylor's Azalea - https://fabrary.net/decks/01M5BDHW7NSSQM77BJR3X7AFWV Codex Journal - https://codexjournals.com/aggroblaze96 Use code AggroBlaze96 to save 10% at checkout! Metafy - https://metafy.gg/@aggroblaze96 Twitch "
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:08.598716+00:00",
+      "last_checked_at": "2026-10-28T12:47:10.823875+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaAuLET4Gy0CjrWOHuhTE_w",
       "resolved_channel_id": "UCaAuLET4Gy0CjrWOHuhTE_w",
       "recent_count": 9,
-      "latest_published_at": "2026-10-27T16:00:14+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCaAuLET4Gy0CjrWOHuhTE_w"
+      "latest_published_at": "2026-10-27T16:00:14+00:00"
     },
     {
       "name": "CovertGoBlue",
@@ -894,13 +1448,12 @@
           "excerpt": "Perfecting Azorius Control for the Standard Event on MTG Arena CGB Dragon Shield Sleeves are here - https://www.dragonshield.com/en-us/p/covertgoblue-sleeves-brushed-art-sleeves-standard-size/AT-18070 CoolStuffInc.com Promo Code CGB5 - https://www.coolstuffinc.com/cgb Dragon Shield Coupon Code CGB5 - https://dragonshield.com/?ref=CGB Decklist - https://moxfi"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:26.639141+00:00",
+      "last_checked_at": "2026-10-28T12:47:34.187793+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC-UZjHl2kZ-6XKBLgbFgGAQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-UZjHl2kZ-6XKBLgbFgGAQ",
       "resolved_channel_id": "UC-UZjHl2kZ-6XKBLgbFgGAQ",
       "recent_count": 5,
-      "latest_published_at": "2026-10-27T15:00:36+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC-UZjHl2kZ-6XKBLgbFgGAQ"
+      "latest_published_at": "2026-10-27T15:00:36+00:00"
     },
     {
       "name": "MTGGoldfish",
@@ -1025,26 +1578,14 @@
           "content_platform": "youtube",
           "author": "MTGGoldfish",
           "excerpt": "Hit It! seems busted...in Standard *and* Commander Need some Magic cards? https://www.cardkingdom.com.mtggoldfish #MTG #magicthegathering"
-        },
-        {
-          "id": "056205c9b5d83dadc122",
-          "title": "Star Trek Spoiler Stream",
-          "url": "https://www.youtube.com/watch?v=jC6XCELNxOE",
-          "published_at": "2026-10-21T06:15:32+00:00",
-          "image_url": "https://i3.ytimg.com/vi/jC6XCELNxOE/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "MTGGoldfish",
-          "excerpt": "Live stream on 2026-10-20"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:24.203292+00:00",
+      "last_checked_at": "2026-10-28T12:47:30.950601+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCZAZTSd0xnor7hJFmINIBIw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZAZTSd0xnor7hJFmINIBIw",
       "resolved_channel_id": "UCZAZTSd0xnor7hJFmINIBIw",
-      "recent_count": 11,
-      "latest_published_at": "2026-10-27T15:00:12+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCZAZTSd0xnor7hJFmINIBIw"
+      "recent_count": 10,
+      "latest_published_at": "2026-10-27T15:00:12+00:00"
     },
     {
       "name": "DMArmada",
@@ -1094,13 +1635,12 @@
           "excerpt": "SUPPORT THE CHANNEL! Join this channel to get access to perks: https://www.youtube.com/channel/UCLYtjHT4lwcN8-e5Fh9Rigg/join 🎲MINMAX GAMES: https://www.minmaxgamesfab.com/discount/DMA 🎲My Dragon Shield Affiliate Link: https://www.dragonshield.com/webshop/us/?aff=24 JOIN THE ARMADA! 🎲 Metafy: https://metafy.gg/@dmarmada 🎲 Discord: https://discord.gg/r9vWQddbG"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:08.179359+00:00",
+      "last_checked_at": "2026-10-28T12:47:10.046413+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCLYtjHT4lwcN8-e5Fh9Rigg",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLYtjHT4lwcN8-e5Fh9Rigg",
       "resolved_channel_id": "UCLYtjHT4lwcN8-e5Fh9Rigg",
       "recent_count": 3,
-      "latest_published_at": "2026-10-27T14:45:35+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCLYtjHT4lwcN8-e5Fh9Rigg"
+      "latest_published_at": "2026-10-27T14:45:35+00:00"
     },
     {
       "name": "Play to Win",
@@ -1215,13 +1755,12 @@
           "excerpt": ""
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:25.087989+00:00",
+      "last_checked_at": "2026-10-28T12:47:32.085701+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC7339iJMCETmek3jdx9LOkg",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7339iJMCETmek3jdx9LOkg",
       "resolved_channel_id": "UC7339iJMCETmek3jdx9LOkg",
       "recent_count": 9,
-      "latest_published_at": "2026-10-27T14:00:15+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC7339iJMCETmek3jdx9LOkg"
+      "latest_published_at": "2026-10-27T14:00:15+00:00"
     },
     {
       "name": "Red Zone Rogue",
@@ -1270,13 +1809,12 @@
           "excerpt": "⚔ New Players START HERE! Ultraman Card Game Starter Deck 04 + BP09 Opening and Review ⚔ (づ｡◕‿‿◕｡)づ LINKS BELOW! Support the Channel Directly: 🎴🤘 Join the Rogue's Gallery through Channel Memberships! https://www.youtube.com/channel/UCSl5xtiqtMuSFmO9Gs866ug/join 🎴🍻 RZR merch including anime tcg sleeves and mats: https://redzonerogue.com/ 🎴⚔ Patreon: https://w"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:11.456853+00:00",
+      "last_checked_at": "2026-10-28T12:47:15.025649+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCSl5xtiqtMuSFmO9Gs866ug",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSl5xtiqtMuSFmO9Gs866ug",
       "resolved_channel_id": "UCSl5xtiqtMuSFmO9Gs866ug",
       "recent_count": 3,
-      "latest_published_at": "2026-10-27T13:30:29+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCSl5xtiqtMuSFmO9Gs866ug"
+      "latest_published_at": "2026-10-27T13:30:29+00:00"
     },
     {
       "name": "Lupinefiasco / Daily FaB",
@@ -1336,91 +1874,12 @@
           "excerpt": "Check out @OllinTogether and his Earth Jarl matchup guide! https://www.patreon.com/OllinTogether/posts/post-atl-earth-171892600?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=web_share Classic Constructed gameplay on Talishar.net. This gameplay was recorded on October 15, 2026. Use Fablazing to check tournament data, her"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:08.781777+00:00",
+      "last_checked_at": "2026-10-28T12:47:11.066820+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCUn1ebI9uZFSRPAnPVLJgqQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUn1ebI9uZFSRPAnPVLJgqQ",
       "resolved_channel_id": "UCUn1ebI9uZFSRPAnPVLJgqQ",
       "recent_count": 4,
-      "latest_published_at": "2026-10-27T11:38:07+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCUn1ebI9uZFSRPAnPVLJgqQ"
-    },
-    {
-      "name": "Dice Commando",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "notícias",
-        "regras",
-        "banimentos",
-        "meta"
-      ],
-      "url": "https://www.youtube.com/results?search_query=Dice+Commando+Flesh+and+Blood",
-      "id": "b775d28072ee407f",
-      "recent_items": [
-        {
-          "id": "68ce671a2ae12c67cb13",
-          "title": "3.0 Chatter - Dice & Budz \"After Dark\" | Flesh and Blood TCG | Go Again! Ep907",
-          "url": "https://www.youtube.com/watch?v=nSP79vCzZPM",
-          "published_at": "2026-10-27T11:15:20+00:00",
-          "image_url": "https://i3.ytimg.com/vi/nSP79vCzZPM/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Dice Commando",
-          "excerpt": "“DICE… AND…. BUDZZZZZ….” Our BUD stuck around after our original shoot to chat 3.0 first reactions... let's do this! Find our State of Fab video here: https://youtu.be/sBOM1SWD5QE Find Flesh and Buds here: @freshandbuds This is a Members-First early access video! Become a Dice Commando Channel Member for access to exclusive videos, access to the Discord, and"
-        },
-        {
-          "id": "eb23503713cfdf2d773a",
-          "title": "🤢 SPOILER 🤢 Sick Intent : Mastery Pack Assassin | Flesh and Blood TCG | Go Again! Ep909",
-          "url": "https://www.youtube.com/watch?v=_qOXI8leRqw",
-          "published_at": "2026-10-27T02:24:49+00:00",
-          "image_url": "https://i4.ytimg.com/vi/_qOXI8leRqw/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Dice Commando",
-          "excerpt": "For our Assassins, it's all about completing the contract. But success? Well, it can be... INFECTIOUS... October 29th on Dice Commando. Become a Dice Commando Channel Member for access to exclusive videos, access to the Discord, and seasonal events: https://www.youtube.com/channel/UCgclEXaTMqVFktXfEU0KCQw/join Sealed product source Gongaii Games. Use Code CO"
-        },
-        {
-          "id": "58d420ee4237d0cdaac0",
-          "title": "Dice & Buds - State of Bipolar FaB | Flesh and Blood TCG | Go Again! Ep906",
-          "url": "https://www.youtube.com/watch?v=sBOM1SWD5QE",
-          "published_at": "2026-10-26T11:15:36+00:00",
-          "image_url": "https://i4.ytimg.com/vi/sBOM1SWD5QE/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Dice Commando",
-          "excerpt": "“DICE… AND…. BUDZZZZZ….” Our guest today has a reputation for an infectiously positive attitude – but does so with a fair and balanced outlook on things. He joins us to talk the overall state of Flesh and Blood. Find our 3.0 video here: https://youtu.be/nSP79vCzZPM Find Flesh and Buds here: @freshandbuds This is a Members-First early access video! Become a D"
-        },
-        {
-          "id": "e5bf010f9020505234c8",
-          "title": "Fab 3.0 Breakdown & Reactions | Flesh and Blood TCG | Go Again! Ep905",
-          "url": "https://www.youtube.com/watch?v=NGwoYcWwAmI",
-          "published_at": "2026-10-23T11:15:37+00:00",
-          "image_url": "https://i3.ytimg.com/vi/NGwoYcWwAmI/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Dice Commando",
-          "excerpt": "DC's recap & reactions to the Fab3.0 changes. 00:00 - Intro 01:20 - 3.0 or 3.ohno? 03:40 - Why 3.0? 06:45 - The Changes 09:10 - Premier Play 13:25 - Product Changes 22:30 - In-Store Play 28:55 - Weekend Warriors 34:05 - GEM Pack Sadness 35:10 - DC's Positives 37:45 - DC's Concerns 40:35 - WrapUp This is a Members-First early access video! Become a Dice Comma"
-        },
-        {
-          "id": "0f71cd3db445bf6da1f5",
-          "title": "Dromai2 - Forecasting the Return | Flesh and Blood TCG | Go Again! Ep904",
-          "url": "https://www.youtube.com/watch?v=rzRekxEXToM",
-          "published_at": "2026-10-21T11:15:23+00:00",
-          "image_url": "https://i3.ytimg.com/vi/rzRekxEXToM/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Dice Commando",
-          "excerpt": "Today, I want to share with you what *I* think that a new Dromai could look like – within the modern game, but still holding true to her role as the Dragon Mommy. This is a Members-First early access video! Become a Dice Commando Channel Member for access to exclusive videos, access to the Discord, and seasonal events: https://www.youtube.com/channel/UCgclEX"
-        }
-      ],
-      "last_checked_at": "2026-10-28T05:36:08.462930+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCgclEXaTMqVFktXfEU0KCQw",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgclEXaTMqVFktXfEU0KCQw",
-      "resolved_channel_id": "UCgclEXaTMqVFktXfEU0KCQw",
-      "recent_count": 5,
-      "latest_published_at": "2026-10-27T11:15:20+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCgclEXaTMqVFktXfEU0KCQw"
+      "latest_published_at": "2026-10-27T11:38:07+00:00"
     },
     {
       "name": "Kloo TCG",
@@ -1479,204 +1938,14 @@
           "content_platform": "youtube",
           "author": "Kloo TCG",
           "excerpt": "#fabtcg #FleshandBloodTCG #FleshandBlood Looking for FaB Singles in Australia Why Not Check Out Jene's FAB Sales: https://www.facebook.com/groups/1392175722646030/ Due for some new clothes? And feel like supporting me why not check out INTO THE AM using this link https://intotheam.com/kloo-d-in for some cool apparel. Decklist - https://fabrary.net/decks/01M5"
-        },
-        {
-          "id": "8bd913b6934083f8a9e6",
-          "title": "FaB 3.0 Product Change Thoughts, Less is More But Also Somehow Maybe Better? | Flesh and Blood TCG",
-          "url": "https://www.youtube.com/watch?v=T2ZglAWFYYc",
-          "published_at": "2026-10-21T10:45:35+00:00",
-          "image_url": "https://i1.ytimg.com/vi/T2ZglAWFYYc/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Kloo TCG",
-          "excerpt": "#fabtcg #FleshandBloodTCG #FleshandBlood Looking for FaB Singles in Australia Why Not Check Out Jene's FAB Sales: https://www.facebook.com/groups/1392175722646030/ Due for some new clothes? And feel like supporting me why not check out INTO THE AM using this link https://intotheam.com/kloo-d-in for some cool apparel. Oblivion, damnation and carnage await Rat"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:09.048722+00:00",
+      "last_checked_at": "2026-10-28T12:47:11.521257+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCaLIcHPzIDEP6BYFtTCPVpA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaLIcHPzIDEP6BYFtTCPVpA",
       "resolved_channel_id": "UCaLIcHPzIDEP6BYFtTCPVpA",
-      "recent_count": 5,
-      "latest_published_at": "2026-10-27T10:45:31+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCaLIcHPzIDEP6BYFtTCPVpA"
-    },
-    {
-      "name": "MaldHound",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "magic",
-      "focus": [
-        "Commander",
-        "humor",
-        "memes",
-        "comunidade"
-      ],
-      "url": "https://www.youtube.com/results?search_query=MaldHound+MTG",
-      "id": "c432eee2b1b51916",
-      "recent_items": [
-        {
-          "id": "b755eda013002aca7599",
-          "title": "I would NEVER Put You In a Situation",
-          "url": "https://www.youtube.com/shorts/raePz-AfjHE",
-          "published_at": "2026-10-27T04:53:32+00:00",
-          "image_url": "https://i3.ytimg.com/vi/raePz-AfjHE/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "MaldHound",
-          "excerpt": ""
-        },
-        {
-          "id": "0cea078da040af5e1aa5",
-          "title": "These Deckbuilders Are INSANE",
-          "url": "https://www.youtube.com/watch?v=AB3-eU84gNE",
-          "published_at": "2026-10-26T20:30:48+00:00",
-          "image_url": "https://i2.ytimg.com/vi/AB3-eU84gNE/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "MaldHound",
-          "excerpt": "Click this link https://boot.dev/?promo=MALDHOUND and use my code MALDHOUND to get 25% off your first payment for boot.dev. I make fun of and (sometimes) improve my viewers commanders decks! Niv - https://moxfield.com/decks/pKyRz-mluUS2_h9DBAS6cw Podcasting Deck - https://moxfield.com/decks/W7SVOrjI6ky6vptVpo5nPQ Democracy - https://moxfield.com/decks/41JZOZ"
-        },
-        {
-          "id": "3f927d3f3b35d67e2d7f",
-          "title": "I\"M CUBING YOU I'M CUBING YOU",
-          "url": "https://www.youtube.com/shorts/X41vDuCOfsY",
-          "published_at": "2026-10-26T03:20:51+00:00",
-          "image_url": "https://i1.ytimg.com/vi/X41vDuCOfsY/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "MaldHound",
-          "excerpt": ""
-        },
-        {
-          "id": "4a7565c82211ed09b24a",
-          "title": "THE YAPPENING + deck roast raffle",
-          "url": "https://www.youtube.com/watch?v=yuB-iXfkFqQ",
-          "published_at": "2026-10-25T21:49:08+00:00",
-          "image_url": "https://i2.ytimg.com/vi/yuB-iXfkFqQ/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "MaldHound",
-          "excerpt": ""
-        },
-        {
-          "id": "4742b176b870d6180b62",
-          "title": "He Was Our Savior",
-          "url": "https://www.youtube.com/shorts/o3_EOdt4KC8",
-          "published_at": "2026-10-24T22:21:29+00:00",
-          "image_url": "https://i4.ytimg.com/vi/o3_EOdt4KC8/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "MaldHound",
-          "excerpt": ""
-        },
-        {
-          "id": "5c487cd2abb003f40923",
-          "title": "PLEASE GAVIN SAVE MY SON",
-          "url": "https://www.youtube.com/shorts/KFQZPYbxUPs",
-          "published_at": "2026-10-24T03:06:01+00:00",
-          "image_url": "https://i4.ytimg.com/vi/KFQZPYbxUPs/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "MaldHound",
-          "excerpt": ""
-        },
-        {
-          "id": "fdc51bca56e649ced1fc",
-          "title": "POV: It's NOT Bracket 2",
-          "url": "https://www.youtube.com/shorts/OHVbCAvAM44",
-          "published_at": "2026-10-23T02:25:57+00:00",
-          "image_url": "https://i4.ytimg.com/vi/OHVbCAvAM44/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "MaldHound",
-          "excerpt": ""
-        },
-        {
-          "id": "479d9a432af6ba8fab56",
-          "title": "CUSTOM CARD REVIEW DAY",
-          "url": "https://www.youtube.com/watch?v=zMMiLgbTOcU",
-          "published_at": "2026-10-22T22:10:31+00:00",
-          "image_url": "https://i3.ytimg.com/vi/zMMiLgbTOcU/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "MaldHound",
-          "excerpt": ""
-        },
-        {
-          "id": "3d5d3ba717f58b6a3b64",
-          "title": "The Best Wolf in MTG",
-          "url": "https://www.youtube.com/shorts/-tNnYEVYmdI",
-          "published_at": "2026-10-22T02:31:35+00:00",
-          "image_url": "https://i2.ytimg.com/vi/-tNnYEVYmdI/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "MaldHound",
-          "excerpt": ""
-        }
-      ],
-      "last_checked_at": "2026-10-28T05:36:27.483095+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCZfLLRbcus7Fm0STiCz0AfQ",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZfLLRbcus7Fm0STiCz0AfQ",
-      "resolved_channel_id": "UCZfLLRbcus7Fm0STiCz0AfQ",
-      "recent_count": 9,
-      "latest_published_at": "2026-10-27T04:53:32+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCZfLLRbcus7Fm0STiCz0AfQ"
-    },
-    {
-      "name": "The Spike Feeders",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "magic",
-      "focus": [
-        "Commander",
-        "cEDH",
-        "gameplay",
-        "comunidade"
-      ],
-      "url": "https://www.youtube.com/results?search_query=The+Spike+Feeders+MTG",
-      "id": "20e030dce3d60bb7",
-      "recent_items": [
-        {
-          "id": "6be5296ba3769c0a1d87",
-          "title": "LIVE COMMANDER GAMEPLAY ft. @HurryUpandPass 27-OCT-2026",
-          "url": "https://www.youtube.com/watch?v=_DUs-a3ai0k",
-          "published_at": "2026-10-26T21:08:57+00:00",
-          "image_url": "https://i4.ytimg.com/vi/_DUs-a3ai0k/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "The Spike Feeders",
-          "excerpt": "Check out Moxfield for our decklists! Join the Discord! https://discord.gg/RfN62pS"
-        },
-        {
-          "id": "3791c206de27933867d6",
-          "title": "DUPLICATING a deck on @moxfield #mtg",
-          "url": "https://www.youtube.com/shorts/F9Xa8aatCPk",
-          "published_at": "2026-10-26T20:43:28+00:00",
-          "image_url": "https://i3.ytimg.com/vi/F9Xa8aatCPk/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "The Spike Feeders",
-          "excerpt": "Jim walks you through how to duplicate someone else's #mtgcommander deck as a starting place to work on!"
-        },
-        {
-          "id": "4e2a3b593e3df8468331",
-          "title": "GOOFY and LIGHTHEARTED cEDH | Derevi VS Tivit VS Godo VS Rog/Si",
-          "url": "https://www.youtube.com/watch?v=K-SI7E8D2YU",
-          "published_at": "2026-10-22T20:02:16+00:00",
-          "image_url": "https://i4.ytimg.com/vi/K-SI7E8D2YU/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "The Spike Feeders",
-          "excerpt": "Check out Gamegenic's line of OFFICIALLY LICENSED Reality Fracture accessories https://www.gamegenic.com/magic-the-gathering/reality-fracture/ SELL YOUR CARDS to Star City Games and get a 30% store credit bonus! Sell Your Cards: https://bit.ly/sellyourcardstsf?aff=15 SCG Hartford: https://scgcon.starcitygames.com/event/scg-con-hartford-2026/aff=15 Spike Merc"
-        }
-      ],
-      "last_checked_at": "2026-10-28T05:36:26.456557+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCGh7-4mDFssqhu_UpOwRzIA",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGh7-4mDFssqhu_UpOwRzIA",
-      "resolved_channel_id": "UCGh7-4mDFssqhu_UpOwRzIA",
-      "recent_count": 3,
-      "latest_published_at": "2026-10-26T21:08:57+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCGh7-4mDFssqhu_UpOwRzIA"
+      "recent_count": 4,
+      "latest_published_at": "2026-10-27T10:45:31+00:00"
     },
     {
       "name": "AshenWingzTCG",
@@ -1736,13 +2005,12 @@
           "excerpt": "Channel Members get member only videos as well as a place in my heart! Thank you for supporting the channel and being such a wonderful member of this community! Decklist: https://fabrary.net/decks/01KJWTD297ERJEMH5PPMGAXNCD Into the AM Partner Link: https://www.intotheam.com/ASHTCG Bulk Recylcing Form: https://docs.google.com/spreadsheets/d/1bTDSLmgxTmMVYES8"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:09.568893+00:00",
+      "last_checked_at": "2026-10-28T12:47:12.580113+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC663r9Jbqwv6ftJNZDdVVUg",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC663r9Jbqwv6ftJNZDdVVUg",
       "resolved_channel_id": "UC663r9Jbqwv6ftJNZDdVVUg",
       "recent_count": 4,
-      "latest_published_at": "2026-10-26T17:14:12+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC663r9Jbqwv6ftJNZDdVVUg"
+      "latest_published_at": "2026-10-26T17:14:12+00:00"
     },
     {
       "name": "Commander at Home",
@@ -1791,13 +2059,12 @@
           "excerpt": "My Omnath deck can't use Sol Ring.. but it doesn't help me cast this spell anyways! #magicthegathering #mtgcommander From Commander at Home Episode 55 with Ify Nwadiwe and Aims. You can support Commander at Home directly and unlock exclusive supporter perks by supporting the channel on Patreon! Subscribe to Commander at Home for more Magic: The Gathering con"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:25.464820+00:00",
+      "last_checked_at": "2026-10-28T12:47:32.583291+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCK05AM3Ed_ckARsrWdQhzig",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK05AM3Ed_ckARsrWdQhzig",
       "resolved_channel_id": "UCK05AM3Ed_ckARsrWdQhzig",
       "recent_count": 3,
-      "latest_published_at": "2026-10-26T17:00:24+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK05AM3Ed_ckARsrWdQhzig"
+      "latest_published_at": "2026-10-26T17:00:24+00:00"
     },
     {
       "name": "Sloopdoop",
@@ -1824,13 +2091,12 @@
           "excerpt": "FaB 3.0 was finally announced! However, things turned out to be quite vague, and left us with more questions than answers. That said, I'm a YouTuber: we can't help but give our thoughts anyways. ZackYap Post: https://x.com/zackyap/status/2112985593428979825?s=20 Support me on Patreon: https://www.patreon.com/Sloopdoop BuytheSameToken: https://buythesametoken"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:11.589028+00:00",
+      "last_checked_at": "2026-10-28T12:47:15.320319+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCVM_MGFx-XJhOQHcGzzq2ZA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVM_MGFx-XJhOQHcGzzq2ZA",
       "resolved_channel_id": "UCVM_MGFx-XJhOQHcGzzq2ZA",
       "recent_count": 1,
-      "latest_published_at": "2026-10-26T15:30:13+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCVM_MGFx-XJhOQHcGzzq2ZA"
+      "latest_published_at": "2026-10-26T15:30:13+00:00"
     },
     {
       "name": "Man Sant",
@@ -1879,273 +2145,12 @@
           "excerpt": "► https://metafy.gg/@brodiespurlock • Jacob Clements' Ser Boltyn, Breaker of Dawn: https://fabrary.net/decks/01M4H4RRT7KZ5YYRTYK1TQGXYQ?tab=edit • Brodie Spurlock's Cindra, Dracai of Retribution: https://fabrary.net/decks/01M3873ZVX521ZE4VY3P080PQ4?tab=settings ◄ ► SUPPORT THE CHANNEL ◄ • Get Tokens on Patreon! | https://www.patreon.com/ManSant • SecretLab |"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:10.688667+00:00",
+      "last_checked_at": "2026-10-28T12:47:13.888757+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCW-mPwR8EnaclCDXp2HI8hQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCW-mPwR8EnaclCDXp2HI8hQ",
       "resolved_channel_id": "UCW-mPwR8EnaclCDXp2HI8hQ",
       "recent_count": 3,
-      "latest_published_at": "2026-10-26T00:29:44+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCW-mPwR8EnaclCDXp2HI8hQ"
-    },
-    {
-      "name": "TCG TALK",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "notícias",
-        "meta",
-        "opinião"
-      ],
-      "url": "https://www.youtube.com/results?search_query=TCG+TALK+Flesh+and+Blood",
-      "id": "bbaa7618326bb5af",
-      "recent_items": [
-        {
-          "id": "a80f7032c40942415b11",
-          "title": "🔴 Day 2 & Top 8 Calling Mexico City | Flesh and Blood #fabtcg",
-          "url": "https://www.youtube.com/watch?v=air-H9wAcxE",
-          "published_at": "2026-10-25T22:53:46+00:00",
-          "image_url": "https://i2.ytimg.com/vi/air-H9wAcxE/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "🏆 $20,000 USD is up for grabs as Mexico City's FIRST EVER Calling comes to a close! 🇲🇽 The stakes are high as Flesh and Blood's top competitors battle through the final rounds to make history and crown Mexico City's first Calling Champion! 🎙️ Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour: Las Vegas Finalist) and fan favorite Bryce Platz (Arca"
-        },
-        {
-          "id": "79355b6fba4f0a08443c",
-          "title": "🔴 Day 1 Calling Mexico City | Flesh and Blood #fabtcg",
-          "url": "https://www.youtube.com/watch?v=mC6DH4e3xYg",
-          "published_at": "2026-10-24T23:02:03+00:00",
-          "image_url": "https://i2.ytimg.com/vi/mC6DH4e3xYg/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "🏆 $20,000 USD is on the line at Mexico City's FIRST EVER Calling! History is in the making as Flesh and Blood's fiercest competitors battle it out for glory, huge prizes, and the chance to become Mexico City's first Calling Champion! 🇲🇽 🎙️ Join Pro Tour veteran Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour Las Vegas Finalist) and fan favorite"
-        }
-      ],
-      "last_checked_at": "2026-10-28T05:36:08.334441+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
-      "recent_count": 2,
-      "latest_published_at": "2026-10-25T22:53:46+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw"
-    },
-    {
-      "name": "Funk",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "competitivo"
-      ],
-      "url": "https://www.youtube.com/results?search_query=Funk+Flesh+and+Blood+TCG",
-      "id": "155bf92e368b525b",
-      "recent_items": [
-        {
-          "id": "242d5dd030f619ea90fe",
-          "title": "🔴 Day 2 & Top 8 Calling Mexico City | Flesh and Blood #fabtcg",
-          "url": "https://www.youtube.com/watch?v=air-H9wAcxE",
-          "published_at": "2026-10-25T22:53:46+00:00",
-          "image_url": "https://i2.ytimg.com/vi/air-H9wAcxE/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "🏆 $20,000 USD is up for grabs as Mexico City's FIRST EVER Calling comes to a close! 🇲🇽 The stakes are high as Flesh and Blood's top competitors battle through the final rounds to make history and crown Mexico City's first Calling Champion! 🎙️ Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour: Las Vegas Finalist) and fan favorite Bryce Platz (Arca"
-        },
-        {
-          "id": "f666f3c337d2d8435e9a",
-          "title": "🔴 Day 1 Calling Mexico City | Flesh and Blood #fabtcg",
-          "url": "https://www.youtube.com/watch?v=mC6DH4e3xYg",
-          "published_at": "2026-10-24T23:02:03+00:00",
-          "image_url": "https://i2.ytimg.com/vi/mC6DH4e3xYg/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "🏆 $20,000 USD is on the line at Mexico City's FIRST EVER Calling! History is in the making as Flesh and Blood's fiercest competitors battle it out for glory, huge prizes, and the chance to become Mexico City's first Calling Champion! 🇲🇽 🎙️ Join Pro Tour veteran Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour Las Vegas Finalist) and fan favorite"
-        }
-      ],
-      "last_checked_at": "2026-10-28T05:36:11.987333+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
-      "recent_count": 2,
-      "latest_published_at": "2026-10-25T22:53:46+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw"
-    },
-    {
-      "name": "Formato For Fun",
-      "platform": "youtube",
-      "language": "pt",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "lore",
-        "conteúdo em português"
-      ],
-      "url": "https://www.youtube.com/results?search_query=Formato+For+Fun+Flesh+and+Blood",
-      "id": "c16bc511700f45dc",
-      "recent_items": [
-        {
-          "id": "955cbc851cc2b2be4df3",
-          "title": "🔴 Day 2 & Top 8 Calling Mexico City | Flesh and Blood #fabtcg",
-          "url": "https://www.youtube.com/watch?v=air-H9wAcxE",
-          "published_at": "2026-10-25T22:53:46+00:00",
-          "image_url": "https://i2.ytimg.com/vi/air-H9wAcxE/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "🏆 $20,000 USD is up for grabs as Mexico City's FIRST EVER Calling comes to a close! 🇲🇽 The stakes are high as Flesh and Blood's top competitors battle through the final rounds to make history and crown Mexico City's first Calling Champion! 🎙️ Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour: Las Vegas Finalist) and fan favorite Bryce Platz (Arca"
-        },
-        {
-          "id": "1d80cfd7339bb0d035f5",
-          "title": "🔴 Day 1 Calling Mexico City | Flesh and Blood #fabtcg",
-          "url": "https://www.youtube.com/watch?v=mC6DH4e3xYg",
-          "published_at": "2026-10-24T23:02:03+00:00",
-          "image_url": "https://i2.ytimg.com/vi/mC6DH4e3xYg/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "🏆 $20,000 USD is on the line at Mexico City's FIRST EVER Calling! History is in the making as Flesh and Blood's fiercest competitors battle it out for glory, huge prizes, and the chance to become Mexico City's first Calling Champion! 🇲🇽 🎙️ Join Pro Tour veteran Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour Las Vegas Finalist) and fan favorite"
-        }
-      ],
-      "last_checked_at": "2026-10-28T05:36:15.374144+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
-      "recent_count": 2,
-      "latest_published_at": "2026-10-25T22:53:46+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw"
-    },
-    {
-      "name": "Dues of the Golden Sands",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "deck tech",
-        "competitivo"
-      ],
-      "url": "https://www.youtube.com/results?search_query=Dues+of+the+Golden+Sands+Flesh+and+Blood",
-      "id": "dbc698f4ffc4a5a6",
-      "recent_items": [
-        {
-          "id": "f50904dc34dbdd5310ca",
-          "title": "🔴 Day 2 & Top 8 Calling Mexico City | Flesh and Blood #fabtcg",
-          "url": "https://www.youtube.com/watch?v=air-H9wAcxE",
-          "published_at": "2026-10-25T22:53:46+00:00",
-          "image_url": "https://i2.ytimg.com/vi/air-H9wAcxE/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "🏆 $20,000 USD is up for grabs as Mexico City's FIRST EVER Calling comes to a close! 🇲🇽 The stakes are high as Flesh and Blood's top competitors battle through the final rounds to make history and crown Mexico City's first Calling Champion! 🎙️ Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour: Las Vegas Finalist) and fan favorite Bryce Platz (Arca"
-        },
-        {
-          "id": "9c2fbc4e9b7de4617077",
-          "title": "🔴 Day 1 Calling Mexico City | Flesh and Blood #fabtcg",
-          "url": "https://www.youtube.com/watch?v=mC6DH4e3xYg",
-          "published_at": "2026-10-24T23:02:03+00:00",
-          "image_url": "https://i2.ytimg.com/vi/mC6DH4e3xYg/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "🏆 $20,000 USD is on the line at Mexico City's FIRST EVER Calling! History is in the making as Flesh and Blood's fiercest competitors battle it out for glory, huge prizes, and the chance to become Mexico City's first Calling Champion! 🇲🇽 🎙️ Join Pro Tour veteran Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour Las Vegas Finalist) and fan favorite"
-        }
-      ],
-      "last_checked_at": "2026-10-28T05:36:11.330089+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
-      "recent_count": 2,
-      "latest_published_at": "2026-10-25T22:53:46+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw"
-    },
-    {
-      "name": "Dozr",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "theorycraft",
-        "Illusionist",
-        "Ranger",
-        "Wizard"
-      ],
-      "url": "https://www.youtube.com/results?search_query=Dozr+Flesh+and+Blood+TCG",
-      "id": "c1d69dfa8fe005db",
-      "recent_items": [
-        {
-          "id": "54ef228c5c1ab9046915",
-          "title": "🔴 Day 2 & Top 8 Calling Mexico City | Flesh and Blood #fabtcg",
-          "url": "https://www.youtube.com/watch?v=air-H9wAcxE",
-          "published_at": "2026-10-25T22:53:46+00:00",
-          "image_url": "https://i2.ytimg.com/vi/air-H9wAcxE/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "🏆 $20,000 USD is up for grabs as Mexico City's FIRST EVER Calling comes to a close! 🇲🇽 The stakes are high as Flesh and Blood's top competitors battle through the final rounds to make history and crown Mexico City's first Calling Champion! 🎙️ Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour: Las Vegas Finalist) and fan favorite Bryce Platz (Arca"
-        },
-        {
-          "id": "fad50ac2f648ca1cd007",
-          "title": "🔴 Day 1 Calling Mexico City | Flesh and Blood #fabtcg",
-          "url": "https://www.youtube.com/watch?v=mC6DH4e3xYg",
-          "published_at": "2026-10-24T23:02:03+00:00",
-          "image_url": "https://i2.ytimg.com/vi/mC6DH4e3xYg/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "🏆 $20,000 USD is on the line at Mexico City's FIRST EVER Calling! History is in the making as Flesh and Blood's fiercest competitors battle it out for glory, huge prizes, and the chance to become Mexico City's first Calling Champion! 🇲🇽 🎙️ Join Pro Tour veteran Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour Las Vegas Finalist) and fan favorite"
-        }
-      ],
-      "last_checked_at": "2026-10-28T05:36:09.699833+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
-      "recent_count": 2,
-      "latest_published_at": "2026-10-25T22:53:46+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw"
-    },
-    {
-      "name": "Cthulhy TCG",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "decks",
-        "heróis"
-      ],
-      "url": "https://www.youtube.com/results?search_query=Cthulhy+TCG+Flesh+and+Blood",
-      "id": "7a0a20e93b35960d",
-      "recent_items": [
-        {
-          "id": "e8436a3ee28dc1886f1b",
-          "title": "🔴 Day 2 & Top 8 Calling Mexico City | Flesh and Blood #fabtcg",
-          "url": "https://www.youtube.com/watch?v=air-H9wAcxE",
-          "published_at": "2026-10-25T22:53:46+00:00",
-          "image_url": "https://i2.ytimg.com/vi/air-H9wAcxE/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "🏆 $20,000 USD is up for grabs as Mexico City's FIRST EVER Calling comes to a close! 🇲🇽 The stakes are high as Flesh and Blood's top competitors battle through the final rounds to make history and crown Mexico City's first Calling Champion! 🎙️ Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour: Las Vegas Finalist) and fan favorite Bryce Platz (Arca"
-        },
-        {
-          "id": "de777fa1ad6a9d9c5918",
-          "title": "🔴 Day 1 Calling Mexico City | Flesh and Blood #fabtcg",
-          "url": "https://www.youtube.com/watch?v=mC6DH4e3xYg",
-          "published_at": "2026-10-24T23:02:03+00:00",
-          "image_url": "https://i2.ytimg.com/vi/mC6DH4e3xYg/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "🏆 $20,000 USD is on the line at Mexico City's FIRST EVER Calling! History is in the making as Flesh and Blood's fiercest competitors battle it out for glory, huge prizes, and the chance to become Mexico City's first Calling Champion! 🇲🇽 🎙️ Join Pro Tour veteran Filipe Lima Cardoso (Pro Tour: Los Angeles Top 8 and Pro Tour Las Vegas Finalist) and fan favorite"
-        }
-      ],
-      "last_checked_at": "2026-10-28T05:36:13.848463+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
-      "recent_count": 2,
-      "latest_published_at": "2026-10-25T22:53:46+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw"
+      "latest_published_at": "2026-10-26T00:29:44+00:00"
     },
     {
       "name": "Cardmarket Magic",
@@ -2206,13 +2211,12 @@
           "excerpt": "_______________________________ ➥ Buy and Sell your Magic: the Gathering cards: 🛒 https://www.cmkt.co/v ！Opinions expressed in this video are those of the video creator and not necessarily Cardmarket."
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:24.957250+00:00",
+      "last_checked_at": "2026-10-28T12:47:31.853885+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCwatLpmoIeoL9egqVW2Cxbw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwatLpmoIeoL9egqVW2Cxbw",
       "resolved_channel_id": "UCwatLpmoIeoL9egqVW2Cxbw",
       "recent_count": 4,
-      "latest_published_at": "2026-10-25T15:00:07+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwatLpmoIeoL9egqVW2Cxbw"
+      "latest_published_at": "2026-10-25T15:00:07+00:00"
     },
     {
       "name": "playset-seho",
@@ -2261,13 +2265,12 @@
           "excerpt": "🔥 if you want to thank / support me: http://www.patreon.com/playset_seho 🛒 here is my main inventory for sale: FaB single-cards on cardmarket: https://www.cardmarket.com/en/FleshAndBlood/Users/seho ----------------------------------------------------------------------------------------------------------------------------------------------------- #fabtcg #fle"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:14.167047+00:00",
+      "last_checked_at": "2026-10-28T12:47:19.280068+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCxQNxoQVvBWzOq_AsepzPzA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQNxoQVvBWzOq_AsepzPzA",
       "resolved_channel_id": "UCxQNxoQVvBWzOq_AsepzPzA",
       "recent_count": 3,
-      "latest_published_at": "2026-10-25T09:56:22+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCxQNxoQVvBWzOq_AsepzPzA"
+      "latest_published_at": "2026-10-25T09:56:22+00:00"
     },
     {
       "name": "Magic The Noah",
@@ -2294,13 +2297,12 @@
           "excerpt": ""
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:27.353102+00:00",
+      "last_checked_at": "2026-10-28T12:47:35.384461+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCYqsJbDDngvxb_rbHzHpYGA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYqsJbDDngvxb_rbHzHpYGA",
       "resolved_channel_id": "UCYqsJbDDngvxb_rbHzHpYGA",
       "recent_count": 1,
-      "latest_published_at": "2026-10-24T16:30:07+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCYqsJbDDngvxb_rbHzHpYGA"
+      "latest_published_at": "2026-10-24T16:30:07+00:00"
     },
     {
       "name": "Arsenal Pass",
@@ -2328,7 +2330,7 @@
           "excerpt": "A big mid-week announcement from Legend Story Studios gives us the understanding of the next phase for Flesh and Blood, with the announcement of FAB 3.0! So what does it all mean, how big are the impacts and what is the future looking like for Flesh and Blood? From competitive play, to product, rewards and in-store play. Hayden and Pankaj are here to break i"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:15.919299+00:00",
+      "last_checked_at": "2026-10-28T12:47:22.206454+00:00",
       "resolved_url": "https://arsenalpassfab.podbean.com/",
       "resolved_feed_url": "https://feed.podbean.com/arsenalpassfab/feed.xml",
       "resolved_channel_id": null,
@@ -2359,13 +2361,12 @@
           "excerpt": "Wanna Call-In? https://discord.gg/4Tx4hY3NNw merch: thetablepit-shop.fourthwall.com"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:13.207750+00:00",
+      "last_checked_at": "2026-10-28T12:47:17.782278+00:00",
       "resolved_url": "https://www.youtube.com/channel/UChqrar0bo7gt-ZodV8lIxlQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChqrar0bo7gt-ZodV8lIxlQ",
       "resolved_channel_id": "UChqrar0bo7gt-ZodV8lIxlQ",
       "recent_count": 1,
-      "latest_published_at": "2026-10-23T15:59:15+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UChqrar0bo7gt-ZodV8lIxlQ"
+      "latest_published_at": "2026-10-23T15:59:15+00:00"
     },
     {
       "name": "Fresh and Buds",
@@ -2392,7 +2393,7 @@
           "excerpt": "Buds!More heroes LL'd! One took a while...about as long as FAB 2.0's lifetime.Like, comment, and subscribe!FRESH JUICE: An Indie Game Podcast: https://www.youtube.com/@FreshJuicePodQueer Competitor's League:https://bsky.app/profile/ellybird.bsky.social/post/3mo2eciij2c2s Find Elly:https://bsky.app/profile/ellybird.bsky.socialTommy's Linktree: linktr.ee/fresh"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:16.693813+00:00",
+      "last_checked_at": "2026-10-28T12:47:23.150982+00:00",
       "resolved_url": "https://podcasts.apple.com/us/podcast/fresh-and-buds/id1586034048",
       "resolved_feed_url": "https://anchor.fm/s/687e1bbc/podcast/rss",
       "resolved_channel_id": null,
@@ -2424,13 +2425,12 @@
           "excerpt": "Nathan from https://www.youtube.com/@Drawfee returns to play more casual Commander with us this week! We're also joined, for the first time, by cosplayer and cEDH extraordinaire Zabracus! 💛 SUPPORT THE SHOW 💛 https://www.patreon.com/EDHijinks 💙 VISIT OUR CHANNEL SPONSORS 💙 Gamegenic: https://www.gamegenic.com/ Card Kingdom: https://www.cardkingdom.com/landin"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:25.599152+00:00",
+      "last_checked_at": "2026-10-28T12:47:32.812590+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCW8G9RUYzzepznBq5Cn_3Bg",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCW8G9RUYzzepznBq5Cn_3Bg",
       "resolved_channel_id": "UCW8G9RUYzzepznBq5Cn_3Bg",
       "recent_count": 1,
-      "latest_published_at": "2026-10-22T16:00:00+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCW8G9RUYzzepznBq5Cn_3Bg"
+      "latest_published_at": "2026-10-22T16:00:00+00:00"
     },
     {
       "name": "Pitch It To Me",
@@ -2458,7 +2458,7 @@
           "excerpt": "With Jarl's increased meta presence, the LL of Arakni Marionette, and the dawn of not one but two sets with assassin in it we thought it'd be best to discuss the concept of disruption in Flesh and Blood. From the different ways it appears, to just how much we need, to how too much is toxic -- but not unmanageable. Discord Link: https://discord.gg/HR4pJpcdZ8 "
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:17.818325+00:00",
+      "last_checked_at": "2026-10-28T12:47:24.507356+00:00",
       "resolved_url": "https://podcasts.apple.com/us/podcast/pitch-it-to-me-podcast/id1695399192",
       "resolved_feed_url": "https://anchor.fm/s/e4fc19b4/podcast/rss",
       "resolved_channel_id": null,
@@ -2489,13 +2489,12 @@
           "excerpt": "Live Flesh and Blood TCG with Malice—deck testing, strategy tweaks, and learning how to make the Necromancer work despite awkward hands. Friendly, no clickbait, come hang out if you're also learning Malice. #FleshAndBlood #FABTCG #Malice #Necromancer #DeckTesting #UltraLegendCollections"
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:10.065339+00:00",
+      "last_checked_at": "2026-10-28T12:47:13.050212+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCq_1Ku3spm-mcXlMLmwFKrA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq_1Ku3spm-mcXlMLmwFKrA",
       "resolved_channel_id": "UCq_1Ku3spm-mcXlMLmwFKrA",
       "recent_count": 1,
-      "latest_published_at": "2026-10-22T08:23:29+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCq_1Ku3spm-mcXlMLmwFKrA"
+      "latest_published_at": "2026-10-22T08:23:29+00:00"
     },
     {
       "name": "Three Floating",
@@ -2522,47 +2521,12 @@
           "excerpt": "Could it be? Has Boltyn's time finally arrived? Mengu is back for this battle of light and shadow. It's Viserai vs Boltyn. It's Evil vs good. It's Fight Nite 56. Support the show directly on Patreon! Patrons get an EXTRA GAMEPLAY episode every month, plus giveaways, a podcast, and access to our exclusive discord server! https://www.patreon.com/ThreeFloating "
         }
       ],
-      "last_checked_at": "2026-10-28T05:36:09.437725+00:00",
+      "last_checked_at": "2026-10-28T12:47:12.315929+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCxhcm_b7lGovw0yoo7YiB7Q",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxhcm_b7lGovw0yoo7YiB7Q",
       "resolved_channel_id": "UCxhcm_b7lGovw0yoo7YiB7Q",
       "recent_count": 1,
-      "latest_published_at": "2026-10-21T15:00:21+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCxhcm_b7lGovw0yoo7YiB7Q"
-    },
-    {
-      "name": "The World of Rathe",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "decks",
-        "mercado",
-        "notícias",
-        "opinião"
-      ],
-      "url": "https://www.youtube.com/results?search_query=The+World+of+Rathe+Flesh+and+Blood",
-      "id": "9d989743be50dd57",
-      "recent_items": [
-        {
-          "id": "09e0675394ae09fa7653",
-          "title": "BEST DECKS PRO QUEST WEEK 3 - FLESH AND BLOOD - #fabtcg",
-          "url": "https://www.youtube.com/watch?v=Czm87KYyrj4",
-          "published_at": "2026-10-21T11:00:00+00:00",
-          "image_url": "https://i4.ytimg.com/vi/Czm87KYyrj4/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "The World of Rathe",
-          "excerpt": "#florian #fabtcg #fleshandbloodtcg #fabtcg #fleshandbloodtcg #lss #florian #thehunted #newplayers #fleshandblooStcg #fleshandbloodtcg #deckprofile #thehunted #lss # #mtg #highseas #assassin #runeblade #gurdian #fabgurdian #newplayers #budget #budgetplayer #SuperSlam #cindra #ziggy #newplayers #cardgame Check out Thai Cards : https://www.thaicards.shop/ • Mus"
-        }
-      ],
-      "last_checked_at": "2026-10-28T05:36:09.181901+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UC8tEld_YXspUwbe7UWiuwtg",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8tEld_YXspUwbe7UWiuwtg",
-      "resolved_channel_id": "UC8tEld_YXspUwbe7UWiuwtg",
-      "recent_count": 1,
-      "latest_published_at": "2026-10-21T11:00:00+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC8tEld_YXspUwbe7UWiuwtg"
+      "latest_published_at": "2026-10-21T15:00:21+00:00"
     },
     {
       "name": "Waning Moon Gaming",
@@ -2576,13 +2540,12 @@
       "url": "https://www.youtube.com/results?search_query=Waning+Moon+Gaming+Flesh+and+Blood",
       "id": "9c9565a3061c86d4",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:13.069786+00:00",
+      "last_checked_at": "2026-10-28T12:47:17.535018+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCeBISHA8ntguvqQGL596LyA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeBISHA8ntguvqQGL596LyA",
       "resolved_channel_id": "UCeBISHA8ntguvqQGL596LyA",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCeBISHA8ntguvqQGL596LyA"
+      "latest_published_at": null
     },
     {
       "name": "Three Vibing",
@@ -2596,7 +2559,7 @@
       "url": "https://www.youtube.com/results?search_query=Three+Vibing+Flesh+and+Blood",
       "id": "cd2c4524bc656a9e",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:23.326064+00:00",
+      "last_checked_at": "2026-10-28T12:47:30.022339+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Three+Vibing+Flesh+and+Blood",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2615,13 +2578,33 @@
       "url": "https://www.youtube.com/results?search_query=Thistle+Tavern+Flesh+and+Blood",
       "id": "cdbed991ed310538",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:14.842006+00:00",
+      "last_checked_at": "2026-10-28T12:47:20.306308+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC2B7t-qyrRDr296rr4MMbJQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2B7t-qyrRDr296rr4MMbJQ",
       "resolved_channel_id": "UC2B7t-qyrRDr296rr4MMbJQ",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC2B7t-qyrRDr296rr4MMbJQ"
+      "latest_published_at": null
+    },
+    {
+      "name": "The World of Rathe",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "decks",
+        "mercado",
+        "notícias",
+        "opinião"
+      ],
+      "url": "https://www.youtube.com/results?search_query=The+World+of+Rathe+Flesh+and+Blood",
+      "id": "9d989743be50dd57",
+      "recent_items": [],
+      "last_checked_at": "2026-10-28T12:47:11.783489+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UC8tEld_YXspUwbe7UWiuwtg",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8tEld_YXspUwbe7UWiuwtg",
+      "resolved_channel_id": "UC8tEld_YXspUwbe7UWiuwtg",
+      "recent_count": 0,
+      "latest_published_at": null
     },
     {
       "name": "The Teklo Foundry",
@@ -2636,13 +2619,12 @@
       "url": "https://www.youtube.com/results?search_query=The+Teklo+Foundry+Flesh+and+Blood",
       "id": "b321e2f6ac2485cd",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:08.917999+00:00",
+      "last_checked_at": "2026-10-28T12:47:11.288876+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCPwLCno02HJXdrvsqo1R67g",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPwLCno02HJXdrvsqo1R67g",
       "resolved_channel_id": "UCPwLCno02HJXdrvsqo1R67g",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCPwLCno02HJXdrvsqo1R67g"
+      "latest_published_at": null
     },
     {
       "name": "The Salt Collector",
@@ -2656,13 +2638,12 @@
       "url": "https://www.youtube.com/results?search_query=The+Salt+Collector+Flesh+and+Blood",
       "id": "369b0eb8a9f91571",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:14.709185+00:00",
+      "last_checked_at": "2026-10-28T12:47:20.060034+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCTmZO6ueflNWoRmHwMG6jtA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTmZO6ueflNWoRmHwMG6jtA",
       "resolved_channel_id": "UCTmZO6ueflNWoRmHwMG6jtA",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCTmZO6ueflNWoRmHwMG6jtA"
+      "latest_published_at": null
     },
     {
       "name": "The Dive Down",
@@ -2677,7 +2658,7 @@
       "url": "https://www.youtube.com/results?search_query=The+Dive+Down+MTG+Podcast",
       "id": "dd592b7502ab6b9a",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:34.135287+00:00",
+      "last_checked_at": "2026-10-28T12:47:42.589156+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=The+Dive+Down+MTG+Podcast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2697,7 +2678,7 @@
       "url": "https://www.youtube.com/results?search_query=Command+Zone+Podcast",
       "id": "a7db3077224be2ad",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:31.239690+00:00",
+      "last_checked_at": "2026-10-28T12:47:39.953959+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Command+Zone+Podcast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2718,13 +2699,12 @@
       "url": "https://www.youtube.com/results?search_query=Spice8Rack+Magic",
       "id": "0e6dd713c898888c",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:26.032009+00:00",
+      "last_checked_at": "2026-10-28T12:47:33.283057+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCDJACu5LRKWE7sqagICB-ew",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDJACu5LRKWE7sqagICB-ew",
       "resolved_channel_id": "UCDJACu5LRKWE7sqagICB-ew",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCDJACu5LRKWE7sqagICB-ew"
+      "latest_published_at": null
     },
     {
       "name": "Spark of Genius",
@@ -2740,13 +2720,12 @@
       "url": "https://www.youtube.com/results?search_query=Spark+of+Genius+Flesh+and+Blood",
       "id": "4829be30276802d7",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:12.120072+00:00",
+      "last_checked_at": "2026-10-28T12:47:15.939627+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCsNvmmC9F9Y2gsMlvYJwqbA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsNvmmC9F9Y2gsMlvYJwqbA",
       "resolved_channel_id": "UCsNvmmC9F9Y2gsMlvYJwqbA",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCsNvmmC9F9Y2gsMlvYJwqbA"
+      "latest_published_at": null
     },
     {
       "name": "Sin FABTCG",
@@ -2761,13 +2740,12 @@
       "url": "https://www.youtube.com/results?search_query=Sin+FABTCG",
       "id": "cf9e8d0629e54a58",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:12.574944+00:00",
+      "last_checked_at": "2026-10-28T12:47:16.710077+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCsqDsv0b88rC-ObBTEjf0MQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsqDsv0b88rC-ObBTEjf0MQ",
       "resolved_channel_id": "UCsqDsv0b88rC-ObBTEjf0MQ",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCsqDsv0b88rC-ObBTEjf0MQ"
+      "latest_published_at": null
     },
     {
       "name": "Savage Lands News",
@@ -2781,13 +2759,12 @@
       "url": "https://www.youtube.com/results?search_query=Savage+Lands+News+Flesh+and+Blood",
       "id": "3c3bbd72067de19b",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:13.573278+00:00",
+      "last_checked_at": "2026-10-28T12:47:18.292037+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCI5yJdQ4y8r_3J9JCiyHIzQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI5yJdQ4y8r_3J9JCiyHIzQ",
       "resolved_channel_id": "UCI5yJdQ4y8r_3J9JCiyHIzQ",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCI5yJdQ4y8r_3J9JCiyHIzQ"
+      "latest_published_at": null
     },
     {
       "name": "SNEEP",
@@ -2802,13 +2779,12 @@
       "url": "https://www.youtube.com/results?search_query=SNEEP+Flesh+and+Blood+TCG",
       "id": "9bded0b76a55939b",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:10.427583+00:00",
+      "last_checked_at": "2026-10-28T12:47:13.654592+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCQgm4yHm46rSKn1J7tByovA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQgm4yHm46rSKn1J7tByovA",
       "resolved_channel_id": "UCQgm4yHm46rSKn1J7tByovA",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQgm4yHm46rSKn1J7tByovA"
+      "latest_published_at": null
     },
     {
       "name": "SNEEP",
@@ -2823,7 +2799,7 @@
       "url": "https://www.twitch.tv/search?term=SNEEP%20Flesh%20and%20Blood",
       "id": "e1f39fd711f7471d",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:15.805101+00:00",
+      "last_checked_at": "2026-10-28T12:47:22.025057+00:00",
       "resolved_url": "https://www.twitch.tv/sneep",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2843,7 +2819,7 @@
       "url": "https://tcgrunaways.podbean.com/",
       "id": "f4033e0fb136d1f9",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:16.488173+00:00",
+      "last_checked_at": "2026-10-28T12:47:22.874201+00:00",
       "resolved_url": "https://tcgrunaways.podbean.com/",
       "resolved_feed_url": "https://feed.podbean.com/tcgrunaways/feed.xml",
       "resolved_channel_id": null,
@@ -2864,13 +2840,12 @@
       "url": "https://www.youtube.com/results?search_query=Rhystic+Studies+Magic",
       "id": "5097a37243d66036",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:25.826845+00:00",
+      "last_checked_at": "2026-10-28T12:47:33.045950+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC8e0Sg8TmRRFJytjEGhmVTg",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8e0Sg8TmRRFJytjEGhmVTg",
       "resolved_channel_id": "UC8e0Sg8TmRRFJytjEGhmVTg",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC8e0Sg8TmRRFJytjEGhmVTg"
+      "latest_published_at": null
     },
     {
       "name": "Rage of Blasmophet",
@@ -2884,13 +2859,12 @@
       "url": "https://www.youtube.com/results?search_query=Rage+of+Blasmophet",
       "id": "0de1c221803b2f3d",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:11.199752+00:00",
+      "last_checked_at": "2026-10-28T12:47:14.433251+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCQ4luVroq2RQiO608p1n__A",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ4luVroq2RQiO608p1n__A",
       "resolved_channel_id": "UCQ4luVroq2RQiO608p1n__A",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQ4luVroq2RQiO608p1n__A"
+      "latest_published_at": null
     },
     {
       "name": "Push the Point",
@@ -2905,13 +2879,12 @@
       "url": "https://www.youtube.com/results?search_query=Push+the+Point+Flesh+and+Blood",
       "id": "7ae6e4e6ffe728d6",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:11.723457+00:00",
+      "last_checked_at": "2026-10-28T12:47:15.553975+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCdOadfDBXY_vEK7hVaZIi_w",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdOadfDBXY_vEK7hVaZIi_w",
       "resolved_channel_id": "UCdOadfDBXY_vEK7hVaZIi_w",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCdOadfDBXY_vEK7hVaZIi_w"
+      "latest_published_at": null
     },
     {
       "name": "Playing With Power MTG",
@@ -2926,13 +2899,12 @@
       "url": "https://www.youtube.com/results?search_query=Playing+With+Power+MTG",
       "id": "40be0db8f85aa40b",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:25.323818+00:00",
+      "last_checked_at": "2026-10-28T12:47:32.340973+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCum8N4KUUC0l_NK_mybvilg",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCum8N4KUUC0l_NK_mybvilg",
       "resolved_channel_id": "UCum8N4KUUC0l_NK_mybvilg",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCum8N4KUUC0l_NK_mybvilg"
+      "latest_published_at": null
     },
     {
       "name": "Pheano",
@@ -2947,13 +2919,12 @@
       "url": "https://www.youtube.com/results?search_query=Pheano+Flesh+and+Blood",
       "id": "dd31a32586c1eda8",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:10.294039+00:00",
+      "last_checked_at": "2026-10-28T12:47:13.409998+00:00",
       "resolved_url": "https://www.youtube.com/channel/UClovSsTxY7VX2p7_6WaJhUA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClovSsTxY7VX2p7_6WaJhUA",
       "resolved_channel_id": "UClovSsTxY7VX2p7_6WaJhUA",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClovSsTxY7VX2p7_6WaJhUA"
+      "latest_published_at": null
     },
     {
       "name": "Pheano",
@@ -2968,7 +2939,7 @@
       "url": "https://www.twitch.tv/search?term=Pheano%20Flesh%20and%20Blood",
       "id": "873314309f24f42c",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:15.679881+00:00",
+      "last_checked_at": "2026-10-28T12:47:21.821856+00:00",
       "resolved_url": "https://www.twitch.tv/pheano",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2987,7 +2958,7 @@
       "url": "https://podcasts.apple.com/br/podcast/on-the-bauble-flesh-and-blood-podcast/id1663413943",
       "id": "94c061b0401ceae9",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:16.241341+00:00",
+      "last_checked_at": "2026-10-28T12:47:22.543898+00:00",
       "resolved_url": "https://podcasts.apple.com/br/podcast/on-the-bauble-flesh-and-blood-podcast/id1663413943",
       "resolved_feed_url": "https://anchor.fm/s/ab8af2f4/podcast/rss?fbclid=IwAR1pCKA6_wLNWDsn9OmIl4hJbF2W63wl2Hfx9Q2P1WMvP5j8RywI_OHLEDg",
       "resolved_channel_id": null,
@@ -3008,7 +2979,7 @@
       "url": "https://www.twitch.tv/search?term=NumotTheNummy",
       "id": "a05c1205abd181d3",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:27.862390+00:00",
+      "last_checked_at": "2026-10-28T12:47:36.458616+00:00",
       "resolved_url": "https://www.twitch.tv/numotthenummy",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3028,7 +2999,7 @@
       "url": "https://www.twitch.tv/search?term=Man%20Sant%20Flesh%20and%20Blood",
       "id": "603367f4b4f35d74",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:15.553932+00:00",
+      "last_checked_at": "2026-10-28T12:47:21.512260+00:00",
       "resolved_url": "https://www.twitch.tv/mansant",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3049,7 +3020,7 @@
       "url": "https://www.twitch.tv/magic",
       "id": "f35fb0f0f3a64fd5",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:27.616463+00:00",
+      "last_checked_at": "2026-10-28T12:47:35.938494+00:00",
       "resolved_url": "https://www.twitch.tv/magic",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3069,13 +3040,12 @@
       "url": "https://www.youtube.com/results?search_query=MTGRemy",
       "id": "5cb2f12576a68c32",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:27.216469+00:00",
+      "last_checked_at": "2026-10-28T12:47:35.060804+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC3YmkUUyVZSnfPzy4smvgXA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3YmkUUyVZSnfPzy4smvgXA",
       "resolved_channel_id": "UC3YmkUUyVZSnfPzy4smvgXA",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC3YmkUUyVZSnfPzy4smvgXA"
+      "latest_published_at": null
     },
     {
       "name": "MTGGoldfish Podcast",
@@ -3091,7 +3061,7 @@
       "url": "https://www.youtube.com/results?search_query=MTGGoldfish+Podcast",
       "id": "7ecd972721980b54",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:30.394626+00:00",
+      "last_checked_at": "2026-10-28T12:47:39.070710+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=MTGGoldfish+Podcast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3110,7 +3080,7 @@
       "url": "https://www.youtube.com/results?search_query=M-n-R+Cast+Flesh+and+Blood",
       "id": "057674591dcd7c7f",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:17.042769+00:00",
+      "last_checked_at": "2026-10-28T12:47:23.618522+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=M-n-R+Cast+Flesh+and+Blood",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3130,7 +3100,7 @@
       "url": "https://www.youtube.com/results?search_query=Lucky+Paper+Radio+MTG",
       "id": "ef4092363caba4b2",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:33.295317+00:00",
+      "last_checked_at": "2026-10-28T12:47:41.822093+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Lucky+Paper+Radio+MTG",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3150,7 +3120,7 @@
       "url": "https://www.youtube.com/results?search_query=Lords+of+Limited+podcast",
       "id": "676551fb82670039",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:28.748851+00:00",
+      "last_checked_at": "2026-10-28T12:47:37.413604+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Lords+of+Limited+podcast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3171,13 +3141,12 @@
       "url": "https://www.youtube.com/results?search_query=LoadingReadyRun+MTG",
       "id": "cc8cdf460c6f92ec",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:24.771260+00:00",
+      "last_checked_at": "2026-10-28T12:47:31.585769+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCwjN2uVdL9A0i3gaIHKFzuA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA",
       "resolved_channel_id": "UCwjN2uVdL9A0i3gaIHKFzuA",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA"
+      "latest_published_at": null
     },
     {
       "name": "Living Legends Podcast",
@@ -3192,7 +3161,7 @@
       "url": "https://www.youtube.com/results?search_query=Living+Legends+Podcast+Flesh+and+Blood",
       "id": "56021035d7d0a808",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:22.581845+00:00",
+      "last_checked_at": "2026-10-28T12:47:29.214935+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Living+Legends+Podcast+Flesh+and+Blood",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3212,7 +3181,7 @@
       "url": "https://www.youtube.com/results?search_query=Limited+Resources+podcast+MTG",
       "id": "831471ef31a52aa0",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:27.995412+00:00",
+      "last_checked_at": "2026-10-28T12:47:36.647317+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Limited+Resources+podcast+MTG",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3232,7 +3201,7 @@
       "url": "https://www.youtube.com/results?search_query=Instant+Speed+Flesh+and+Blood+podcast",
       "id": "1b980260c8b6c058",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:18.963833+00:00",
+      "last_checked_at": "2026-10-28T12:47:25.866797+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Instant+Speed+Flesh+and+Blood+podcast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3251,13 +3220,12 @@
       "url": "https://www.youtube.com/results?search_query=Goblin+Reserve+Flesh+and+Blood",
       "id": "ced4a8eb881d7f0f",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:14.307478+00:00",
+      "last_checked_at": "2026-10-28T12:47:19.516003+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCYfwqXqT8_Uo8aDcdtrAmJw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYfwqXqT8_Uo8aDcdtrAmJw",
       "resolved_channel_id": "UCYfwqXqT8_Uo8aDcdtrAmJw",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCYfwqXqT8_Uo8aDcdtrAmJw"
+      "latest_published_at": null
     },
     {
       "name": "Flesh and Pod",
@@ -3272,7 +3240,7 @@
       "url": "https://www.youtube.com/results?search_query=Flesh+and+Pod+podcast",
       "id": "ef5c03c1b168007c",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:20.619984+00:00",
+      "last_checked_at": "2026-10-28T12:47:27.432449+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Flesh+and+Pod+podcast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3292,13 +3260,12 @@
       "url": "https://www.youtube.com/results?search_query=Flesh+and+Bloodbrothers",
       "id": "c1261d786b374302",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:13.717590+00:00",
+      "last_checked_at": "2026-10-28T12:47:18.539685+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCcK0Zj_jIZ1O7E26uflO8mA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcK0Zj_jIZ1O7E26uflO8mA",
       "resolved_channel_id": "UCcK0Zj_jIZ1O7E26uflO8mA",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCcK0Zj_jIZ1O7E26uflO8mA"
+      "latest_published_at": null
     },
     {
       "name": "Flesh And Bunny",
@@ -3312,13 +3279,12 @@
       "url": "https://www.youtube.com/results?search_query=Flesh+And+Bunny+Flesh+and+Blood",
       "id": "f9d0371fc5b829cb",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:15.112826+00:00",
+      "last_checked_at": "2026-10-28T12:47:20.819220+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC3F0uzAEWE1n_FaAxdvH1sQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3F0uzAEWE1n_FaAxdvH1sQ",
       "resolved_channel_id": "UC3F0uzAEWE1n_FaAxdvH1sQ",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC3F0uzAEWE1n_FaAxdvH1sQ"
+      "latest_published_at": null
     },
     {
       "name": "Faithless Brewing",
@@ -3334,7 +3300,7 @@
       "url": "https://www.youtube.com/results?search_query=Faithless+Brewing+MTG",
       "id": "4b61f36c1c12b89d",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:34.913584+00:00",
+      "last_checked_at": "2026-10-28T12:47:43.438920+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Faithless+Brewing+MTG",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3352,13 +3318,12 @@
       "url": "https://www.youtube.com/results?search_query=FaBrika+Flesh+and+Blood",
       "id": "a164d2870c7dcf41",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:13.344000+00:00",
+      "last_checked_at": "2026-10-28T12:47:18.022998+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCGCyBk8JgFWMZNRmun2oqQA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGCyBk8JgFWMZNRmun2oqQA",
       "resolved_channel_id": "UCGCyBk8JgFWMZNRmun2oqQA",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCGCyBk8JgFWMZNRmun2oqQA"
+      "latest_published_at": null
     },
     {
       "name": "FABLorian",
@@ -3372,13 +3337,12 @@
       "url": "https://www.youtube.com/results?search_query=FABLorian+Flesh+and+Blood",
       "id": "dce893b74ab06e94",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:14.024584+00:00",
+      "last_checked_at": "2026-10-28T12:47:19.086728+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCKyTxXySbcFXQ-CchbXA8LA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKyTxXySbcFXQ-CchbXA8LA",
       "resolved_channel_id": "UCKyTxXySbcFXQ-CchbXA8LA",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCKyTxXySbcFXQ-CchbXA8LA"
+      "latest_published_at": null
     },
     {
       "name": "FAB Unofficial",
@@ -3394,13 +3358,12 @@
       "url": "https://www.youtube.com/results?search_query=FAB+Unofficial+Flesh+and+Blood",
       "id": "691adddc92d07acf",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:12.711650+00:00",
+      "last_checked_at": "2026-10-28T12:47:16.970938+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCuPR7ZkmJeQTKf3K6Ec0_gQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuPR7ZkmJeQTKf3K6Ec0_gQ",
       "resolved_channel_id": "UCuPR7ZkmJeQTKf3K6Ec0_gQ",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCuPR7ZkmJeQTKf3K6Ec0_gQ"
+      "latest_published_at": null
     },
     {
       "name": "EDHRECast",
@@ -3415,7 +3378,7 @@
       "url": "https://www.youtube.com/results?search_query=EDHRECast",
       "id": "61d27419ad5b2a5a",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:32.447975+00:00",
+      "last_checked_at": "2026-10-28T12:47:41.048447+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=EDHRECast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3436,13 +3399,12 @@
       "url": "https://www.youtube.com/results?search_query=EDHREC+Magic",
       "id": "a94e9601eeb81088",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:24.475116+00:00",
+      "last_checked_at": "2026-10-28T12:47:31.354111+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCApiDwDpn_JpzRGLZKrdr1g",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCApiDwDpn_JpzRGLZKrdr1g",
       "resolved_channel_id": "UCApiDwDpn_JpzRGLZKrdr1g",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCApiDwDpn_JpzRGLZKrdr1g"
+      "latest_published_at": null
     },
     {
       "name": "Drive to Work",
@@ -3457,7 +3419,7 @@
       "url": "https://www.youtube.com/results?search_query=Drive+to+Work+Mark+Rosewater",
       "id": "df9ad76b89bdd102",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:29.593999+00:00",
+      "last_checked_at": "2026-10-28T12:47:38.320359+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Drive+to+Work+Mark+Rosewater",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3477,13 +3439,12 @@
       "url": "https://www.youtube.com/results?search_query=DeadSummer+Art+Flesh+and+Blood+lore",
       "id": "1b3a8bb753003b16",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:15.240568+00:00",
+      "last_checked_at": "2026-10-28T12:47:21.074913+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCedz6mqYeQSzeSVa-3gOFIA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCedz6mqYeQSzeSVa-3gOFIA",
       "resolved_channel_id": "UCedz6mqYeQSzeSVa-3gOFIA",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCedz6mqYeQSzeSVa-3gOFIA"
+      "latest_published_at": null
     },
     {
       "name": "Crokeyz",
@@ -3498,13 +3459,12 @@
       "url": "https://www.youtube.com/results?search_query=Crokeyz+MTG",
       "id": "43de6d0fb1b7dc27",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:26.778943+00:00",
+      "last_checked_at": "2026-10-28T12:47:34.520257+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCz3pj4DM9MuRWJ5nCCvBe_g",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCz3pj4DM9MuRWJ5nCCvBe_g",
       "resolved_channel_id": "UCz3pj4DM9MuRWJ5nCCvBe_g",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCz3pj4DM9MuRWJ5nCCvBe_g"
+      "latest_published_at": null
     },
     {
       "name": "Crokeyz",
@@ -3520,7 +3480,7 @@
       "url": "https://www.twitch.tv/search?term=Crokeyz",
       "id": "2faec142f970957f",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:27.743403+00:00",
+      "last_checked_at": "2026-10-28T12:47:36.258649+00:00",
       "resolved_url": "https://www.twitch.tv/crokeyz",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3539,13 +3499,12 @@
       "url": "https://www.youtube.com/results?search_query=Crak+N+FaB+Flesh+and+Blood",
       "id": "a778f9015ac51476",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:14.974326+00:00",
+      "last_checked_at": "2026-10-28T12:47:20.558753+00:00",
       "resolved_url": "https://www.youtube.com/channel/UChJWWcfq-ZtjguzUR9CKSBA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChJWWcfq-ZtjguzUR9CKSBA",
       "resolved_channel_id": "UChJWWcfq-ZtjguzUR9CKSBA",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UChJWWcfq-ZtjguzUR9CKSBA"
+      "latest_published_at": null
     },
     {
       "name": "Common Language Podcast",
@@ -3560,7 +3519,7 @@
       "url": "https://www.youtube.com/results?search_query=Common+Language+Podcast+Flesh+and+Blood",
       "id": "a464633cf7c7a203",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:19.941541+00:00",
+      "last_checked_at": "2026-10-28T12:47:26.671282+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Common+Language+Podcast+Flesh+and+Blood",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3579,13 +3538,12 @@
       "url": "https://www.youtube.com/results?search_query=Chants+and+Daggers+Flesh+and+Blood",
       "id": "4f60fbed78f883f3",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:12.937613+00:00",
+      "last_checked_at": "2026-10-28T12:47:17.231094+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCBXMKnLM4TLaKlS13En1KFw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBXMKnLM4TLaKlS13En1KFw",
       "resolved_channel_id": "UCBXMKnLM4TLaKlS13En1KFw",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCBXMKnLM4TLaKlS13En1KFw"
+      "latest_published_at": null
     },
     {
       "name": "Cardboard & Beyond",
@@ -3600,7 +3558,7 @@
       "url": "https://www.youtube.com/results?search_query=Cardboard+and+Beyond+Flesh+and+Blood",
       "id": "7a3b05d4837a7836",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:21.651310+00:00",
+      "last_checked_at": "2026-10-28T12:47:28.304344+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Cardboard+and+Beyond+Flesh+and+Blood",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3620,13 +3578,12 @@
       "url": "https://www.youtube.com/results?search_query=Card+Advantage+Flesh+and+Blood",
       "id": "bb1a8e905ba6f060",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:12.307805+00:00",
+      "last_checked_at": "2026-10-28T12:47:16.189518+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC8ODNScZNzHs8p5NQXbjTig",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8ODNScZNzHs8p5NQXbjTig",
       "resolved_channel_id": "UC8ODNScZNzHs8p5NQXbjTig",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC8ODNScZNzHs8p5NQXbjTig"
+      "latest_published_at": null
     },
     {
       "name": "Bronson",
@@ -3640,13 +3597,12 @@
       "url": "https://www.youtube.com/results?search_query=Bronson+Flesh+and+Blood+TCG",
       "id": "c8b655fb179f8b5d",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:14.574500+00:00",
+      "last_checked_at": "2026-10-28T12:47:19.797580+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCN3LRt9wRyeIC1icFxXHFsw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCN3LRt9wRyeIC1icFxXHFsw",
       "resolved_channel_id": "UCN3LRt9wRyeIC1icFxXHFsw",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCN3LRt9wRyeIC1icFxXHFsw"
+      "latest_published_at": null
     },
     {
       "name": "Block Out Party",
@@ -3660,13 +3616,12 @@
       "url": "https://www.youtube.com/results?search_query=Block+Out+Party+Flesh+and+Blood",
       "id": "31c3007ed38ea2d9",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:12.445276+00:00",
+      "last_checked_at": "2026-10-28T12:47:16.452576+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCeHYxsbE2c6RHeYCDFofWHg",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeHYxsbE2c6RHeYCDFofWHg",
       "resolved_channel_id": "UCeHYxsbE2c6RHeYCDFofWHg",
       "recent_count": 0,
-      "latest_published_at": null,
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCeHYxsbE2c6RHeYCDFofWHg"
+      "latest_published_at": null
     },
     {
       "name": "Attack Action Podcast",
@@ -3681,7 +3636,7 @@
       "url": "https://www.youtube.com/results?search_query=Attack+Action+Podcast+Flesh+and+Blood",
       "id": "3bb9ba2e3b3c5ea8",
       "recent_items": [],
-      "last_checked_at": "2026-10-28T05:36:18.230716+00:00",
+      "last_checked_at": "2026-10-28T12:47:24.987557+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Attack+Action+Podcast+Flesh+and+Blood",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
