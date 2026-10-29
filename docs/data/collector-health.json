@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-29T09:58:37.330188+00:00",
+  "generated_at": "2026-10-29T18:32:19.290535+00:00",
   "official_sources_configured": 21,
-  "official_sources_ok": 20,
-  "official_sources_failed": 1,
+  "official_sources_ok": 19,
+  "official_sources_failed": 2,
   "independent_sources_configured": 59,
-  "independent_sources_failed": 8,
+  "independent_sources_failed": 9,
   "media_sources_configured": 94,
-  "media_sources_active_7d": 38,
-  "media_items_7d": 157,
+  "media_sources_active_7d": 37,
+  "media_items_7d": 154,
   "media_sources_failed": 0,
   "people_configured": 86,
   "people_active_7d": 7,
-  "people_items_7d": 19,
+  "people_items_7d": 18,
   "people_sources_failed": 0,
   "errors": [
     {
@@ -21,10 +21,22 @@
       "error": "403 Client Error: Forbidden for url: https://fabtcg.com/en/articles/"
     },
     {
+      "source_id": "pokemon-cn",
+      "source": "Pokémon China",
+      "url": "https://www.pokemon.cn/topics-tcg/p/1",
+      "error": "HTTPSConnectionPool(host='www.pokemon.cn', port=443): Read timed out. (read timeout=20)"
+    },
+    {
       "source_id": "sorcery-brasil",
       "source": "Sorcery Brasil",
       "url": "https://sorcery.com.br/artigos/",
       "error": "403 Client Error: Forbidden for url: https://sorcery.com.br/artigos/"
+    },
+    {
+      "source_id": "fab-insights",
+      "source": "FaB Insights",
+      "url": "https://www.fabinsights.net/",
+      "error": "HTTPSConnectionPool(host='www.fabinsights.net', port=443): Read timed out. (read timeout=20)"
     },
     {
       "source_id": "rathe-adventures",
