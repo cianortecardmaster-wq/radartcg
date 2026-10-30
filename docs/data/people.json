@@ -1,14 +1,122 @@
 {
-  "generated_at": "2026-10-30T00:57:40.619087+00:00",
+  "generated_at": "2026-10-30T09:57:25.418110+00:00",
   "window_days": 7,
   "count": 86,
   "artist_developer_count": 68,
   "pro_player_count": 18,
   "active_count": 8,
-  "content_count": 17,
+  "content_count": 20,
   "content_ready": true,
-  "errors_count": 4,
+  "errors_count": 0,
   "people": [
+    {
+      "name": "Pankaj Bhojwani",
+      "category": "pro-player",
+      "games": [
+        "flesh-and-blood"
+      ],
+      "roles": [
+        "Pro player",
+        "Podcast / estratégia"
+      ],
+      "description": "Battle Hardened Champion e Calling Top 8; co-host do Arsenal Pass.",
+      "profiles": [
+        {
+          "platform": "youtube",
+          "label": "YouTube — Arsenal Pass",
+          "url": "https://www.youtube.com/channel/UClhUUppHaVDBUOJHXL-a0EQ"
+        }
+      ],
+      "media_refs": [
+        "Arsenal Pass"
+      ],
+      "content_sources": [],
+      "id": "11293eeb51fa3612",
+      "recent_items": [
+        {
+          "id": "c136f62b2e9b3d9c70ef",
+          "title": "Arsenal Pass EP289 - Will Assassin Claim Top Spot With Mastery Pack Assassin?",
+          "url": "https://arsenalpassfab.podbean.com/e/arsenal-pass-ep289-will-assassin-claim-top-spot-with-mastery-pack-assassin/",
+          "published_at": "2026-10-30T09:45:40+00:00",
+          "image_url": "",
+          "kind": "episode",
+          "content_platform": "podcast",
+          "author": "arsenalpassfab",
+          "excerpt": "A lot is happening right now in the Flesh and Blood World! Worlds is just one week away, Mastery Pack Assassin previews are in full swing and Classic Constructed has changed for another week on the bounce, this time with Cindra ascending to Living Legend! Join Hayden and Pankaj as they break it all down in this weeks episode. Are we set for a facelift to Cla",
+          "source_name": "Arsenal Pass",
+          "source_platform": "podcast"
+        },
+        {
+          "id": "f1a823ab5eb131a49129",
+          "title": "Arsenal Pass EP288 - What Does FAB 3.0 Mean for the Future?",
+          "url": "https://arsenalpassfab.podbean.com/e/arsenal-pass-ep288-what-does-fab-30-mean-for-the-future/",
+          "published_at": "2026-10-24T02:10:00+00:00",
+          "image_url": "",
+          "kind": "episode",
+          "content_platform": "podcast",
+          "author": "arsenalpassfab",
+          "excerpt": "A big mid-week announcement from Legend Story Studios gives us the understanding of the next phase for Flesh and Blood, with the announcement of FAB 3.0! So what does it all mean, how big are the impacts and what is the future looking like for Flesh and Blood? From competitive play, to product, rewards and in-store play. Hayden and Pankaj are here to break i",
+          "source_name": "Arsenal Pass",
+          "source_platform": "podcast"
+        }
+      ],
+      "recent_count": 2,
+      "latest_published_at": "2026-10-30T09:45:40+00:00"
+    },
+    {
+      "name": "Hayden Dale",
+      "category": "pro-player",
+      "games": [
+        "flesh-and-blood"
+      ],
+      "roles": [
+        "Pro player",
+        "Podcast / estratégia"
+      ],
+      "description": "Calling e Australian National Champion; co-host do Arsenal Pass.",
+      "profiles": [
+        {
+          "platform": "youtube",
+          "label": "YouTube — Arsenal Pass",
+          "url": "https://www.youtube.com/channel/UClhUUppHaVDBUOJHXL-a0EQ"
+        }
+      ],
+      "media_refs": [
+        "Arsenal Pass"
+      ],
+      "content_sources": [],
+      "id": "27faab492275c619",
+      "recent_items": [
+        {
+          "id": "c136f62b2e9b3d9c70ef",
+          "title": "Arsenal Pass EP289 - Will Assassin Claim Top Spot With Mastery Pack Assassin?",
+          "url": "https://arsenalpassfab.podbean.com/e/arsenal-pass-ep289-will-assassin-claim-top-spot-with-mastery-pack-assassin/",
+          "published_at": "2026-10-30T09:45:40+00:00",
+          "image_url": "",
+          "kind": "episode",
+          "content_platform": "podcast",
+          "author": "arsenalpassfab",
+          "excerpt": "A lot is happening right now in the Flesh and Blood World! Worlds is just one week away, Mastery Pack Assassin previews are in full swing and Classic Constructed has changed for another week on the bounce, this time with Cindra ascending to Living Legend! Join Hayden and Pankaj as they break it all down in this weeks episode. Are we set for a facelift to Cla",
+          "source_name": "Arsenal Pass",
+          "source_platform": "podcast"
+        },
+        {
+          "id": "f1a823ab5eb131a49129",
+          "title": "Arsenal Pass EP288 - What Does FAB 3.0 Mean for the Future?",
+          "url": "https://arsenalpassfab.podbean.com/e/arsenal-pass-ep288-what-does-fab-30-mean-for-the-future/",
+          "published_at": "2026-10-24T02:10:00+00:00",
+          "image_url": "",
+          "kind": "episode",
+          "content_platform": "podcast",
+          "author": "arsenalpassfab",
+          "excerpt": "A big mid-week announcement from Legend Story Studios gives us the understanding of the next phase for Flesh and Blood, with the announcement of FAB 3.0! So what does it all mean, how big are the impacts and what is the future looking like for Flesh and Blood? From competitive play, to product, rewards and in-store play. Hayden and Pankaj are here to break i",
+          "source_name": "Arsenal Pass",
+          "source_platform": "podcast"
+        }
+      ],
+      "recent_count": 2,
+      "latest_published_at": "2026-10-30T09:45:40+00:00"
+    },
     {
       "name": "Yugin Maffioli",
       "category": "artist-developer",
@@ -45,7 +153,7 @@
               "author": "Yugin Maffioli"
             }
           ],
-          "last_checked_at": "2026-10-30T00:57:39.285381+00:00",
+          "last_checked_at": "2026-10-30T09:57:23.395592+00:00",
           "resolved_url": "https://yuginmaffioli.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -164,13 +272,12 @@
               "excerpt": "Time stamps: 0:00 Intro 1:40 Round1 vs RB Shadow 16:47 Round2 vs UR Affinity 33:45 Round3 vs UR Prowess 54:15 Round4 vs 4c Omnath 1:16:53 Round5 vs Jeskai Ascendacy Decklist: https://partner.tcgplayer.com/enPMYg Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards"
             }
           ],
-          "last_checked_at": "2026-10-30T00:57:39.577979+00:00",
+          "last_checked_at": "2026-10-30T09:57:23.652160+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCwIFsLCPrc1NGoNS0OGn0mw",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwIFsLCPrc1NGoNS0OGn0mw",
           "resolved_channel_id": "UCwIFsLCPrc1NGoNS0OGn0mw",
           "recent_count": 4,
-          "latest_published_at": "2026-10-29T17:00:34+00:00",
-          "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwIFsLCPrc1NGoNS0OGn0mw"
+          "latest_published_at": "2026-10-29T17:00:34+00:00"
         },
         {
           "name": "Mengu's Workshop",
@@ -181,6 +288,17 @@
           "youtube_search_fallback": false,
           "id": "d6d52298457dd5dd",
           "recent_items": [
+            {
+              "id": "71d114b0734630fe3d4f",
+              "title": "Doomsday! The best combo in vitange! #mtgovintage #mtgvintage #vintagemtg",
+              "url": "https://www.youtube.com/shorts/5p-Qd-UXN4g",
+              "published_at": "2026-10-29T20:00:33+00:00",
+              "image_url": "https://i2.ytimg.com/vi/5p-Qd-UXN4g/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Mengu's Workshop",
+              "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN"
+            },
             {
               "id": "364448190a181cd44f93",
               "title": "Is Raker Shops the best deck in Vintage? #vintagemtg #mtgcommunity #vintagemtgo",
@@ -215,13 +333,12 @@
               "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN"
             }
           ],
-          "last_checked_at": "2026-10-30T00:57:39.757379+00:00",
+          "last_checked_at": "2026-10-30T09:57:23.885418+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCGZdKNOxKdSNL1Qht9aC8tQ",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGZdKNOxKdSNL1Qht9aC8tQ",
           "resolved_channel_id": "UCGZdKNOxKdSNL1Qht9aC8tQ",
-          "recent_count": 3,
-          "latest_published_at": "2026-10-28T20:00:10+00:00",
-          "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCGZdKNOxKdSNL1Qht9aC8tQ"
+          "recent_count": 4,
+          "latest_published_at": "2026-10-29T20:00:33+00:00"
         },
         {
           "name": "Andrea Mengucci",
@@ -232,7 +349,7 @@
           "url": "https://www.twitch.tv/andreamengucci",
           "id": "5339172b5454719e",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:39.935575+00:00",
+          "last_checked_at": "2026-10-30T09:57:24.033880+00:00",
           "resolved_url": "https://www.twitch.tv/andreamengucci",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -242,6 +359,19 @@
       ],
       "id": "aebc613c27e321f2",
       "recent_items": [
+        {
+          "id": "71d114b0734630fe3d4f",
+          "title": "Doomsday! The best combo in vitange! #mtgovintage #mtgvintage #vintagemtg",
+          "url": "https://www.youtube.com/shorts/5p-Qd-UXN4g",
+          "published_at": "2026-10-29T20:00:33+00:00",
+          "image_url": "https://i2.ytimg.com/vi/5p-Qd-UXN4g/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Mengu's Workshop",
+          "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN",
+          "source_name": "Mengu's Workshop",
+          "source_platform": "youtube"
+        },
         {
           "id": "c4fa67ab1f54d7fe3e0a",
           "title": "Jeskai Blink Top8s RC Canada! | Modern | MTGO",
@@ -334,8 +464,8 @@
           "source_platform": "youtube"
         }
       ],
-      "recent_count": 7,
-      "latest_published_at": "2026-10-29T17:00:34+00:00"
+      "recent_count": 8,
+      "latest_published_at": "2026-10-29T20:00:33+00:00"
     },
     {
       "name": "Yiian Kho",
@@ -373,7 +503,7 @@
               "author": "Yiian Kho"
             }
           ],
-          "last_checked_at": "2026-10-30T00:57:38.998816+00:00",
+          "last_checked_at": "2026-10-30T09:57:23.142442+00:00",
           "resolved_url": "https://yiian.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -502,13 +632,12 @@
               "excerpt": "Lucky 13 🍀 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to Mythic BINGO! 🔵"
             }
           ],
-          "last_checked_at": "2026-10-30T00:57:40.187471+00:00",
+          "last_checked_at": "2026-10-30T09:57:24.525080+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCocZb0xawRZuE1CKpUvOM8A",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCocZb0xawRZuE1CKpUvOM8A",
           "resolved_channel_id": "UCocZb0xawRZuE1CKpUvOM8A",
           "recent_count": 4,
-          "latest_published_at": "2026-10-28T17:02:13+00:00",
-          "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCocZb0xawRZuE1CKpUvOM8A"
+          "latest_published_at": "2026-10-28T17:02:13+00:00"
         },
         {
           "name": "Jim Davis MTG",
@@ -519,7 +648,7 @@
           "url": "https://www.twitch.tv/jimdavismtg",
           "id": "30290ddbff005188",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:40.363818+00:00",
+          "last_checked_at": "2026-10-30T09:57:24.775023+00:00",
           "resolved_url": "https://www.twitch.tv/jimdavismtg",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -626,7 +755,7 @@
               "author": "Eilene Cherie"
             }
           ],
-          "last_checked_at": "2026-10-30T00:57:31.385998+00:00",
+          "last_checked_at": "2026-10-30T09:57:16.371175+00:00",
           "resolved_url": "https://eilenecherie.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -713,7 +842,7 @@
               "author": "Federico Musetti"
             }
           ],
-          "last_checked_at": "2026-10-30T00:57:31.676140+00:00",
+          "last_checked_at": "2026-10-30T09:57:16.629261+00:00",
           "resolved_url": "https://www.artstation.com/fedemusettiart",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -738,88 +867,6 @@
       ],
       "recent_count": 1,
       "latest_published_at": "2026-10-26T08:57:49.172000+00:00"
-    },
-    {
-      "name": "Pankaj Bhojwani",
-      "category": "pro-player",
-      "games": [
-        "flesh-and-blood"
-      ],
-      "roles": [
-        "Pro player",
-        "Podcast / estratégia"
-      ],
-      "description": "Battle Hardened Champion e Calling Top 8; co-host do Arsenal Pass.",
-      "profiles": [
-        {
-          "platform": "youtube",
-          "label": "YouTube — Arsenal Pass",
-          "url": "https://www.youtube.com/channel/UClhUUppHaVDBUOJHXL-a0EQ"
-        }
-      ],
-      "media_refs": [
-        "Arsenal Pass"
-      ],
-      "content_sources": [],
-      "id": "11293eeb51fa3612",
-      "recent_items": [
-        {
-          "id": "f1a823ab5eb131a49129",
-          "title": "Arsenal Pass EP288 - What Does FAB 3.0 Mean for the Future?",
-          "url": "https://arsenalpassfab.podbean.com/e/arsenal-pass-ep288-what-does-fab-30-mean-for-the-future/",
-          "published_at": "2026-10-24T02:10:00+00:00",
-          "image_url": "",
-          "kind": "episode",
-          "content_platform": "podcast",
-          "author": "arsenalpassfab",
-          "excerpt": "A big mid-week announcement from Legend Story Studios gives us the understanding of the next phase for Flesh and Blood, with the announcement of FAB 3.0! So what does it all mean, how big are the impacts and what is the future looking like for Flesh and Blood? From competitive play, to product, rewards and in-store play. Hayden and Pankaj are here to break i",
-          "source_name": "Arsenal Pass",
-          "source_platform": "podcast"
-        }
-      ],
-      "recent_count": 1,
-      "latest_published_at": "2026-10-24T02:10:00+00:00"
-    },
-    {
-      "name": "Hayden Dale",
-      "category": "pro-player",
-      "games": [
-        "flesh-and-blood"
-      ],
-      "roles": [
-        "Pro player",
-        "Podcast / estratégia"
-      ],
-      "description": "Calling e Australian National Champion; co-host do Arsenal Pass.",
-      "profiles": [
-        {
-          "platform": "youtube",
-          "label": "YouTube — Arsenal Pass",
-          "url": "https://www.youtube.com/channel/UClhUUppHaVDBUOJHXL-a0EQ"
-        }
-      ],
-      "media_refs": [
-        "Arsenal Pass"
-      ],
-      "content_sources": [],
-      "id": "27faab492275c619",
-      "recent_items": [
-        {
-          "id": "f1a823ab5eb131a49129",
-          "title": "Arsenal Pass EP288 - What Does FAB 3.0 Mean for the Future?",
-          "url": "https://arsenalpassfab.podbean.com/e/arsenal-pass-ep288-what-does-fab-30-mean-for-the-future/",
-          "published_at": "2026-10-24T02:10:00+00:00",
-          "image_url": "",
-          "kind": "episode",
-          "content_platform": "podcast",
-          "author": "arsenalpassfab",
-          "excerpt": "A big mid-week announcement from Legend Story Studios gives us the understanding of the next phase for Flesh and Blood, with the announcement of FAB 3.0! So what does it all mean, how big are the impacts and what is the future looking like for Flesh and Blood? From competitive play, to product, rewards and in-store play. Hayden and Pankaj are here to break i",
-          "source_name": "Arsenal Pass",
-          "source_platform": "podcast"
-        }
-      ],
-      "recent_count": 1,
-      "latest_published_at": "2026-10-24T02:10:00+00:00"
     },
     {
       "name": "Yuki Lee Bender",
@@ -888,7 +935,7 @@
           "url": "https://wisnutan.artstation.com/",
           "id": "d8672361aa948656",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:38.737824+00:00",
+          "last_checked_at": "2026-10-30T09:57:22.902904+00:00",
           "resolved_url": "https://wisnutan.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -926,7 +973,7 @@
           "url": "https://corbenyx.artstation.com/",
           "id": "9483b28f5e77cdde",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:38.467203+00:00",
+          "last_checked_at": "2026-10-30T09:57:22.660681+00:00",
           "resolved_url": "https://corbenyx.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -986,7 +1033,7 @@
           "url": "https://www.artstation.com/morano",
           "id": "49c9e176ceb6824c",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:38.206591+00:00",
+          "last_checked_at": "2026-10-30T09:57:22.381878+00:00",
           "resolved_url": "https://www.artstation.com/morano",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1107,7 +1154,7 @@
           "url": "https://simondominic.artstation.com/",
           "id": "e2f5ed1564770040",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:37.936447+00:00",
+          "last_checked_at": "2026-10-30T09:57:22.151067+00:00",
           "resolved_url": "https://simondominic.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1169,7 +1216,7 @@
           "url": "https://satriasa.artstation.com/",
           "id": "6b957fa69602ee96",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:37.681326+00:00",
+          "last_checked_at": "2026-10-30T09:57:21.933646+00:00",
           "resolved_url": "https://satriasa.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1231,7 +1278,7 @@
           "url": "https://samyang.artstation.com/",
           "id": "73f8663301c3471f",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:37.432246+00:00",
+          "last_checked_at": "2026-10-30T09:57:21.709484+00:00",
           "resolved_url": "https://samyang.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1309,7 +1356,7 @@
           "url": "https://riordan.artstation.com/",
           "id": "06b6de0c14e1e2d9",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:37.133423+00:00",
+          "last_checked_at": "2026-10-30T09:57:21.372648+00:00",
           "resolved_url": "https://riordan.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1377,7 +1424,7 @@
           "url": "https://rezaafshar.artstation.com/",
           "id": "20955e06edd78ba9",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:36.450226+00:00",
+          "last_checked_at": "2026-10-30T09:57:20.873753+00:00",
           "resolved_url": "https://rezaafshar.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1393,13 +1440,12 @@
           "youtube_search_fallback": false,
           "id": "4db0ca75580bf43c",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:36.936282+00:00",
+          "last_checked_at": "2026-10-30T09:57:21.138606+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCtDQNLj3bZ_jBFtdz5w40aQ",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtDQNLj3bZ_jBFtdz5w40aQ",
           "resolved_channel_id": "UCtDQNLj3bZ_jBFtdz5w40aQ",
           "recent_count": 0,
-          "latest_published_at": null,
-          "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtDQNLj3bZ_jBFtdz5w40aQ"
+          "latest_published_at": null
         }
       ],
       "id": "7f50840e5a45ed76",
@@ -1517,7 +1563,7 @@
           "url": "https://www.artstation.com/mrcaptain",
           "id": "13e37397dcd73586",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:36.183399+00:00",
+          "last_checked_at": "2026-10-30T09:57:20.650988+00:00",
           "resolved_url": "https://www.artstation.com/mrcaptain",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1655,7 +1701,7 @@
           "url": "https://www.artstation.com/ninesicks",
           "id": "93ab4c9338a7eedf",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:35.924268+00:00",
+          "last_checked_at": "2026-10-30T09:57:20.414541+00:00",
           "resolved_url": "https://www.artstation.com/ninesicks",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1714,7 +1760,7 @@
           "url": "https://mateusz_wisniewski.artstation.com/",
           "id": "6f4719dcb89f11d3",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:35.428769+00:00",
+          "last_checked_at": "2026-10-30T09:57:19.955657+00:00",
           "resolved_url": "https://mateusz_wisniewski.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1794,7 +1840,7 @@
           "url": "https://www.artstation.com/mariusz",
           "id": "936bb3a5ba9068eb",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:35.154030+00:00",
+          "last_checked_at": "2026-10-30T09:57:19.720989+00:00",
           "resolved_url": "https://www.artstation.com/mariusz",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1837,7 +1883,7 @@
           "url": "https://www.artstation.com/mario_wibisono",
           "id": "1260517571477846",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:34.874263+00:00",
+          "last_checked_at": "2026-10-30T09:57:19.471742+00:00",
           "resolved_url": "https://www.artstation.com/mario_wibisono",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1880,7 +1926,7 @@
           "url": "https://innervalue.artstation.com/",
           "id": "ec4333813799bc87",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:34.578372+00:00",
+          "last_checked_at": "2026-10-30T09:57:19.250616+00:00",
           "resolved_url": "https://innervalue.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1919,7 +1965,7 @@
           "url": "https://www.artstation.com/mjfetesio",
           "id": "9bfa1845086db410",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:35.678989+00:00",
+          "last_checked_at": "2026-10-30T09:57:20.210842+00:00",
           "resolved_url": "https://www.artstation.com/mjfetesio",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1969,7 +2015,7 @@
           "url": "https://www.twitch.tv/lsv",
           "id": "9c36b3a13040cb13",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:40.489192+00:00",
+          "last_checked_at": "2026-10-30T09:57:25.099232+00:00",
           "resolved_url": "https://www.twitch.tv/lsv",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2007,7 +2053,7 @@
           "url": "https://lizhelart.artstation.com/",
           "id": "27c2542215355004",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:34.227388+00:00",
+          "last_checked_at": "2026-10-30T09:57:19.006493+00:00",
           "resolved_url": "https://lizhelart.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2050,7 +2096,7 @@
           "url": "https://dopaprime.artstation.com/",
           "id": "6309278ba135097d",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:33.956887+00:00",
+          "last_checked_at": "2026-10-30T09:57:18.659080+00:00",
           "resolved_url": "https://dopaprime.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2088,7 +2134,7 @@
           "url": "https://lasahido.artstation.com/",
           "id": "f81cc7d641f5d713",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:33.684431+00:00",
+          "last_checked_at": "2026-10-30T09:57:18.341761+00:00",
           "resolved_url": "https://lasahido.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2126,7 +2172,7 @@
           "url": "https://k_ptn.artstation.com/",
           "id": "a8d4dca5d86787c9",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:33.414268+00:00",
+          "last_checked_at": "2026-10-30T09:57:18.115146+00:00",
           "resolved_url": "https://k_ptn.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2191,7 +2237,7 @@
           "url": "https://www.artstation.com/kevin_sidharta",
           "id": "bf798db6840ed944",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:33.127992+00:00",
+          "last_checked_at": "2026-10-30T09:57:17.850916+00:00",
           "resolved_url": "https://www.artstation.com/kevin_sidharta",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2333,7 +2379,7 @@
           "url": "https://jguilherme08.artstation.com/",
           "id": "a139a80ecc09b443",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:32.886812+00:00",
+          "last_checked_at": "2026-10-30T09:57:17.610627+00:00",
           "resolved_url": "https://jguilherme08.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2405,7 +2451,7 @@
           "url": "https://jessada.artstation.com/",
           "id": "347f719df76d9bc5",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:32.597172+00:00",
+          "last_checked_at": "2026-10-30T09:57:17.380534+00:00",
           "resolved_url": "https://jessada.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2608,7 +2654,7 @@
           "url": "https://lindnr.artstation.com/",
           "id": "23f278d7050e13b0",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:32.304455+00:00",
+          "last_checked_at": "2026-10-30T09:57:17.140631+00:00",
           "resolved_url": "https://lindnr.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2664,7 +2710,7 @@
           "url": "https://krotz.artstation.com/",
           "id": "fea91eb02c7098f8",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:31.996612+00:00",
+          "last_checked_at": "2026-10-30T09:57:16.895436+00:00",
           "resolved_url": "https://krotz.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2710,7 +2756,7 @@
           "url": "https://www.twitch.tv/yellowhat",
           "id": "730413fc26c07ed3",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:40.066007+00:00",
+          "last_checked_at": "2026-10-30T09:57:24.349828+00:00",
           "resolved_url": "https://www.twitch.tv/yellowhat",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2865,7 +2911,7 @@
           "url": "https://savagehenry.artstation.com/",
           "id": "995b69226ce0c049",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:31.093736+00:00",
+          "last_checked_at": "2026-10-30T09:57:16.153365+00:00",
           "resolved_url": "https://savagehenry.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -3001,7 +3047,7 @@
           "url": "https://arifwijaya.artstation.com/",
           "id": "a2ca589ff5d23589",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:30.784549+00:00",
+          "last_checked_at": "2026-10-30T09:57:15.902927+00:00",
           "resolved_url": "https://arifwijaya.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -3076,7 +3122,7 @@
           "url": "https://aluisiocsantos.artstation.com/",
           "id": "ac26b661e34084d0",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:30.185530+00:00",
+          "last_checked_at": "2026-10-30T09:57:15.597147+00:00",
           "resolved_url": "https://aluisiocsantos.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -3114,7 +3160,7 @@
           "url": "https://alexis-susani.artstation.com/",
           "id": "5d13e225cd5c2a43",
           "recent_items": [],
-          "last_checked_at": "2026-10-30T00:57:29.846038+00:00",
+          "last_checked_at": "2026-10-30T09:57:15.317846+00:00",
           "resolved_url": "https://alexis-susani.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
