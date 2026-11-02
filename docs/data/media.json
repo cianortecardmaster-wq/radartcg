@@ -1,12 +1,584 @@
 {
-  "generated_at": "2026-11-02T00:40:48.349102+00:00",
+  "generated_at": "2026-11-02T10:57:50.058990+00:00",
   "window_days": 7,
   "count": 94,
   "active_count": 38,
-  "content_count": 155,
+  "content_count": 174,
   "content_ready": true,
-  "errors_count": 3,
+  "errors_count": 0,
   "sources": [
+    {
+      "name": "AshenWingzTCG",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "Silver Age",
+        "deck tech",
+        "notícias"
+      ],
+      "url": "https://www.youtube.com/results?search_query=AshenWingzTCG+Flesh+and+Blood",
+      "id": "07cf737cea28dd95",
+      "recent_items": [
+        {
+          "id": "c49e49ae6e72f6f198dc",
+          "title": "Reviewing the Dr. Mortimer Armory Deck LIVE! | Flesh and Blood TCG",
+          "url": "https://www.youtube.com/watch?v=k7RV9vJxg9s",
+          "published_at": "2026-11-02T03:53:15+00:00",
+          "image_url": "https://i4.ytimg.com/vi/k7RV9vJxg9s/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "AshenWingzTCG",
+          "excerpt": "Channel Members get member only videos as well as a place in my heart! Thank you for supporting the channel and being such a wonderful member of this community! Join this channel to get access to perks: https://www.youtube.com/channel/UC663r9Jbqwv6ftJNZDdVVUg/join AshenWingzTCG Discord: https://discord.gg/k3jDNqXvP7 Bluesky: @ashenwingz.bsky.social #fabtcg #"
+        },
+        {
+          "id": "785dfba0e5c1cf136e29",
+          "title": "EP 68 Whats Happening At Worlds! | The Common Language | Flesh and Blood TCG",
+          "url": "https://www.youtube.com/watch?v=2gBRICWrCHc",
+          "published_at": "2026-11-01T14:14:05+00:00",
+          "image_url": "https://i3.ytimg.com/vi/2gBRICWrCHc/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "AshenWingzTCG",
+          "excerpt": "Join this channel to get access to perks: https://www.youtube.com/channel/UC663r9Jbqwv6ftJNZDdVVUg/join Into the AM Partner Link: https://www.intotheam.com/ASHTCG Bulk Recycle Program: https://docs.google.com/spreadsheets/d/1bTDSLmgxTmMVYES8Rxzat33RX5ykC34UTEIDYDs8QBY/edit?usp=sharing AshenWingzTCG Discord: https://discord.gg/k3jDNqXvP7 BlueSky: @ashenwingz."
+        },
+        {
+          "id": "0b14d1c26d5b8cbf4ca7",
+          "title": "Will Silver Age Ever Be A Premier Format? (Also BnR I guess) | Flesh and Blood TCG",
+          "url": "https://www.youtube.com/watch?v=1g1WIYjiRbQ",
+          "published_at": "2026-10-26T17:14:12+00:00",
+          "image_url": "https://i2.ytimg.com/vi/1g1WIYjiRbQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "AshenWingzTCG",
+          "excerpt": "Join this channel to get access to perks: https://www.youtube.com/channel/UC663r9Jbqwv6ftJNZDdVVUg/join Into the AM Partner Link: https://www.intotheam.com/ASHTCG Bulk Recycle Program: https://docs.google.com/spreadsheets/d/1bTDSLmgxTmMVYES8Rxzat33RX5ykC34UTEIDYDs8QBY/edit?usp=sharing AshenWingzTCG Discord: https://discord.gg/k3jDNqXvP7 BlueSky: @ashenwingz."
+        }
+      ],
+      "last_checked_at": "2026-11-02T10:57:18.905249+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UC663r9Jbqwv6ftJNZDdVVUg",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC663r9Jbqwv6ftJNZDdVVUg",
+      "resolved_channel_id": "UC663r9Jbqwv6ftJNZDdVVUg",
+      "recent_count": 3,
+      "latest_published_at": "2026-11-02T03:53:15+00:00"
+    },
+    {
+      "name": "TCG TALK",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "notícias",
+        "meta",
+        "opinião"
+      ],
+      "url": "https://www.youtube.com/results?search_query=TCG+TALK+Flesh+and+Blood",
+      "id": "bbaa7618326bb5af",
+      "recent_items": [
+        {
+          "id": "eeea54ef63796d47ae46",
+          "title": "🔴 Flesh and Blood TCG: World Championship Paris Top 8 - $300,000 in Prizing!",
+          "url": "https://www.youtube.com/watch?v=Mpf2DE5f8kk",
+          "published_at": "2026-11-02T02:32:12+00:00",
+          "image_url": "https://i2.ytimg.com/vi/Mpf2DE5f8kk/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "🔴 $300,000 USD on the line LIVE from Paris! The City of Light becomes the battleground of legends as the Flesh and Blood World Championship reaches its FINALE! 🏆 After days of fierce competition, the world's finest players have fought their way through the shadows, and now only the strongest remain. The stakes have never been higher as they battle in Classic"
+        },
+        {
+          "id": "fb09349c5bac64488756",
+          "title": "🔴 Flesh and Blood TCG: World Championship Paris Day 2 - $300,000 in Prizing!",
+          "url": "https://www.youtube.com/watch?v=g6yNUt0PV-8",
+          "published_at": "2026-11-02T02:27:16+00:00",
+          "image_url": "https://i4.ytimg.com/vi/g6yNUt0PV-8/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "$300,000 USD. The world's best Flesh and Blood players. ONE World Champion. 🏆🇫🇷 🔴 LIVE from Paris! The battle for the crown rages on as the Flesh and Blood World Championship enters Day 2! Watch the world's finest players go head-to-head in high-stakes Classic Constructed and Usurp the Shadow Throne Booster Draft, battling for their share of $300,000 USD and"
+        },
+        {
+          "id": "73ff68cdbc648c90b094",
+          "title": "🔴 Flesh and Blood TCG: World Championship Paris Day 1 - $300,000 in Prizing!",
+          "url": "https://www.youtube.com/watch?v=iLFJU31cNfA",
+          "published_at": "2026-11-02T02:19:29+00:00",
+          "image_url": "https://i2.ytimg.com/vi/iLFJU31cNfA/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "The City of Light is about to be plunged into shadow! 🗡️ The Flesh and Blood World Championship is finally here, and the biggest battle of the year is coming to you LIVE from Paris! 🏆 The world's finest players emerge from the shadows to battle in Classic Constructed and Usurp the Shadow Throne Booster Draft for their share of $300,000 USD and the ultimate p"
+        },
+        {
+          "id": "67eee8f9fe558aaec2a0",
+          "title": "Armory Deck Battle | Dr. Mortimer v Arakni - Classic Constructed Gameplay",
+          "url": "https://www.youtube.com/watch?v=tp5Dq0ldceo",
+          "published_at": "2026-11-01T21:00:00+00:00",
+          "image_url": "https://i1.ytimg.com/vi/tp5Dq0ldceo/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "Tune in for the sickest episode yet of Armory Deck Battles! 🧪 A mysterious guest pilots the new Dr. Mortimer, Blight of the Pits Armory Deck against Liv, who's playing Arakni, 5L!p3d 7hRu 7h3 cR4X. Find out if Arakni can dodge the diseases or become the latest subject of the Doctor's trials! 💉 Armory Deck: Dr. Mortimer - https://fabtcg.com/products/armory-de"
+        },
+        {
+          "id": "4846fc44dcad38ee039f",
+          "title": "Happy Halloween from Legend Story Studios... 🎃",
+          "url": "https://www.youtube.com/shorts/5bzQLEVy540",
+          "published_at": "2026-10-31T08:01:29+00:00",
+          "image_url": "https://i2.ytimg.com/vi/5bzQLEVy540/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "Happy Halloween from Legend Story Studios... 🎃"
+        },
+        {
+          "id": "042e74557d4b51f78521",
+          "title": "Calling: Mexico City, Pro Quest & More Meta Shake Ups",
+          "url": "https://www.youtube.com/watch?v=z_pJkyeT4uQ",
+          "published_at": "2026-10-27T23:00:03+00:00",
+          "image_url": "https://i3.ytimg.com/vi/z_pJkyeT4uQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "It's a free for all this Pro Quest Season with the top contenders flying off into Living Legend Land. Which heroes will take hold of the meta as we head into the World Championship in Paris? 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https"
+        }
+      ],
+      "last_checked_at": "2026-11-02T10:57:15.732782+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
+      "recent_count": 6,
+      "latest_published_at": "2026-11-02T02:32:12+00:00"
+    },
+    {
+      "name": "Funk",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "competitivo"
+      ],
+      "url": "https://www.youtube.com/results?search_query=Funk+Flesh+and+Blood+TCG",
+      "id": "155bf92e368b525b",
+      "recent_items": [
+        {
+          "id": "c4288f4d96711cdc437c",
+          "title": "🔴 Flesh and Blood TCG: World Championship Paris Top 8 - $300,000 in Prizing!",
+          "url": "https://www.youtube.com/watch?v=Mpf2DE5f8kk",
+          "published_at": "2026-11-02T02:32:12+00:00",
+          "image_url": "https://i2.ytimg.com/vi/Mpf2DE5f8kk/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "🔴 $300,000 USD on the line LIVE from Paris! The City of Light becomes the battleground of legends as the Flesh and Blood World Championship reaches its FINALE! 🏆 After days of fierce competition, the world's finest players have fought their way through the shadows, and now only the strongest remain. The stakes have never been higher as they battle in Classic"
+        },
+        {
+          "id": "580fd4224f742d4dee0e",
+          "title": "🔴 Flesh and Blood TCG: World Championship Paris Day 2 - $300,000 in Prizing!",
+          "url": "https://www.youtube.com/watch?v=g6yNUt0PV-8",
+          "published_at": "2026-11-02T02:27:16+00:00",
+          "image_url": "https://i4.ytimg.com/vi/g6yNUt0PV-8/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "$300,000 USD. The world's best Flesh and Blood players. ONE World Champion. 🏆🇫🇷 🔴 LIVE from Paris! The battle for the crown rages on as the Flesh and Blood World Championship enters Day 2! Watch the world's finest players go head-to-head in high-stakes Classic Constructed and Usurp the Shadow Throne Booster Draft, battling for their share of $300,000 USD and"
+        },
+        {
+          "id": "8cecfe4383e93b004d8a",
+          "title": "🔴 Flesh and Blood TCG: World Championship Paris Day 1 - $300,000 in Prizing!",
+          "url": "https://www.youtube.com/watch?v=iLFJU31cNfA",
+          "published_at": "2026-11-02T02:19:29+00:00",
+          "image_url": "https://i2.ytimg.com/vi/iLFJU31cNfA/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "The City of Light is about to be plunged into shadow! 🗡️ The Flesh and Blood World Championship is finally here, and the biggest battle of the year is coming to you LIVE from Paris! 🏆 The world's finest players emerge from the shadows to battle in Classic Constructed and Usurp the Shadow Throne Booster Draft for their share of $300,000 USD and the ultimate p"
+        },
+        {
+          "id": "a7b3f2f923a057080143",
+          "title": "Armory Deck Battle | Dr. Mortimer v Arakni - Classic Constructed Gameplay",
+          "url": "https://www.youtube.com/watch?v=tp5Dq0ldceo",
+          "published_at": "2026-11-01T21:00:00+00:00",
+          "image_url": "https://i1.ytimg.com/vi/tp5Dq0ldceo/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "Tune in for the sickest episode yet of Armory Deck Battles! 🧪 A mysterious guest pilots the new Dr. Mortimer, Blight of the Pits Armory Deck against Liv, who's playing Arakni, 5L!p3d 7hRu 7h3 cR4X. Find out if Arakni can dodge the diseases or become the latest subject of the Doctor's trials! 💉 Armory Deck: Dr. Mortimer - https://fabtcg.com/products/armory-de"
+        },
+        {
+          "id": "ec3882cb69421022ce62",
+          "title": "Happy Halloween from Legend Story Studios... 🎃",
+          "url": "https://www.youtube.com/shorts/5bzQLEVy540",
+          "published_at": "2026-10-31T08:01:29+00:00",
+          "image_url": "https://i2.ytimg.com/vi/5bzQLEVy540/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "Happy Halloween from Legend Story Studios... 🎃"
+        },
+        {
+          "id": "f69a665728ec94103466",
+          "title": "Calling: Mexico City, Pro Quest & More Meta Shake Ups",
+          "url": "https://www.youtube.com/watch?v=z_pJkyeT4uQ",
+          "published_at": "2026-10-27T23:00:03+00:00",
+          "image_url": "https://i3.ytimg.com/vi/z_pJkyeT4uQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "It's a free for all this Pro Quest Season with the top contenders flying off into Living Legend Land. Which heroes will take hold of the meta as we head into the World Championship in Paris? 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https"
+        }
+      ],
+      "last_checked_at": "2026-11-02T10:57:22.798152+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
+      "recent_count": 6,
+      "latest_published_at": "2026-11-02T02:32:12+00:00"
+    },
+    {
+      "name": "Formato For Fun",
+      "platform": "youtube",
+      "language": "pt",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "lore",
+        "conteúdo em português"
+      ],
+      "url": "https://www.youtube.com/results?search_query=Formato+For+Fun+Flesh+and+Blood",
+      "id": "c16bc511700f45dc",
+      "recent_items": [
+        {
+          "id": "85a15f8f1713b41cdbd2",
+          "title": "🔴 Flesh and Blood TCG: World Championship Paris Top 8 - $300,000 in Prizing!",
+          "url": "https://www.youtube.com/watch?v=Mpf2DE5f8kk",
+          "published_at": "2026-11-02T02:32:12+00:00",
+          "image_url": "https://i2.ytimg.com/vi/Mpf2DE5f8kk/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "🔴 $300,000 USD on the line LIVE from Paris! The City of Light becomes the battleground of legends as the Flesh and Blood World Championship reaches its FINALE! 🏆 After days of fierce competition, the world's finest players have fought their way through the shadows, and now only the strongest remain. The stakes have never been higher as they battle in Classic"
+        },
+        {
+          "id": "7c928637c503d683f5bc",
+          "title": "🔴 Flesh and Blood TCG: World Championship Paris Day 2 - $300,000 in Prizing!",
+          "url": "https://www.youtube.com/watch?v=g6yNUt0PV-8",
+          "published_at": "2026-11-02T02:27:16+00:00",
+          "image_url": "https://i4.ytimg.com/vi/g6yNUt0PV-8/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "$300,000 USD. The world's best Flesh and Blood players. ONE World Champion. 🏆🇫🇷 🔴 LIVE from Paris! The battle for the crown rages on as the Flesh and Blood World Championship enters Day 2! Watch the world's finest players go head-to-head in high-stakes Classic Constructed and Usurp the Shadow Throne Booster Draft, battling for their share of $300,000 USD and"
+        },
+        {
+          "id": "14893bea1d967145395e",
+          "title": "🔴 Flesh and Blood TCG: World Championship Paris Day 1 - $300,000 in Prizing!",
+          "url": "https://www.youtube.com/watch?v=iLFJU31cNfA",
+          "published_at": "2026-11-02T02:19:29+00:00",
+          "image_url": "https://i2.ytimg.com/vi/iLFJU31cNfA/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "The City of Light is about to be plunged into shadow! 🗡️ The Flesh and Blood World Championship is finally here, and the biggest battle of the year is coming to you LIVE from Paris! 🏆 The world's finest players emerge from the shadows to battle in Classic Constructed and Usurp the Shadow Throne Booster Draft for their share of $300,000 USD and the ultimate p"
+        },
+        {
+          "id": "51bd0910a08bce554601",
+          "title": "Armory Deck Battle | Dr. Mortimer v Arakni - Classic Constructed Gameplay",
+          "url": "https://www.youtube.com/watch?v=tp5Dq0ldceo",
+          "published_at": "2026-11-01T21:00:00+00:00",
+          "image_url": "https://i1.ytimg.com/vi/tp5Dq0ldceo/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "Tune in for the sickest episode yet of Armory Deck Battles! 🧪 A mysterious guest pilots the new Dr. Mortimer, Blight of the Pits Armory Deck against Liv, who's playing Arakni, 5L!p3d 7hRu 7h3 cR4X. Find out if Arakni can dodge the diseases or become the latest subject of the Doctor's trials! 💉 Armory Deck: Dr. Mortimer - https://fabtcg.com/products/armory-de"
+        },
+        {
+          "id": "0deb00eea605836ad551",
+          "title": "Happy Halloween from Legend Story Studios... 🎃",
+          "url": "https://www.youtube.com/shorts/5bzQLEVy540",
+          "published_at": "2026-10-31T08:01:29+00:00",
+          "image_url": "https://i2.ytimg.com/vi/5bzQLEVy540/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "Happy Halloween from Legend Story Studios... 🎃"
+        },
+        {
+          "id": "71680bf55b4325de1415",
+          "title": "Calling: Mexico City, Pro Quest & More Meta Shake Ups",
+          "url": "https://www.youtube.com/watch?v=z_pJkyeT4uQ",
+          "published_at": "2026-10-27T23:00:03+00:00",
+          "image_url": "https://i3.ytimg.com/vi/z_pJkyeT4uQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "It's a free for all this Pro Quest Season with the top contenders flying off into Living Legend Land. Which heroes will take hold of the meta as we head into the World Championship in Paris? 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https"
+        }
+      ],
+      "last_checked_at": "2026-11-02T10:57:29.510065+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
+      "recent_count": 6,
+      "latest_published_at": "2026-11-02T02:32:12+00:00"
+    },
+    {
+      "name": "Dues of the Golden Sands",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "deck tech",
+        "competitivo"
+      ],
+      "url": "https://www.youtube.com/results?search_query=Dues+of+the+Golden+Sands+Flesh+and+Blood",
+      "id": "dbc698f4ffc4a5a6",
+      "recent_items": [
+        {
+          "id": "7fc5405b35b9a76af68f",
+          "title": "🔴 Flesh and Blood TCG: World Championship Paris Top 8 - $300,000 in Prizing!",
+          "url": "https://www.youtube.com/watch?v=Mpf2DE5f8kk",
+          "published_at": "2026-11-02T02:32:12+00:00",
+          "image_url": "https://i2.ytimg.com/vi/Mpf2DE5f8kk/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "🔴 $300,000 USD on the line LIVE from Paris! The City of Light becomes the battleground of legends as the Flesh and Blood World Championship reaches its FINALE! 🏆 After days of fierce competition, the world's finest players have fought their way through the shadows, and now only the strongest remain. The stakes have never been higher as they battle in Classic"
+        },
+        {
+          "id": "fd5b5e55b1727b6128cb",
+          "title": "🔴 Flesh and Blood TCG: World Championship Paris Day 2 - $300,000 in Prizing!",
+          "url": "https://www.youtube.com/watch?v=g6yNUt0PV-8",
+          "published_at": "2026-11-02T02:27:16+00:00",
+          "image_url": "https://i4.ytimg.com/vi/g6yNUt0PV-8/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "$300,000 USD. The world's best Flesh and Blood players. ONE World Champion. 🏆🇫🇷 🔴 LIVE from Paris! The battle for the crown rages on as the Flesh and Blood World Championship enters Day 2! Watch the world's finest players go head-to-head in high-stakes Classic Constructed and Usurp the Shadow Throne Booster Draft, battling for their share of $300,000 USD and"
+        },
+        {
+          "id": "c19097dbd3cc7598ecb8",
+          "title": "🔴 Flesh and Blood TCG: World Championship Paris Day 1 - $300,000 in Prizing!",
+          "url": "https://www.youtube.com/watch?v=iLFJU31cNfA",
+          "published_at": "2026-11-02T02:19:29+00:00",
+          "image_url": "https://i2.ytimg.com/vi/iLFJU31cNfA/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "The City of Light is about to be plunged into shadow! 🗡️ The Flesh and Blood World Championship is finally here, and the biggest battle of the year is coming to you LIVE from Paris! 🏆 The world's finest players emerge from the shadows to battle in Classic Constructed and Usurp the Shadow Throne Booster Draft for their share of $300,000 USD and the ultimate p"
+        },
+        {
+          "id": "039e99ed2434a065ec3e",
+          "title": "Armory Deck Battle | Dr. Mortimer v Arakni - Classic Constructed Gameplay",
+          "url": "https://www.youtube.com/watch?v=tp5Dq0ldceo",
+          "published_at": "2026-11-01T21:00:00+00:00",
+          "image_url": "https://i1.ytimg.com/vi/tp5Dq0ldceo/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "Tune in for the sickest episode yet of Armory Deck Battles! 🧪 A mysterious guest pilots the new Dr. Mortimer, Blight of the Pits Armory Deck against Liv, who's playing Arakni, 5L!p3d 7hRu 7h3 cR4X. Find out if Arakni can dodge the diseases or become the latest subject of the Doctor's trials! 💉 Armory Deck: Dr. Mortimer - https://fabtcg.com/products/armory-de"
+        },
+        {
+          "id": "9fa7d6dd70234781eea9",
+          "title": "Happy Halloween from Legend Story Studios... 🎃",
+          "url": "https://www.youtube.com/shorts/5bzQLEVy540",
+          "published_at": "2026-10-31T08:01:29+00:00",
+          "image_url": "https://i2.ytimg.com/vi/5bzQLEVy540/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "Happy Halloween from Legend Story Studios... 🎃"
+        },
+        {
+          "id": "7392294e2b16fbd9e076",
+          "title": "Calling: Mexico City, Pro Quest & More Meta Shake Ups",
+          "url": "https://www.youtube.com/watch?v=z_pJkyeT4uQ",
+          "published_at": "2026-10-27T23:00:03+00:00",
+          "image_url": "https://i3.ytimg.com/vi/z_pJkyeT4uQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "It's a free for all this Pro Quest Season with the top contenders flying off into Living Legend Land. Which heroes will take hold of the meta as we head into the World Championship in Paris? 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https"
+        }
+      ],
+      "last_checked_at": "2026-11-02T10:57:21.474916+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
+      "recent_count": 6,
+      "latest_published_at": "2026-11-02T02:32:12+00:00"
+    },
+    {
+      "name": "Dozr",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "theorycraft",
+        "Illusionist",
+        "Ranger",
+        "Wizard"
+      ],
+      "url": "https://www.youtube.com/results?search_query=Dozr+Flesh+and+Blood+TCG",
+      "id": "c1d69dfa8fe005db",
+      "recent_items": [
+        {
+          "id": "1148f3029eaa4208a778",
+          "title": "🔴 Flesh and Blood TCG: World Championship Paris Top 8 - $300,000 in Prizing!",
+          "url": "https://www.youtube.com/watch?v=Mpf2DE5f8kk",
+          "published_at": "2026-11-02T02:32:12+00:00",
+          "image_url": "https://i2.ytimg.com/vi/Mpf2DE5f8kk/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "🔴 $300,000 USD on the line LIVE from Paris! The City of Light becomes the battleground of legends as the Flesh and Blood World Championship reaches its FINALE! 🏆 After days of fierce competition, the world's finest players have fought their way through the shadows, and now only the strongest remain. The stakes have never been higher as they battle in Classic"
+        },
+        {
+          "id": "a75741473812aaeb6031",
+          "title": "🔴 Flesh and Blood TCG: World Championship Paris Day 2 - $300,000 in Prizing!",
+          "url": "https://www.youtube.com/watch?v=g6yNUt0PV-8",
+          "published_at": "2026-11-02T02:27:16+00:00",
+          "image_url": "https://i4.ytimg.com/vi/g6yNUt0PV-8/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "$300,000 USD. The world's best Flesh and Blood players. ONE World Champion. 🏆🇫🇷 🔴 LIVE from Paris! The battle for the crown rages on as the Flesh and Blood World Championship enters Day 2! Watch the world's finest players go head-to-head in high-stakes Classic Constructed and Usurp the Shadow Throne Booster Draft, battling for their share of $300,000 USD and"
+        },
+        {
+          "id": "3e09fda85d3b8a000f08",
+          "title": "🔴 Flesh and Blood TCG: World Championship Paris Day 1 - $300,000 in Prizing!",
+          "url": "https://www.youtube.com/watch?v=iLFJU31cNfA",
+          "published_at": "2026-11-02T02:19:29+00:00",
+          "image_url": "https://i2.ytimg.com/vi/iLFJU31cNfA/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "The City of Light is about to be plunged into shadow! 🗡️ The Flesh and Blood World Championship is finally here, and the biggest battle of the year is coming to you LIVE from Paris! 🏆 The world's finest players emerge from the shadows to battle in Classic Constructed and Usurp the Shadow Throne Booster Draft for their share of $300,000 USD and the ultimate p"
+        },
+        {
+          "id": "137229cb2e3d9cb27280",
+          "title": "Armory Deck Battle | Dr. Mortimer v Arakni - Classic Constructed Gameplay",
+          "url": "https://www.youtube.com/watch?v=tp5Dq0ldceo",
+          "published_at": "2026-11-01T21:00:00+00:00",
+          "image_url": "https://i1.ytimg.com/vi/tp5Dq0ldceo/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "Tune in for the sickest episode yet of Armory Deck Battles! 🧪 A mysterious guest pilots the new Dr. Mortimer, Blight of the Pits Armory Deck against Liv, who's playing Arakni, 5L!p3d 7hRu 7h3 cR4X. Find out if Arakni can dodge the diseases or become the latest subject of the Doctor's trials! 💉 Armory Deck: Dr. Mortimer - https://fabtcg.com/products/armory-de"
+        },
+        {
+          "id": "51fca703037d76366216",
+          "title": "Happy Halloween from Legend Story Studios... 🎃",
+          "url": "https://www.youtube.com/shorts/5bzQLEVy540",
+          "published_at": "2026-10-31T08:01:29+00:00",
+          "image_url": "https://i2.ytimg.com/vi/5bzQLEVy540/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "Happy Halloween from Legend Story Studios... 🎃"
+        },
+        {
+          "id": "6b1c2d649f1bc367c401",
+          "title": "Calling: Mexico City, Pro Quest & More Meta Shake Ups",
+          "url": "https://www.youtube.com/watch?v=z_pJkyeT4uQ",
+          "published_at": "2026-10-27T23:00:03+00:00",
+          "image_url": "https://i3.ytimg.com/vi/z_pJkyeT4uQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "It's a free for all this Pro Quest Season with the top contenders flying off into Living Legend Land. Which heroes will take hold of the meta as we head into the World Championship in Paris? 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https"
+        }
+      ],
+      "last_checked_at": "2026-11-02T10:57:19.197764+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
+      "recent_count": 6,
+      "latest_published_at": "2026-11-02T02:32:12+00:00"
+    },
+    {
+      "name": "Cthulhy TCG",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "decks",
+        "heróis"
+      ],
+      "url": "https://www.youtube.com/results?search_query=Cthulhy+TCG+Flesh+and+Blood",
+      "id": "7a0a20e93b35960d",
+      "recent_items": [
+        {
+          "id": "7fc8e716b44d0e252e82",
+          "title": "🔴 Flesh and Blood TCG: World Championship Paris Top 8 - $300,000 in Prizing!",
+          "url": "https://www.youtube.com/watch?v=Mpf2DE5f8kk",
+          "published_at": "2026-11-02T02:32:12+00:00",
+          "image_url": "https://i2.ytimg.com/vi/Mpf2DE5f8kk/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "🔴 $300,000 USD on the line LIVE from Paris! The City of Light becomes the battleground of legends as the Flesh and Blood World Championship reaches its FINALE! 🏆 After days of fierce competition, the world's finest players have fought their way through the shadows, and now only the strongest remain. The stakes have never been higher as they battle in Classic"
+        },
+        {
+          "id": "7f087423e746bd685c9a",
+          "title": "🔴 Flesh and Blood TCG: World Championship Paris Day 2 - $300,000 in Prizing!",
+          "url": "https://www.youtube.com/watch?v=g6yNUt0PV-8",
+          "published_at": "2026-11-02T02:27:16+00:00",
+          "image_url": "https://i4.ytimg.com/vi/g6yNUt0PV-8/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "$300,000 USD. The world's best Flesh and Blood players. ONE World Champion. 🏆🇫🇷 🔴 LIVE from Paris! The battle for the crown rages on as the Flesh and Blood World Championship enters Day 2! Watch the world's finest players go head-to-head in high-stakes Classic Constructed and Usurp the Shadow Throne Booster Draft, battling for their share of $300,000 USD and"
+        },
+        {
+          "id": "12f3bdd71e96ea12c347",
+          "title": "🔴 Flesh and Blood TCG: World Championship Paris Day 1 - $300,000 in Prizing!",
+          "url": "https://www.youtube.com/watch?v=iLFJU31cNfA",
+          "published_at": "2026-11-02T02:19:29+00:00",
+          "image_url": "https://i2.ytimg.com/vi/iLFJU31cNfA/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "The City of Light is about to be plunged into shadow! 🗡️ The Flesh and Blood World Championship is finally here, and the biggest battle of the year is coming to you LIVE from Paris! 🏆 The world's finest players emerge from the shadows to battle in Classic Constructed and Usurp the Shadow Throne Booster Draft for their share of $300,000 USD and the ultimate p"
+        },
+        {
+          "id": "27d3d0e3f40912830dee",
+          "title": "Armory Deck Battle | Dr. Mortimer v Arakni - Classic Constructed Gameplay",
+          "url": "https://www.youtube.com/watch?v=tp5Dq0ldceo",
+          "published_at": "2026-11-01T21:00:00+00:00",
+          "image_url": "https://i1.ytimg.com/vi/tp5Dq0ldceo/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "Tune in for the sickest episode yet of Armory Deck Battles! 🧪 A mysterious guest pilots the new Dr. Mortimer, Blight of the Pits Armory Deck against Liv, who's playing Arakni, 5L!p3d 7hRu 7h3 cR4X. Find out if Arakni can dodge the diseases or become the latest subject of the Doctor's trials! 💉 Armory Deck: Dr. Mortimer - https://fabtcg.com/products/armory-de"
+        },
+        {
+          "id": "867dd2f79511fd11187e",
+          "title": "Happy Halloween from Legend Story Studios... 🎃",
+          "url": "https://www.youtube.com/shorts/5bzQLEVy540",
+          "published_at": "2026-10-31T08:01:29+00:00",
+          "image_url": "https://i2.ytimg.com/vi/5bzQLEVy540/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "Happy Halloween from Legend Story Studios... 🎃"
+        },
+        {
+          "id": "f9ef326291edd94ccba0",
+          "title": "Calling: Mexico City, Pro Quest & More Meta Shake Ups",
+          "url": "https://www.youtube.com/watch?v=z_pJkyeT4uQ",
+          "published_at": "2026-10-27T23:00:03+00:00",
+          "image_url": "https://i3.ytimg.com/vi/z_pJkyeT4uQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Flesh and Blood TCG",
+          "excerpt": "It's a free for all this Pro Quest Season with the top contenders flying off into Living Legend Land. Which heroes will take hold of the meta as we head into the World Championship in Paris? 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https"
+        }
+      ],
+      "last_checked_at": "2026-11-02T10:57:26.435614+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
+      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
+      "recent_count": 6,
+      "latest_published_at": "2026-11-02T02:32:12+00:00"
+    },
     {
       "name": "MaldHound",
       "platform": "youtube",
@@ -21,6 +593,17 @@
       "url": "https://www.youtube.com/results?search_query=MaldHound+MTG",
       "id": "c432eee2b1b51916",
       "recent_items": [
+        {
+          "id": "d4caa5374bedb2597606",
+          "title": "THEY CHANGED IT",
+          "url": "https://www.youtube.com/shorts/GbzjYM9V-YM",
+          "published_at": "2026-11-02T02:25:50+00:00",
+          "image_url": "https://i4.ytimg.com/vi/GbzjYM9V-YM/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "MaldHound",
+          "excerpt": ""
+        },
         {
           "id": "3232992bd39f68eb0eab",
           "title": "Working on Magiccon Atlanta Deck and Worf Deck",
@@ -141,25 +724,14 @@
           "content_platform": "youtube",
           "author": "MaldHound",
           "excerpt": "Click this link https://boot.dev/?promo=MALDHOUND and use my code MALDHOUND to get 25% off your first payment for boot.dev. I make fun of and (sometimes) improve my viewers commanders decks! Niv - https://moxfield.com/decks/pKyRz-mluUS2_h9DBAS6cw Podcasting Deck - https://moxfield.com/decks/W7SVOrjI6ky6vptVpo5nPQ Democracy - https://moxfield.com/decks/41JZOZ"
-        },
-        {
-          "id": "3f927d3f3b35d67e2d7f",
-          "title": "I\"M CUBING YOU I'M CUBING YOU",
-          "url": "https://www.youtube.com/shorts/X41vDuCOfsY",
-          "published_at": "2026-10-26T03:20:51+00:00",
-          "image_url": "https://i1.ytimg.com/vi/X41vDuCOfsY/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "MaldHound",
-          "excerpt": ""
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:39.454588+00:00",
+      "last_checked_at": "2026-11-02T10:57:42.646744+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCZfLLRbcus7Fm0STiCz0AfQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZfLLRbcus7Fm0STiCz0AfQ",
       "resolved_channel_id": "UCZfLLRbcus7Fm0STiCz0AfQ",
       "recent_count": 12,
-      "latest_published_at": "2026-11-01T22:19:25+00:00"
+      "latest_published_at": "2026-11-02T02:25:50+00:00"
     },
     {
       "name": "NumotTheNummy",
@@ -307,7 +879,7 @@
           "excerpt": "Thanks for watching! ✅ Subscribe: https://www.youtube.com/c/NumotTheNummyYT?sub_confirmation=1 ☑️ Join the Nummy Sub Club to unlock exclusive perks: https://www.youtube.com/channel/UCLzE7jLdn7dqxK-0OdXeuaw/join ---------------------------------------------------------------- • Twitch: https://www.twitch.tv/numotthenummy • Twitter: https://www.twitter.com/num"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:38.765050+00:00",
+      "last_checked_at": "2026-11-02T10:57:41.922815+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCLzE7jLdn7dqxK-0OdXeuaw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLzE7jLdn7dqxK-0OdXeuaw",
       "resolved_channel_id": "UCLzE7jLdn7dqxK-0OdXeuaw",
@@ -395,7 +967,7 @@
           "excerpt": "We cover a group of commanders that might SEEM normal, but are actually kind of broken. Buy some amazing cards from Card Kingdom and use this link so they know we sent you! http://www.cardkingdom.com/nerds Try out Mythic Tools the next time you track your life: https://nitpickingnerds-mt.onelink.me/5gSb/2u70gtak Buy awesome sleeves from Dragon Shield and SAV"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:37.878514+00:00",
+      "last_checked_at": "2026-11-02T10:57:40.953036+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCh76d0-ff5eaN68V2OaoghA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh76d0-ff5eaN68V2OaoghA",
       "resolved_channel_id": "UCh76d0-ff5eaN68V2OaoghA",
@@ -471,332 +1043,12 @@
           "excerpt": "https://fyendalscollection.com/ - Data from Fyendal's Collection. For the first month free use code TCGTed Top5 Legendary Cards Percent Gains over the last 7 Days!"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:16.847736+00:00",
+      "last_checked_at": "2026-11-02T10:57:17.975399+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCOdxqo7yrE5CKVFHKHCnPsA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOdxqo7yrE5CKVFHKHCnPsA",
       "resolved_channel_id": "UCOdxqo7yrE5CKVFHKHCnPsA",
       "recent_count": 5,
       "latest_published_at": "2026-11-01T21:00:16+00:00"
-    },
-    {
-      "name": "TCG TALK",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "notícias",
-        "meta",
-        "opinião"
-      ],
-      "url": "https://www.youtube.com/results?search_query=TCG+TALK+Flesh+and+Blood",
-      "id": "bbaa7618326bb5af",
-      "recent_items": [
-        {
-          "id": "67eee8f9fe558aaec2a0",
-          "title": "Armory Deck Battle | Dr. Mortimer v Arakni - Classic Constructed Gameplay",
-          "url": "https://www.youtube.com/watch?v=tp5Dq0ldceo",
-          "published_at": "2026-11-01T21:00:00+00:00",
-          "image_url": "https://i1.ytimg.com/vi/tp5Dq0ldceo/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "Tune in for the sickest episode yet of Armory Deck Battles! 🧪 A mysterious guest pilots the new Dr. Mortimer, Blight of the Pits Armory Deck against Liv, who's playing Arakni, 5L!p3d 7hRu 7h3 cR4X. Find out if Arakni can dodge the diseases or become the latest subject of the Doctor's trials! 💉 Armory Deck: Dr. Mortimer - https://fabtcg.com/products/armory-de"
-        },
-        {
-          "id": "4846fc44dcad38ee039f",
-          "title": "Happy Halloween from Legend Story Studios... 🎃",
-          "url": "https://www.youtube.com/shorts/5bzQLEVy540",
-          "published_at": "2026-10-31T08:01:29+00:00",
-          "image_url": "https://i2.ytimg.com/vi/5bzQLEVy540/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "Happy Halloween from Legend Story Studios... 🎃"
-        },
-        {
-          "id": "042e74557d4b51f78521",
-          "title": "Calling: Mexico City, Pro Quest & More Meta Shake Ups",
-          "url": "https://www.youtube.com/watch?v=z_pJkyeT4uQ",
-          "published_at": "2026-10-27T23:00:03+00:00",
-          "image_url": "https://i3.ytimg.com/vi/z_pJkyeT4uQ/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "It's a free for all this Pro Quest Season with the top contenders flying off into Living Legend Land. Which heroes will take hold of the meta as we head into the World Championship in Paris? 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https"
-        }
-      ],
-      "last_checked_at": "2026-11-02T00:40:14.968042+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
-      "recent_count": 3,
-      "latest_published_at": "2026-11-01T21:00:00+00:00"
-    },
-    {
-      "name": "Funk",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "competitivo"
-      ],
-      "url": "https://www.youtube.com/results?search_query=Funk+Flesh+and+Blood+TCG",
-      "id": "155bf92e368b525b",
-      "recent_items": [
-        {
-          "id": "a7b3f2f923a057080143",
-          "title": "Armory Deck Battle | Dr. Mortimer v Arakni - Classic Constructed Gameplay",
-          "url": "https://www.youtube.com/watch?v=tp5Dq0ldceo",
-          "published_at": "2026-11-01T21:00:00+00:00",
-          "image_url": "https://i1.ytimg.com/vi/tp5Dq0ldceo/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "Tune in for the sickest episode yet of Armory Deck Battles! 🧪 A mysterious guest pilots the new Dr. Mortimer, Blight of the Pits Armory Deck against Liv, who's playing Arakni, 5L!p3d 7hRu 7h3 cR4X. Find out if Arakni can dodge the diseases or become the latest subject of the Doctor's trials! 💉 Armory Deck: Dr. Mortimer - https://fabtcg.com/products/armory-de"
-        },
-        {
-          "id": "ec3882cb69421022ce62",
-          "title": "Happy Halloween from Legend Story Studios... 🎃",
-          "url": "https://www.youtube.com/shorts/5bzQLEVy540",
-          "published_at": "2026-10-31T08:01:29+00:00",
-          "image_url": "https://i2.ytimg.com/vi/5bzQLEVy540/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "Happy Halloween from Legend Story Studios... 🎃"
-        },
-        {
-          "id": "f69a665728ec94103466",
-          "title": "Calling: Mexico City, Pro Quest & More Meta Shake Ups",
-          "url": "https://www.youtube.com/watch?v=z_pJkyeT4uQ",
-          "published_at": "2026-10-27T23:00:03+00:00",
-          "image_url": "https://i3.ytimg.com/vi/z_pJkyeT4uQ/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "It's a free for all this Pro Quest Season with the top contenders flying off into Living Legend Land. Which heroes will take hold of the meta as we head into the World Championship in Paris? 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https"
-        }
-      ],
-      "last_checked_at": "2026-11-02T00:40:20.027116+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
-      "recent_count": 3,
-      "latest_published_at": "2026-11-01T21:00:00+00:00"
-    },
-    {
-      "name": "Formato For Fun",
-      "platform": "youtube",
-      "language": "pt",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "lore",
-        "conteúdo em português"
-      ],
-      "url": "https://www.youtube.com/results?search_query=Formato+For+Fun+Flesh+and+Blood",
-      "id": "c16bc511700f45dc",
-      "recent_items": [
-        {
-          "id": "51bd0910a08bce554601",
-          "title": "Armory Deck Battle | Dr. Mortimer v Arakni - Classic Constructed Gameplay",
-          "url": "https://www.youtube.com/watch?v=tp5Dq0ldceo",
-          "published_at": "2026-11-01T21:00:00+00:00",
-          "image_url": "https://i1.ytimg.com/vi/tp5Dq0ldceo/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "Tune in for the sickest episode yet of Armory Deck Battles! 🧪 A mysterious guest pilots the new Dr. Mortimer, Blight of the Pits Armory Deck against Liv, who's playing Arakni, 5L!p3d 7hRu 7h3 cR4X. Find out if Arakni can dodge the diseases or become the latest subject of the Doctor's trials! 💉 Armory Deck: Dr. Mortimer - https://fabtcg.com/products/armory-de"
-        },
-        {
-          "id": "0deb00eea605836ad551",
-          "title": "Happy Halloween from Legend Story Studios... 🎃",
-          "url": "https://www.youtube.com/shorts/5bzQLEVy540",
-          "published_at": "2026-10-31T08:01:29+00:00",
-          "image_url": "https://i2.ytimg.com/vi/5bzQLEVy540/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "Happy Halloween from Legend Story Studios... 🎃"
-        },
-        {
-          "id": "71680bf55b4325de1415",
-          "title": "Calling: Mexico City, Pro Quest & More Meta Shake Ups",
-          "url": "https://www.youtube.com/watch?v=z_pJkyeT4uQ",
-          "published_at": "2026-10-27T23:00:03+00:00",
-          "image_url": "https://i3.ytimg.com/vi/z_pJkyeT4uQ/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "It's a free for all this Pro Quest Season with the top contenders flying off into Living Legend Land. Which heroes will take hold of the meta as we head into the World Championship in Paris? 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https"
-        }
-      ],
-      "last_checked_at": "2026-11-02T00:40:25.625558+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
-      "recent_count": 3,
-      "latest_published_at": "2026-11-01T21:00:00+00:00"
-    },
-    {
-      "name": "Dues of the Golden Sands",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "deck tech",
-        "competitivo"
-      ],
-      "url": "https://www.youtube.com/results?search_query=Dues+of+the+Golden+Sands+Flesh+and+Blood",
-      "id": "dbc698f4ffc4a5a6",
-      "recent_items": [
-        {
-          "id": "039e99ed2434a065ec3e",
-          "title": "Armory Deck Battle | Dr. Mortimer v Arakni - Classic Constructed Gameplay",
-          "url": "https://www.youtube.com/watch?v=tp5Dq0ldceo",
-          "published_at": "2026-11-01T21:00:00+00:00",
-          "image_url": "https://i1.ytimg.com/vi/tp5Dq0ldceo/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "Tune in for the sickest episode yet of Armory Deck Battles! 🧪 A mysterious guest pilots the new Dr. Mortimer, Blight of the Pits Armory Deck against Liv, who's playing Arakni, 5L!p3d 7hRu 7h3 cR4X. Find out if Arakni can dodge the diseases or become the latest subject of the Doctor's trials! 💉 Armory Deck: Dr. Mortimer - https://fabtcg.com/products/armory-de"
-        },
-        {
-          "id": "9fa7d6dd70234781eea9",
-          "title": "Happy Halloween from Legend Story Studios... 🎃",
-          "url": "https://www.youtube.com/shorts/5bzQLEVy540",
-          "published_at": "2026-10-31T08:01:29+00:00",
-          "image_url": "https://i2.ytimg.com/vi/5bzQLEVy540/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "Happy Halloween from Legend Story Studios... 🎃"
-        },
-        {
-          "id": "7392294e2b16fbd9e076",
-          "title": "Calling: Mexico City, Pro Quest & More Meta Shake Ups",
-          "url": "https://www.youtube.com/watch?v=z_pJkyeT4uQ",
-          "published_at": "2026-10-27T23:00:03+00:00",
-          "image_url": "https://i3.ytimg.com/vi/z_pJkyeT4uQ/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "It's a free for all this Pro Quest Season with the top contenders flying off into Living Legend Land. Which heroes will take hold of the meta as we head into the World Championship in Paris? 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https"
-        }
-      ],
-      "last_checked_at": "2026-11-02T00:40:19.160750+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
-      "recent_count": 3,
-      "latest_published_at": "2026-11-01T21:00:00+00:00"
-    },
-    {
-      "name": "Dozr",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "theorycraft",
-        "Illusionist",
-        "Ranger",
-        "Wizard"
-      ],
-      "url": "https://www.youtube.com/results?search_query=Dozr+Flesh+and+Blood+TCG",
-      "id": "c1d69dfa8fe005db",
-      "recent_items": [
-        {
-          "id": "137229cb2e3d9cb27280",
-          "title": "Armory Deck Battle | Dr. Mortimer v Arakni - Classic Constructed Gameplay",
-          "url": "https://www.youtube.com/watch?v=tp5Dq0ldceo",
-          "published_at": "2026-11-01T21:00:00+00:00",
-          "image_url": "https://i1.ytimg.com/vi/tp5Dq0ldceo/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "Tune in for the sickest episode yet of Armory Deck Battles! 🧪 A mysterious guest pilots the new Dr. Mortimer, Blight of the Pits Armory Deck against Liv, who's playing Arakni, 5L!p3d 7hRu 7h3 cR4X. Find out if Arakni can dodge the diseases or become the latest subject of the Doctor's trials! 💉 Armory Deck: Dr. Mortimer - https://fabtcg.com/products/armory-de"
-        },
-        {
-          "id": "51fca703037d76366216",
-          "title": "Happy Halloween from Legend Story Studios... 🎃",
-          "url": "https://www.youtube.com/shorts/5bzQLEVy540",
-          "published_at": "2026-10-31T08:01:29+00:00",
-          "image_url": "https://i2.ytimg.com/vi/5bzQLEVy540/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "Happy Halloween from Legend Story Studios... 🎃"
-        },
-        {
-          "id": "6b1c2d649f1bc367c401",
-          "title": "Calling: Mexico City, Pro Quest & More Meta Shake Ups",
-          "url": "https://www.youtube.com/watch?v=z_pJkyeT4uQ",
-          "published_at": "2026-10-27T23:00:03+00:00",
-          "image_url": "https://i3.ytimg.com/vi/z_pJkyeT4uQ/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "It's a free for all this Pro Quest Season with the top contenders flying off into Living Legend Land. Which heroes will take hold of the meta as we head into the World Championship in Paris? 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https"
-        }
-      ],
-      "last_checked_at": "2026-11-02T00:40:17.532365+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
-      "recent_count": 3,
-      "latest_published_at": "2026-11-01T21:00:00+00:00"
-    },
-    {
-      "name": "Cthulhy TCG",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "decks",
-        "heróis"
-      ],
-      "url": "https://www.youtube.com/results?search_query=Cthulhy+TCG+Flesh+and+Blood",
-      "id": "7a0a20e93b35960d",
-      "recent_items": [
-        {
-          "id": "27d3d0e3f40912830dee",
-          "title": "Armory Deck Battle | Dr. Mortimer v Arakni - Classic Constructed Gameplay",
-          "url": "https://www.youtube.com/watch?v=tp5Dq0ldceo",
-          "published_at": "2026-11-01T21:00:00+00:00",
-          "image_url": "https://i1.ytimg.com/vi/tp5Dq0ldceo/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "Tune in for the sickest episode yet of Armory Deck Battles! 🧪 A mysterious guest pilots the new Dr. Mortimer, Blight of the Pits Armory Deck against Liv, who's playing Arakni, 5L!p3d 7hRu 7h3 cR4X. Find out if Arakni can dodge the diseases or become the latest subject of the Doctor's trials! 💉 Armory Deck: Dr. Mortimer - https://fabtcg.com/products/armory-de"
-        },
-        {
-          "id": "867dd2f79511fd11187e",
-          "title": "Happy Halloween from Legend Story Studios... 🎃",
-          "url": "https://www.youtube.com/shorts/5bzQLEVy540",
-          "published_at": "2026-10-31T08:01:29+00:00",
-          "image_url": "https://i2.ytimg.com/vi/5bzQLEVy540/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "Happy Halloween from Legend Story Studios... 🎃"
-        },
-        {
-          "id": "f9ef326291edd94ccba0",
-          "title": "Calling: Mexico City, Pro Quest & More Meta Shake Ups",
-          "url": "https://www.youtube.com/watch?v=z_pJkyeT4uQ",
-          "published_at": "2026-10-27T23:00:03+00:00",
-          "image_url": "https://i3.ytimg.com/vi/z_pJkyeT4uQ/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Flesh and Blood TCG",
-          "excerpt": "It's a free for all this Pro Quest Season with the top contenders flying off into Living Legend Land. Which heroes will take hold of the meta as we head into the World Championship in Paris? 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https"
-        }
-      ],
-      "last_checked_at": "2026-11-02T00:40:23.231763+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
-      "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
-      "recent_count": 3,
-      "latest_published_at": "2026-11-01T21:00:00+00:00"
     },
     {
       "name": "The Spike Feeders",
@@ -868,7 +1120,7 @@
           "excerpt": "Jim walks you through how to duplicate someone else's #mtgcommander deck as a starting place to work on!"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:38.102823+00:00",
+      "last_checked_at": "2026-11-02T10:57:41.192375+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCGh7-4mDFssqhu_UpOwRzIA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGh7-4mDFssqhu_UpOwRzIA",
       "resolved_channel_id": "UCGh7-4mDFssqhu_UpOwRzIA",
@@ -988,13 +1240,12 @@
           "excerpt": ""
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:36.519067+00:00",
+      "last_checked_at": "2026-11-02T10:57:39.209831+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC7339iJMCETmek3jdx9LOkg",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7339iJMCETmek3jdx9LOkg",
       "resolved_channel_id": "UC7339iJMCETmek3jdx9LOkg",
       "recent_count": 9,
-      "latest_published_at": "2026-11-01T19:00:28+00:00",
-      "last_error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC7339iJMCETmek3jdx9LOkg"
+      "latest_published_at": "2026-11-01T19:00:28+00:00"
     },
     {
       "name": "AggroBlaze96",
@@ -1109,7 +1360,7 @@
           "excerpt": "Become a MEMBER on YouTube: https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w/join Join the Discord - https://discord.gg/pm9SUCHSCf B&R Article - https://fabtcg.com/articles/scheduled-banned-and-restricted-announcement-26-10-26/ Codex Journal - https://codexjournals.com/aggroblaze96 Use code AggroBlaze96 to save 10% at checkout! Metafy - https://metaf"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:15.448498+00:00",
+      "last_checked_at": "2026-11-02T10:57:16.563158+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaAuLET4Gy0CjrWOHuhTE_w",
       "resolved_channel_id": "UCaAuLET4Gy0CjrWOHuhTE_w",
@@ -1174,55 +1425,12 @@
           "excerpt": "Classic Constructed gameplay on Talishar.net. This gameplay was recorded on October 26, 2026. Use Fablazing to check tournament data, hero win rates, winning cards in every matchup, and more! https://fablazing.com/dfg Shop Codex Journals: https://codexjournals.com/glliwk Use code Lupine10 at checkout Free Support! Bluesky: https://bsky.app/profile/lupinefias"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:15.798471+00:00",
+      "last_checked_at": "2026-11-02T10:57:16.803085+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCUn1ebI9uZFSRPAnPVLJgqQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUn1ebI9uZFSRPAnPVLJgqQ",
       "resolved_channel_id": "UCUn1ebI9uZFSRPAnPVLJgqQ",
       "recent_count": 4,
       "latest_published_at": "2026-11-01T15:26:04+00:00"
-    },
-    {
-      "name": "AshenWingzTCG",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "Silver Age",
-        "deck tech",
-        "notícias"
-      ],
-      "url": "https://www.youtube.com/results?search_query=AshenWingzTCG+Flesh+and+Blood",
-      "id": "07cf737cea28dd95",
-      "recent_items": [
-        {
-          "id": "785dfba0e5c1cf136e29",
-          "title": "EP 68 Whats Happening At Worlds! | The Common Language | Flesh and Blood TCG",
-          "url": "https://www.youtube.com/watch?v=2gBRICWrCHc",
-          "published_at": "2026-11-01T14:14:05+00:00",
-          "image_url": "https://i3.ytimg.com/vi/2gBRICWrCHc/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "AshenWingzTCG",
-          "excerpt": "Join this channel to get access to perks: https://www.youtube.com/channel/UC663r9Jbqwv6ftJNZDdVVUg/join Into the AM Partner Link: https://www.intotheam.com/ASHTCG Bulk Recycle Program: https://docs.google.com/spreadsheets/d/1bTDSLmgxTmMVYES8Rxzat33RX5ykC34UTEIDYDs8QBY/edit?usp=sharing AshenWingzTCG Discord: https://discord.gg/k3jDNqXvP7 BlueSky: @ashenwingz."
-        },
-        {
-          "id": "0b14d1c26d5b8cbf4ca7",
-          "title": "Will Silver Age Ever Be A Premier Format? (Also BnR I guess) | Flesh and Blood TCG",
-          "url": "https://www.youtube.com/watch?v=1g1WIYjiRbQ",
-          "published_at": "2026-10-26T17:14:12+00:00",
-          "image_url": "https://i2.ytimg.com/vi/1g1WIYjiRbQ/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "AshenWingzTCG",
-          "excerpt": "Join this channel to get access to perks: https://www.youtube.com/channel/UC663r9Jbqwv6ftJNZDdVVUg/join Into the AM Partner Link: https://www.intotheam.com/ASHTCG Bulk Recycle Program: https://docs.google.com/spreadsheets/d/1bTDSLmgxTmMVYES8Rxzat33RX5ykC34UTEIDYDs8QBY/edit?usp=sharing AshenWingzTCG Discord: https://discord.gg/k3jDNqXvP7 BlueSky: @ashenwingz."
-        }
-      ],
-      "last_checked_at": "2026-11-02T00:40:17.281447+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UC663r9Jbqwv6ftJNZDdVVUg",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC663r9Jbqwv6ftJNZDdVVUg",
-      "resolved_channel_id": "UC663r9Jbqwv6ftJNZDdVVUg",
-      "recent_count": 2,
-      "latest_published_at": "2026-11-01T14:14:05+00:00"
     },
     {
       "name": "MTGGoldfish",
@@ -1327,7 +1535,7 @@
           "excerpt": "This week, Sphinx's Revelation (and Think Twice!) return to take on the mana-doubling power of Wilderness Reclamation, with a slot in the top 16 on the line! Decklists: https://www.mtggoldfish.com/articles/sphinx-s-revelation-control-2013-vs-temur-reclamation-2020-best-standard-deck-ever-top-32 Need some Magic cards? https://www.cardkingdom.com/mtggoldfish N"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:35.482992+00:00",
+      "last_checked_at": "2026-11-02T10:57:37.769276+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCZAZTSd0xnor7hJFmINIBIw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZAZTSd0xnor7hJFmINIBIw",
       "resolved_channel_id": "UCZAZTSd0xnor7hJFmINIBIw",
@@ -1370,13 +1578,12 @@
           "excerpt": "🔥 if you want to thank / support me: http://www.patreon.com/playset_seho 🛒 here is my main inventory for sale: FaB single-cards on cardmarket: https://www.cardmarket.com/en/FleshAndBlood/Users/seho ----------------------------------------------------------------------------------------------------------------------------------------------------- #fabtcg #fle"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:23.632867+00:00",
+      "last_checked_at": "2026-11-02T10:57:26.818394+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCxQNxoQVvBWzOq_AsepzPzA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQNxoQVvBWzOq_AsepzPzA",
       "resolved_channel_id": "UCxQNxoQVvBWzOq_AsepzPzA",
       "recent_count": 2,
-      "latest_published_at": "2026-11-01T10:57:06+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCxQNxoQVvBWzOq_AsepzPzA"
+      "latest_published_at": "2026-11-01T10:57:06+00:00"
     },
     {
       "name": "Kloo TCG",
@@ -1426,7 +1633,7 @@
           "excerpt": "#fabtcg #FleshandBloodTCG #FleshandBlood Looking for FaB Singles in Australia Why Not Check Out Jene's FAB Sales: https://www.facebook.com/groups/1392175722646030/ Due for some new clothes? And feel like supporting me why not check out INTO THE AM using this link https://intotheam.com/kloo-d-in for some cool apparel. Decklist (Nitro Mechanoid) - https://fabr"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:16.267022+00:00",
+      "last_checked_at": "2026-11-02T10:57:17.430369+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCaLIcHPzIDEP6BYFtTCPVpA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaLIcHPzIDEP6BYFtTCPVpA",
       "resolved_channel_id": "UCaLIcHPzIDEP6BYFtTCPVpA",
@@ -1457,7 +1664,7 @@
           "excerpt": "merch: thetablepit-shop.fourthwall.com"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:22.222738+00:00",
+      "last_checked_at": "2026-11-02T10:57:25.393436+00:00",
       "resolved_url": "https://www.youtube.com/channel/UChqrar0bo7gt-ZodV8lIxlQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChqrar0bo7gt-ZodV8lIxlQ",
       "resolved_channel_id": "UChqrar0bo7gt-ZodV8lIxlQ",
@@ -1578,7 +1785,7 @@
           "excerpt": "“DICE… AND…. BUDZZZZZ….” Our guest today has a reputation for an infectiously positive attitude – but does so with a fair and balanced outlook on things. He joins us to talk the overall state of Flesh and Blood. Find our 3.0 video here: https://youtu.be/nSP79vCzZPM Find Flesh and Buds here: @freshandbuds This is a Members-First early access video! Become a D"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:15.158301+00:00",
+      "last_checked_at": "2026-11-02T10:57:16.150207+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCgclEXaTMqVFktXfEU0KCQw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgclEXaTMqVFktXfEU0KCQw",
       "resolved_channel_id": "UCgclEXaTMqVFktXfEU0KCQw",
@@ -1677,13 +1884,12 @@
           "excerpt": "Check out our new Magic: The Gathering game show, Kingmakers! Test your knowledge against the Command Zone team! #commander #magicthegathering #gameknights #kingmaker #trivia"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:35.681797+00:00",
+      "last_checked_at": "2026-11-02T10:57:37.998923+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCLsiaNUb42gRAP7ewbJ0ecQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLsiaNUb42gRAP7ewbJ0ecQ",
       "resolved_channel_id": "UCLsiaNUb42gRAP7ewbJ0ecQ",
       "recent_count": 7,
-      "latest_published_at": "2026-10-31T15:00:26+00:00",
-      "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCLsiaNUb42gRAP7ewbJ0ecQ"
+      "latest_published_at": "2026-10-31T15:00:26+00:00"
     },
     {
       "name": "Magic The Noah",
@@ -1710,7 +1916,7 @@
           "excerpt": "guests: @CottontailVA @failboat @Neurosama"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:39.270679+00:00",
+      "last_checked_at": "2026-11-02T10:57:42.422653+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCYqsJbDDngvxb_rbHzHpYGA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYqsJbDDngvxb_rbHzHpYGA",
       "resolved_channel_id": "UCYqsJbDDngvxb_rbHzHpYGA",
@@ -1731,15 +1937,15 @@
       "id": "5885be46bc304d1f",
       "recent_items": [
         {
-          "id": "9bcd9db83a556c864874",
-          "title": "Resident Evil Deck Building Game SOLO! Overview and Playthrough",
+          "id": "993866e601a020b9d376",
+          "title": "A Resident Evil CARD GAME?! Resident Evil Deck Building Game SOLO! Overview and Playthrough",
           "url": "https://www.youtube.com/watch?v=a761gmSj588",
           "published_at": "2026-10-31T13:30:33+00:00",
           "image_url": "https://i2.ytimg.com/vi/a761gmSj588/hqdefault.jpg",
           "kind": "video",
           "content_platform": "youtube",
           "author": "Red Zone Rogue",
-          "excerpt": "⚔ Resident Evil Deck Building Game SOLO! Overview and Playthrough ⚔ (づ｡◕‿‿◕｡)づ LINKS BELOW! Timestamps: 00:00 Super Cool Intro 02:43 Game Overview and How to Play 16:03 Game 1 36:28 Game 2 Support the Channel Directly: 🎴🤘 Join the Rogue's Gallery through Channel Memberships! https://www.youtube.com/channel/UCSl5xtiqtMuSFmO9Gs866ug/join 🎴🍻 RZR merch including"
+          "excerpt": "⚔ A Resident Evil CARD GAME?! Resident Evil Deck Building Game SOLO! Overview and Playthrough ⚔ (づ｡◕‿‿◕｡)づ LINKS BELOW! Timestamps: 00:00 Super Cool Intro 02:43 Game Overview and How to Play 16:03 Game 1 36:28 Game 2 Support the Channel Directly: 🎴🤘 Join the Rogue's Gallery through Channel Memberships! https://www.youtube.com/channel/UCSl5xtiqtMuSFmO9Gs866ug"
         },
         {
           "id": "26211460f1b4fc775986",
@@ -1764,7 +1970,7 @@
           "excerpt": "⚔ Riftbound Radiance NEW Showdown Starter Decks Opening and Review ⚔ (づ｡◕‿‿◕｡)づ LINKS BELOW! Support the Channel Directly: 🎴🤘 Join the Rogue's Gallery through Channel Memberships! https://www.youtube.com/channel/UCSl5xtiqtMuSFmO9Gs866ug/join 🎴🍻 RZR merch including anime tcg sleeves and mats: https://redzonerogue.com/ 🎴⚔ Patreon: https://www.patreon.com/RedZo"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:19.355548+00:00",
+      "last_checked_at": "2026-11-02T10:57:21.584655+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCSl5xtiqtMuSFmO9Gs866ug",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSl5xtiqtMuSFmO9Gs866ug",
       "resolved_channel_id": "UCSl5xtiqtMuSFmO9Gs866ug",
@@ -1795,7 +2001,7 @@
           "excerpt": "Sorry for the weird mic quality, not sure what happened. Decklist: https://fabrary.net/decks/01M67QX61VB72CH4ZBNZ8H3WGW?tab=cards Art By: Instagram: person_with_anxiety Twitter: @person_anxiety Bluesky: https://bsky.app/profile/rageblasmophet.bsky.social #fleshandblood #fleshandbloodcommunity"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:18.969174+00:00",
+      "last_checked_at": "2026-11-02T10:57:21.249349+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCQ4luVroq2RQiO608p1n__A",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ4luVroq2RQiO608p1n__A",
       "resolved_channel_id": "UCQ4luVroq2RQiO608p1n__A",
@@ -1870,7 +2076,7 @@
           "excerpt": "I am playing and winning a lot with Puffin Hightail of flesh and blood tcg PORTFOLIO: https://ttvornanen.portfoliobox.net/ INPRINT: https://www.inprnt.com/profile/loro23/ ETSY: https://www.etsy.com/fi-en/shop/LorosAlters INSTAGRAM: https://www.instagram.com/lorooftheworld/ TWITCH: https://www.twitch.tv/loro23 Welcome to my channel! I’m an artist and a passio"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:18.626704+00:00",
+      "last_checked_at": "2026-11-02T10:57:20.824623+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCV5U06pp0cdzM4JIfSDCCKQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV5U06pp0cdzM4JIfSDCCKQ",
       "resolved_channel_id": "UCV5U06pp0cdzM4JIfSDCCKQ",
@@ -1902,7 +2108,7 @@
           "excerpt": "Join our Patreon to get: - Free delivery for orders over £40 at Thistle Tavern - 10% off you PCG order - 6 pack twice monthly give away - Early access content - Patreon Discord, - We also like to do random give-aways! https://www.patreon.com/PushThePoint For all your Flesh and Blood singles, head over to Thistle Tavern: Push the Point Patreons get free deliv"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:19.772256+00:00",
+      "last_checked_at": "2026-11-02T10:57:22.277201+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCdOadfDBXY_vEK7hVaZIi_w",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdOadfDBXY_vEK7hVaZIi_w",
       "resolved_channel_id": "UCdOadfDBXY_vEK7hVaZIi_w",
@@ -1945,7 +2151,7 @@
           "excerpt": "FaB 3.0 was finally announced! However, things turned out to be quite vague, and left us with more questions than answers. That said, I'm a YouTuber: we can't help but give our thoughts anyways. ZackYap Post: https://x.com/zackyap/status/2112985593428979825?s=20 Support me on Patreon: https://www.patreon.com/Sloopdoop BuytheSameToken: https://buythesametoken"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:19.579496+00:00",
+      "last_checked_at": "2026-11-02T10:57:22.054215+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCVM_MGFx-XJhOQHcGzzq2ZA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVM_MGFx-XJhOQHcGzzq2ZA",
       "resolved_channel_id": "UCVM_MGFx-XJhOQHcGzzq2ZA",
@@ -2023,7 +2229,7 @@
           "excerpt": "Thank you Helix Sleep for sponsoring! Visit https://helixsleep.com/tolarian to take advantage of their Fall Savings Event - 20% off sitewide! Did the sun set on Reality Fracture too soon? Our FInal Conclusion Review here: https://youtu.be/VWzzTX6o0Ac Did you miss our Shuffle Up & Play with Andrea Mengucci, Ben Wheeler, and Hazel? Watch it here: https://youtu"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:35.279612+00:00",
+      "last_checked_at": "2026-11-02T10:57:37.514797+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC7-hR5EfgpM6oHfiGDkxfMA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7-hR5EfgpM6oHfiGDkxfMA",
       "resolved_channel_id": "UC7-hR5EfgpM6oHfiGDkxfMA",
@@ -2099,7 +2305,7 @@
           "excerpt": "Reid Duke's MTG Arena Championship Deck for AC13 CGB Dragon Shield Sleeves are here - https://www.dragonshield.com/en-us/p/covertgoblue-sleeves-brushed-art-sleeves-standard-size/AT-18070 CoolStuffInc.com Promo Code CGB5 - https://www.coolstuffinc.com/cgb Dragon Shield Coupon Code CGB5 - https://dragonshield.com/?ref=CGB Decklist - https://moxfield.com/decks/"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:38.294296+00:00",
+      "last_checked_at": "2026-11-02T10:57:41.470973+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC-UZjHl2kZ-6XKBLgbFgGAQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-UZjHl2kZ-6XKBLgbFgGAQ",
       "resolved_channel_id": "UC-UZjHl2kZ-6XKBLgbFgGAQ",
@@ -2143,7 +2349,7 @@
           "excerpt": "_______________________________ ➥ Buy and Sell your Magic: the Gathering cards: 🛒 https://www.cmkt.co/v ！Opinions expressed in this video are those of the video creator and not necessarily Cardmarket."
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:36.324873+00:00",
+      "last_checked_at": "2026-11-02T10:57:38.977757+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCwatLpmoIeoL9egqVW2Cxbw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwatLpmoIeoL9egqVW2Cxbw",
       "resolved_channel_id": "UCwatLpmoIeoL9egqVW2Cxbw",
@@ -2198,7 +2404,7 @@
           "excerpt": "SUPPORT THE CHANNEL! Join this channel to get access to perks: https://www.youtube.com/channel/UCLYtjHT4lwcN8-e5Fh9Rigg/join 🎲MINMAX GAMES: https://www.minmaxgamesfab.com/discount/DMA 🎲My Dragon Shield Affiliate Link: https://www.dragonshield.com/webshop/us/?aff=24 JOIN THE ARMADA! 🎲 Metafy: https://metafy.gg/@dmarmada 🎲 Discord: https://discord.gg/r9vWQddbG"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:14.631976+00:00",
+      "last_checked_at": "2026-11-02T10:57:15.258163+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCLYtjHT4lwcN8-e5Fh9Rigg",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLYtjHT4lwcN8-e5Fh9Rigg",
       "resolved_channel_id": "UCLYtjHT4lwcN8-e5Fh9Rigg",
@@ -2242,7 +2448,7 @@
           "excerpt": ""
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:16.531419+00:00",
+      "last_checked_at": "2026-11-02T10:57:17.736236+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC8tEld_YXspUwbe7UWiuwtg",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8tEld_YXspUwbe7UWiuwtg",
       "resolved_channel_id": "UC8tEld_YXspUwbe7UWiuwtg",
@@ -2275,7 +2481,7 @@
           "excerpt": "A lot is happening right now in the Flesh and Blood World! Worlds is just one week away, Mastery Pack Assassin previews are in full swing and Classic Constructed has changed for another week on the bounce, this time with Cindra ascending to Living Legend! Join Hayden and Pankaj as they break it all down in this weeks episode. Are we set for a facelift to Cla"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:26.091786+00:00",
+      "last_checked_at": "2026-11-02T10:57:30.112864+00:00",
       "resolved_url": "https://arsenalpassfab.podbean.com/",
       "resolved_feed_url": "https://feed.podbean.com/arsenalpassfab/feed.xml",
       "resolved_channel_id": null,
@@ -2363,7 +2569,7 @@
           "excerpt": ""
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:37.681573+00:00",
+      "last_checked_at": "2026-11-02T10:57:40.729091+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC_b074DeDtbHukufPf2O1kw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_b074DeDtbHukufPf2O1kw",
       "resolved_channel_id": "UC_b074DeDtbHukufPf2O1kw",
@@ -2395,7 +2601,7 @@
           "excerpt": "Buds!Cindra...GONE. BNR...HERE. Ripple Away...being watched closely?Like, comment, and subscribe!FRESH JUICE: An Indie Game Podcast: https://www.youtube.com/@FreshJuicePodQueer Competitor's League:https://bsky.app/profile/ellybird.bsky.social/post/3mo2eciij2c2s Find Elly:https://bsky.app/profile/ellybird.bsky.socialTommy's Linktree: linktr.ee/freshbudspod"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:27.109693+00:00",
+      "last_checked_at": "2026-11-02T10:57:30.920842+00:00",
       "resolved_url": "https://podcasts.apple.com/us/podcast/fresh-and-buds/id1586034048",
       "resolved_feed_url": "https://anchor.fm/s/687e1bbc/podcast/rss",
       "resolved_channel_id": null,
@@ -2449,7 +2655,7 @@
           "excerpt": "Thanks to Wizards of the Coast for allowing us to preview this new Star Trek Commander Deck! Don't miss our Star Trek Preconstructed Commander episode coming soon :) We Are The Borg decklist: The Borg Queen Locutus of Borg Borg Incursion Emergency Regeneration Join the Collective Korok, Liberated Rage Maturation Chamber Stratagem Emulator Supplementation Nod"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:36.906201+00:00",
+      "last_checked_at": "2026-11-02T10:57:39.676502+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCK05AM3Ed_ckARsrWdQhzig",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK05AM3Ed_ckARsrWdQhzig",
       "resolved_channel_id": "UCK05AM3Ed_ckARsrWdQhzig",
@@ -2482,7 +2688,7 @@
           "excerpt": "ROASTING Our EDH Decks episode: https://www.youtube.com/watch?v=YtCS2A897x8 Want to support the channel? Here are the best ways: Patreon: patreon.com/joeydh 6060 Vision by M. Soler: https://www.amazon.com/6060-Vision-M-Soler/dp/B0GXX4N9BF?maas=maas_adg_7F36D38B896B599A606F6428491F8DA9_afap_abs&ref_=aa_maas&tag=maas Code 'joeydh' for a discount at https://www"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:35.854538+00:00",
+      "last_checked_at": "2026-11-02T10:57:38.308978+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCApiDwDpn_JpzRGLZKrdr1g",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCApiDwDpn_JpzRGLZKrdr1g",
       "resolved_channel_id": "UCApiDwDpn_JpzRGLZKrdr1g",
@@ -2515,7 +2721,7 @@
           "excerpt": "The future is now, old man! Legend Story Studios has dropped a HUGE official announcement regarding the future of the game, especially when it comes to the competitive circuit. Events all the way from your local armory up to the world championship are getting some tweaks for their prize structures and scheduling. With lots of information to sift through, we'"
         }
       ],
-      "last_checked_at": "2026-11-02T00:40:28.428825+00:00",
+      "last_checked_at": "2026-11-02T10:57:32.001723+00:00",
       "resolved_url": "https://podcasts.apple.com/us/podcast/pitch-it-to-me-podcast/id1695399192",
       "resolved_feed_url": "https://anchor.fm/s/e4fc19b4/podcast/rss",
       "resolved_channel_id": null,
@@ -2534,7 +2740,7 @@
       "url": "https://www.youtube.com/results?search_query=Waning+Moon+Gaming+Flesh+and+Blood",
       "id": "9c9565a3061c86d4",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:21.985060+00:00",
+      "last_checked_at": "2026-11-02T10:57:25.142131+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCeBISHA8ntguvqQGL596LyA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeBISHA8ntguvqQGL596LyA",
       "resolved_channel_id": "UCeBISHA8ntguvqQGL596LyA",
@@ -2553,7 +2759,7 @@
       "url": "https://www.youtube.com/results?search_query=Three+Vibing+Flesh+and+Blood",
       "id": "cd2c4524bc656a9e",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:34.472382+00:00",
+      "last_checked_at": "2026-11-02T10:57:36.797000+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Three+Vibing+Flesh+and+Blood",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2573,7 +2779,7 @@
       "url": "https://www.youtube.com/results?search_query=Three+Floating+Flesh+and+Blood",
       "id": "be52e294c04f1dd1",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:17.054574+00:00",
+      "last_checked_at": "2026-11-02T10:57:18.453569+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCxhcm_b7lGovw0yoo7YiB7Q",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxhcm_b7lGovw0yoo7YiB7Q",
       "resolved_channel_id": "UCxhcm_b7lGovw0yoo7YiB7Q",
@@ -2592,7 +2798,7 @@
       "url": "https://www.youtube.com/results?search_query=Thistle+Tavern+Flesh+and+Blood",
       "id": "cdbed991ed310538",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:24.609350+00:00",
+      "last_checked_at": "2026-11-02T10:57:28.203405+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC2B7t-qyrRDr296rr4MMbJQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2B7t-qyrRDr296rr4MMbJQ",
       "resolved_channel_id": "UC2B7t-qyrRDr296rr4MMbJQ",
@@ -2612,7 +2818,7 @@
       "url": "https://www.youtube.com/results?search_query=The+Teklo+Foundry+Flesh+and+Blood",
       "id": "b321e2f6ac2485cd",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:15.994725+00:00",
+      "last_checked_at": "2026-11-02T10:57:17.023565+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCPwLCno02HJXdrvsqo1R67g",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPwLCno02HJXdrvsqo1R67g",
       "resolved_channel_id": "UCPwLCno02HJXdrvsqo1R67g",
@@ -2631,7 +2837,7 @@
       "url": "https://www.youtube.com/results?search_query=The+Salt+Collector+Flesh+and+Blood",
       "id": "369b0eb8a9f91571",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:24.326085+00:00",
+      "last_checked_at": "2026-11-02T10:57:27.966757+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCTmZO6ueflNWoRmHwMG6jtA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTmZO6ueflNWoRmHwMG6jtA",
       "resolved_channel_id": "UCTmZO6ueflNWoRmHwMG6jtA",
@@ -2651,7 +2857,7 @@
       "url": "https://www.youtube.com/results?search_query=The+Dive+Down+MTG+Podcast",
       "id": "dd592b7502ab6b9a",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:46.737432+00:00",
+      "last_checked_at": "2026-11-02T10:57:48.699907+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=The+Dive+Down+MTG+Podcast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2671,7 +2877,7 @@
       "url": "https://www.youtube.com/results?search_query=Command+Zone+Podcast",
       "id": "a7db3077224be2ad",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:43.735082+00:00",
+      "last_checked_at": "2026-11-02T10:57:46.293375+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Command+Zone+Podcast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2692,7 +2898,7 @@
       "url": "https://www.youtube.com/results?search_query=Spice8Rack+Magic",
       "id": "0e6dd713c898888c",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:37.480605+00:00",
+      "last_checked_at": "2026-11-02T10:57:40.496659+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCDJACu5LRKWE7sqagICB-ew",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDJACu5LRKWE7sqagICB-ew",
       "resolved_channel_id": "UCDJACu5LRKWE7sqagICB-ew",
@@ -2713,7 +2919,7 @@
       "url": "https://www.youtube.com/results?search_query=Spark+of+Genius+Flesh+and+Blood",
       "id": "4829be30276802d7",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:20.270448+00:00",
+      "last_checked_at": "2026-11-02T10:57:22.909186+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCsNvmmC9F9Y2gsMlvYJwqbA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsNvmmC9F9Y2gsMlvYJwqbA",
       "resolved_channel_id": "UCsNvmmC9F9Y2gsMlvYJwqbA",
@@ -2733,7 +2939,7 @@
       "url": "https://www.youtube.com/results?search_query=Sin+FABTCG",
       "id": "cf9e8d0629e54a58",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:21.020070+00:00",
+      "last_checked_at": "2026-11-02T10:57:24.019872+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCsqDsv0b88rC-ObBTEjf0MQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsqDsv0b88rC-ObBTEjf0MQ",
       "resolved_channel_id": "UCsqDsv0b88rC-ObBTEjf0MQ",
@@ -2752,7 +2958,7 @@
       "url": "https://www.youtube.com/results?search_query=Savage+Lands+News+Flesh+and+Blood",
       "id": "3c3bbd72067de19b",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:22.627145+00:00",
+      "last_checked_at": "2026-11-02T10:57:25.939769+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCI5yJdQ4y8r_3J9JCiyHIzQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI5yJdQ4y8r_3J9JCiyHIzQ",
       "resolved_channel_id": "UCI5yJdQ4y8r_3J9JCiyHIzQ",
@@ -2772,7 +2978,7 @@
       "url": "https://www.youtube.com/results?search_query=SNEEP+Flesh+and+Blood+TCG",
       "id": "9bded0b76a55939b",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:18.246123+00:00",
+      "last_checked_at": "2026-11-02T10:57:20.341432+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCQgm4yHm46rSKn1J7tByovA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQgm4yHm46rSKn1J7tByovA",
       "resolved_channel_id": "UCQgm4yHm46rSKn1J7tByovA",
@@ -2792,7 +2998,7 @@
       "url": "https://www.twitch.tv/search?term=SNEEP%20Flesh%20and%20Blood",
       "id": "e1f39fd711f7471d",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:25.957008+00:00",
+      "last_checked_at": "2026-11-02T10:57:29.972819+00:00",
       "resolved_url": "https://www.twitch.tv/sneep",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2812,7 +3018,7 @@
       "url": "https://tcgrunaways.podbean.com/",
       "id": "f4033e0fb136d1f9",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:26.833760+00:00",
+      "last_checked_at": "2026-11-02T10:57:30.688746+00:00",
       "resolved_url": "https://tcgrunaways.podbean.com/",
       "resolved_feed_url": "https://feed.podbean.com/tcgrunaways/feed.xml",
       "resolved_channel_id": null,
@@ -2833,7 +3039,7 @@
       "url": "https://www.youtube.com/results?search_query=Rhystic+Studies+Magic",
       "id": "5097a37243d66036",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:37.286856+00:00",
+      "last_checked_at": "2026-11-02T10:57:40.268840+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC8e0Sg8TmRRFJytjEGhmVTg",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8e0Sg8TmRRFJytjEGhmVTg",
       "resolved_channel_id": "UC8e0Sg8TmRRFJytjEGhmVTg",
@@ -2853,7 +3059,7 @@
       "url": "https://www.youtube.com/results?search_query=Playing+With+Power+MTG",
       "id": "40be0db8f85aa40b",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:36.715239+00:00",
+      "last_checked_at": "2026-11-02T10:57:39.447827+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCum8N4KUUC0l_NK_mybvilg",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCum8N4KUUC0l_NK_mybvilg",
       "resolved_channel_id": "UCum8N4KUUC0l_NK_mybvilg",
@@ -2873,7 +3079,7 @@
       "url": "https://www.youtube.com/results?search_query=Pheano+Flesh+and+Blood",
       "id": "dd31a32586c1eda8",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:17.977755+00:00",
+      "last_checked_at": "2026-11-02T10:57:20.061749+00:00",
       "resolved_url": "https://www.youtube.com/channel/UClovSsTxY7VX2p7_6WaJhUA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClovSsTxY7VX2p7_6WaJhUA",
       "resolved_channel_id": "UClovSsTxY7VX2p7_6WaJhUA",
@@ -2893,7 +3099,7 @@
       "url": "https://www.twitch.tv/search?term=Pheano%20Flesh%20and%20Blood",
       "id": "873314309f24f42c",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:25.848663+00:00",
+      "last_checked_at": "2026-11-02T10:57:29.825379+00:00",
       "resolved_url": "https://www.twitch.tv/pheano",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2912,7 +3118,7 @@
       "url": "https://podcasts.apple.com/br/podcast/on-the-bauble-flesh-and-blood-podcast/id1663413943",
       "id": "94c061b0401ceae9",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:26.495528+00:00",
+      "last_checked_at": "2026-11-02T10:57:30.445362+00:00",
       "resolved_url": "https://podcasts.apple.com/br/podcast/on-the-bauble-flesh-and-blood-podcast/id1663413943",
       "resolved_feed_url": "https://anchor.fm/s/ab8af2f4/podcast/rss?fbclid=IwAR1pCKA6_wLNWDsn9OmIl4hJbF2W63wl2Hfx9Q2P1WMvP5j8RywI_OHLEDg",
       "resolved_channel_id": null,
@@ -2933,7 +3139,7 @@
       "url": "https://www.twitch.tv/search?term=NumotTheNummy",
       "id": "a05c1205abd181d3",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:39.875277+00:00",
+      "last_checked_at": "2026-11-02T10:57:43.169119+00:00",
       "resolved_url": "https://www.twitch.tv/numotthenummy",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2953,7 +3159,7 @@
       "url": "https://www.youtube.com/results?search_query=Man+Sant+Flesh+and+Blood",
       "id": "82be4e333da80b24",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:18.434822+00:00",
+      "last_checked_at": "2026-11-02T10:57:20.597636+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCW-mPwR8EnaclCDXp2HI8hQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCW-mPwR8EnaclCDXp2HI8hQ",
       "resolved_channel_id": "UCW-mPwR8EnaclCDXp2HI8hQ",
@@ -2973,7 +3179,7 @@
       "url": "https://www.twitch.tv/search?term=Man%20Sant%20Flesh%20and%20Blood",
       "id": "603367f4b4f35d74",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:25.736685+00:00",
+      "last_checked_at": "2026-11-02T10:57:29.620218+00:00",
       "resolved_url": "https://www.twitch.tv/mansant",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2994,7 +3200,7 @@
       "url": "https://www.twitch.tv/magic",
       "id": "f35fb0f0f3a64fd5",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:39.652545+00:00",
+      "last_checked_at": "2026-11-02T10:57:42.876117+00:00",
       "resolved_url": "https://www.twitch.tv/magic",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3014,7 +3220,7 @@
       "url": "https://www.youtube.com/results?search_query=MTGRemy",
       "id": "5cb2f12576a68c32",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:38.963190+00:00",
+      "last_checked_at": "2026-11-02T10:57:42.193436+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC3YmkUUyVZSnfPzy4smvgXA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3YmkUUyVZSnfPzy4smvgXA",
       "resolved_channel_id": "UC3YmkUUyVZSnfPzy4smvgXA",
@@ -3035,7 +3241,7 @@
       "url": "https://www.youtube.com/results?search_query=MTGGoldfish+Podcast",
       "id": "7ecd972721980b54",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:42.686965+00:00",
+      "last_checked_at": "2026-11-02T10:57:45.570248+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=MTGGoldfish+Podcast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3054,7 +3260,7 @@
       "url": "https://www.youtube.com/results?search_query=M-n-R+Cast+Flesh+and+Blood",
       "id": "057674591dcd7c7f",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:27.496786+00:00",
+      "last_checked_at": "2026-11-02T10:57:31.277140+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=M-n-R+Cast+Flesh+and+Blood",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3074,7 +3280,7 @@
       "url": "https://www.youtube.com/results?search_query=Lucky+Paper+Radio+MTG",
       "id": "ef4092363caba4b2",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:45.939471+00:00",
+      "last_checked_at": "2026-11-02T10:57:48.041707+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Lucky+Paper+Radio+MTG",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3094,7 +3300,7 @@
       "url": "https://www.youtube.com/results?search_query=Lords+of+Limited+podcast",
       "id": "676551fb82670039",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:41.018471+00:00",
+      "last_checked_at": "2026-11-02T10:57:44.001084+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Lords+of+Limited+podcast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3115,7 +3321,7 @@
       "url": "https://www.youtube.com/results?search_query=LoadingReadyRun+MTG",
       "id": "cc8cdf460c6f92ec",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:36.122589+00:00",
+      "last_checked_at": "2026-11-02T10:57:38.524947+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCwjN2uVdL9A0i3gaIHKFzuA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA",
       "resolved_channel_id": "UCwjN2uVdL9A0i3gaIHKFzuA",
@@ -3135,7 +3341,7 @@
       "url": "https://www.youtube.com/results?search_query=Living+Legends+Podcast+Flesh+and+Blood",
       "id": "56021035d7d0a808",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:33.732243+00:00",
+      "last_checked_at": "2026-11-02T10:57:36.141195+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Living+Legends+Podcast+Flesh+and+Blood",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3155,7 +3361,7 @@
       "url": "https://www.youtube.com/results?search_query=Limited+Resources+podcast+MTG",
       "id": "831471ef31a52aa0",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:40.008470+00:00",
+      "last_checked_at": "2026-11-02T10:57:43.318287+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Limited+Resources+podcast+MTG",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3175,7 +3381,7 @@
       "url": "https://www.youtube.com/results?search_query=Instant+Speed+Flesh+and+Blood+podcast",
       "id": "1b980260c8b6c058",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:29.877118+00:00",
+      "last_checked_at": "2026-11-02T10:57:33.137189+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Instant+Speed+Flesh+and+Blood+podcast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3194,7 +3400,7 @@
       "url": "https://www.youtube.com/results?search_query=HamMan215+Flesh+and+Blood",
       "id": "f7c20c6196f886c9",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:17.728188+00:00",
+      "last_checked_at": "2026-11-02T10:57:19.629022+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCq_1Ku3spm-mcXlMLmwFKrA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq_1Ku3spm-mcXlMLmwFKrA",
       "resolved_channel_id": "UCq_1Ku3spm-mcXlMLmwFKrA",
@@ -3213,7 +3419,7 @@
       "url": "https://www.youtube.com/results?search_query=Goblin+Reserve+Flesh+and+Blood",
       "id": "ced4a8eb881d7f0f",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:23.803690+00:00",
+      "last_checked_at": "2026-11-02T10:57:27.137937+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCYfwqXqT8_Uo8aDcdtrAmJw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYfwqXqT8_Uo8aDcdtrAmJw",
       "resolved_channel_id": "UCYfwqXqT8_Uo8aDcdtrAmJw",
@@ -3233,7 +3439,7 @@
       "url": "https://www.youtube.com/results?search_query=Flesh+and+Pod+podcast",
       "id": "ef5c03c1b168007c",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:31.883931+00:00",
+      "last_checked_at": "2026-11-02T10:57:34.684601+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Flesh+and+Pod+podcast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3253,7 +3459,7 @@
       "url": "https://www.youtube.com/results?search_query=Flesh+and+Bloodbrothers",
       "id": "c1261d786b374302",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:22.909699+00:00",
+      "last_checked_at": "2026-11-02T10:57:26.159381+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCcK0Zj_jIZ1O7E26uflO8mA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcK0Zj_jIZ1O7E26uflO8mA",
       "resolved_channel_id": "UCcK0Zj_jIZ1O7E26uflO8mA",
@@ -3272,7 +3478,7 @@
       "url": "https://www.youtube.com/results?search_query=Flesh+And+Bunny+Flesh+and+Blood",
       "id": "f9d0371fc5b829cb",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:25.187337+00:00",
+      "last_checked_at": "2026-11-02T10:57:28.759027+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC3F0uzAEWE1n_FaAxdvH1sQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3F0uzAEWE1n_FaAxdvH1sQ",
       "resolved_channel_id": "UC3F0uzAEWE1n_FaAxdvH1sQ",
@@ -3293,7 +3499,7 @@
       "url": "https://www.youtube.com/results?search_query=Faithless+Brewing+MTG",
       "id": "4b61f36c1c12b89d",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:47.644745+00:00",
+      "last_checked_at": "2026-11-02T10:57:49.425817+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Faithless+Brewing+MTG",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3311,7 +3517,7 @@
       "url": "https://www.youtube.com/results?search_query=FaBrika+Flesh+and+Blood",
       "id": "a164d2870c7dcf41",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:22.416389+00:00",
+      "last_checked_at": "2026-11-02T10:57:25.635411+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCGCyBk8JgFWMZNRmun2oqQA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGCyBk8JgFWMZNRmun2oqQA",
       "resolved_channel_id": "UCGCyBk8JgFWMZNRmun2oqQA",
@@ -3330,7 +3536,7 @@
       "url": "https://www.youtube.com/results?search_query=FABLorian+Flesh+and+Blood",
       "id": "dce893b74ab06e94",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:23.431277+00:00",
+      "last_checked_at": "2026-11-02T10:57:26.646407+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCKyTxXySbcFXQ-CchbXA8LA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKyTxXySbcFXQ-CchbXA8LA",
       "resolved_channel_id": "UCKyTxXySbcFXQ-CchbXA8LA",
@@ -3351,7 +3557,7 @@
       "url": "https://www.youtube.com/results?search_query=FAB+Unofficial+Flesh+and+Blood",
       "id": "691adddc92d07acf",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:21.505606+00:00",
+      "last_checked_at": "2026-11-02T10:57:24.522437+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCuPR7ZkmJeQTKf3K6Ec0_gQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuPR7ZkmJeQTKf3K6Ec0_gQ",
       "resolved_channel_id": "UCuPR7ZkmJeQTKf3K6Ec0_gQ",
@@ -3371,7 +3577,7 @@
       "url": "https://www.youtube.com/results?search_query=Elder+Dragon+Hijinks",
       "id": "8df225f6759efda0",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:37.105114+00:00",
+      "last_checked_at": "2026-11-02T10:57:39.928655+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCW8G9RUYzzepznBq5Cn_3Bg",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCW8G9RUYzzepznBq5Cn_3Bg",
       "resolved_channel_id": "UCW8G9RUYzzepznBq5Cn_3Bg",
@@ -3391,7 +3597,7 @@
       "url": "https://www.youtube.com/results?search_query=EDHRECast",
       "id": "61d27419ad5b2a5a",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:45.045991+00:00",
+      "last_checked_at": "2026-11-02T10:57:47.268599+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=EDHRECast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3411,7 +3617,7 @@
       "url": "https://www.youtube.com/results?search_query=Drive+to+Work+Mark+Rosewater",
       "id": "df9ad76b89bdd102",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:41.884629+00:00",
+      "last_checked_at": "2026-11-02T10:57:44.821484+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Drive+to+Work+Mark+Rosewater",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3431,7 +3637,7 @@
       "url": "https://www.youtube.com/results?search_query=DeadSummer+Art+Flesh+and+Blood+lore",
       "id": "1b3a8bb753003b16",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:25.402806+00:00",
+      "last_checked_at": "2026-11-02T10:57:29.213979+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCedz6mqYeQSzeSVa-3gOFIA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCedz6mqYeQSzeSVa-3gOFIA",
       "resolved_channel_id": "UCedz6mqYeQSzeSVa-3gOFIA",
@@ -3451,7 +3657,7 @@
       "url": "https://www.youtube.com/results?search_query=Crokeyz+MTG",
       "id": "43de6d0fb1b7dc27",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:38.499226+00:00",
+      "last_checked_at": "2026-11-02T10:57:41.704114+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCz3pj4DM9MuRWJ5nCCvBe_g",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCz3pj4DM9MuRWJ5nCCvBe_g",
       "resolved_channel_id": "UCz3pj4DM9MuRWJ5nCCvBe_g",
@@ -3472,7 +3678,7 @@
       "url": "https://www.twitch.tv/search?term=Crokeyz",
       "id": "2faec142f970957f",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:39.761126+00:00",
+      "last_checked_at": "2026-11-02T10:57:43.021697+00:00",
       "resolved_url": "https://www.twitch.tv/crokeyz",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3491,7 +3697,7 @@
       "url": "https://www.youtube.com/results?search_query=Crak+N+FaB+Flesh+and+Blood",
       "id": "a778f9015ac51476",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:24.819206+00:00",
+      "last_checked_at": "2026-11-02T10:57:28.498196+00:00",
       "resolved_url": "https://www.youtube.com/channel/UChJWWcfq-ZtjguzUR9CKSBA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChJWWcfq-ZtjguzUR9CKSBA",
       "resolved_channel_id": "UChJWWcfq-ZtjguzUR9CKSBA",
@@ -3511,7 +3717,7 @@
       "url": "https://www.youtube.com/results?search_query=Common+Language+Podcast+Flesh+and+Blood",
       "id": "a464633cf7c7a203",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:31.085428+00:00",
+      "last_checked_at": "2026-11-02T10:57:33.847714+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Common+Language+Podcast+Flesh+and+Blood",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3530,7 +3736,7 @@
       "url": "https://www.youtube.com/results?search_query=Chants+and+Daggers+Flesh+and+Blood",
       "id": "4f60fbed78f883f3",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:21.751003+00:00",
+      "last_checked_at": "2026-11-02T10:57:24.781865+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCBXMKnLM4TLaKlS13En1KFw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBXMKnLM4TLaKlS13En1KFw",
       "resolved_channel_id": "UCBXMKnLM4TLaKlS13En1KFw",
@@ -3550,7 +3756,7 @@
       "url": "https://www.youtube.com/results?search_query=Cardboard+and+Beyond+Flesh+and+Blood",
       "id": "7a3b05d4837a7836",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:32.815667+00:00",
+      "last_checked_at": "2026-11-02T10:57:35.388579+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Cardboard+and+Beyond+Flesh+and+Blood",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3570,7 +3776,7 @@
       "url": "https://www.youtube.com/results?search_query=Card+Advantage+Flesh+and+Blood",
       "id": "bb1a8e905ba6f060",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:20.528580+00:00",
+      "last_checked_at": "2026-11-02T10:57:23.331120+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC8ODNScZNzHs8p5NQXbjTig",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8ODNScZNzHs8p5NQXbjTig",
       "resolved_channel_id": "UC8ODNScZNzHs8p5NQXbjTig",
@@ -3589,7 +3795,7 @@
       "url": "https://www.youtube.com/results?search_query=Bronson+Flesh+and+Blood+TCG",
       "id": "c8b655fb179f8b5d",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:24.026534+00:00",
+      "last_checked_at": "2026-11-02T10:57:27.485427+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCN3LRt9wRyeIC1icFxXHFsw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCN3LRt9wRyeIC1icFxXHFsw",
       "resolved_channel_id": "UCN3LRt9wRyeIC1icFxXHFsw",
@@ -3608,7 +3814,7 @@
       "url": "https://www.youtube.com/results?search_query=Block+Out+Party+Flesh+and+Blood",
       "id": "31c3007ed38ea2d9",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:20.743294+00:00",
+      "last_checked_at": "2026-11-02T10:57:23.762213+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCeHYxsbE2c6RHeYCDFofWHg",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeHYxsbE2c6RHeYCDFofWHg",
       "resolved_channel_id": "UCeHYxsbE2c6RHeYCDFofWHg",
@@ -3628,7 +3834,7 @@
       "url": "https://www.youtube.com/results?search_query=Attack+Action+Podcast+Flesh+and+Blood",
       "id": "3bb9ba2e3b3c5ea8",
       "recent_items": [],
-      "last_checked_at": "2026-11-02T00:40:28.893879+00:00",
+      "last_checked_at": "2026-11-02T10:57:32.451159+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Attack+Action+Podcast+Flesh+and+Blood",
       "resolved_feed_url": null,
       "resolved_channel_id": null,

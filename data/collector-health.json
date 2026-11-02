@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-02T00:45:12.710905+00:00",
+  "generated_at": "2026-11-02T11:04:14.989939+00:00",
   "official_sources_configured": 21,
-  "official_sources_ok": 20,
-  "official_sources_failed": 1,
+  "official_sources_ok": 19,
+  "official_sources_failed": 2,
   "independent_sources_configured": 59,
   "independent_sources_failed": 8,
   "media_sources_configured": 94,
   "media_sources_active_7d": 38,
-  "media_items_7d": 155,
-  "media_sources_failed": 3,
+  "media_items_7d": 174,
+  "media_sources_failed": 0,
   "people_configured": 86,
-  "people_active_7d": 9,
-  "people_items_7d": 19,
+  "people_active_7d": 8,
+  "people_items_7d": 18,
   "people_sources_failed": 0,
   "errors": [
     {
@@ -19,6 +19,12 @@
       "source": "Flesh and Blood Official",
       "url": "https://fabtcg.com/en/articles/",
       "error": "403 Client Error: Forbidden for url: https://fabtcg.com/en/articles/"
+    },
+    {
+      "source_id": "pokemon-cn",
+      "source": "Pokémon China",
+      "url": "https://www.pokemon.cn/topics-tcg/p/1",
+      "error": "HTTPSConnectionPool(host='www.pokemon.cn', port=443): Max retries exceeded with url: /topics-tcg/p/1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pokemon.cn', port=443) at 0x7f921d2e0800>, 'Connection to www.pokemon.cn timed out. (connect timeout=20)'))"
     },
     {
       "source_id": "sorcery-brasil",
@@ -67,24 +73,6 @@
       "source": "BMJ TCG",
       "url": "bmjtcg.com.br",
       "error": "slice(None, 3, None)"
-    },
-    {
-      "source_id": "b0dd70ca46241b1a",
-      "source": "playset-seho",
-      "platform": "youtube",
-      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCxQNxoQVvBWzOq_AsepzPzA"
-    },
-    {
-      "source_id": "a39c0c40bc7afe58",
-      "source": "The Command Zone",
-      "platform": "youtube",
-      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCLsiaNUb42gRAP7ewbJ0ecQ"
-    },
-    {
-      "source_id": "0cf116a927d383e5",
-      "source": "Play to Win",
-      "platform": "youtube",
-      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC7339iJMCETmek3jdx9LOkg"
     }
   ]
 }
