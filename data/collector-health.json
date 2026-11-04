@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T23:22:03.795230+00:00",
+  "generated_at": "2026-11-04T06:15:57.705557+00:00",
   "official_sources_configured": 21,
   "official_sources_ok": 20,
   "official_sources_failed": 1,
@@ -7,11 +7,11 @@
   "independent_sources_failed": 8,
   "media_sources_configured": 94,
   "media_sources_active_7d": 41,
-  "media_items_7d": 166,
-  "media_sources_failed": 63,
+  "media_items_7d": 165,
+  "media_sources_failed": 66,
   "people_configured": 86,
-  "people_active_7d": 9,
-  "people_items_7d": 19,
+  "people_active_7d": 8,
+  "people_items_7d": 18,
   "people_sources_failed": 4,
   "errors": [
     {
@@ -162,7 +162,7 @@
       "source_id": "82be4e333da80b24",
       "source": "Man Sant",
       "platform": "youtube",
-      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCW-mPwR8EnaclCDXp2HI8hQ"
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCW-mPwR8EnaclCDXp2HI8hQ"
     },
     {
       "source_id": "d67f07761612bb01",
@@ -237,6 +237,18 @@
       "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCuPR7ZkmJeQTKf3K6Ec0_gQ"
     },
     {
+      "source_id": "4f60fbed78f883f3",
+      "source": "Chants & Daggers",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCBXMKnLM4TLaKlS13En1KFw"
+    },
+    {
+      "source_id": "9c9565a3061c86d4",
+      "source": "Waning Moon Gaming",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCeBISHA8ntguvqQGL596LyA"
+    },
+    {
       "source_id": "77e94a1eeb1e3d80",
       "source": "The Table Pit",
       "platform": "youtube",
@@ -246,7 +258,7 @@
       "source_id": "a164d2870c7dcf41",
       "source": "FaBrika",
       "platform": "youtube",
-      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCGCyBk8JgFWMZNRmun2oqQA"
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCGCyBk8JgFWMZNRmun2oqQA"
     },
     {
       "source_id": "3c3bbd72067de19b",
@@ -396,19 +408,25 @@
       "source_id": "0e6dd713c898888c",
       "source": "Spice8Rack",
       "platform": "youtube",
-      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCDJACu5LRKWE7sqagICB-ew"
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCDJACu5LRKWE7sqagICB-ew"
     },
     {
       "source_id": "22cd150f8aa4f04d",
       "source": "PleasantKenobi",
       "platform": "youtube",
-      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC_b074DeDtbHukufPf2O1kw"
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC_b074DeDtbHukufPf2O1kw"
     },
     {
       "source_id": "d3c4f0b772ee6bf5",
       "source": "Nitpicking Nerds",
       "platform": "youtube",
       "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCh76d0-ff5eaN68V2OaoghA"
+    },
+    {
+      "source_id": "20e030dce3d60bb7",
+      "source": "The Spike Feeders",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCGh7-4mDFssqhu_UpOwRzIA"
     },
     {
       "source_id": "14ac6604e72e7306",
@@ -468,7 +486,7 @@
       "source_id": "d6d52298457dd5dd",
       "source": "Mengu's Workshop",
       "platform": "youtube",
-      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCGZdKNOxKdSNL1Qht9aC8tQ"
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCGZdKNOxKdSNL1Qht9aC8tQ"
     },
     {
       "person_id": "bb0f2f7699cc48ef",
