@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-05T17:29:07.066440+00:00",
+  "generated_at": "2026-11-05T23:41:05.568962+00:00",
   "official_sources_configured": 21,
-  "official_sources_ok": 19,
-  "official_sources_failed": 2,
+  "official_sources_ok": 20,
+  "official_sources_failed": 1,
   "independent_sources_configured": 59,
-  "independent_sources_failed": 8,
+  "independent_sources_failed": 9,
   "media_sources_configured": 94,
   "media_sources_active_7d": 41,
-  "media_items_7d": 192,
+  "media_items_7d": 199,
   "media_sources_failed": 0,
   "people_configured": 86,
   "people_active_7d": 7,
-  "people_items_7d": 19,
+  "people_items_7d": 20,
   "people_sources_failed": 0,
   "errors": [
     {
@@ -21,16 +21,16 @@
       "error": "403 Client Error: Forbidden for url: https://fabtcg.com/en/articles/"
     },
     {
-      "source_id": "pokemon-cn",
-      "source": "Pokémon China",
-      "url": "https://www.pokemon.cn/topics-tcg/p/1",
-      "error": "HTTPSConnectionPool(host='www.pokemon.cn', port=443): Max retries exceeded with url: /topics-tcg/p/1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pokemon.cn', port=443) at 0x7f80ac14fef0>, 'Connection to www.pokemon.cn timed out. (connect timeout=20)'))"
-    },
-    {
       "source_id": "sorcery-brasil",
       "source": "Sorcery Brasil",
       "url": "https://sorcery.com.br/artigos/",
       "error": "403 Client Error: Forbidden for url: https://sorcery.com.br/artigos/"
+    },
+    {
+      "source_id": "sorceryrec",
+      "source": "SorceryRec",
+      "url": "https://sorceryrec.com/pt/articles",
+      "error": "503 Server Error: Service Unavailable for url: https://sorceryrec.com/pt/articles"
     },
     {
       "source_id": "rathe-adventures",
