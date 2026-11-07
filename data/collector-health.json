@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-06T23:10:02.276501+00:00",
+  "generated_at": "2026-11-07T05:58:49.571431+00:00",
   "official_sources_configured": 21,
   "official_sources_ok": 20,
   "official_sources_failed": 1,
   "independent_sources_configured": 59,
   "independent_sources_failed": 8,
   "media_sources_configured": 94,
-  "media_sources_active_7d": 39,
-  "media_items_7d": 191,
+  "media_sources_active_7d": 38,
+  "media_items_7d": 190,
   "media_sources_failed": 66,
   "people_configured": 86,
   "people_active_7d": 6,
@@ -78,7 +78,7 @@
       "source_id": "bbaa7618326bb5af",
       "source": "TCG TALK",
       "platform": "youtube",
-      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw"
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw"
     },
     {
       "source_id": "b775d28072ee407f",
@@ -138,7 +138,7 @@
       "source_id": "c1d69dfa8fe005db",
       "source": "Dozr",
       "platform": "youtube",
-      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw"
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw"
     },
     {
       "source_id": "f7c20c6196f886c9",
@@ -162,7 +162,7 @@
       "source_id": "82be4e333da80b24",
       "source": "Man Sant",
       "platform": "youtube",
-      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCW-mPwR8EnaclCDXp2HI8hQ"
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCW-mPwR8EnaclCDXp2HI8hQ"
     },
     {
       "source_id": "d67f07761612bb01",
@@ -252,7 +252,7 @@
       "source_id": "77e94a1eeb1e3d80",
       "source": "The Table Pit",
       "platform": "youtube",
-      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UChqrar0bo7gt-ZodV8lIxlQ"
+      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UChqrar0bo7gt-ZodV8lIxlQ"
     },
     {
       "source_id": "a164d2870c7dcf41",
@@ -270,13 +270,13 @@
       "source_id": "c1261d786b374302",
       "source": "Flesh and Bloodbrothers",
       "platform": "youtube",
-      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCcK0Zj_jIZ1O7E26uflO8mA"
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCcK0Zj_jIZ1O7E26uflO8mA"
     },
     {
       "source_id": "7a0a20e93b35960d",
       "source": "Cthulhy TCG",
       "platform": "youtube",
-      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw"
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw"
     },
     {
       "source_id": "dce893b74ab06e94",
@@ -300,7 +300,7 @@
       "source_id": "c8b655fb179f8b5d",
       "source": "Bronson",
       "platform": "youtube",
-      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCN3LRt9wRyeIC1icFxXHFsw"
+      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCN3LRt9wRyeIC1icFxXHFsw"
     },
     {
       "source_id": "369b0eb8a9f91571",
@@ -348,7 +348,7 @@
       "source_id": "66ae196b350357f0",
       "source": "MTGGoldfish",
       "platform": "youtube",
-      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCZAZTSd0xnor7hJFmINIBIw"
+      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCZAZTSd0xnor7hJFmINIBIw"
     },
     {
       "source_id": "a39c0c40bc7afe58",
@@ -360,7 +360,7 @@
       "source_id": "a94e9601eeb81088",
       "source": "EDHREC",
       "platform": "youtube",
-      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCApiDwDpn_JpzRGLZKrdr1g"
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCApiDwDpn_JpzRGLZKrdr1g"
     },
     {
       "source_id": "cc8cdf460c6f92ec",
@@ -384,7 +384,7 @@
       "source_id": "40be0db8f85aa40b",
       "source": "Playing With Power MTG",
       "platform": "youtube",
-      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCum8N4KUUC0l_NK_mybvilg"
+      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCum8N4KUUC0l_NK_mybvilg"
     },
     {
       "source_id": "34e6907606e064b2",
@@ -420,7 +420,7 @@
       "source_id": "d3c4f0b772ee6bf5",
       "source": "Nitpicking Nerds",
       "platform": "youtube",
-      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCh76d0-ff5eaN68V2OaoghA"
+      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCh76d0-ff5eaN68V2OaoghA"
     },
     {
       "source_id": "20e030dce3d60bb7",
@@ -478,7 +478,7 @@
       "source_id": "5b879535bc0174c9",
       "source": "Andrea Mengucci VEEDEO",
       "platform": "youtube",
-      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwIFsLCPrc1NGoNS0OGn0mw"
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwIFsLCPrc1NGoNS0OGn0mw"
     },
     {
       "person_id": "aebc613c27e321f2",
@@ -494,7 +494,7 @@
       "source_id": "3ca7e44ab2d804cb",
       "source": "Jim Davis MTG",
       "platform": "youtube",
-      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCocZb0xawRZuE1CKpUvOM8A"
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCocZb0xawRZuE1CKpUvOM8A"
     }
   ]
 }
