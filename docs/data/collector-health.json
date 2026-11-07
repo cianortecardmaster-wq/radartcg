@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-07T12:59:59.120118+00:00",
+  "generated_at": "2026-11-07T19:28:35.666237+00:00",
   "official_sources_configured": 21,
   "official_sources_ok": 20,
   "official_sources_failed": 1,
   "independent_sources_configured": 59,
-  "independent_sources_failed": 9,
+  "independent_sources_failed": 8,
   "media_sources_configured": 94,
-  "media_sources_active_7d": 39,
-  "media_items_7d": 197,
+  "media_sources_active_7d": 38,
+  "media_items_7d": 191,
   "media_sources_failed": 0,
   "people_configured": 86,
   "people_active_7d": 6,
@@ -25,12 +25,6 @@
       "source": "Sorcery Brasil",
       "url": "https://sorcery.com.br/artigos/",
       "error": "403 Client Error: Forbidden for url: https://sorcery.com.br/artigos/"
-    },
-    {
-      "source_id": "sorceryrec",
-      "source": "SorceryRec",
-      "url": "https://sorceryrec.com/pt/articles",
-      "error": "503 Server Error: Service Unavailable for url: https://sorceryrec.com/pt/articles"
     },
     {
       "source_id": "rathe-adventures",
