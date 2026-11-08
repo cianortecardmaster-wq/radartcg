@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T17:55:21.349139+00:00",
+  "generated_at": "2026-11-08T22:00:09.920429+00:00",
   "window_days": 7,
   "count": 86,
   "artist_developer_count": 68,
@@ -7,8 +7,193 @@
   "active_count": 5,
   "content_count": 17,
   "content_ready": true,
-  "errors_count": 0,
+  "errors_count": 32,
   "people": [
+    {
+      "name": "Jim Davis",
+      "category": "pro-player",
+      "games": [
+        "magic"
+      ],
+      "roles": [
+        "Pro player",
+        "Criador diário"
+      ],
+      "description": "Jogador profissional e criador em tempo integral; vídeos, Twitch, artigos e séries de draft.",
+      "profiles": [
+        {
+          "platform": "website",
+          "label": "Site",
+          "url": "https://www.jimdavismtg.com/"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://www.youtube.com/@JimDavisMTG"
+        },
+        {
+          "platform": "twitch",
+          "label": "Twitch",
+          "url": "https://www.twitch.tv/jimdavismtg"
+        },
+        {
+          "platform": "x",
+          "label": "X",
+          "url": "https://x.com/JimDavisMTG"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "url": "https://bsky.app/profile/jimdavismtg.com"
+        },
+        {
+          "platform": "instagram",
+          "label": "Instagram",
+          "url": "https://www.instagram.com/jimdavismtg/"
+        },
+        {
+          "platform": "tiktok",
+          "label": "TikTok",
+          "url": "https://www.tiktok.com/@jimdavismtg"
+        }
+      ],
+      "content_sources": [
+        {
+          "name": "Jim Davis MTG",
+          "platform": "youtube",
+          "language": "en",
+          "game_id": "magic",
+          "url": "https://www.youtube.com/@JimDavisMTG",
+          "youtube_search_fallback": false,
+          "id": "3ca7e44ab2d804cb",
+          "recent_items": [
+            {
+              "id": "57f18e0a6d523d8fa2c5",
+              "title": "💎 Bronze To Mythic: Episode 22 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
+              "url": "https://www.youtube.com/watch?v=BkzNCSJinoY",
+              "published_at": "2026-11-08T18:00:31+00:00",
+              "image_url": "https://i3.ytimg.com/vi/BkzNCSJinoY/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Bronze To Mythic",
+              "excerpt": "Next stop, Mythic? 😬 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to Mythi"
+            },
+            {
+              "id": "c483e148b34768b8941e",
+              "title": "💎 Bronze To Mythic: Episode 21 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
+              "url": "https://www.youtube.com/watch?v=BfKnxLTbW-M",
+              "published_at": "2026-11-06T18:00:00+00:00",
+              "image_url": "https://i3.ytimg.com/vi/BfKnxLTbW-M/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Bronze To Mythic",
+              "excerpt": "Breaking into Diamond 1 🤛 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to "
+            },
+            {
+              "id": "868f90baea381d7ca8c6",
+              "title": "💎 Bronze To Mythic: Episode 20 - Starting Rank: Diamond 2 - MTG Arena: 🔮 Reality Fracture 🔮",
+              "url": "https://www.youtube.com/watch?v=oIvsBCQcM6U",
+              "published_at": "2026-11-04T18:00:09+00:00",
+              "image_url": "https://i4.ytimg.com/vi/oIvsBCQcM6U/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Bronze To Mythic",
+              "excerpt": "Our manabase is something 😈 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze t"
+            },
+            {
+              "id": "8e76c6fc441d6dfe3c7f",
+              "title": "💎 Bronze To Mythic: Episode 19 - Starting Rank: Diamond 2 - MTG Arena: 🔮 Reality Fracture 🔮",
+              "url": "https://www.youtube.com/watch?v=i86FqVyZHa0",
+              "published_at": "2026-11-02T18:00:35+00:00",
+              "image_url": "https://i2.ytimg.com/vi/i86FqVyZHa0/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Bronze To Mythic",
+              "excerpt": "Picking up speed to Mythic! 🏃‍♂️💨 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Br"
+            }
+          ],
+          "last_checked_at": "2026-11-08T22:00:09.397732+00:00",
+          "resolved_url": "https://www.youtube.com/channel/UCocZb0xawRZuE1CKpUvOM8A",
+          "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCocZb0xawRZuE1CKpUvOM8A",
+          "resolved_channel_id": "UCocZb0xawRZuE1CKpUvOM8A",
+          "recent_count": 4,
+          "latest_published_at": "2026-11-08T18:00:31+00:00"
+        },
+        {
+          "name": "Jim Davis MTG",
+          "platform": "twitch",
+          "twitch_login": "jimdavismtg",
+          "language": "en",
+          "game_id": "magic",
+          "url": "https://www.twitch.tv/jimdavismtg",
+          "id": "30290ddbff005188",
+          "recent_items": [],
+          "last_checked_at": "2026-11-08T22:00:09.604509+00:00",
+          "resolved_url": "https://www.twitch.tv/jimdavismtg",
+          "resolved_feed_url": null,
+          "resolved_channel_id": null,
+          "recent_count": 0,
+          "latest_published_at": null
+        }
+      ],
+      "id": "bb0f2f7699cc48ef",
+      "recent_items": [
+        {
+          "id": "57f18e0a6d523d8fa2c5",
+          "title": "💎 Bronze To Mythic: Episode 22 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
+          "url": "https://www.youtube.com/watch?v=BkzNCSJinoY",
+          "published_at": "2026-11-08T18:00:31+00:00",
+          "image_url": "https://i3.ytimg.com/vi/BkzNCSJinoY/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Bronze To Mythic",
+          "excerpt": "Next stop, Mythic? 😬 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to Mythi",
+          "source_name": "Jim Davis MTG",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "c483e148b34768b8941e",
+          "title": "💎 Bronze To Mythic: Episode 21 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
+          "url": "https://www.youtube.com/watch?v=BfKnxLTbW-M",
+          "published_at": "2026-11-06T18:00:00+00:00",
+          "image_url": "https://i3.ytimg.com/vi/BfKnxLTbW-M/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Bronze To Mythic",
+          "excerpt": "Breaking into Diamond 1 🤛 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to ",
+          "source_name": "Jim Davis MTG",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "868f90baea381d7ca8c6",
+          "title": "💎 Bronze To Mythic: Episode 20 - Starting Rank: Diamond 2 - MTG Arena: 🔮 Reality Fracture 🔮",
+          "url": "https://www.youtube.com/watch?v=oIvsBCQcM6U",
+          "published_at": "2026-11-04T18:00:09+00:00",
+          "image_url": "https://i4.ytimg.com/vi/oIvsBCQcM6U/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Bronze To Mythic",
+          "excerpt": "Our manabase is something 😈 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze t",
+          "source_name": "Jim Davis MTG",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "8e76c6fc441d6dfe3c7f",
+          "title": "💎 Bronze To Mythic: Episode 19 - Starting Rank: Diamond 2 - MTG Arena: 🔮 Reality Fracture 🔮",
+          "url": "https://www.youtube.com/watch?v=i86FqVyZHa0",
+          "published_at": "2026-11-02T18:00:35+00:00",
+          "image_url": "https://i2.ytimg.com/vi/i86FqVyZHa0/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Bronze To Mythic",
+          "excerpt": "Picking up speed to Mythic! 🏃‍♂️💨 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Br",
+          "source_name": "Jim Davis MTG",
+          "source_platform": "youtube"
+        }
+      ],
+      "recent_count": 4,
+      "latest_published_at": "2026-11-08T18:00:31+00:00"
+    },
     {
       "name": "Andrea Mengucci",
       "category": "pro-player",
@@ -58,8 +243,8 @@
           "id": "5b879535bc0174c9",
           "recent_items": [
             {
-              "id": "7914c5dca203b3286782",
-              "title": "Moonshadow is sooo good in Legacy! UB Tempo | Legacy | MTGO",
+              "id": "fabb20a4995e9418b22e",
+              "title": "My Eternal Weekend deck in Legacy! UB Tempo | Legacy | MTGO",
               "url": "https://www.youtube.com/watch?v=mavw4p7U6qw",
               "published_at": "2026-11-08T17:00:16+00:00",
               "image_url": "https://i2.ytimg.com/vi/mavw4p7U6qw/hqdefault.jpg",
@@ -102,7 +287,7 @@
               "excerpt": "Time stamps: 0:00 Intro 1:09 Round1 vs Broodscale 49:33 Round2 vs UR Prowess 1:02:03 Round3 vs Esper Goryo 1:21:52 Round4 vs Neoform 1:32:56 Round5 vs Boros Energy Decklist: https://https://partner.tcgplayer.com/6k5943 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping you"
             }
           ],
-          "last_checked_at": "2026-11-08T17:55:19.001336+00:00",
+          "last_checked_at": "2026-11-08T22:00:08.657089+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCwIFsLCPrc1NGoNS0OGn0mw",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwIFsLCPrc1NGoNS0OGn0mw",
           "resolved_channel_id": "UCwIFsLCPrc1NGoNS0OGn0mw",
@@ -174,7 +359,7 @@
               "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN"
             }
           ],
-          "last_checked_at": "2026-11-08T17:55:19.243219+00:00",
+          "last_checked_at": "2026-11-08T22:00:08.873520+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCGZdKNOxKdSNL1Qht9aC8tQ",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGZdKNOxKdSNL1Qht9aC8tQ",
           "resolved_channel_id": "UCGZdKNOxKdSNL1Qht9aC8tQ",
@@ -190,7 +375,7 @@
           "url": "https://www.twitch.tv/andreamengucci",
           "id": "5339172b5454719e",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:19.573676+00:00",
+          "last_checked_at": "2026-11-08T22:00:09.075382+00:00",
           "resolved_url": "https://www.twitch.tv/andreamengucci",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -201,8 +386,8 @@
       "id": "aebc613c27e321f2",
       "recent_items": [
         {
-          "id": "7914c5dca203b3286782",
-          "title": "Moonshadow is sooo good in Legacy! UB Tempo | Legacy | MTGO",
+          "id": "fabb20a4995e9418b22e",
+          "title": "My Eternal Weekend deck in Legacy! UB Tempo | Legacy | MTGO",
           "url": "https://www.youtube.com/watch?v=mavw4p7U6qw",
           "published_at": "2026-11-08T17:00:16+00:00",
           "image_url": "https://i2.ytimg.com/vi/mavw4p7U6qw/hqdefault.jpg",
@@ -320,191 +505,6 @@
       ],
       "recent_count": 9,
       "latest_published_at": "2026-11-08T17:00:16+00:00"
-    },
-    {
-      "name": "Jim Davis",
-      "category": "pro-player",
-      "games": [
-        "magic"
-      ],
-      "roles": [
-        "Pro player",
-        "Criador diário"
-      ],
-      "description": "Jogador profissional e criador em tempo integral; vídeos, Twitch, artigos e séries de draft.",
-      "profiles": [
-        {
-          "platform": "website",
-          "label": "Site",
-          "url": "https://www.jimdavismtg.com/"
-        },
-        {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://www.youtube.com/@JimDavisMTG"
-        },
-        {
-          "platform": "twitch",
-          "label": "Twitch",
-          "url": "https://www.twitch.tv/jimdavismtg"
-        },
-        {
-          "platform": "x",
-          "label": "X",
-          "url": "https://x.com/JimDavisMTG"
-        },
-        {
-          "platform": "bluesky",
-          "label": "Bluesky",
-          "url": "https://bsky.app/profile/jimdavismtg.com"
-        },
-        {
-          "platform": "instagram",
-          "label": "Instagram",
-          "url": "https://www.instagram.com/jimdavismtg/"
-        },
-        {
-          "platform": "tiktok",
-          "label": "TikTok",
-          "url": "https://www.tiktok.com/@jimdavismtg"
-        }
-      ],
-      "content_sources": [
-        {
-          "name": "Jim Davis MTG",
-          "platform": "youtube",
-          "language": "en",
-          "game_id": "magic",
-          "url": "https://www.youtube.com/@JimDavisMTG",
-          "youtube_search_fallback": false,
-          "id": "3ca7e44ab2d804cb",
-          "recent_items": [
-            {
-              "id": "c483e148b34768b8941e",
-              "title": "💎 Bronze To Mythic: Episode 21 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
-              "url": "https://www.youtube.com/watch?v=BfKnxLTbW-M",
-              "published_at": "2026-11-06T18:00:00+00:00",
-              "image_url": "https://i3.ytimg.com/vi/BfKnxLTbW-M/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Bronze To Mythic",
-              "excerpt": "Breaking into Diamond 1 🤛 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to "
-            },
-            {
-              "id": "868f90baea381d7ca8c6",
-              "title": "💎 Bronze To Mythic: Episode 20 - Starting Rank: Diamond 2 - MTG Arena: 🔮 Reality Fracture 🔮",
-              "url": "https://www.youtube.com/watch?v=oIvsBCQcM6U",
-              "published_at": "2026-11-04T18:00:09+00:00",
-              "image_url": "https://i4.ytimg.com/vi/oIvsBCQcM6U/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Bronze To Mythic",
-              "excerpt": "Our manabase is something 😈 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze t"
-            },
-            {
-              "id": "8e76c6fc441d6dfe3c7f",
-              "title": "💎 Bronze To Mythic: Episode 19 - Starting Rank: Diamond 2 - MTG Arena: 🔮 Reality Fracture 🔮",
-              "url": "https://www.youtube.com/watch?v=i86FqVyZHa0",
-              "published_at": "2026-11-02T18:00:35+00:00",
-              "image_url": "https://i2.ytimg.com/vi/i86FqVyZHa0/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Bronze To Mythic",
-              "excerpt": "Picking up speed to Mythic! 🏃‍♂️💨 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Br"
-            },
-            {
-              "id": "737447052a9d3b014be8",
-              "title": "💎 Bronze To Mythic: Episode 18 - Starting Rank: Diamond 2 - MTG Arena: 🔮 Reality Fracture 🔮",
-              "url": "https://www.youtube.com/watch?v=vCN4OKltiJs",
-              "published_at": "2026-11-01T18:00:22+00:00",
-              "image_url": "https://i3.ytimg.com/vi/vCN4OKltiJs/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Bronze To Mythic",
-              "excerpt": "SO MANY TENTACLES 🐙 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to Mythic"
-            }
-          ],
-          "last_checked_at": "2026-11-08T17:55:20.368420+00:00",
-          "resolved_url": "https://www.youtube.com/channel/UCocZb0xawRZuE1CKpUvOM8A",
-          "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCocZb0xawRZuE1CKpUvOM8A",
-          "resolved_channel_id": "UCocZb0xawRZuE1CKpUvOM8A",
-          "recent_count": 4,
-          "latest_published_at": "2026-11-06T18:00:00+00:00"
-        },
-        {
-          "name": "Jim Davis MTG",
-          "platform": "twitch",
-          "twitch_login": "jimdavismtg",
-          "language": "en",
-          "game_id": "magic",
-          "url": "https://www.twitch.tv/jimdavismtg",
-          "id": "30290ddbff005188",
-          "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:20.617516+00:00",
-          "resolved_url": "https://www.twitch.tv/jimdavismtg",
-          "resolved_feed_url": null,
-          "resolved_channel_id": null,
-          "recent_count": 0,
-          "latest_published_at": null
-        }
-      ],
-      "id": "bb0f2f7699cc48ef",
-      "recent_items": [
-        {
-          "id": "c483e148b34768b8941e",
-          "title": "💎 Bronze To Mythic: Episode 21 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
-          "url": "https://www.youtube.com/watch?v=BfKnxLTbW-M",
-          "published_at": "2026-11-06T18:00:00+00:00",
-          "image_url": "https://i3.ytimg.com/vi/BfKnxLTbW-M/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Bronze To Mythic",
-          "excerpt": "Breaking into Diamond 1 🤛 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to ",
-          "source_name": "Jim Davis MTG",
-          "source_platform": "youtube"
-        },
-        {
-          "id": "868f90baea381d7ca8c6",
-          "title": "💎 Bronze To Mythic: Episode 20 - Starting Rank: Diamond 2 - MTG Arena: 🔮 Reality Fracture 🔮",
-          "url": "https://www.youtube.com/watch?v=oIvsBCQcM6U",
-          "published_at": "2026-11-04T18:00:09+00:00",
-          "image_url": "https://i4.ytimg.com/vi/oIvsBCQcM6U/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Bronze To Mythic",
-          "excerpt": "Our manabase is something 😈 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze t",
-          "source_name": "Jim Davis MTG",
-          "source_platform": "youtube"
-        },
-        {
-          "id": "8e76c6fc441d6dfe3c7f",
-          "title": "💎 Bronze To Mythic: Episode 19 - Starting Rank: Diamond 2 - MTG Arena: 🔮 Reality Fracture 🔮",
-          "url": "https://www.youtube.com/watch?v=i86FqVyZHa0",
-          "published_at": "2026-11-02T18:00:35+00:00",
-          "image_url": "https://i2.ytimg.com/vi/i86FqVyZHa0/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Bronze To Mythic",
-          "excerpt": "Picking up speed to Mythic! 🏃‍♂️💨 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Br",
-          "source_name": "Jim Davis MTG",
-          "source_platform": "youtube"
-        },
-        {
-          "id": "737447052a9d3b014be8",
-          "title": "💎 Bronze To Mythic: Episode 18 - Starting Rank: Diamond 2 - MTG Arena: 🔮 Reality Fracture 🔮",
-          "url": "https://www.youtube.com/watch?v=vCN4OKltiJs",
-          "published_at": "2026-11-01T18:00:22+00:00",
-          "image_url": "https://i3.ytimg.com/vi/vCN4OKltiJs/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Bronze To Mythic",
-          "excerpt": "SO MANY TENTACLES 🐙 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to Mythic",
-          "source_name": "Jim Davis MTG",
-          "source_platform": "youtube"
-        }
-      ],
-      "recent_count": 4,
-      "latest_published_at": "2026-11-06T18:00:00+00:00"
     },
     {
       "name": "Pankaj Bhojwani",
@@ -677,12 +677,13 @@
           "url": "https://yuginmaffioli.artstation.com/",
           "id": "e59eb2442642af3f",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:18.687353+00:00",
+          "last_checked_at": "2026-11-08T22:00:08.549382+00:00",
           "resolved_url": "https://yuginmaffioli.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/yuginmaffioli/projects.json?page=1&album_id=all"
         }
       ],
       "id": "128d2ad22cc1e4ee",
@@ -715,12 +716,13 @@
           "url": "https://yiian.artstation.com/",
           "id": "04b0c3059826bc55",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:18.419174+00:00",
+          "last_checked_at": "2026-11-08T22:00:08.443063+00:00",
           "resolved_url": "https://yiian.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/yiian/projects.json?page=1&album_id=all"
         }
       ],
       "id": "7b4ff9341536c10c",
@@ -758,12 +760,13 @@
           "url": "https://wisnutan.artstation.com/",
           "id": "d8672361aa948656",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:18.149791+00:00",
+          "last_checked_at": "2026-11-08T22:00:08.326048+00:00",
           "resolved_url": "https://wisnutan.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/wisnutan/projects.json?page=1&album_id=all"
         }
       ],
       "id": "1076299d3291f7e2",
@@ -796,12 +799,13 @@
           "url": "https://corbenyx.artstation.com/",
           "id": "9483b28f5e77cdde",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:17.900034+00:00",
+          "last_checked_at": "2026-11-08T22:00:08.216981+00:00",
           "resolved_url": "https://corbenyx.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/corbenyx/projects.json?page=1&album_id=all"
         }
       ],
       "id": "da866c8066dcead4",
@@ -856,12 +860,13 @@
           "url": "https://www.artstation.com/morano",
           "id": "49c9e176ceb6824c",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:17.641838+00:00",
+          "last_checked_at": "2026-11-08T22:00:08.108875+00:00",
           "resolved_url": "https://www.artstation.com/morano",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/morano/projects.json?page=1&album_id=all"
         }
       ],
       "id": "df10f966d470f045",
@@ -977,12 +982,13 @@
           "url": "https://simondominic.artstation.com/",
           "id": "e2f5ed1564770040",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:17.361678+00:00",
+          "last_checked_at": "2026-11-08T22:00:07.998099+00:00",
           "resolved_url": "https://simondominic.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/simondominic/projects.json?page=1&album_id=all"
         }
       ],
       "id": "4a8dfe98c677816c",
@@ -1039,12 +1045,13 @@
           "url": "https://satriasa.artstation.com/",
           "id": "6b957fa69602ee96",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:17.096458+00:00",
+          "last_checked_at": "2026-11-08T22:00:07.870332+00:00",
           "resolved_url": "https://satriasa.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/satriasa/projects.json?page=1&album_id=all"
         }
       ],
       "id": "bc43c56a39651f95",
@@ -1101,12 +1108,13 @@
           "url": "https://samyang.artstation.com/",
           "id": "73f8663301c3471f",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:16.840439+00:00",
+          "last_checked_at": "2026-11-08T22:00:07.763193+00:00",
           "resolved_url": "https://samyang.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/samyang/projects.json?page=1&album_id=all"
         }
       ],
       "description": "Art Director; Concept Design; Character Design",
@@ -1179,12 +1187,13 @@
           "url": "https://riordan.artstation.com/",
           "id": "06b6de0c14e1e2d9",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:16.577490+00:00",
+          "last_checked_at": "2026-11-08T22:00:07.658603+00:00",
           "resolved_url": "https://riordan.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/riordan/projects.json?page=1&album_id=all"
         }
       ],
       "id": "a9653f57257c1f1d",
@@ -1247,12 +1256,13 @@
           "url": "https://rezaafshar.artstation.com/",
           "id": "20955e06edd78ba9",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:15.855833+00:00",
+          "last_checked_at": "2026-11-08T22:00:07.347810+00:00",
           "resolved_url": "https://rezaafshar.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/rezaafshar/projects.json?page=1&album_id=all"
         },
         {
           "name": "Reza Afshar",
@@ -1263,7 +1273,7 @@
           "youtube_search_fallback": false,
           "id": "4db0ca75580bf43c",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:16.109085+00:00",
+          "last_checked_at": "2026-11-08T22:00:07.455803+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCtDQNLj3bZ_jBFtdz5w40aQ",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtDQNLj3bZ_jBFtdz5w40aQ",
           "resolved_channel_id": "UCtDQNLj3bZ_jBFtdz5w40aQ",
@@ -1386,12 +1396,13 @@
           "url": "https://www.artstation.com/mrcaptain",
           "id": "13e37397dcd73586",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:15.604822+00:00",
+          "last_checked_at": "2026-11-08T22:00:07.237901+00:00",
           "resolved_url": "https://www.artstation.com/mrcaptain",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/mrcaptain/projects.json?page=1&album_id=all"
         }
       ],
       "id": "322314d5ef8e2230",
@@ -1524,12 +1535,13 @@
           "url": "https://www.artstation.com/ninesicks",
           "id": "93ab4c9338a7eedf",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:15.284807+00:00",
+          "last_checked_at": "2026-11-08T22:00:07.130586+00:00",
           "resolved_url": "https://www.artstation.com/ninesicks",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/ninesicks/projects.json?page=1&album_id=all"
         }
       ],
       "id": "2dcddad3348fa171",
@@ -1583,12 +1595,13 @@
           "url": "https://mateusz_wisniewski.artstation.com/",
           "id": "6f4719dcb89f11d3",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:14.778908+00:00",
+          "last_checked_at": "2026-11-08T22:00:06.915917+00:00",
           "resolved_url": "https://mateusz_wisniewski.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/mateusz_wisniewski/projects.json?page=1&album_id=all"
         }
       ],
       "id": "7bd711558b14c800",
@@ -1663,12 +1676,13 @@
           "url": "https://www.artstation.com/mariusz",
           "id": "936bb3a5ba9068eb",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:14.510907+00:00",
+          "last_checked_at": "2026-11-08T22:00:06.801900+00:00",
           "resolved_url": "https://www.artstation.com/mariusz",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/mariusz/projects.json?page=1&album_id=all"
         }
       ],
       "id": "5a016f059cfdd462",
@@ -1706,12 +1720,13 @@
           "url": "https://www.artstation.com/mario_wibisono",
           "id": "1260517571477846",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:14.227866+00:00",
+          "last_checked_at": "2026-11-08T22:00:06.691420+00:00",
           "resolved_url": "https://www.artstation.com/mario_wibisono",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/mario_wibisono/projects.json?page=1&album_id=all"
         }
       ],
       "id": "0c0364fb249ebbc4",
@@ -1749,12 +1764,13 @@
           "url": "https://innervalue.artstation.com/",
           "id": "ec4333813799bc87",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:13.962244+00:00",
+          "last_checked_at": "2026-11-08T22:00:06.584170+00:00",
           "resolved_url": "https://innervalue.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/innervalue/projects.json?page=1&album_id=all"
         }
       ],
       "id": "7cfac5db33f3192e",
@@ -1788,12 +1804,13 @@
           "url": "https://www.artstation.com/mjfetesio",
           "id": "9bfa1845086db410",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:15.044825+00:00",
+          "last_checked_at": "2026-11-08T22:00:07.024381+00:00",
           "resolved_url": "https://www.artstation.com/mjfetesio",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/mjfetesio/projects.json?page=1&album_id=all"
         }
       ],
       "description": "Concept Lead; Concept Design; Asset Rendering",
@@ -1838,7 +1855,7 @@
           "url": "https://www.twitch.tv/lsv",
           "id": "9c36b3a13040cb13",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:20.979604+00:00",
+          "last_checked_at": "2026-11-08T22:00:09.760330+00:00",
           "resolved_url": "https://www.twitch.tv/lsv",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1876,12 +1893,13 @@
           "url": "https://lizhelart.artstation.com/",
           "id": "27c2542215355004",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:13.689256+00:00",
+          "last_checked_at": "2026-11-08T22:00:06.477023+00:00",
           "resolved_url": "https://lizhelart.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/lizhelart/projects.json?page=1&album_id=all"
         }
       ],
       "id": "bc809c7dd79be426",
@@ -1919,12 +1937,13 @@
           "url": "https://dopaprime.artstation.com/",
           "id": "6309278ba135097d",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:13.436285+00:00",
+          "last_checked_at": "2026-11-08T22:00:06.343521+00:00",
           "resolved_url": "https://dopaprime.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/dopaprime/projects.json?page=1&album_id=all"
         }
       ],
       "id": "a4b3e2be840d4951",
@@ -1957,12 +1976,13 @@
           "url": "https://lasahido.artstation.com/",
           "id": "f81cc7d641f5d713",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:13.111025+00:00",
+          "last_checked_at": "2026-11-08T22:00:06.233012+00:00",
           "resolved_url": "https://lasahido.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/lasahido/projects.json?page=1&album_id=all"
         }
       ],
       "id": "27ac40c4ff120004",
@@ -1995,12 +2015,13 @@
           "url": "https://k_ptn.artstation.com/",
           "id": "a8d4dca5d86787c9",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:12.855590+00:00",
+          "last_checked_at": "2026-11-08T22:00:06.126546+00:00",
           "resolved_url": "https://k_ptn.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/k_ptn/projects.json?page=1&album_id=all"
         }
       ],
       "id": "53338079a0ab5d42",
@@ -2060,12 +2081,13 @@
           "url": "https://www.artstation.com/kevin_sidharta",
           "id": "bf798db6840ed944",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:12.517277+00:00",
+          "last_checked_at": "2026-11-08T22:00:06.005482+00:00",
           "resolved_url": "https://www.artstation.com/kevin_sidharta",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/kevin_sidharta/projects.json?page=1&album_id=all"
         }
       ],
       "id": "a09bbe0339230526",
@@ -2202,12 +2224,13 @@
           "url": "https://jguilherme08.artstation.com/",
           "id": "a139a80ecc09b443",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:12.227029+00:00",
+          "last_checked_at": "2026-11-08T22:00:05.901182+00:00",
           "resolved_url": "https://jguilherme08.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/jguilherme08/projects.json?page=1&album_id=all"
         }
       ],
       "id": "25e87c07aed19ec3",
@@ -2274,12 +2297,13 @@
           "url": "https://jessada.artstation.com/",
           "id": "347f719df76d9bc5",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:11.964235+00:00",
+          "last_checked_at": "2026-11-08T22:00:05.770451+00:00",
           "resolved_url": "https://jessada.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/jessada/projects.json?page=1&album_id=all"
         }
       ],
       "id": "1c56bde044c2f34d",
@@ -2477,12 +2501,13 @@
           "url": "https://lindnr.artstation.com/",
           "id": "23f278d7050e13b0",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:11.604047+00:00",
+          "last_checked_at": "2026-11-08T22:00:05.663793+00:00",
           "resolved_url": "https://lindnr.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/lindnr/projects.json?page=1&album_id=all"
         }
       ],
       "description": "Assistant Art Director; Asset Rendering; Foiling",
@@ -2533,12 +2558,13 @@
           "url": "https://krotz.artstation.com/",
           "id": "fea91eb02c7098f8",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:11.334898+00:00",
+          "last_checked_at": "2026-11-08T22:00:05.556037+00:00",
           "resolved_url": "https://krotz.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/krotz/projects.json?page=1&album_id=all"
         }
       ],
       "id": "e242c816b16f75be",
@@ -2579,7 +2605,7 @@
           "url": "https://www.twitch.tv/yellowhat",
           "id": "730413fc26c07ed3",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:19.991056+00:00",
+          "last_checked_at": "2026-11-08T22:00:09.238322+00:00",
           "resolved_url": "https://www.twitch.tv/yellowhat",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2666,12 +2692,13 @@
           "url": "https://www.artstation.com/fedemusettiart",
           "id": "c756cbdf24a4560f",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:11.059466+00:00",
+          "last_checked_at": "2026-11-08T22:00:05.439746+00:00",
           "resolved_url": "https://www.artstation.com/fedemusettiart",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/fedemusettiart/projects.json?page=1&album_id=all"
         }
       ],
       "id": "5e5395aee83820d1",
@@ -2780,12 +2807,13 @@
           "url": "https://eilenecherie.artstation.com/",
           "id": "e79374ce24665a2e",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:10.727021+00:00",
+          "last_checked_at": "2026-11-08T22:00:05.334768+00:00",
           "resolved_url": "https://eilenecherie.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/eilenecherie/projects.json?page=1&album_id=all"
         }
       ],
       "id": "6a626da53089d714",
@@ -2840,12 +2868,13 @@
           "url": "https://savagehenry.artstation.com/",
           "id": "995b69226ce0c049",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:10.475095+00:00",
+          "last_checked_at": "2026-11-08T22:00:05.207846+00:00",
           "resolved_url": "https://savagehenry.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/savagehenry/projects.json?page=1&album_id=all"
         }
       ],
       "id": "feac0a933d522a3e",
@@ -2976,12 +3005,13 @@
           "url": "https://arifwijaya.artstation.com/",
           "id": "a2ca589ff5d23589",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:10.206318+00:00",
+          "last_checked_at": "2026-11-08T22:00:05.077935+00:00",
           "resolved_url": "https://arifwijaya.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/arifwijaya/projects.json?page=1&album_id=all"
         }
       ],
       "id": "146d79d6940e050c",
@@ -3051,12 +3081,13 @@
           "url": "https://aluisiocsantos.artstation.com/",
           "id": "ac26b661e34084d0",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:09.860183+00:00",
+          "last_checked_at": "2026-11-08T22:00:04.967216+00:00",
           "resolved_url": "https://aluisiocsantos.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/aluisiocsantos/projects.json?page=1&album_id=all"
         }
       ],
       "id": "91eafdc06a23f9fc",
@@ -3089,12 +3120,13 @@
           "url": "https://alexis-susani.artstation.com/",
           "id": "5d13e225cd5c2a43",
           "recent_items": [],
-          "last_checked_at": "2026-11-08T17:55:09.528568+00:00",
+          "last_checked_at": "2026-11-08T22:00:04.830643+00:00",
           "resolved_url": "https://alexis-susani.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
           "recent_count": 0,
-          "latest_published_at": null
+          "latest_published_at": null,
+          "last_error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/alexis-susani/projects.json?page=1&album_id=all"
         }
       ],
       "id": "568a2788f1185757",

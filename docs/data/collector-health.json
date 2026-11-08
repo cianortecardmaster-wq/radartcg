@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-08T18:01:42.633531+00:00",
+  "generated_at": "2026-11-08T22:06:40.005417+00:00",
   "official_sources_configured": 21,
   "official_sources_ok": 19,
   "official_sources_failed": 2,
   "independent_sources_configured": 59,
-  "independent_sources_failed": 8,
+  "independent_sources_failed": 7,
   "media_sources_configured": 94,
   "media_sources_active_7d": 37,
-  "media_items_7d": 187,
+  "media_items_7d": 185,
   "media_sources_failed": 0,
   "people_configured": 86,
   "people_active_7d": 5,
   "people_items_7d": 17,
-  "people_sources_failed": 0,
+  "people_sources_failed": 32,
   "errors": [
     {
       "source_id": "fab-global",
@@ -24,13 +24,7 @@
       "source_id": "pokemon-cn",
       "source": "Pokémon China",
       "url": "https://www.pokemon.cn/topics-tcg/p/1",
-      "error": "HTTPSConnectionPool(host='www.pokemon.cn', port=443): Max retries exceeded with url: /topics-tcg/p/1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pokemon.cn', port=443) at 0x7fcc783f9970>, 'Connection to www.pokemon.cn timed out. (connect timeout=20)'))"
-    },
-    {
-      "source_id": "sorcery-brasil",
-      "source": "Sorcery Brasil",
-      "url": "https://sorcery.com.br/artigos/",
-      "error": "403 Client Error: Forbidden for url: https://sorcery.com.br/artigos/"
+      "error": "HTTPSConnectionPool(host='www.pokemon.cn', port=443): Max retries exceeded with url: /topics-tcg/p/1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pokemon.cn', port=443) at 0x7abf5dad5460>, 'Connection to www.pokemon.cn timed out. (connect timeout=20)'))"
     },
     {
       "source_id": "rathe-adventures",
@@ -73,6 +67,262 @@
       "source": "BMJ TCG",
       "url": "bmjtcg.com.br",
       "error": "slice(None, 3, None)"
+    },
+    {
+      "person_id": "568a2788f1185757",
+      "person": "Alexis Susani",
+      "source_id": "5d13e225cd5c2a43",
+      "source": "Alexis Susani",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/alexis-susani/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "91eafdc06a23f9fc",
+      "person": "Aluísio Cervelle",
+      "source_id": "ac26b661e34084d0",
+      "source": "Aluísio Cervelle",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/aluisiocsantos/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "146d79d6940e050c",
+      "person": "Arif Wijaya",
+      "source_id": "a2ca589ff5d23589",
+      "source": "Arif Wijaya",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/arifwijaya/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "feac0a933d522a3e",
+      "person": "Daria Khlebnikova",
+      "source_id": "995b69226ce0c049",
+      "source": "Daria Khlebnikova",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/savagehenry/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "6a626da53089d714",
+      "person": "Eilene Cherie",
+      "source_id": "e79374ce24665a2e",
+      "source": "Eilene Cherie",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/eilenecherie/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "5e5395aee83820d1",
+      "person": "Federico Musetti",
+      "source_id": "c756cbdf24a4560f",
+      "source": "Federico Musetti",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/fedemusettiart/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "e242c816b16f75be",
+      "person": "Galih M",
+      "source_id": "fea91eb02c7098f8",
+      "source": "Galih M",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/krotz/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "2dd8aee210c262e2",
+      "person": "Henrique Lindner",
+      "source_id": "23f278d7050e13b0",
+      "source": "Henrique Lindner",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/lindnr/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "1c56bde044c2f34d",
+      "person": "Jessada Sutthi",
+      "source_id": "347f719df76d9bc5",
+      "source": "Jessada Sutthi",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/jessada/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "25e87c07aed19ec3",
+      "person": "João G. Santos",
+      "source_id": "a139a80ecc09b443",
+      "source": "João G. Santos",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/jguilherme08/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "a09bbe0339230526",
+      "person": "Kevin Sidharta",
+      "source_id": "bf798db6840ed944",
+      "source": "Kevin Sidharta",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/kevin_sidharta/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "53338079a0ab5d42",
+      "person": "Kimberly Pantoni",
+      "source_id": "a8d4dca5d86787c9",
+      "source": "Kimberly Pantoni",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/k_ptn/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "27ac40c4ff120004",
+      "person": "Lius Lasahido",
+      "source_id": "f81cc7d641f5d713",
+      "source": "Lius Lasahido",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/lasahido/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "a4b3e2be840d4951",
+      "person": "Livia Prima",
+      "source_id": "6309278ba135097d",
+      "source": "Livia Prima",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/dopaprime/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "bc809c7dd79be426",
+      "person": "Lizhe Liang",
+      "source_id": "27c2542215355004",
+      "source": "Lizhe Liang",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/lizhelart/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "7cfac5db33f3192e",
+      "person": "Maerel Hibadita",
+      "source_id": "ec4333813799bc87",
+      "source": "Maerel Hibadita",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/innervalue/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "0c0364fb249ebbc4",
+      "person": "Mario Wibisono",
+      "source_id": "1260517571477846",
+      "source": "Mario Wibisono",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/mario_wibisono/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "5a016f059cfdd462",
+      "person": "Mariusz Gandzel",
+      "source_id": "936bb3a5ba9068eb",
+      "source": "Mariusz Gandzel",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/mariusz/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "7bd711558b14c800",
+      "person": "Mateusz Wiśniewski",
+      "source_id": "6f4719dcb89f11d3",
+      "source": "Mateusz Wiśniewski",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/mateusz_wisniewski/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "709f42d9d59c364e",
+      "person": "MJ Fetesio",
+      "source_id": "9bfa1845086db410",
+      "source": "MJ Fetesio",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/mjfetesio/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "2dcddad3348fa171",
+      "person": "Nathaniel Himawan",
+      "source_id": "93ab4c9338a7eedf",
+      "source": "Nathaniel Himawan",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/ninesicks/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "322314d5ef8e2230",
+      "person": "Orson CaptainSass",
+      "source_id": "13e37397dcd73586",
+      "source": "Orson CaptainSass",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/mrcaptain/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "7f50840e5a45ed76",
+      "person": "Reza Afshar",
+      "source_id": "20955e06edd78ba9",
+      "source": "Reza Afshar",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/rezaafshar/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "a9653f57257c1f1d",
+      "person": "Riordan Delmiro",
+      "source_id": "06b6de0c14e1e2d9",
+      "source": "Riordan Delmiro",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/riordan/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "f99f015954949496",
+      "person": "Sam Yang",
+      "source_id": "73f8663301c3471f",
+      "source": "Sam Yang",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/samyang/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "bc43c56a39651f95",
+      "person": "Satriasa",
+      "source_id": "6b957fa69602ee96",
+      "source": "Satriasa",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/satriasa/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "4a8dfe98c677816c",
+      "person": "Simon Dominic",
+      "source_id": "e2f5ed1564770040",
+      "source": "Simon Dominic",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/simondominic/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "df10f966d470f045",
+      "person": "Tomasz Jedruszek",
+      "source_id": "49c9e176ceb6824c",
+      "source": "Tomasz Jedruszek",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/morano/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "da866c8066dcead4",
+      "person": "Widya Wang",
+      "source_id": "9483b28f5e77cdde",
+      "source": "Widya Wang",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/corbenyx/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "1076299d3291f7e2",
+      "person": "Wisnu Tan",
+      "source_id": "d8672361aa948656",
+      "source": "Wisnu Tan",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/wisnutan/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "7b4ff9341536c10c",
+      "person": "Yiian Kho",
+      "source_id": "04b0c3059826bc55",
+      "source": "Yiian Kho",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/yiian/projects.json?page=1&album_id=all"
+    },
+    {
+      "person_id": "128d2ad22cc1e4ee",
+      "person": "Yugin Maffioli",
+      "source_id": "e59eb2442642af3f",
+      "source": "Yugin Maffioli",
+      "platform": "artstation",
+      "error": "403 Client Error: Forbidden for url: https://www.artstation.com/users/yuginmaffioli/projects.json?page=1&album_id=all"
     }
   ]
 }
