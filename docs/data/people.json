@@ -1,14 +1,223 @@
 {
-  "generated_at": "2026-11-10T14:49:38.275117+00:00",
+  "generated_at": "2026-11-10T21:17:23.831551+00:00",
   "window_days": 7,
   "count": 86,
   "artist_developer_count": 68,
   "pro_player_count": 18,
   "active_count": 5,
-  "content_count": 16,
+  "content_count": 17,
   "content_ready": true,
   "errors_count": 32,
   "people": [
+    {
+      "name": "Jim Davis",
+      "category": "pro-player",
+      "games": [
+        "magic"
+      ],
+      "roles": [
+        "Pro player",
+        "Criador diário"
+      ],
+      "description": "Jogador profissional e criador em tempo integral; vídeos, Twitch, artigos e séries de draft.",
+      "profiles": [
+        {
+          "platform": "website",
+          "label": "Site",
+          "url": "https://www.jimdavismtg.com/"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://www.youtube.com/@JimDavisMTG"
+        },
+        {
+          "platform": "twitch",
+          "label": "Twitch",
+          "url": "https://www.twitch.tv/jimdavismtg"
+        },
+        {
+          "platform": "x",
+          "label": "X",
+          "url": "https://x.com/JimDavisMTG"
+        },
+        {
+          "platform": "bluesky",
+          "label": "Bluesky",
+          "url": "https://bsky.app/profile/jimdavismtg.com"
+        },
+        {
+          "platform": "instagram",
+          "label": "Instagram",
+          "url": "https://www.instagram.com/jimdavismtg/"
+        },
+        {
+          "platform": "tiktok",
+          "label": "TikTok",
+          "url": "https://www.tiktok.com/@jimdavismtg"
+        }
+      ],
+      "content_sources": [
+        {
+          "name": "Jim Davis MTG",
+          "platform": "youtube",
+          "language": "en",
+          "game_id": "magic",
+          "url": "https://www.youtube.com/@JimDavisMTG",
+          "youtube_search_fallback": false,
+          "id": "3ca7e44ab2d804cb",
+          "recent_items": [
+            {
+              "id": "082d9fdb519fa709f88f",
+              "title": "💎 Bronze To Mythic: Episode 24 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
+              "url": "https://www.youtube.com/watch?v=0r2SIqMyuAM",
+              "published_at": "2026-11-10T18:00:34+00:00",
+              "image_url": "https://i1.ytimg.com/vi/0r2SIqMyuAM/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Bronze To Mythic",
+              "excerpt": "Officially hit the over 😩 but we still need to finish this! Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube o"
+            },
+            {
+              "id": "d7e1582a837db3f03233",
+              "title": "💎 Bronze To Mythic: Episode 23 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
+              "url": "https://www.youtube.com/watch?v=jPxY61bETFM",
+              "published_at": "2026-11-09T18:00:35+00:00",
+              "image_url": "https://i3.ytimg.com/vi/jPxY61bETFM/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Bronze To Mythic",
+              "excerpt": "Believers SOUND OFF 📢📢📢 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to My"
+            },
+            {
+              "id": "57f18e0a6d523d8fa2c5",
+              "title": "💎 Bronze To Mythic: Episode 22 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
+              "url": "https://www.youtube.com/watch?v=BkzNCSJinoY",
+              "published_at": "2026-11-08T18:00:31+00:00",
+              "image_url": "https://i3.ytimg.com/vi/BkzNCSJinoY/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Bronze To Mythic",
+              "excerpt": "Next stop, Mythic? 😬 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to Mythi"
+            },
+            {
+              "id": "c483e148b34768b8941e",
+              "title": "💎 Bronze To Mythic: Episode 21 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
+              "url": "https://www.youtube.com/watch?v=BfKnxLTbW-M",
+              "published_at": "2026-11-06T18:00:00+00:00",
+              "image_url": "https://i3.ytimg.com/vi/BfKnxLTbW-M/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Bronze To Mythic",
+              "excerpt": "Breaking into Diamond 1 🤛 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to "
+            },
+            {
+              "id": "868f90baea381d7ca8c6",
+              "title": "💎 Bronze To Mythic: Episode 20 - Starting Rank: Diamond 2 - MTG Arena: 🔮 Reality Fracture 🔮",
+              "url": "https://www.youtube.com/watch?v=oIvsBCQcM6U",
+              "published_at": "2026-11-04T18:00:09+00:00",
+              "image_url": "https://i4.ytimg.com/vi/oIvsBCQcM6U/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Bronze To Mythic",
+              "excerpt": "Our manabase is something 😈 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze t"
+            }
+          ],
+          "last_checked_at": "2026-11-10T21:17:23.273396+00:00",
+          "resolved_url": "https://www.youtube.com/channel/UCocZb0xawRZuE1CKpUvOM8A",
+          "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCocZb0xawRZuE1CKpUvOM8A",
+          "resolved_channel_id": "UCocZb0xawRZuE1CKpUvOM8A",
+          "recent_count": 5,
+          "latest_published_at": "2026-11-10T18:00:34+00:00"
+        },
+        {
+          "name": "Jim Davis MTG",
+          "platform": "twitch",
+          "twitch_login": "jimdavismtg",
+          "language": "en",
+          "game_id": "magic",
+          "url": "https://www.twitch.tv/jimdavismtg",
+          "id": "30290ddbff005188",
+          "recent_items": [],
+          "last_checked_at": "2026-11-10T21:17:23.535259+00:00",
+          "resolved_url": "https://www.twitch.tv/jimdavismtg",
+          "resolved_feed_url": null,
+          "resolved_channel_id": null,
+          "recent_count": 0,
+          "latest_published_at": null
+        }
+      ],
+      "id": "bb0f2f7699cc48ef",
+      "recent_items": [
+        {
+          "id": "082d9fdb519fa709f88f",
+          "title": "💎 Bronze To Mythic: Episode 24 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
+          "url": "https://www.youtube.com/watch?v=0r2SIqMyuAM",
+          "published_at": "2026-11-10T18:00:34+00:00",
+          "image_url": "https://i1.ytimg.com/vi/0r2SIqMyuAM/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Bronze To Mythic",
+          "excerpt": "Officially hit the over 😩 but we still need to finish this! Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube o",
+          "source_name": "Jim Davis MTG",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "d7e1582a837db3f03233",
+          "title": "💎 Bronze To Mythic: Episode 23 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
+          "url": "https://www.youtube.com/watch?v=jPxY61bETFM",
+          "published_at": "2026-11-09T18:00:35+00:00",
+          "image_url": "https://i3.ytimg.com/vi/jPxY61bETFM/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Bronze To Mythic",
+          "excerpt": "Believers SOUND OFF 📢📢📢 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to My",
+          "source_name": "Jim Davis MTG",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "57f18e0a6d523d8fa2c5",
+          "title": "💎 Bronze To Mythic: Episode 22 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
+          "url": "https://www.youtube.com/watch?v=BkzNCSJinoY",
+          "published_at": "2026-11-08T18:00:31+00:00",
+          "image_url": "https://i3.ytimg.com/vi/BkzNCSJinoY/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Bronze To Mythic",
+          "excerpt": "Next stop, Mythic? 😬 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to Mythi",
+          "source_name": "Jim Davis MTG",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "c483e148b34768b8941e",
+          "title": "💎 Bronze To Mythic: Episode 21 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
+          "url": "https://www.youtube.com/watch?v=BfKnxLTbW-M",
+          "published_at": "2026-11-06T18:00:00+00:00",
+          "image_url": "https://i3.ytimg.com/vi/BfKnxLTbW-M/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Bronze To Mythic",
+          "excerpt": "Breaking into Diamond 1 🤛 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to ",
+          "source_name": "Jim Davis MTG",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "868f90baea381d7ca8c6",
+          "title": "💎 Bronze To Mythic: Episode 20 - Starting Rank: Diamond 2 - MTG Arena: 🔮 Reality Fracture 🔮",
+          "url": "https://www.youtube.com/watch?v=oIvsBCQcM6U",
+          "published_at": "2026-11-04T18:00:09+00:00",
+          "image_url": "https://i4.ytimg.com/vi/oIvsBCQcM6U/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Bronze To Mythic",
+          "excerpt": "Our manabase is something 😈 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze t",
+          "source_name": "Jim Davis MTG",
+          "source_platform": "youtube"
+        }
+      ],
+      "recent_count": 5,
+      "latest_published_at": "2026-11-10T18:00:34+00:00"
+    },
     {
       "name": "Andrea Mengucci",
       "category": "pro-player",
@@ -58,6 +267,17 @@
           "id": "5b879535bc0174c9",
           "recent_items": [
             {
+              "id": "35b38d2eda67f783db75",
+              "title": "Theorix Charm is fantastic in Grixis Reanimator | Modern | MTGO",
+              "url": "https://www.youtube.com/watch?v=10gE4hC5CWQ",
+              "published_at": "2026-11-10T17:00:22+00:00",
+              "image_url": "https://i2.ytimg.com/vi/10gE4hC5CWQ/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Andrea Mengucci VEEDEO",
+              "excerpt": "Time stamps: 0:00 Intro 2:20 Round1 vs Jeskai Blink 26:10 Round2 vs Domain Zoo 46:54 Round3 vs Neoform 1:02:38 Round4 vs Neoform 1:13:37 Round5 vs Amulet Titan Decklist: https://partner.tcgplayer.com/B5QQK1 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe"
+            },
+            {
               "id": "fabb20a4995e9418b22e",
               "title": "My Eternal Weekend deck in Legacy! UB Tempo | Legacy | MTGO",
               "url": "https://www.youtube.com/watch?v=mavw4p7U6qw",
@@ -89,25 +309,14 @@
               "content_platform": "youtube",
               "author": "Andrea Mengucci VEEDEO",
               "excerpt": "Time stamps: 0:00 Intro 1:10 Round1 vs Broodscale 15:50 Round2 vs UB Lantern 27:54 Round3 vs UR Prowess 49:50 Round4 vs Broodscale 1:13:15 Round5 vs Tron Decklist: https://partner.tcgplayer.com/enPVX6 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secu"
-            },
-            {
-              "id": "9cb13be5a9a701a8f3c0",
-              "title": "UW 7-Chants wins RC Canada 🏆 | Modern | MTGO",
-              "url": "https://www.youtube.com/watch?v=L6elwf3GI8w",
-              "published_at": "2026-11-03T17:00:09+00:00",
-              "image_url": "https://i1.ytimg.com/vi/L6elwf3GI8w/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Andrea Mengucci VEEDEO",
-              "excerpt": "Time stamps: 0:00 Intro 1:09 Round1 vs Broodscale 49:33 Round2 vs UR Prowess 1:02:03 Round3 vs Esper Goryo 1:21:52 Round4 vs Neoform 1:32:56 Round5 vs Boros Energy Decklist: https://https://partner.tcgplayer.com/6k5943 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping you"
             }
           ],
-          "last_checked_at": "2026-11-10T14:49:37.262956+00:00",
+          "last_checked_at": "2026-11-10T21:17:22.508457+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCwIFsLCPrc1NGoNS0OGn0mw",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwIFsLCPrc1NGoNS0OGn0mw",
           "resolved_channel_id": "UCwIFsLCPrc1NGoNS0OGn0mw",
           "recent_count": 4,
-          "latest_published_at": "2026-11-08T17:00:16+00:00"
+          "latest_published_at": "2026-11-10T17:00:22+00:00"
         },
         {
           "name": "Mengu's Workshop",
@@ -174,7 +383,7 @@
               "excerpt": ""
             }
           ],
-          "last_checked_at": "2026-11-10T14:49:37.443181+00:00",
+          "last_checked_at": "2026-11-10T21:17:22.782707+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCGZdKNOxKdSNL1Qht9aC8tQ",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGZdKNOxKdSNL1Qht9aC8tQ",
           "resolved_channel_id": "UCGZdKNOxKdSNL1Qht9aC8tQ",
@@ -190,7 +399,7 @@
           "url": "https://www.twitch.tv/andreamengucci",
           "id": "5339172b5454719e",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:37.625048+00:00",
+          "last_checked_at": "2026-11-10T21:17:22.982850+00:00",
           "resolved_url": "https://www.twitch.tv/andreamengucci",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -200,6 +409,19 @@
       ],
       "id": "aebc613c27e321f2",
       "recent_items": [
+        {
+          "id": "35b38d2eda67f783db75",
+          "title": "Theorix Charm is fantastic in Grixis Reanimator | Modern | MTGO",
+          "url": "https://www.youtube.com/watch?v=10gE4hC5CWQ",
+          "published_at": "2026-11-10T17:00:22+00:00",
+          "image_url": "https://i2.ytimg.com/vi/10gE4hC5CWQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Andrea Mengucci VEEDEO",
+          "excerpt": "Time stamps: 0:00 Intro 2:20 Round1 vs Jeskai Blink 26:10 Round2 vs Domain Zoo 46:54 Round3 vs Neoform 1:02:38 Round4 vs Neoform 1:13:37 Round5 vs Amulet Titan Decklist: https://partner.tcgplayer.com/B5QQK1 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe",
+          "source_name": "Andrea Mengucci VEEDEO",
+          "source_platform": "youtube"
+        },
         {
           "id": "4ed16c666b0ea18793a1",
           "title": "Can Carl beat The Eternal Weekend Vintage Champion? | Raker Shops vs Grixis Tinker | Mtg Gameplay!",
@@ -303,208 +525,10 @@
           "excerpt": "",
           "source_name": "Mengu's Workshop",
           "source_platform": "youtube"
-        },
-        {
-          "id": "9cb13be5a9a701a8f3c0",
-          "title": "UW 7-Chants wins RC Canada 🏆 | Modern | MTGO",
-          "url": "https://www.youtube.com/watch?v=L6elwf3GI8w",
-          "published_at": "2026-11-03T17:00:09+00:00",
-          "image_url": "https://i1.ytimg.com/vi/L6elwf3GI8w/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Andrea Mengucci VEEDEO",
-          "excerpt": "Time stamps: 0:00 Intro 1:09 Round1 vs Broodscale 49:33 Round2 vs UR Prowess 1:02:03 Round3 vs Esper Goryo 1:21:52 Round4 vs Neoform 1:32:56 Round5 vs Boros Energy Decklist: https://https://partner.tcgplayer.com/6k5943 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping you",
-          "source_name": "Andrea Mengucci VEEDEO",
-          "source_platform": "youtube"
         }
       ],
       "recent_count": 9,
-      "latest_published_at": "2026-11-09T20:00:36+00:00"
-    },
-    {
-      "name": "Jim Davis",
-      "category": "pro-player",
-      "games": [
-        "magic"
-      ],
-      "roles": [
-        "Pro player",
-        "Criador diário"
-      ],
-      "description": "Jogador profissional e criador em tempo integral; vídeos, Twitch, artigos e séries de draft.",
-      "profiles": [
-        {
-          "platform": "website",
-          "label": "Site",
-          "url": "https://www.jimdavismtg.com/"
-        },
-        {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://www.youtube.com/@JimDavisMTG"
-        },
-        {
-          "platform": "twitch",
-          "label": "Twitch",
-          "url": "https://www.twitch.tv/jimdavismtg"
-        },
-        {
-          "platform": "x",
-          "label": "X",
-          "url": "https://x.com/JimDavisMTG"
-        },
-        {
-          "platform": "bluesky",
-          "label": "Bluesky",
-          "url": "https://bsky.app/profile/jimdavismtg.com"
-        },
-        {
-          "platform": "instagram",
-          "label": "Instagram",
-          "url": "https://www.instagram.com/jimdavismtg/"
-        },
-        {
-          "platform": "tiktok",
-          "label": "TikTok",
-          "url": "https://www.tiktok.com/@jimdavismtg"
-        }
-      ],
-      "content_sources": [
-        {
-          "name": "Jim Davis MTG",
-          "platform": "youtube",
-          "language": "en",
-          "game_id": "magic",
-          "url": "https://www.youtube.com/@JimDavisMTG",
-          "youtube_search_fallback": false,
-          "id": "3ca7e44ab2d804cb",
-          "recent_items": [
-            {
-              "id": "d7e1582a837db3f03233",
-              "title": "💎 Bronze To Mythic: Episode 23 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
-              "url": "https://www.youtube.com/watch?v=jPxY61bETFM",
-              "published_at": "2026-11-09T18:00:35+00:00",
-              "image_url": "https://i3.ytimg.com/vi/jPxY61bETFM/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Bronze To Mythic",
-              "excerpt": "Believers SOUND OFF 📢📢📢 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to My"
-            },
-            {
-              "id": "57f18e0a6d523d8fa2c5",
-              "title": "💎 Bronze To Mythic: Episode 22 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
-              "url": "https://www.youtube.com/watch?v=BkzNCSJinoY",
-              "published_at": "2026-11-08T18:00:31+00:00",
-              "image_url": "https://i3.ytimg.com/vi/BkzNCSJinoY/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Bronze To Mythic",
-              "excerpt": "Next stop, Mythic? 😬 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to Mythi"
-            },
-            {
-              "id": "c483e148b34768b8941e",
-              "title": "💎 Bronze To Mythic: Episode 21 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
-              "url": "https://www.youtube.com/watch?v=BfKnxLTbW-M",
-              "published_at": "2026-11-06T18:00:00+00:00",
-              "image_url": "https://i3.ytimg.com/vi/BfKnxLTbW-M/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Bronze To Mythic",
-              "excerpt": "Breaking into Diamond 1 🤛 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to "
-            },
-            {
-              "id": "868f90baea381d7ca8c6",
-              "title": "💎 Bronze To Mythic: Episode 20 - Starting Rank: Diamond 2 - MTG Arena: 🔮 Reality Fracture 🔮",
-              "url": "https://www.youtube.com/watch?v=oIvsBCQcM6U",
-              "published_at": "2026-11-04T18:00:09+00:00",
-              "image_url": "https://i4.ytimg.com/vi/oIvsBCQcM6U/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Bronze To Mythic",
-              "excerpt": "Our manabase is something 😈 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze t"
-            }
-          ],
-          "last_checked_at": "2026-11-10T14:49:37.844073+00:00",
-          "resolved_url": "https://www.youtube.com/channel/UCocZb0xawRZuE1CKpUvOM8A",
-          "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCocZb0xawRZuE1CKpUvOM8A",
-          "resolved_channel_id": "UCocZb0xawRZuE1CKpUvOM8A",
-          "recent_count": 4,
-          "latest_published_at": "2026-11-09T18:00:35+00:00"
-        },
-        {
-          "name": "Jim Davis MTG",
-          "platform": "twitch",
-          "twitch_login": "jimdavismtg",
-          "language": "en",
-          "game_id": "magic",
-          "url": "https://www.twitch.tv/jimdavismtg",
-          "id": "30290ddbff005188",
-          "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:38.062025+00:00",
-          "resolved_url": "https://www.twitch.tv/jimdavismtg",
-          "resolved_feed_url": null,
-          "resolved_channel_id": null,
-          "recent_count": 0,
-          "latest_published_at": null
-        }
-      ],
-      "id": "bb0f2f7699cc48ef",
-      "recent_items": [
-        {
-          "id": "d7e1582a837db3f03233",
-          "title": "💎 Bronze To Mythic: Episode 23 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
-          "url": "https://www.youtube.com/watch?v=jPxY61bETFM",
-          "published_at": "2026-11-09T18:00:35+00:00",
-          "image_url": "https://i3.ytimg.com/vi/jPxY61bETFM/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Bronze To Mythic",
-          "excerpt": "Believers SOUND OFF 📢📢📢 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to My",
-          "source_name": "Jim Davis MTG",
-          "source_platform": "youtube"
-        },
-        {
-          "id": "57f18e0a6d523d8fa2c5",
-          "title": "💎 Bronze To Mythic: Episode 22 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
-          "url": "https://www.youtube.com/watch?v=BkzNCSJinoY",
-          "published_at": "2026-11-08T18:00:31+00:00",
-          "image_url": "https://i3.ytimg.com/vi/BkzNCSJinoY/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Bronze To Mythic",
-          "excerpt": "Next stop, Mythic? 😬 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to Mythi",
-          "source_name": "Jim Davis MTG",
-          "source_platform": "youtube"
-        },
-        {
-          "id": "c483e148b34768b8941e",
-          "title": "💎 Bronze To Mythic: Episode 21 - Starting Rank: Diamond 1 - MTG Arena: 🔮 Reality Fracture 🔮",
-          "url": "https://www.youtube.com/watch?v=BfKnxLTbW-M",
-          "published_at": "2026-11-06T18:00:00+00:00",
-          "image_url": "https://i3.ytimg.com/vi/BfKnxLTbW-M/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Bronze To Mythic",
-          "excerpt": "Breaking into Diamond 1 🤛 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to ",
-          "source_name": "Jim Davis MTG",
-          "source_platform": "youtube"
-        },
-        {
-          "id": "868f90baea381d7ca8c6",
-          "title": "💎 Bronze To Mythic: Episode 20 - Starting Rank: Diamond 2 - MTG Arena: 🔮 Reality Fracture 🔮",
-          "url": "https://www.youtube.com/watch?v=oIvsBCQcM6U",
-          "published_at": "2026-11-04T18:00:09+00:00",
-          "image_url": "https://i4.ytimg.com/vi/oIvsBCQcM6U/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Bronze To Mythic",
-          "excerpt": "Our manabase is something 😈 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze t",
-          "source_name": "Jim Davis MTG",
-          "source_platform": "youtube"
-        }
-      ],
-      "recent_count": 4,
-      "latest_published_at": "2026-11-09T18:00:35+00:00"
+      "latest_published_at": "2026-11-10T17:00:22+00:00"
     },
     {
       "name": "Pankaj Bhojwani",
@@ -664,7 +688,7 @@
           "url": "https://yuginmaffioli.artstation.com/",
           "id": "e59eb2442642af3f",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:37.145447+00:00",
+          "last_checked_at": "2026-11-10T21:17:22.357848+00:00",
           "resolved_url": "https://yuginmaffioli.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -703,7 +727,7 @@
           "url": "https://yiian.artstation.com/",
           "id": "04b0c3059826bc55",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:37.041566+00:00",
+          "last_checked_at": "2026-11-10T21:17:22.214279+00:00",
           "resolved_url": "https://yiian.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -747,7 +771,7 @@
           "url": "https://wisnutan.artstation.com/",
           "id": "d8672361aa948656",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:36.921410+00:00",
+          "last_checked_at": "2026-11-10T21:17:22.065701+00:00",
           "resolved_url": "https://wisnutan.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -786,7 +810,7 @@
           "url": "https://corbenyx.artstation.com/",
           "id": "9483b28f5e77cdde",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:36.799805+00:00",
+          "last_checked_at": "2026-11-10T21:17:21.920443+00:00",
           "resolved_url": "https://corbenyx.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -847,7 +871,7 @@
           "url": "https://www.artstation.com/morano",
           "id": "49c9e176ceb6824c",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:36.675523+00:00",
+          "last_checked_at": "2026-11-10T21:17:21.752671+00:00",
           "resolved_url": "https://www.artstation.com/morano",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -969,7 +993,7 @@
           "url": "https://simondominic.artstation.com/",
           "id": "e2f5ed1564770040",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:36.568732+00:00",
+          "last_checked_at": "2026-11-10T21:17:21.583268+00:00",
           "resolved_url": "https://simondominic.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1032,7 +1056,7 @@
           "url": "https://satriasa.artstation.com/",
           "id": "6b957fa69602ee96",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:36.429007+00:00",
+          "last_checked_at": "2026-11-10T21:17:21.458577+00:00",
           "resolved_url": "https://satriasa.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1095,7 +1119,7 @@
           "url": "https://samyang.artstation.com/",
           "id": "73f8663301c3471f",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:36.316269+00:00",
+          "last_checked_at": "2026-11-10T21:17:21.324625+00:00",
           "resolved_url": "https://samyang.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1174,7 +1198,7 @@
           "url": "https://riordan.artstation.com/",
           "id": "06b6de0c14e1e2d9",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:36.205407+00:00",
+          "last_checked_at": "2026-11-10T21:17:21.183870+00:00",
           "resolved_url": "https://riordan.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1243,7 +1267,7 @@
           "url": "https://rezaafshar.artstation.com/",
           "id": "20955e06edd78ba9",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:35.867219+00:00",
+          "last_checked_at": "2026-11-10T21:17:20.809133+00:00",
           "resolved_url": "https://rezaafshar.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1260,7 +1284,7 @@
           "youtube_search_fallback": false,
           "id": "4db0ca75580bf43c",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:35.984400+00:00",
+          "last_checked_at": "2026-11-10T21:17:20.956577+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCtDQNLj3bZ_jBFtdz5w40aQ",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtDQNLj3bZ_jBFtdz5w40aQ",
           "resolved_channel_id": "UCtDQNLj3bZ_jBFtdz5w40aQ",
@@ -1383,7 +1407,7 @@
           "url": "https://www.artstation.com/mrcaptain",
           "id": "13e37397dcd73586",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:35.754780+00:00",
+          "last_checked_at": "2026-11-10T21:17:20.669264+00:00",
           "resolved_url": "https://www.artstation.com/mrcaptain",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1522,7 +1546,7 @@
           "url": "https://www.artstation.com/ninesicks",
           "id": "93ab4c9338a7eedf",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:35.649662+00:00",
+          "last_checked_at": "2026-11-10T21:17:20.513408+00:00",
           "resolved_url": "https://www.artstation.com/ninesicks",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1582,7 +1606,7 @@
           "url": "https://mateusz_wisniewski.artstation.com/",
           "id": "6f4719dcb89f11d3",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:35.381842+00:00",
+          "last_checked_at": "2026-11-10T21:17:20.177379+00:00",
           "resolved_url": "https://mateusz_wisniewski.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1663,7 +1687,7 @@
           "url": "https://www.artstation.com/mariusz",
           "id": "936bb3a5ba9068eb",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:35.269879+00:00",
+          "last_checked_at": "2026-11-10T21:17:20.029441+00:00",
           "resolved_url": "https://www.artstation.com/mariusz",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1707,7 +1731,7 @@
           "url": "https://www.artstation.com/mario_wibisono",
           "id": "1260517571477846",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:35.146671+00:00",
+          "last_checked_at": "2026-11-10T21:17:19.885138+00:00",
           "resolved_url": "https://www.artstation.com/mario_wibisono",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1751,7 +1775,7 @@
           "url": "https://innervalue.artstation.com/",
           "id": "ec4333813799bc87",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:35.038857+00:00",
+          "last_checked_at": "2026-11-10T21:17:19.736263+00:00",
           "resolved_url": "https://innervalue.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1791,7 +1815,7 @@
           "url": "https://www.artstation.com/mjfetesio",
           "id": "9bfa1845086db410",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:35.485453+00:00",
+          "last_checked_at": "2026-11-10T21:17:20.370107+00:00",
           "resolved_url": "https://www.artstation.com/mjfetesio",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1842,7 +1866,7 @@
           "url": "https://www.twitch.tv/lsv",
           "id": "9c36b3a13040cb13",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:38.168665+00:00",
+          "last_checked_at": "2026-11-10T21:17:23.681721+00:00",
           "resolved_url": "https://www.twitch.tv/lsv",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1880,7 +1904,7 @@
           "url": "https://lizhelart.artstation.com/",
           "id": "27c2542215355004",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:34.924554+00:00",
+          "last_checked_at": "2026-11-10T21:17:19.597367+00:00",
           "resolved_url": "https://lizhelart.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1924,7 +1948,7 @@
           "url": "https://dopaprime.artstation.com/",
           "id": "6309278ba135097d",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:34.816750+00:00",
+          "last_checked_at": "2026-11-10T21:17:19.448584+00:00",
           "resolved_url": "https://dopaprime.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1963,7 +1987,7 @@
           "url": "https://lasahido.artstation.com/",
           "id": "f81cc7d641f5d713",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:34.664938+00:00",
+          "last_checked_at": "2026-11-10T21:17:19.237943+00:00",
           "resolved_url": "https://lasahido.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2002,7 +2026,7 @@
           "url": "https://k_ptn.artstation.com/",
           "id": "a8d4dca5d86787c9",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:34.556234+00:00",
+          "last_checked_at": "2026-11-10T21:17:19.090404+00:00",
           "resolved_url": "https://k_ptn.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2068,7 +2092,7 @@
           "url": "https://www.artstation.com/kevin_sidharta",
           "id": "bf798db6840ed944",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:34.431511+00:00",
+          "last_checked_at": "2026-11-10T21:17:18.859572+00:00",
           "resolved_url": "https://www.artstation.com/kevin_sidharta",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2211,7 +2235,7 @@
           "url": "https://jguilherme08.artstation.com/",
           "id": "a139a80ecc09b443",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:34.277575+00:00",
+          "last_checked_at": "2026-11-10T21:17:18.665620+00:00",
           "resolved_url": "https://jguilherme08.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2284,7 +2308,7 @@
           "url": "https://jessada.artstation.com/",
           "id": "347f719df76d9bc5",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:34.128650+00:00",
+          "last_checked_at": "2026-11-10T21:17:18.530115+00:00",
           "resolved_url": "https://jessada.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2488,7 +2512,7 @@
           "url": "https://lindnr.artstation.com/",
           "id": "23f278d7050e13b0",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:33.996081+00:00",
+          "last_checked_at": "2026-11-10T21:17:18.278338+00:00",
           "resolved_url": "https://lindnr.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2545,7 +2569,7 @@
           "url": "https://krotz.artstation.com/",
           "id": "fea91eb02c7098f8",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:33.887039+00:00",
+          "last_checked_at": "2026-11-10T21:17:18.060237+00:00",
           "resolved_url": "https://krotz.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2592,7 +2616,7 @@
           "url": "https://www.twitch.tv/yellowhat",
           "id": "730413fc26c07ed3",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:37.738520+00:00",
+          "last_checked_at": "2026-11-10T21:17:23.124182+00:00",
           "resolved_url": "https://www.twitch.tv/yellowhat",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2679,7 +2703,7 @@
           "url": "https://www.artstation.com/fedemusettiart",
           "id": "c756cbdf24a4560f",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:33.785486+00:00",
+          "last_checked_at": "2026-11-10T21:17:17.841031+00:00",
           "resolved_url": "https://www.artstation.com/fedemusettiart",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2794,7 +2818,7 @@
           "url": "https://eilenecherie.artstation.com/",
           "id": "e79374ce24665a2e",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:33.665593+00:00",
+          "last_checked_at": "2026-11-10T21:17:17.687344+00:00",
           "resolved_url": "https://eilenecherie.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2855,7 +2879,7 @@
           "url": "https://savagehenry.artstation.com/",
           "id": "995b69226ce0c049",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:33.525569+00:00",
+          "last_checked_at": "2026-11-10T21:17:17.469932+00:00",
           "resolved_url": "https://savagehenry.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2992,7 +3016,7 @@
           "url": "https://arifwijaya.artstation.com/",
           "id": "a2ca589ff5d23589",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:33.381364+00:00",
+          "last_checked_at": "2026-11-10T21:17:17.274415+00:00",
           "resolved_url": "https://arifwijaya.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -3068,7 +3092,7 @@
           "url": "https://aluisiocsantos.artstation.com/",
           "id": "ac26b661e34084d0",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:33.227694+00:00",
+          "last_checked_at": "2026-11-10T21:17:17.109411+00:00",
           "resolved_url": "https://aluisiocsantos.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -3107,7 +3131,7 @@
           "url": "https://alexis-susani.artstation.com/",
           "id": "5d13e225cd5c2a43",
           "recent_items": [],
-          "last_checked_at": "2026-11-10T14:49:33.071778+00:00",
+          "last_checked_at": "2026-11-10T21:17:16.927924+00:00",
           "resolved_url": "https://alexis-susani.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
