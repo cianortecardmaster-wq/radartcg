@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-11T19:37:57.414445+00:00",
+  "generated_at": "2026-11-12T02:21:58.227362+00:00",
   "official_sources_configured": 21,
-  "official_sources_ok": 20,
-  "official_sources_failed": 1,
+  "official_sources_ok": 19,
+  "official_sources_failed": 2,
   "independent_sources_configured": 59,
   "independent_sources_failed": 7,
   "media_sources_configured": 94,
-  "media_sources_active_7d": 39,
+  "media_sources_active_7d": 38,
   "media_items_7d": 187,
   "media_sources_failed": 0,
   "people_configured": 86,
-  "people_active_7d": 5,
-  "people_items_7d": 17,
+  "people_active_7d": 4,
+  "people_items_7d": 15,
   "people_sources_failed": 32,
   "errors": [
     {
@@ -19,6 +19,12 @@
       "source": "Flesh and Blood Official",
       "url": "https://fabtcg.com/en/articles/",
       "error": "403 Client Error: Forbidden for url: https://fabtcg.com/en/articles/"
+    },
+    {
+      "source_id": "pokemon-cn",
+      "source": "Pokémon China",
+      "url": "https://www.pokemon.cn/topics-tcg/p/1",
+      "error": "HTTPSConnectionPool(host='www.pokemon.cn', port=443): Max retries exceeded with url: /topics-tcg/p/1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pokemon.cn', port=443) at 0x757fdb53cf50>, 'Connection to www.pokemon.cn timed out. (connect timeout=20)'))"
     },
     {
       "source_id": "rathe-adventures",
