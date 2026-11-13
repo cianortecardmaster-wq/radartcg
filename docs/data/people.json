@@ -1,14 +1,278 @@
 {
-  "generated_at": "2026-11-13T01:48:13.849700+00:00",
+  "generated_at": "2026-11-13T10:54:33.856434+00:00",
   "window_days": 7,
   "count": 86,
   "artist_developer_count": 68,
   "pro_player_count": 18,
-  "active_count": 4,
-  "content_count": 14,
+  "active_count": 2,
+  "content_count": 13,
   "content_ready": true,
-  "errors_count": 36,
+  "errors_count": 32,
   "people": [
+    {
+      "name": "Andrea Mengucci",
+      "category": "pro-player",
+      "games": [
+        "magic"
+      ],
+      "roles": [
+        "Pro player",
+        "YouTube / Twitch"
+      ],
+      "description": "Campeão de grande evento e criador diário; gameplay competitivo e Magic em papel.",
+      "profiles": [
+        {
+          "platform": "youtube",
+          "label": "YouTube — VEEDEO",
+          "url": "https://www.youtube.com/andreamengucci"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube — Mengu's Workshop",
+          "url": "https://www.youtube.com/@MengusWorkshop"
+        },
+        {
+          "platform": "twitch",
+          "label": "Twitch",
+          "url": "https://www.twitch.tv/andreamengucci"
+        },
+        {
+          "platform": "instagram",
+          "label": "Instagram",
+          "url": "https://www.instagram.com/mengu09/"
+        },
+        {
+          "platform": "x",
+          "label": "X",
+          "url": "https://x.com/Mengu09"
+        }
+      ],
+      "content_sources": [
+        {
+          "name": "Andrea Mengucci VEEDEO",
+          "platform": "youtube",
+          "language": "en",
+          "game_id": "magic",
+          "url": "https://www.youtube.com/andreamengucci",
+          "youtube_search_fallback": false,
+          "id": "5b879535bc0174c9",
+          "recent_items": [
+            {
+              "id": "d5d248eb42e49f49c38f",
+              "title": "Living End dominates RC Ghent! 14-1!!! | Modern | MTGO",
+              "url": "https://www.youtube.com/watch?v=gQrBYLMbrhM",
+              "published_at": "2026-11-12T17:00:34+00:00",
+              "image_url": "https://i4.ytimg.com/vi/gQrBYLMbrhM/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Andrea Mengucci VEEDEO",
+              "excerpt": "Time stamps: 0:00 Intro 1:20 Round1 vs Affinity 11:00 Round2 vs Tron 32:59 Round3 vs Living End Decklist: https://partner.tcgplayer.com/DWrrWj Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at your LGS. Head to heavyplay.com"
+            },
+            {
+              "id": "18396fc1514439a693b4",
+              "title": "Rakdos Delirium is great! 62% win rate at RC Ghent! | Modern | MTGO",
+              "url": "https://www.youtube.com/watch?v=ZQXjR8GM5EA",
+              "published_at": "2026-11-11T17:00:26+00:00",
+              "image_url": "https://i3.ytimg.com/vi/ZQXjR8GM5EA/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Andrea Mengucci VEEDEO",
+              "excerpt": "Time stamps: 0:00 Intro 1:22 Round1 vs UB The Ten Rings 30:28 Round2 vs Grixis Reanimator 41:55 Round3 vs Domain Zoo 56:13 Round4 vs Cosmofling 1:10:32 Round5 vs Eldrazi Decklist: https://partner.tcgplayer.com/DWrrKo Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your "
+            },
+            {
+              "id": "a93e85933f80562db5a2",
+              "title": "Creativity is back in Modern thanks to Way of the Paradox! | Modern | MTGO",
+              "url": "https://www.youtube.com/watch?v=10gE4hC5CWQ",
+              "published_at": "2026-11-10T17:00:22+00:00",
+              "image_url": "https://i2.ytimg.com/vi/10gE4hC5CWQ/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Andrea Mengucci VEEDEO",
+              "excerpt": "Time stamps: 0:00 Intro 2:20 Round1 vs Jeskai Blink 26:10 Round2 vs Domain Zoo 46:54 Round3 vs Neoform 1:02:38 Round4 vs Neoform 1:13:37 Round5 vs Amulet Titan Decklist: https://partner.tcgplayer.com/B5QQK1 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe"
+            },
+            {
+              "id": "fabb20a4995e9418b22e",
+              "title": "My Eternal Weekend deck in Legacy! UB Tempo | Legacy | MTGO",
+              "url": "https://www.youtube.com/watch?v=mavw4p7U6qw",
+              "published_at": "2026-11-08T17:00:16+00:00",
+              "image_url": "https://i2.ytimg.com/vi/mavw4p7U6qw/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Andrea Mengucci VEEDEO",
+              "excerpt": "Time stamps: 0:00 Intro 1:05 Round1 vs UB Hogaak 13:46 Round2 vs Jeskai Wizards 29:50 Round3 vs Elves 40:58 Round4 vs Lands Decklist: https://partner.tcgplayer.com/oNWWX9 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at you"
+            },
+            {
+              "id": "7c6623772bd0b9139925",
+              "title": "Mardu Burn is insanely efficient! Zirda Companion WTF??? | Modern | MTGO",
+              "url": "https://www.youtube.com/watch?v=CXujErf0eEs",
+              "published_at": "2026-11-06T17:00:02+00:00",
+              "image_url": "https://i4.ytimg.com/vi/CXujErf0eEs/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Andrea Mengucci VEEDEO",
+              "excerpt": "Time stamps: 0:00 Intro 2:09 Round1 vs Esper Mill 11:32 Round2 vs 4c Birthing Ritual 21:14 Round3 vs Rakdos Moonshadow 34:33 Round4 vs Domain Zoo 40:47 Round5 vs 4c Creativity Decklist: https://partner.tcgplayer.com/vDqRa3 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping"
+            }
+          ],
+          "last_checked_at": "2026-11-13T10:54:32.163370+00:00",
+          "resolved_url": "https://www.youtube.com/channel/UCwIFsLCPrc1NGoNS0OGn0mw",
+          "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwIFsLCPrc1NGoNS0OGn0mw",
+          "resolved_channel_id": "UCwIFsLCPrc1NGoNS0OGn0mw",
+          "recent_count": 5,
+          "latest_published_at": "2026-11-12T17:00:34+00:00"
+        },
+        {
+          "name": "Mengu's Workshop",
+          "platform": "youtube",
+          "language": "en",
+          "game_id": "magic",
+          "url": "https://www.youtube.com/@MengusWorkshop",
+          "youtube_search_fallback": false,
+          "id": "d6d52298457dd5dd",
+          "recent_items": [
+            {
+              "id": "cb8da34f3286a0321897",
+              "title": "The story of how I became the Vintage Champion!",
+              "url": "https://www.youtube.com/watch?v=cZzimJUiCP4",
+              "published_at": "2026-11-12T20:00:11+00:00",
+              "image_url": "https://i4.ytimg.com/vi/cZzimJUiCP4/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Mengu's Workshop",
+              "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN"
+            },
+            {
+              "id": "4ed16c666b0ea18793a1",
+              "title": "Can Carl beat The Eternal Weekend Vintage Champion? | Raker Shops vs Grixis Tinker | Mtg Gameplay!",
+              "url": "https://www.youtube.com/watch?v=uDUntDN2qTA",
+              "published_at": "2026-11-09T20:00:36+00:00",
+              "image_url": "https://i2.ytimg.com/vi/uDUntDN2qTA/hqdefault.jpg",
+              "kind": "video",
+              "content_platform": "youtube",
+              "author": "Mengu's Workshop",
+              "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN"
+            }
+          ],
+          "last_checked_at": "2026-11-13T10:54:32.416650+00:00",
+          "resolved_url": "https://www.youtube.com/channel/UCGZdKNOxKdSNL1Qht9aC8tQ",
+          "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGZdKNOxKdSNL1Qht9aC8tQ",
+          "resolved_channel_id": "UCGZdKNOxKdSNL1Qht9aC8tQ",
+          "recent_count": 2,
+          "latest_published_at": "2026-11-12T20:00:11+00:00"
+        },
+        {
+          "name": "Andrea Mengucci",
+          "platform": "twitch",
+          "twitch_login": "andreamengucci",
+          "language": "en",
+          "game_id": "magic",
+          "url": "https://www.twitch.tv/andreamengucci",
+          "id": "5339172b5454719e",
+          "recent_items": [],
+          "last_checked_at": "2026-11-13T10:54:32.664754+00:00",
+          "resolved_url": "https://www.twitch.tv/andreamengucci",
+          "resolved_feed_url": null,
+          "resolved_channel_id": null,
+          "recent_count": 0,
+          "latest_published_at": null
+        }
+      ],
+      "id": "aebc613c27e321f2",
+      "recent_items": [
+        {
+          "id": "cb8da34f3286a0321897",
+          "title": "The story of how I became the Vintage Champion!",
+          "url": "https://www.youtube.com/watch?v=cZzimJUiCP4",
+          "published_at": "2026-11-12T20:00:11+00:00",
+          "image_url": "https://i4.ytimg.com/vi/cZzimJUiCP4/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Mengu's Workshop",
+          "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN",
+          "source_name": "Mengu's Workshop",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "d5d248eb42e49f49c38f",
+          "title": "Living End dominates RC Ghent! 14-1!!! | Modern | MTGO",
+          "url": "https://www.youtube.com/watch?v=gQrBYLMbrhM",
+          "published_at": "2026-11-12T17:00:34+00:00",
+          "image_url": "https://i4.ytimg.com/vi/gQrBYLMbrhM/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Andrea Mengucci VEEDEO",
+          "excerpt": "Time stamps: 0:00 Intro 1:20 Round1 vs Affinity 11:00 Round2 vs Tron 32:59 Round3 vs Living End Decklist: https://partner.tcgplayer.com/DWrrWj Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at your LGS. Head to heavyplay.com",
+          "source_name": "Andrea Mengucci VEEDEO",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "18396fc1514439a693b4",
+          "title": "Rakdos Delirium is great! 62% win rate at RC Ghent! | Modern | MTGO",
+          "url": "https://www.youtube.com/watch?v=ZQXjR8GM5EA",
+          "published_at": "2026-11-11T17:00:26+00:00",
+          "image_url": "https://i3.ytimg.com/vi/ZQXjR8GM5EA/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Andrea Mengucci VEEDEO",
+          "excerpt": "Time stamps: 0:00 Intro 1:22 Round1 vs UB The Ten Rings 30:28 Round2 vs Grixis Reanimator 41:55 Round3 vs Domain Zoo 56:13 Round4 vs Cosmofling 1:10:32 Round5 vs Eldrazi Decklist: https://partner.tcgplayer.com/DWrrKo Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your ",
+          "source_name": "Andrea Mengucci VEEDEO",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "a93e85933f80562db5a2",
+          "title": "Creativity is back in Modern thanks to Way of the Paradox! | Modern | MTGO",
+          "url": "https://www.youtube.com/watch?v=10gE4hC5CWQ",
+          "published_at": "2026-11-10T17:00:22+00:00",
+          "image_url": "https://i2.ytimg.com/vi/10gE4hC5CWQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Andrea Mengucci VEEDEO",
+          "excerpt": "Time stamps: 0:00 Intro 2:20 Round1 vs Jeskai Blink 26:10 Round2 vs Domain Zoo 46:54 Round3 vs Neoform 1:02:38 Round4 vs Neoform 1:13:37 Round5 vs Amulet Titan Decklist: https://partner.tcgplayer.com/B5QQK1 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe",
+          "source_name": "Andrea Mengucci VEEDEO",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "4ed16c666b0ea18793a1",
+          "title": "Can Carl beat The Eternal Weekend Vintage Champion? | Raker Shops vs Grixis Tinker | Mtg Gameplay!",
+          "url": "https://www.youtube.com/watch?v=uDUntDN2qTA",
+          "published_at": "2026-11-09T20:00:36+00:00",
+          "image_url": "https://i2.ytimg.com/vi/uDUntDN2qTA/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Mengu's Workshop",
+          "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN",
+          "source_name": "Mengu's Workshop",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "fabb20a4995e9418b22e",
+          "title": "My Eternal Weekend deck in Legacy! UB Tempo | Legacy | MTGO",
+          "url": "https://www.youtube.com/watch?v=mavw4p7U6qw",
+          "published_at": "2026-11-08T17:00:16+00:00",
+          "image_url": "https://i2.ytimg.com/vi/mavw4p7U6qw/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Andrea Mengucci VEEDEO",
+          "excerpt": "Time stamps: 0:00 Intro 1:05 Round1 vs UB Hogaak 13:46 Round2 vs Jeskai Wizards 29:50 Round3 vs Elves 40:58 Round4 vs Lands Decklist: https://partner.tcgplayer.com/oNWWX9 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at you",
+          "source_name": "Andrea Mengucci VEEDEO",
+          "source_platform": "youtube"
+        },
+        {
+          "id": "7c6623772bd0b9139925",
+          "title": "Mardu Burn is insanely efficient! Zirda Companion WTF??? | Modern | MTGO",
+          "url": "https://www.youtube.com/watch?v=CXujErf0eEs",
+          "published_at": "2026-11-06T17:00:02+00:00",
+          "image_url": "https://i4.ytimg.com/vi/CXujErf0eEs/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Andrea Mengucci VEEDEO",
+          "excerpt": "Time stamps: 0:00 Intro 2:09 Round1 vs Esper Mill 11:32 Round2 vs 4c Birthing Ritual 21:14 Round3 vs Rakdos Moonshadow 34:33 Round4 vs Domain Zoo 40:47 Round5 vs 4c Creativity Decklist: https://partner.tcgplayer.com/vDqRa3 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping",
+          "source_name": "Andrea Mengucci VEEDEO",
+          "source_platform": "youtube"
+        }
+      ],
+      "recent_count": 7,
+      "latest_published_at": "2026-11-12T20:00:11+00:00"
+    },
     {
       "name": "Jim Davis",
       "category": "pro-player",
@@ -134,13 +398,12 @@
               "excerpt": "Breaking into Diamond 1 🤛 Welcome to Bronze to Mythic, the show where I show you how to go from the depths of Bronze all the way to the heights of Mythic! Follow along and learn what it's like to move through the ranks all the way to the top. The entire run will be streamed on my Twitch channel and featured here on YouTube one draft per episode. 🔴 Bronze to "
             }
           ],
-          "last_checked_at": "2026-11-13T01:48:13.242077+00:00",
+          "last_checked_at": "2026-11-13T10:54:33.177441+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCocZb0xawRZuE1CKpUvOM8A",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCocZb0xawRZuE1CKpUvOM8A",
           "resolved_channel_id": "UCocZb0xawRZuE1CKpUvOM8A",
           "recent_count": 6,
-          "latest_published_at": "2026-11-12T18:00:13+00:00",
-          "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCocZb0xawRZuE1CKpUvOM8A"
+          "latest_published_at": "2026-11-12T18:00:13+00:00"
         },
         {
           "name": "Jim Davis MTG",
@@ -151,7 +414,7 @@
           "url": "https://www.twitch.tv/jimdavismtg",
           "id": "30290ddbff005188",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:13.422731+00:00",
+          "last_checked_at": "2026-11-13T10:54:33.452472+00:00",
           "resolved_url": "https://www.twitch.tv/jimdavismtg",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -244,330 +507,6 @@
       "latest_published_at": "2026-11-12T18:00:13+00:00"
     },
     {
-      "name": "Andrea Mengucci",
-      "category": "pro-player",
-      "games": [
-        "magic"
-      ],
-      "roles": [
-        "Pro player",
-        "YouTube / Twitch"
-      ],
-      "description": "Campeão de grande evento e criador diário; gameplay competitivo e Magic em papel.",
-      "profiles": [
-        {
-          "platform": "youtube",
-          "label": "YouTube — VEEDEO",
-          "url": "https://www.youtube.com/andreamengucci"
-        },
-        {
-          "platform": "youtube",
-          "label": "YouTube — Mengu's Workshop",
-          "url": "https://www.youtube.com/@MengusWorkshop"
-        },
-        {
-          "platform": "twitch",
-          "label": "Twitch",
-          "url": "https://www.twitch.tv/andreamengucci"
-        },
-        {
-          "platform": "instagram",
-          "label": "Instagram",
-          "url": "https://www.instagram.com/mengu09/"
-        },
-        {
-          "platform": "x",
-          "label": "X",
-          "url": "https://x.com/Mengu09"
-        }
-      ],
-      "content_sources": [
-        {
-          "name": "Andrea Mengucci VEEDEO",
-          "platform": "youtube",
-          "language": "en",
-          "game_id": "magic",
-          "url": "https://www.youtube.com/andreamengucci",
-          "youtube_search_fallback": false,
-          "id": "5b879535bc0174c9",
-          "recent_items": [
-            {
-              "id": "d5d248eb42e49f49c38f",
-              "title": "Living End dominates RC Ghent! 14-1!!! | Modern | MTGO",
-              "url": "https://www.youtube.com/watch?v=gQrBYLMbrhM",
-              "published_at": "2026-11-12T17:00:34+00:00",
-              "image_url": "https://i4.ytimg.com/vi/gQrBYLMbrhM/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Andrea Mengucci VEEDEO",
-              "excerpt": "Time stamps: 0:00 Intro 1:20 Round1 vs Affinity 11:00 Round2 vs Tron 32:59 Round3 vs Living End Decklist: https://partner.tcgplayer.com/DWrrWj Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at your LGS. Head to heavyplay.com"
-            },
-            {
-              "id": "18396fc1514439a693b4",
-              "title": "Rakdos Delirium is great! 62% win rate at RC Ghent! | Modern | MTGO",
-              "url": "https://www.youtube.com/watch?v=ZQXjR8GM5EA",
-              "published_at": "2026-11-11T17:00:26+00:00",
-              "image_url": "https://i3.ytimg.com/vi/ZQXjR8GM5EA/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Andrea Mengucci VEEDEO",
-              "excerpt": "Time stamps: 0:00 Intro 1:22 Round1 vs UB The Ten Rings 30:28 Round2 vs Grixis Reanimator 41:55 Round3 vs Domain Zoo 56:13 Round4 vs Cosmofling 1:10:32 Round5 vs Eldrazi Decklist: https://partner.tcgplayer.com/DWrrKo Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your "
-            },
-            {
-              "id": "a93e85933f80562db5a2",
-              "title": "Creativity is back in Modern thanks to Way of the Paradox! | Modern | MTGO",
-              "url": "https://www.youtube.com/watch?v=10gE4hC5CWQ",
-              "published_at": "2026-11-10T17:00:22+00:00",
-              "image_url": "https://i2.ytimg.com/vi/10gE4hC5CWQ/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Andrea Mengucci VEEDEO",
-              "excerpt": "Time stamps: 0:00 Intro 2:20 Round1 vs Jeskai Blink 26:10 Round2 vs Domain Zoo 46:54 Round3 vs Neoform 1:02:38 Round4 vs Neoform 1:13:37 Round5 vs Amulet Titan Decklist: https://partner.tcgplayer.com/B5QQK1 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe"
-            },
-            {
-              "id": "fabb20a4995e9418b22e",
-              "title": "My Eternal Weekend deck in Legacy! UB Tempo | Legacy | MTGO",
-              "url": "https://www.youtube.com/watch?v=mavw4p7U6qw",
-              "published_at": "2026-11-08T17:00:16+00:00",
-              "image_url": "https://i2.ytimg.com/vi/mavw4p7U6qw/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Andrea Mengucci VEEDEO",
-              "excerpt": "Time stamps: 0:00 Intro 1:05 Round1 vs UB Hogaak 13:46 Round2 vs Jeskai Wizards 29:50 Round3 vs Elves 40:58 Round4 vs Lands Decklist: https://partner.tcgplayer.com/oNWWX9 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at you"
-            },
-            {
-              "id": "7c6623772bd0b9139925",
-              "title": "Mardu Burn is insanely efficient! Zirda Companion WTF??? | Modern | MTGO",
-              "url": "https://www.youtube.com/watch?v=CXujErf0eEs",
-              "published_at": "2026-11-06T17:00:02+00:00",
-              "image_url": "https://i4.ytimg.com/vi/CXujErf0eEs/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Andrea Mengucci VEEDEO",
-              "excerpt": "Time stamps: 0:00 Intro 2:09 Round1 vs Esper Mill 11:32 Round2 vs 4c Birthing Ritual 21:14 Round3 vs Rakdos Moonshadow 34:33 Round4 vs Domain Zoo 40:47 Round5 vs 4c Creativity Decklist: https://partner.tcgplayer.com/vDqRa3 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping"
-            }
-          ],
-          "last_checked_at": "2026-11-13T01:48:12.474948+00:00",
-          "resolved_url": "https://www.youtube.com/channel/UCwIFsLCPrc1NGoNS0OGn0mw",
-          "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwIFsLCPrc1NGoNS0OGn0mw",
-          "resolved_channel_id": "UCwIFsLCPrc1NGoNS0OGn0mw",
-          "recent_count": 5,
-          "latest_published_at": "2026-11-12T17:00:34+00:00",
-          "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwIFsLCPrc1NGoNS0OGn0mw"
-        },
-        {
-          "name": "Mengu's Workshop",
-          "platform": "youtube",
-          "language": "en",
-          "game_id": "magic",
-          "url": "https://www.youtube.com/@MengusWorkshop",
-          "youtube_search_fallback": false,
-          "id": "d6d52298457dd5dd",
-          "recent_items": [
-            {
-              "id": "4ed16c666b0ea18793a1",
-              "title": "Can Carl beat The Eternal Weekend Vintage Champion? | Raker Shops vs Grixis Tinker | Mtg Gameplay!",
-              "url": "https://www.youtube.com/watch?v=uDUntDN2qTA",
-              "published_at": "2026-11-09T20:00:36+00:00",
-              "image_url": "https://i2.ytimg.com/vi/uDUntDN2qTA/hqdefault.jpg",
-              "kind": "video",
-              "content_platform": "youtube",
-              "author": "Mengu's Workshop",
-              "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN"
-            }
-          ],
-          "last_checked_at": "2026-11-13T01:48:12.658802+00:00",
-          "resolved_url": "https://www.youtube.com/channel/UCGZdKNOxKdSNL1Qht9aC8tQ",
-          "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGZdKNOxKdSNL1Qht9aC8tQ",
-          "resolved_channel_id": "UCGZdKNOxKdSNL1Qht9aC8tQ",
-          "recent_count": 1,
-          "latest_published_at": "2026-11-09T20:00:36+00:00",
-          "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCGZdKNOxKdSNL1Qht9aC8tQ"
-        },
-        {
-          "name": "Andrea Mengucci",
-          "platform": "twitch",
-          "twitch_login": "andreamengucci",
-          "language": "en",
-          "game_id": "magic",
-          "url": "https://www.twitch.tv/andreamengucci",
-          "id": "5339172b5454719e",
-          "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:12.839484+00:00",
-          "resolved_url": "https://www.twitch.tv/andreamengucci",
-          "resolved_feed_url": null,
-          "resolved_channel_id": null,
-          "recent_count": 0,
-          "latest_published_at": null
-        }
-      ],
-      "id": "aebc613c27e321f2",
-      "recent_items": [
-        {
-          "id": "d5d248eb42e49f49c38f",
-          "title": "Living End dominates RC Ghent! 14-1!!! | Modern | MTGO",
-          "url": "https://www.youtube.com/watch?v=gQrBYLMbrhM",
-          "published_at": "2026-11-12T17:00:34+00:00",
-          "image_url": "https://i4.ytimg.com/vi/gQrBYLMbrhM/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Andrea Mengucci VEEDEO",
-          "excerpt": "Time stamps: 0:00 Intro 1:20 Round1 vs Affinity 11:00 Round2 vs Tron 32:59 Round3 vs Living End Decklist: https://partner.tcgplayer.com/DWrrWj Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at your LGS. Head to heavyplay.com",
-          "source_name": "Andrea Mengucci VEEDEO",
-          "source_platform": "youtube"
-        },
-        {
-          "id": "18396fc1514439a693b4",
-          "title": "Rakdos Delirium is great! 62% win rate at RC Ghent! | Modern | MTGO",
-          "url": "https://www.youtube.com/watch?v=ZQXjR8GM5EA",
-          "published_at": "2026-11-11T17:00:26+00:00",
-          "image_url": "https://i3.ytimg.com/vi/ZQXjR8GM5EA/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Andrea Mengucci VEEDEO",
-          "excerpt": "Time stamps: 0:00 Intro 1:22 Round1 vs UB The Ten Rings 30:28 Round2 vs Grixis Reanimator 41:55 Round3 vs Domain Zoo 56:13 Round4 vs Cosmofling 1:10:32 Round5 vs Eldrazi Decklist: https://partner.tcgplayer.com/DWrrKo Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your ",
-          "source_name": "Andrea Mengucci VEEDEO",
-          "source_platform": "youtube"
-        },
-        {
-          "id": "a93e85933f80562db5a2",
-          "title": "Creativity is back in Modern thanks to Way of the Paradox! | Modern | MTGO",
-          "url": "https://www.youtube.com/watch?v=10gE4hC5CWQ",
-          "published_at": "2026-11-10T17:00:22+00:00",
-          "image_url": "https://i2.ytimg.com/vi/10gE4hC5CWQ/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Andrea Mengucci VEEDEO",
-          "excerpt": "Time stamps: 0:00 Intro 2:20 Round1 vs Jeskai Blink 26:10 Round2 vs Domain Zoo 46:54 Round3 vs Neoform 1:02:38 Round4 vs Neoform 1:13:37 Round5 vs Amulet Titan Decklist: https://partner.tcgplayer.com/B5QQK1 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe",
-          "source_name": "Andrea Mengucci VEEDEO",
-          "source_platform": "youtube"
-        },
-        {
-          "id": "4ed16c666b0ea18793a1",
-          "title": "Can Carl beat The Eternal Weekend Vintage Champion? | Raker Shops vs Grixis Tinker | Mtg Gameplay!",
-          "url": "https://www.youtube.com/watch?v=uDUntDN2qTA",
-          "published_at": "2026-11-09T20:00:36+00:00",
-          "image_url": "https://i2.ytimg.com/vi/uDUntDN2qTA/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Mengu's Workshop",
-          "excerpt": "This channel is sponsored by CARDTRADER and HEAVYPLAY! Use the code MENGU for extra discount! Do you want to buy our super cool CardTrader TOKENS? Shop here: https://www.cardtrader.com/it/games/magic/expansions/cardtrader-tokens/categories/magic-token-emblem/blueprints_search?sort=name+asc&share_code=MENGU CARDTRADER: https://www.cardtrader.com/it/invite/MEN",
-          "source_name": "Mengu's Workshop",
-          "source_platform": "youtube"
-        },
-        {
-          "id": "fabb20a4995e9418b22e",
-          "title": "My Eternal Weekend deck in Legacy! UB Tempo | Legacy | MTGO",
-          "url": "https://www.youtube.com/watch?v=mavw4p7U6qw",
-          "published_at": "2026-11-08T17:00:16+00:00",
-          "image_url": "https://i2.ytimg.com/vi/mavw4p7U6qw/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Andrea Mengucci VEEDEO",
-          "excerpt": "Time stamps: 0:00 Intro 1:05 Round1 vs UB Hogaak 13:46 Round2 vs Jeskai Wizards 29:50 Round3 vs Elves 40:58 Round4 vs Lands Decklist: https://partner.tcgplayer.com/oNWWX9 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping your cards safe, secure, and looking amazing at you",
-          "source_name": "Andrea Mengucci VEEDEO",
-          "source_platform": "youtube"
-        },
-        {
-          "id": "7c6623772bd0b9139925",
-          "title": "Mardu Burn is insanely efficient! Zirda Companion WTF??? | Modern | MTGO",
-          "url": "https://www.youtube.com/watch?v=CXujErf0eEs",
-          "published_at": "2026-11-06T17:00:02+00:00",
-          "image_url": "https://i4.ytimg.com/vi/CXujErf0eEs/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Andrea Mengucci VEEDEO",
-          "excerpt": "Time stamps: 0:00 Intro 2:09 Round1 vs Esper Mill 11:32 Round2 vs 4c Birthing Ritual 21:14 Round3 vs Rakdos Moonshadow 34:33 Round4 vs Domain Zoo 40:47 Round5 vs 4c Creativity Decklist: https://partner.tcgplayer.com/vDqRa3 Want to get premium card accessories like Mengu? Heavy Play is the answer. Their magnetic cases are some of the best in the game. Keeping",
-          "source_name": "Andrea Mengucci VEEDEO",
-          "source_platform": "youtube"
-        }
-      ],
-      "recent_count": 6,
-      "latest_published_at": "2026-11-12T17:00:34+00:00"
-    },
-    {
-      "name": "Pankaj Bhojwani",
-      "category": "pro-player",
-      "games": [
-        "flesh-and-blood"
-      ],
-      "roles": [
-        "Pro player",
-        "Podcast / estratégia"
-      ],
-      "description": "Battle Hardened Champion e Calling Top 8; co-host do Arsenal Pass.",
-      "profiles": [
-        {
-          "platform": "youtube",
-          "label": "YouTube — Arsenal Pass",
-          "url": "https://www.youtube.com/channel/UClhUUppHaVDBUOJHXL-a0EQ"
-        }
-      ],
-      "media_refs": [
-        "Arsenal Pass"
-      ],
-      "content_sources": [],
-      "id": "11293eeb51fa3612",
-      "recent_items": [
-        {
-          "id": "01de8a2e5e78f8d8ed74",
-          "title": "Arsenal Pass EP290 - Levia, Jarl, Boltyn or a Dark Horse to Win Worlds?!",
-          "url": "https://arsenalpassfab.podbean.com/e/arsenal-pass-ep290-levia-jarl-boltyn-or-a-dark-horse-to-win-worlds/",
-          "published_at": "2026-11-06T08:59:16+00:00",
-          "image_url": "",
-          "kind": "episode",
-          "content_platform": "podcast",
-          "author": "arsenalpassfab",
-          "excerpt": "This is it! The biggest event of the year for Flesh and Blood, the World Championship from Paris, France! Who will take it down, what hero is set to run the gauntlet this weekend? Hayden and Pankaj breakdown everything you need to know ahead of this landmark weekend for Flesh and Blood! This Episode is sponsored by Arcane Games & events. Check out all of the",
-          "source_name": "Arsenal Pass",
-          "source_platform": "podcast"
-        }
-      ],
-      "recent_count": 1,
-      "latest_published_at": "2026-11-06T08:59:16+00:00"
-    },
-    {
-      "name": "Hayden Dale",
-      "category": "pro-player",
-      "games": [
-        "flesh-and-blood"
-      ],
-      "roles": [
-        "Pro player",
-        "Podcast / estratégia"
-      ],
-      "description": "Calling e Australian National Champion; co-host do Arsenal Pass.",
-      "profiles": [
-        {
-          "platform": "youtube",
-          "label": "YouTube — Arsenal Pass",
-          "url": "https://www.youtube.com/channel/UClhUUppHaVDBUOJHXL-a0EQ"
-        }
-      ],
-      "media_refs": [
-        "Arsenal Pass"
-      ],
-      "content_sources": [],
-      "id": "27faab492275c619",
-      "recent_items": [
-        {
-          "id": "01de8a2e5e78f8d8ed74",
-          "title": "Arsenal Pass EP290 - Levia, Jarl, Boltyn or a Dark Horse to Win Worlds?!",
-          "url": "https://arsenalpassfab.podbean.com/e/arsenal-pass-ep290-levia-jarl-boltyn-or-a-dark-horse-to-win-worlds/",
-          "published_at": "2026-11-06T08:59:16+00:00",
-          "image_url": "",
-          "kind": "episode",
-          "content_platform": "podcast",
-          "author": "arsenalpassfab",
-          "excerpt": "This is it! The biggest event of the year for Flesh and Blood, the World Championship from Paris, France! Who will take it down, what hero is set to run the gauntlet this weekend? Hayden and Pankaj breakdown everything you need to know ahead of this landmark weekend for Flesh and Blood! This Episode is sponsored by Arcane Games & events. Check out all of the",
-          "source_name": "Arsenal Pass",
-          "source_platform": "podcast"
-        }
-      ],
-      "recent_count": 1,
-      "latest_published_at": "2026-11-06T08:59:16+00:00"
-    },
-    {
       "name": "Yuki Lee Bender",
       "category": "pro-player",
       "games": [
@@ -629,7 +568,7 @@
           "url": "https://yuginmaffioli.artstation.com/",
           "id": "e59eb2442642af3f",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:12.322175+00:00",
+          "last_checked_at": "2026-11-13T10:54:32.011008+00:00",
           "resolved_url": "https://yuginmaffioli.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -668,7 +607,7 @@
           "url": "https://yiian.artstation.com/",
           "id": "04b0c3059826bc55",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:12.159496+00:00",
+          "last_checked_at": "2026-11-13T10:54:31.857584+00:00",
           "resolved_url": "https://yiian.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -712,7 +651,7 @@
           "url": "https://wisnutan.artstation.com/",
           "id": "d8672361aa948656",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:12.000008+00:00",
+          "last_checked_at": "2026-11-13T10:54:31.711640+00:00",
           "resolved_url": "https://wisnutan.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -751,7 +690,7 @@
           "url": "https://corbenyx.artstation.com/",
           "id": "9483b28f5e77cdde",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:11.840417+00:00",
+          "last_checked_at": "2026-11-13T10:54:31.560358+00:00",
           "resolved_url": "https://corbenyx.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -812,7 +751,7 @@
           "url": "https://www.artstation.com/morano",
           "id": "49c9e176ceb6824c",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:11.599052+00:00",
+          "last_checked_at": "2026-11-13T10:54:31.405045+00:00",
           "resolved_url": "https://www.artstation.com/morano",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -934,7 +873,7 @@
           "url": "https://simondominic.artstation.com/",
           "id": "e2f5ed1564770040",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:11.443546+00:00",
+          "last_checked_at": "2026-11-13T10:54:31.251724+00:00",
           "resolved_url": "https://simondominic.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -997,7 +936,7 @@
           "url": "https://satriasa.artstation.com/",
           "id": "6b957fa69602ee96",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:11.293101+00:00",
+          "last_checked_at": "2026-11-13T10:54:31.095000+00:00",
           "resolved_url": "https://satriasa.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1060,7 +999,7 @@
           "url": "https://samyang.artstation.com/",
           "id": "73f8663301c3471f",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:11.123584+00:00",
+          "last_checked_at": "2026-11-13T10:54:30.938161+00:00",
           "resolved_url": "https://samyang.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1139,7 +1078,7 @@
           "url": "https://riordan.artstation.com/",
           "id": "06b6de0c14e1e2d9",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:10.966652+00:00",
+          "last_checked_at": "2026-11-13T10:54:30.783979+00:00",
           "resolved_url": "https://riordan.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1208,7 +1147,7 @@
           "url": "https://rezaafshar.artstation.com/",
           "id": "20955e06edd78ba9",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:10.602314+00:00",
+          "last_checked_at": "2026-11-13T10:54:30.346343+00:00",
           "resolved_url": "https://rezaafshar.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1225,13 +1164,12 @@
           "youtube_search_fallback": false,
           "id": "4db0ca75580bf43c",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:10.783419+00:00",
+          "last_checked_at": "2026-11-13T10:54:30.530437+00:00",
           "resolved_url": "https://www.youtube.com/channel/UCtDQNLj3bZ_jBFtdz5w40aQ",
           "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtDQNLj3bZ_jBFtdz5w40aQ",
           "resolved_channel_id": "UCtDQNLj3bZ_jBFtdz5w40aQ",
           "recent_count": 0,
-          "latest_published_at": null,
-          "last_error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtDQNLj3bZ_jBFtdz5w40aQ"
+          "latest_published_at": null
         }
       ],
       "id": "7f50840e5a45ed76",
@@ -1259,6 +1197,33 @@
       ],
       "content_sources": [],
       "id": "5ebe510c85fb12da",
+      "recent_items": [],
+      "recent_count": 0,
+      "latest_published_at": null
+    },
+    {
+      "name": "Pankaj Bhojwani",
+      "category": "pro-player",
+      "games": [
+        "flesh-and-blood"
+      ],
+      "roles": [
+        "Pro player",
+        "Podcast / estratégia"
+      ],
+      "description": "Battle Hardened Champion e Calling Top 8; co-host do Arsenal Pass.",
+      "profiles": [
+        {
+          "platform": "youtube",
+          "label": "YouTube — Arsenal Pass",
+          "url": "https://www.youtube.com/channel/UClhUUppHaVDBUOJHXL-a0EQ"
+        }
+      ],
+      "media_refs": [
+        "Arsenal Pass"
+      ],
+      "content_sources": [],
+      "id": "11293eeb51fa3612",
       "recent_items": [],
       "recent_count": 0,
       "latest_published_at": null
@@ -1349,7 +1314,7 @@
           "url": "https://www.artstation.com/mrcaptain",
           "id": "13e37397dcd73586",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:10.446147+00:00",
+          "last_checked_at": "2026-11-13T10:54:30.188820+00:00",
           "resolved_url": "https://www.artstation.com/mrcaptain",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1488,7 +1453,7 @@
           "url": "https://www.artstation.com/ninesicks",
           "id": "93ab4c9338a7eedf",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:10.288578+00:00",
+          "last_checked_at": "2026-11-13T10:54:30.027633+00:00",
           "resolved_url": "https://www.artstation.com/ninesicks",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1548,7 +1513,7 @@
           "url": "https://mateusz_wisniewski.artstation.com/",
           "id": "6f4719dcb89f11d3",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:09.952794+00:00",
+          "last_checked_at": "2026-11-13T10:54:29.676712+00:00",
           "resolved_url": "https://mateusz_wisniewski.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1629,7 +1594,7 @@
           "url": "https://www.artstation.com/mariusz",
           "id": "936bb3a5ba9068eb",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:09.790407+00:00",
+          "last_checked_at": "2026-11-13T10:54:29.453238+00:00",
           "resolved_url": "https://www.artstation.com/mariusz",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1673,7 +1638,7 @@
           "url": "https://www.artstation.com/mario_wibisono",
           "id": "1260517571477846",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:09.620836+00:00",
+          "last_checked_at": "2026-11-13T10:54:29.295052+00:00",
           "resolved_url": "https://www.artstation.com/mario_wibisono",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1717,7 +1682,7 @@
           "url": "https://innervalue.artstation.com/",
           "id": "ec4333813799bc87",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:09.405720+00:00",
+          "last_checked_at": "2026-11-13T10:54:29.121771+00:00",
           "resolved_url": "https://innervalue.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1757,7 +1722,7 @@
           "url": "https://www.artstation.com/mjfetesio",
           "id": "9bfa1845086db410",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:10.106598+00:00",
+          "last_checked_at": "2026-11-13T10:54:29.882712+00:00",
           "resolved_url": "https://www.artstation.com/mjfetesio",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1808,7 +1773,7 @@
           "url": "https://www.twitch.tv/lsv",
           "id": "9c36b3a13040cb13",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:13.633502+00:00",
+          "last_checked_at": "2026-11-13T10:54:33.661260+00:00",
           "resolved_url": "https://www.twitch.tv/lsv",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1846,7 +1811,7 @@
           "url": "https://lizhelart.artstation.com/",
           "id": "27c2542215355004",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:09.250389+00:00",
+          "last_checked_at": "2026-11-13T10:54:28.976749+00:00",
           "resolved_url": "https://lizhelart.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1890,7 +1855,7 @@
           "url": "https://dopaprime.artstation.com/",
           "id": "6309278ba135097d",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:09.085548+00:00",
+          "last_checked_at": "2026-11-13T10:54:28.819764+00:00",
           "resolved_url": "https://dopaprime.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1929,7 +1894,7 @@
           "url": "https://lasahido.artstation.com/",
           "id": "f81cc7d641f5d713",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:08.936772+00:00",
+          "last_checked_at": "2026-11-13T10:54:28.662974+00:00",
           "resolved_url": "https://lasahido.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -1968,7 +1933,7 @@
           "url": "https://k_ptn.artstation.com/",
           "id": "a8d4dca5d86787c9",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:08.725945+00:00",
+          "last_checked_at": "2026-11-13T10:54:28.503594+00:00",
           "resolved_url": "https://k_ptn.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2034,7 +1999,7 @@
           "url": "https://www.artstation.com/kevin_sidharta",
           "id": "bf798db6840ed944",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:08.557119+00:00",
+          "last_checked_at": "2026-11-13T10:54:28.277116+00:00",
           "resolved_url": "https://www.artstation.com/kevin_sidharta",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2177,7 +2142,7 @@
           "url": "https://jguilherme08.artstation.com/",
           "id": "a139a80ecc09b443",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:08.359379+00:00",
+          "last_checked_at": "2026-11-13T10:54:28.121159+00:00",
           "resolved_url": "https://jguilherme08.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2250,7 +2215,7 @@
           "url": "https://jessada.artstation.com/",
           "id": "347f719df76d9bc5",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:08.198011+00:00",
+          "last_checked_at": "2026-11-13T10:54:27.969032+00:00",
           "resolved_url": "https://jessada.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2454,7 +2419,7 @@
           "url": "https://lindnr.artstation.com/",
           "id": "23f278d7050e13b0",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:07.984273+00:00",
+          "last_checked_at": "2026-11-13T10:54:27.817194+00:00",
           "resolved_url": "https://lindnr.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2465,6 +2430,33 @@
       ],
       "description": "Assistant Art Director; Asset Rendering; Foiling",
       "id": "2dd8aee210c262e2",
+      "recent_items": [],
+      "recent_count": 0,
+      "latest_published_at": null
+    },
+    {
+      "name": "Hayden Dale",
+      "category": "pro-player",
+      "games": [
+        "flesh-and-blood"
+      ],
+      "roles": [
+        "Pro player",
+        "Podcast / estratégia"
+      ],
+      "description": "Calling e Australian National Champion; co-host do Arsenal Pass.",
+      "profiles": [
+        {
+          "platform": "youtube",
+          "label": "YouTube — Arsenal Pass",
+          "url": "https://www.youtube.com/channel/UClhUUppHaVDBUOJHXL-a0EQ"
+        }
+      ],
+      "media_refs": [
+        "Arsenal Pass"
+      ],
+      "content_sources": [],
+      "id": "27faab492275c619",
       "recent_items": [],
       "recent_count": 0,
       "latest_published_at": null
@@ -2511,7 +2503,7 @@
           "url": "https://krotz.artstation.com/",
           "id": "fea91eb02c7098f8",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:07.829805+00:00",
+          "last_checked_at": "2026-11-13T10:54:27.663923+00:00",
           "resolved_url": "https://krotz.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2558,7 +2550,7 @@
           "url": "https://www.twitch.tv/yellowhat",
           "id": "730413fc26c07ed3",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:13.035261+00:00",
+          "last_checked_at": "2026-11-13T10:54:32.985465+00:00",
           "resolved_url": "https://www.twitch.tv/yellowhat",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2645,7 +2637,7 @@
           "url": "https://www.artstation.com/fedemusettiart",
           "id": "c756cbdf24a4560f",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:07.627728+00:00",
+          "last_checked_at": "2026-11-13T10:54:27.459639+00:00",
           "resolved_url": "https://www.artstation.com/fedemusettiart",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2760,7 +2752,7 @@
           "url": "https://eilenecherie.artstation.com/",
           "id": "e79374ce24665a2e",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:07.463435+00:00",
+          "last_checked_at": "2026-11-13T10:54:27.253587+00:00",
           "resolved_url": "https://eilenecherie.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2821,7 +2813,7 @@
           "url": "https://savagehenry.artstation.com/",
           "id": "995b69226ce0c049",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:07.274691+00:00",
+          "last_checked_at": "2026-11-13T10:54:27.097982+00:00",
           "resolved_url": "https://savagehenry.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -2958,7 +2950,7 @@
           "url": "https://arifwijaya.artstation.com/",
           "id": "a2ca589ff5d23589",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:07.077482+00:00",
+          "last_checked_at": "2026-11-13T10:54:26.928926+00:00",
           "resolved_url": "https://arifwijaya.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -3034,7 +3026,7 @@
           "url": "https://aluisiocsantos.artstation.com/",
           "id": "ac26b661e34084d0",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:06.924384+00:00",
+          "last_checked_at": "2026-11-13T10:54:26.731477+00:00",
           "resolved_url": "https://aluisiocsantos.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
@@ -3073,7 +3065,7 @@
           "url": "https://alexis-susani.artstation.com/",
           "id": "5d13e225cd5c2a43",
           "recent_items": [],
-          "last_checked_at": "2026-11-13T01:48:06.707742+00:00",
+          "last_checked_at": "2026-11-13T10:54:26.505977+00:00",
           "resolved_url": "https://alexis-susani.artstation.com/",
           "resolved_feed_url": null,
           "resolved_channel_id": null,
