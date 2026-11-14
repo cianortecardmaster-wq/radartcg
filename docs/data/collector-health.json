@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T18:02:50.834478+00:00",
+  "generated_at": "2026-11-14T22:24:11.778470+00:00",
   "official_sources_configured": 21,
   "official_sources_ok": 20,
   "official_sources_failed": 1,
@@ -7,11 +7,11 @@
   "independent_sources_failed": 7,
   "media_sources_configured": 94,
   "media_sources_active_7d": 41,
-  "media_items_7d": 182,
-  "media_sources_failed": 0,
+  "media_items_7d": 183,
+  "media_sources_failed": 33,
   "people_configured": 86,
   "people_active_7d": 4,
-  "people_items_7d": 15,
+  "people_items_7d": 16,
   "people_sources_failed": 32,
   "errors": [
     {
@@ -61,6 +61,204 @@
       "source": "BMJ TCG",
       "url": "bmjtcg.com.br",
       "error": "slice(None, 3, None)"
+    },
+    {
+      "source_id": "bb7b087eefa45054",
+      "source": "DMArmada",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCLYtjHT4lwcN8-e5Fh9Rigg"
+    },
+    {
+      "source_id": "bbaa7618326bb5af",
+      "source": "TCG TALK",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw"
+    },
+    {
+      "source_id": "b775d28072ee407f",
+      "source": "Dice Commando",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCgclEXaTMqVFktXfEU0KCQw"
+    },
+    {
+      "source_id": "ea86975757144878",
+      "source": "AggroBlaze96",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCaAuLET4Gy0CjrWOHuhTE_w"
+    },
+    {
+      "source_id": "6c2ac7bc558d73b8",
+      "source": "Lupinefiasco / Daily FaB",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCUn1ebI9uZFSRPAnPVLJgqQ"
+    },
+    {
+      "source_id": "b321e2f6ac2485cd",
+      "source": "The Teklo Foundry",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCPwLCno02HJXdrvsqo1R67g"
+    },
+    {
+      "source_id": "592e2c7032659640",
+      "source": "Kloo TCG",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCaLIcHPzIDEP6BYFtTCPVpA"
+    },
+    {
+      "source_id": "9d989743be50dd57",
+      "source": "The World of Rathe",
+      "platform": "youtube",
+      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC8tEld_YXspUwbe7UWiuwtg"
+    },
+    {
+      "source_id": "ef5dd14e73242990",
+      "source": "TCGTed",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCOdxqo7yrE5CKVFHKHCnPsA"
+    },
+    {
+      "source_id": "be52e294c04f1dd1",
+      "source": "Three Floating",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCxhcm_b7lGovw0yoo7YiB7Q"
+    },
+    {
+      "source_id": "07cf737cea28dd95",
+      "source": "AshenWingzTCG",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC663r9Jbqwv6ftJNZDdVVUg"
+    },
+    {
+      "source_id": "c1d69dfa8fe005db",
+      "source": "Dozr",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw"
+    },
+    {
+      "source_id": "f7c20c6196f886c9",
+      "source": "HamMan215",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCq_1Ku3spm-mcXlMLmwFKrA"
+    },
+    {
+      "source_id": "dd31a32586c1eda8",
+      "source": "Pheano",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClovSsTxY7VX2p7_6WaJhUA"
+    },
+    {
+      "source_id": "9bded0b76a55939b",
+      "source": "SNEEP",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQgm4yHm46rSKn1J7tByovA"
+    },
+    {
+      "source_id": "82be4e333da80b24",
+      "source": "Man Sant",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCW-mPwR8EnaclCDXp2HI8hQ"
+    },
+    {
+      "source_id": "d67f07761612bb01",
+      "source": "Loro",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCV5U06pp0cdzM4JIfSDCCKQ"
+    },
+    {
+      "source_id": "0de1c221803b2f3d",
+      "source": "Rage of Blasmophet",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQ4luVroq2RQiO608p1n__A"
+    },
+    {
+      "source_id": "dbc698f4ffc4a5a6",
+      "source": "Dues of the Golden Sands",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw"
+    },
+    {
+      "source_id": "5885be46bc304d1f",
+      "source": "Red Zone Rogue",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCSl5xtiqtMuSFmO9Gs866ug"
+    },
+    {
+      "source_id": "02c40ab9691519c5",
+      "source": "Sloopdoop",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCVM_MGFx-XJhOQHcGzzq2ZA"
+    },
+    {
+      "source_id": "7ae6e4e6ffe728d6",
+      "source": "Push the Point",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCdOadfDBXY_vEK7hVaZIi_w"
+    },
+    {
+      "source_id": "155bf92e368b525b",
+      "source": "Funk",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw"
+    },
+    {
+      "source_id": "4829be30276802d7",
+      "source": "Spark of Genius",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCsNvmmC9F9Y2gsMlvYJwqbA"
+    },
+    {
+      "source_id": "bb1a8e905ba6f060",
+      "source": "Card Advantage",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC8ODNScZNzHs8p5NQXbjTig"
+    },
+    {
+      "source_id": "31c3007ed38ea2d9",
+      "source": "Block Out Party",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCeHYxsbE2c6RHeYCDFofWHg"
+    },
+    {
+      "source_id": "691adddc92d07acf",
+      "source": "FAB Unofficial",
+      "platform": "youtube",
+      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCuPR7ZkmJeQTKf3K6Ec0_gQ"
+    },
+    {
+      "source_id": "4f60fbed78f883f3",
+      "source": "Chants & Daggers",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCBXMKnLM4TLaKlS13En1KFw"
+    },
+    {
+      "source_id": "9c9565a3061c86d4",
+      "source": "Waning Moon Gaming",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCeBISHA8ntguvqQGL596LyA"
+    },
+    {
+      "source_id": "77e94a1eeb1e3d80",
+      "source": "The Table Pit",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UChqrar0bo7gt-ZodV8lIxlQ"
+    },
+    {
+      "source_id": "7a0a20e93b35960d",
+      "source": "Cthulhy TCG",
+      "platform": "youtube",
+      "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw"
+    },
+    {
+      "source_id": "dce893b74ab06e94",
+      "source": "FABLorian",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCKyTxXySbcFXQ-CchbXA8LA"
+    },
+    {
+      "source_id": "ced4a8eb881d7f0f",
+      "source": "Goblin Reserve",
+      "platform": "youtube",
+      "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCYfwqXqT8_Uo8aDcdtrAmJw"
     },
     {
       "person_id": "568a2788f1185757",
