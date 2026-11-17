@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-16T19:40:40.732787+00:00",
+  "generated_at": "2026-11-17T03:53:29.387811+00:00",
   "official_sources_configured": 21,
-  "official_sources_ok": 19,
-  "official_sources_failed": 2,
+  "official_sources_ok": 20,
+  "official_sources_failed": 1,
   "independent_sources_configured": 59,
-  "independent_sources_failed": 5,
+  "independent_sources_failed": 7,
   "media_sources_configured": 94,
   "media_sources_active_7d": 41,
-  "media_items_7d": 161,
+  "media_items_7d": 162,
   "media_sources_failed": 0,
   "people_configured": 86,
   "people_active_7d": 4,
@@ -19,12 +19,6 @@
       "source": "Flesh and Blood Official",
       "url": "https://fabtcg.com/en/articles/",
       "error": "403 Client Error: Forbidden for url: https://fabtcg.com/en/articles/"
-    },
-    {
-      "source_id": "pokemon-cn",
-      "source": "Pokémon China",
-      "url": "https://www.pokemon.cn/topics-tcg/p/1",
-      "error": "HTTPSConnectionPool(host='www.pokemon.cn', port=443): Max retries exceeded with url: /topics-tcg/p/1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pokemon.cn', port=443) at 0x7a1ebeffc830>, 'Connection to www.pokemon.cn timed out. (connect timeout=20)'))"
     },
     {
       "source_id": "rathe-adventures",
@@ -51,9 +45,21 @@
       "error": "slice(None, 3, None)"
     },
     {
+      "source_id": "wargamer-tcg",
+      "source": "Wargamer",
+      "url": "wargamer.com",
+      "error": "slice(None, 3, None)"
+    },
+    {
       "source_id": "tcg-rumors",
       "source": "TCG Rumors",
       "url": "tcgrumors.com",
+      "error": "slice(None, 3, None)"
+    },
+    {
+      "source_id": "bmj-tcg",
+      "source": "BMJ TCG",
+      "url": "bmjtcg.com.br",
       "error": "slice(None, 3, None)"
     },
     {
