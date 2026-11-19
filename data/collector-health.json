@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-19T02:36:45.133227+00:00",
+  "generated_at": "2026-11-19T11:37:51.449471+00:00",
   "official_sources_configured": 21,
   "official_sources_ok": 20,
   "official_sources_failed": 1,
   "independent_sources_configured": 59,
-  "independent_sources_failed": 7,
+  "independent_sources_failed": 8,
   "media_sources_configured": 94,
   "media_sources_active_7d": 40,
-  "media_items_7d": 161,
+  "media_items_7d": 164,
   "media_sources_failed": 0,
   "people_configured": 86,
   "people_active_7d": 4,
@@ -19,6 +19,12 @@
       "source": "Flesh and Blood Official",
       "url": "https://fabtcg.com/en/articles/",
       "error": "403 Client Error: Forbidden for url: https://fabtcg.com/en/articles/"
+    },
+    {
+      "source_id": "fab-insights",
+      "source": "FaB Insights",
+      "url": "https://www.fabinsights.net/",
+      "error": "HTTPSConnectionPool(host='www.fabinsights.net', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.fabinsights.net', port=443) at 0x7b4273097ec0>, 'Connection to www.fabinsights.net timed out. (connect timeout=20)'))"
     },
     {
       "source_id": "rathe-adventures",
