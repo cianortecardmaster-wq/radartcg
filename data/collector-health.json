@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-21T02:16:21.278760+00:00",
+  "generated_at": "2026-11-21T11:01:56.717484+00:00",
   "official_sources_configured": 21,
   "official_sources_ok": 20,
   "official_sources_failed": 1,
   "independent_sources_configured": 59,
-  "independent_sources_failed": 7,
+  "independent_sources_failed": 6,
   "media_sources_configured": 94,
-  "media_sources_active_7d": 38,
-  "media_items_7d": 154,
+  "media_sources_active_7d": 39,
+  "media_items_7d": 151,
   "media_sources_failed": 0,
   "people_configured": 86,
-  "people_active_7d": 5,
-  "people_items_7d": 16,
+  "people_active_7d": 6,
+  "people_items_7d": 18,
   "people_sources_failed": 32,
   "errors": [
     {
@@ -48,12 +48,6 @@
       "source_id": "wargamer-tcg",
       "source": "Wargamer",
       "url": "wargamer.com",
-      "error": "slice(None, 3, None)"
-    },
-    {
-      "source_id": "tcg-rumors",
-      "source": "TCG Rumors",
-      "url": "tcgrumors.com",
       "error": "slice(None, 3, None)"
     },
     {
