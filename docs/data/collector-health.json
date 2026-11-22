@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-21T19:17:29.360362+00:00",
+  "generated_at": "2026-11-22T01:21:56.575072+00:00",
   "official_sources_configured": 21,
   "official_sources_ok": 19,
   "official_sources_failed": 2,
   "independent_sources_configured": 59,
   "independent_sources_failed": 7,
   "media_sources_configured": 94,
-  "media_sources_active_7d": 38,
-  "media_items_7d": 148,
+  "media_sources_active_7d": 37,
+  "media_items_7d": 144,
   "media_sources_failed": 0,
   "people_configured": 86,
   "people_active_7d": 6,
@@ -24,7 +24,7 @@
       "source_id": "pokemon-cn",
       "source": "Pokémon China",
       "url": "https://www.pokemon.cn/topics-tcg/p/1",
-      "error": "HTTPSConnectionPool(host='www.pokemon.cn', port=443): Max retries exceeded with url: /topics-tcg/p/1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pokemon.cn', port=443) at 0x7936c6b97da0>, 'Connection to www.pokemon.cn timed out. (connect timeout=20)'))"
+      "error": "HTTPSConnectionPool(host='www.pokemon.cn', port=443): Max retries exceeded with url: /topics-tcg/p/1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pokemon.cn', port=443) at 0x76b1045e36b0>, 'Connection to www.pokemon.cn timed out. (connect timeout=20)'))"
     },
     {
       "source_id": "rathe-adventures",
