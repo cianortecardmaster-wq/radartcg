@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T11:15:26.910985+00:00",
+  "generated_at": "2026-11-22T19:33:20.153376+00:00",
   "window_days": 7,
   "count": 94,
   "active_count": 37,
@@ -7,6 +7,397 @@
   "content_ready": true,
   "errors_count": 0,
   "sources": [
+    {
+      "name": "Play to Win",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "magic",
+      "focus": [
+        "cEDH",
+        "gameplay",
+        "deck tech"
+      ],
+      "url": "https://www.youtube.com/results?search_query=Play+to+Win+MTG",
+      "id": "0cf116a927d383e5",
+      "recent_items": [
+        {
+          "id": "e2ad84539d6a954043ab",
+          "title": "WHY DO PEOPLE LIKE BLUE?",
+          "url": "https://www.youtube.com/shorts/O8vFtt8WBsw",
+          "published_at": "2026-11-22T19:00:00+00:00",
+          "image_url": "https://i4.ytimg.com/vi/O8vFtt8WBsw/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Play to Win",
+          "excerpt": ""
+        },
+        {
+          "id": "797c6589ea5be4dbb3fd",
+          "title": "WHO'S THE BEST UNIVERSES BEYOND COMMANDER IN cEDH? WITH OUR PATRON MSTR JERBY!",
+          "url": "https://www.youtube.com/watch?v=gf2B43RDdaM",
+          "published_at": "2026-11-22T15:00:17+00:00",
+          "image_url": "https://i4.ytimg.com/vi/gf2B43RDdaM/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Play to Win",
+          "excerpt": "This week we're joined by our patron Mstr Jrby aka Jeremiah to figure out who's the best Universes Beyond commander in cEDH! DECKLISTS - https://archidekt.com/decks/13477121/objection_hearsay_er_i_mean_heresy https://moxfield.com/lists/xn9Kg-mstrjrby-nick-fury-vivi-kefka-marneus PATREON - https://www.patreon.com/playtowin DRAGONSHIELD AFFILIATE LINK - https:"
+        },
+        {
+          "id": "7942464a2ecb9d3760b1",
+          "title": "taKING a look at KING T'CHALLA",
+          "url": "https://www.youtube.com/shorts/sguQPKBG9og",
+          "published_at": "2026-11-21T15:00:30+00:00",
+          "image_url": "https://i4.ytimg.com/vi/sguQPKBG9og/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Play to Win",
+          "excerpt": ""
+        },
+        {
+          "id": "28bd87cd07d8e4473b1d",
+          "title": "BUILDING A TURBO DECK in cEDH",
+          "url": "https://www.youtube.com/shorts/3tyx2vPG7No",
+          "published_at": "2026-11-20T19:00:25+00:00",
+          "image_url": "https://i4.ytimg.com/vi/3tyx2vPG7No/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Play to Win",
+          "excerpt": ""
+        },
+        {
+          "id": "444033be06ec568a2047",
+          "title": "ANSWERING QUESTIONS ABOUT cEDH AND FIRST IMPRESSIONS OF NEW CARDS - LIVE FROM MAGICCON AMSTERDAM",
+          "url": "https://www.youtube.com/watch?v=7FFg36piNeE",
+          "published_at": "2026-11-20T15:00:40+00:00",
+          "image_url": "https://i4.ytimg.com/vi/7FFg36piNeE/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Play to Win",
+          "excerpt": "The LIVE podcast from MagicCon Amsterdam where we got our first reactions new cards previewed at the event to see how good they will be in cEDH, answer questions from the audience, and talk about some interesting cards that won cEDH tournaments THE BONEYARD PROJECT: COMMANDER EXHIBITION: https://www.kickstarter.com/projects/theboneyardproject/the-boneyard-pr"
+        },
+        {
+          "id": "faf2484667d935304e34",
+          "title": "THE THEORIST, TYLER",
+          "url": "https://www.youtube.com/shorts/thEfQgPsYCo",
+          "published_at": "2026-11-19T15:00:25+00:00",
+          "image_url": "https://i1.ytimg.com/vi/thEfQgPsYCo/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Play to Win",
+          "excerpt": ""
+        },
+        {
+          "id": "5b0b26932b1a6e5be6c8",
+          "title": "RAL",
+          "url": "https://www.youtube.com/shorts/WaKbQo93gnE",
+          "published_at": "2026-11-18T14:40:14+00:00",
+          "image_url": "https://i4.ytimg.com/vi/WaKbQo93gnE/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Play to Win",
+          "excerpt": ""
+        },
+        {
+          "id": "47547b67d4bf50ec1cc7",
+          "title": "THE MADCAP JESTER in cEDH",
+          "url": "https://www.youtube.com/shorts/E5TVRUTWT8Y",
+          "published_at": "2026-11-17T19:32:13+00:00",
+          "image_url": "https://i2.ytimg.com/vi/E5TVRUTWT8Y/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Play to Win",
+          "excerpt": ""
+        },
+        {
+          "id": "3c512bffd4b9e6f8fba9",
+          "title": "THANK YOU MAGIC CON ATLANTA",
+          "url": "https://www.youtube.com/shorts/8NDw52Ku7nU",
+          "published_at": "2026-11-16T23:47:45+00:00",
+          "image_url": "https://i1.ytimg.com/vi/8NDw52Ku7nU/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Play to Win",
+          "excerpt": ""
+        }
+      ],
+      "last_checked_at": "2026-11-22T19:33:08.408979+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UC7339iJMCETmek3jdx9LOkg",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7339iJMCETmek3jdx9LOkg",
+      "resolved_channel_id": "UC7339iJMCETmek3jdx9LOkg",
+      "recent_count": 9,
+      "latest_published_at": "2026-11-22T19:00:00+00:00"
+    },
+    {
+      "name": "Playing With Power MTG",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "magic",
+      "focus": [
+        "cEDH",
+        "gameplay",
+        "jogadas"
+      ],
+      "url": "https://www.youtube.com/results?search_query=Playing+With+Power+MTG",
+      "id": "40be0db8f85aa40b",
+      "recent_items": [
+        {
+          "id": "23bbc0a5caf63faa492c",
+          "title": "When one person gets a Niv Mizzet. We all get a Niv Mizzet.",
+          "url": "https://www.youtube.com/shorts/I2Pyen3G0x0",
+          "published_at": "2026-11-22T18:24:13+00:00",
+          "image_url": "https://i2.ytimg.com/vi/I2Pyen3G0x0/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Playing With Power MTG",
+          "excerpt": ""
+        }
+      ],
+      "last_checked_at": "2026-11-22T19:33:08.993981+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCum8N4KUUC0l_NK_mybvilg",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCum8N4KUUC0l_NK_mybvilg",
+      "resolved_channel_id": "UCum8N4KUUC0l_NK_mybvilg",
+      "recent_count": 1,
+      "latest_published_at": "2026-11-22T18:24:13+00:00"
+    },
+    {
+      "name": "Red Zone Rogue",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "colecionismo",
+        "produtos",
+        "notícias"
+      ],
+      "url": "https://www.youtube.com/results?search_query=Red+Zone+Rogue+Flesh+and+Blood",
+      "id": "5885be46bc304d1f",
+      "recent_items": [
+        {
+          "id": "93e517e062a64ec58488",
+          "title": "NEW LORRAINE UR (and cheeky Omnidex Code) Grand Archive TCG .asphodel/cantabile OFFICIAL SPOILER",
+          "url": "https://www.youtube.com/watch?v=_xeLsi8izCw",
+          "published_at": "2026-11-22T18:00:08+00:00",
+          "image_url": "https://i4.ytimg.com/vi/_xeLsi8izCw/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Red Zone Rogue",
+          "excerpt": "⚔ NEW LORRAINE UR (and cheeky Omnidex Code) Grand Archive TCG .asphodel/cantabile OFFICIAL SPOILER ⚔ MORE Grand Archive TCG content 👉 https://www.youtube.com/playlist?list=PLhhu3Y6pAmx50pYMD3NNzM11KZoaoHQ5y (づ｡◕‿‿◕｡)づ LINKS BELOW! Support the Channel Directly: 🎴🤘 Join the Rogue's Gallery through Channel Memberships! https://www.youtube.com/channel/UCSl5xtiqt"
+        }
+      ],
+      "last_checked_at": "2026-11-22T19:32:49.340738+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCSl5xtiqtMuSFmO9Gs866ug",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSl5xtiqtMuSFmO9Gs866ug",
+      "resolved_channel_id": "UCSl5xtiqtMuSFmO9Gs866ug",
+      "recent_count": 1,
+      "latest_published_at": "2026-11-22T18:00:08+00:00"
+    },
+    {
+      "name": "The Spike Feeders",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "magic",
+      "focus": [
+        "Commander",
+        "cEDH",
+        "gameplay",
+        "comunidade"
+      ],
+      "url": "https://www.youtube.com/results?search_query=The+Spike+Feeders+MTG",
+      "id": "20e030dce3d60bb7",
+      "recent_items": [
+        {
+          "id": "c6478b0a574c4bc70f67",
+          "title": "We'll be at SPOTLIGHT: NAUCTIS in TORONTO #mtg",
+          "url": "https://www.youtube.com/shorts/X9UUuEACDZw",
+          "published_at": "2026-11-22T17:49:34+00:00",
+          "image_url": "https://i1.ytimg.com/vi/X9UUuEACDZw/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "The Spike Feeders",
+          "excerpt": "The Spikes are going to Toronto! https://facetofacegames.com/pages/f2f-tour-weekend-toronto-2027 If you want to join us to catch a game, pick up some Spike Feeders merch, or even just have a chat, you should consider joining us! Use code SPIKE at checkout and you'll get $5 off your ticket package. Can't wait to see you there!"
+        },
+        {
+          "id": "3a95cd1ee6ae02b91e76",
+          "title": "MYSTERY BOOSTER: COMMANDER EDITION | Massimo VS Ethki VS Homer VS Muckslinger Gang",
+          "url": "https://www.youtube.com/watch?v=sUT6Y0GSdQc",
+          "published_at": "2026-11-19T20:00:01+00:00",
+          "image_url": "https://i4.ytimg.com/vi/sUT6Y0GSdQc/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "The Spike Feeders",
+          "excerpt": "Check out Gamegenic's line of OFFICIALLY LICENSED Reality Fracture accessories https://www.gamegenic.com/magic-the-gathering/reality-fracture/ SELL YOUR CARDS to Star City Games and get a 30% store credit bonus! Sell Your Cards: https://bit.ly/sellyourcardstsf?aff=15 SCG Hartford: https://scgcon.starcitygames.com/event/scg-con-minneapolis-2027/aff=15 Spike M"
+        },
+        {
+          "id": "1c708d9071a1f17d667a",
+          "title": "STAR TREK COMMANDER PARTY | Borg Queen VS Spock VS Worf VS Jean-Luc Picard #MTGAmbassador #sponsored",
+          "url": "https://www.youtube.com/watch?v=nx-R-GhNrY4",
+          "published_at": "2026-11-17T20:00:20+00:00",
+          "image_url": "https://i3.ytimg.com/vi/nx-R-GhNrY4/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "The Spike Feeders",
+          "excerpt": "This video #sponsored by Wizards of the Coast! Find a Commander Party event at a game store near you: https://mtg.social/TRKxTSF Check out Gamegenic's line of OFFICIALLY LICENSED Magic: the Gathering accessories https://www.gamegenic.com/magic-the-gathering/ Register for SCGCON Minneapolis now: https://scgcon.starcitygames.com/event/scg-con-minneapolis-2027/"
+        }
+      ],
+      "last_checked_at": "2026-11-22T19:33:10.614150+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCGh7-4mDFssqhu_UpOwRzIA",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGh7-4mDFssqhu_UpOwRzIA",
+      "resolved_channel_id": "UCGh7-4mDFssqhu_UpOwRzIA",
+      "recent_count": 3,
+      "latest_published_at": "2026-11-22T17:49:34+00:00"
+    },
+    {
+      "name": "AggroBlaze96",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "competitivo",
+        "Talishar",
+        "deck tech"
+      ],
+      "url": "https://www.youtube.com/results?search_query=AggroBlaze96+Flesh+and+Blood",
+      "id": "ea86975757144878",
+      "recent_items": [
+        {
+          "id": "06ff8f2a8e737ef39935",
+          "title": "AB96 Stream Highlights (Nov, 22, 2026)",
+          "url": "https://www.youtube.com/watch?v=O5ezrvlx5Xc",
+          "published_at": "2026-11-22T17:00:25+00:00",
+          "image_url": "https://i4.ytimg.com/vi/O5ezrvlx5Xc/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "AggroBlaze96",
+          "excerpt": "Click this to become a MEMBER on YouTube: https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w/join Join the Discord - https://discord.gg/pm9SUCHSCf Codex Journal - https://codexjournals.com/aggroblaze96 Use code AggroBlaze96 to save 10% at checkout! Metafy - https://metafy.gg/@aggroblaze96 Fablazing - https://fablazing.com/breakpoints AGE Events - https"
+        },
+        {
+          "id": "4aaf6d997e8cf5e7d987",
+          "title": "🔴Nebula Blade Florian | Flesh and Blood TCG | !deck !codex",
+          "url": "https://www.youtube.com/watch?v=vOh9Gqx2qcg",
+          "published_at": "2026-11-20T02:30:06+00:00",
+          "image_url": "https://i3.ytimg.com/vi/vOh9Gqx2qcg/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "AggroBlaze96",
+          "excerpt": "Become a MEMBER on YouTube: https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w/join Join the Discord - https://discord.gg/pm9SUCHSCf SAGE Florian - https://fabrary.net/decks/01M7RW8B429HQBFYXYG2BQXJWW Codex Journal - https://codexjournals.com/aggroblaze96 Use code AggroBlaze96 to save 10% at checkout! Metafy - https://metafy.gg/@aggroblaze96 Fablazing "
+        },
+        {
+          "id": "32895d686633453d5a41",
+          "title": "Dr. Mortimer Armory Deck Upgrades in 7 Minutes | Flesh and Blood TCG",
+          "url": "https://www.youtube.com/watch?v=od_d1n0CEzo",
+          "published_at": "2026-11-18T17:00:34+00:00",
+          "image_url": "https://i4.ytimg.com/vi/od_d1n0CEzo/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "AggroBlaze96",
+          "excerpt": "Click this to become a MEMBER on YouTube: https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w/join Join the Discord - https://discord.gg/pm9SUCHSCf Codex Journal - https://codexjournals.com/aggroblaze96 Use code AggroBlaze96 to save 10% at checkout! Metafy - https://metafy.gg/@aggroblaze96 Fablazing - https://fablazing.com/breakpoints AGE Events - https"
+        },
+        {
+          "id": "edc74ce78e9b3700c8b5",
+          "title": "🔴SAGE DGA Killjoy | Flesh and Blood TCG | !deck !discord",
+          "url": "https://www.youtube.com/watch?v=YyAlN7_2l_I",
+          "published_at": "2026-11-18T13:55:06+00:00",
+          "image_url": "https://i2.ytimg.com/vi/YyAlN7_2l_I/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "AggroBlaze96",
+          "excerpt": "Become a MEMBER on YouTube: https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w/join Join the Discord - https://discord.gg/pm9SUCHSCf SAGE Killjoy - https://fabrary.net/decks/01M7K2BYFKC1YBE2ZE0FYCDM9F Codex Journal - https://codexjournals.com/aggroblaze96 Use code AggroBlaze96 to save 10% at checkout! Metafy - https://metafy.gg/@aggroblaze96 Fablazing "
+        },
+        {
+          "id": "7b4f57d6f0ff82828897",
+          "title": "Was Compendium of Rathe a Reprint Set? | Flesh and Blood TCG",
+          "url": "https://www.youtube.com/shorts/5sdGZrPlZms",
+          "published_at": "2026-11-17T17:00:08+00:00",
+          "image_url": "https://i2.ytimg.com/vi/5sdGZrPlZms/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "AggroBlaze96",
+          "excerpt": "Click this to become a MEMBER on YouTube: https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w/join Join the Discord - https://discord.gg/pm9SUCHSCf Codex Journal - https://codexjournals.com/aggroblaze96 Use code AggroBlaze96 to save 10% at checkout! Metafy - https://metafy.gg/@aggroblaze96 Fablazing - https://fablazing.com/breakpoints AGE Events - https"
+        },
+        {
+          "id": "84ed92cbdc1af6d17c03",
+          "title": "🔴One-armed Menace Returns | Flesh and Blood TCG | !codex !metafy",
+          "url": "https://www.youtube.com/watch?v=uzMAUdweEbM",
+          "published_at": "2026-11-17T13:49:23+00:00",
+          "image_url": "https://i2.ytimg.com/vi/uzMAUdweEbM/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "AggroBlaze96",
+          "excerpt": "Become a MEMBER on YouTube: https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w/join Join the Discord - https://discord.gg/pm9SUCHSCf SAGE Kayo - https://fabrary.net/decks/01M7H1KP6JMRGEN61NH1R9MGPT Codex Journal - https://codexjournals.com/aggroblaze96 Use code AggroBlaze96 to save 10% at checkout! Metafy - https://metafy.gg/@aggroblaze96 Fablazing - h"
+        },
+        {
+          "id": "08caabe483fea49f895e",
+          "title": "Will Battle Grounds Fill the Gap in 2027? | Flesh and Blood TCG",
+          "url": "https://www.youtube.com/shorts/WfLF4_egTDc",
+          "published_at": "2026-11-16T17:00:32+00:00",
+          "image_url": "https://i4.ytimg.com/vi/WfLF4_egTDc/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "AggroBlaze96",
+          "excerpt": "Click this to become a MEMBER on YouTube: https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w/join Join the Discord - https://discord.gg/pm9SUCHSCf Codex Journal - https://codexjournals.com/aggroblaze96 Use code AggroBlaze96 to save 10% at checkout! Metafy - https://metafy.gg/@aggroblaze96 Fablazing - https://fablazing.com/breakpoints AGE Events - https"
+        }
+      ],
+      "last_checked_at": "2026-11-22T19:32:44.179701+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaAuLET4Gy0CjrWOHuhTE_w",
+      "resolved_channel_id": "UCaAuLET4Gy0CjrWOHuhTE_w",
+      "recent_count": 7,
+      "latest_published_at": "2026-11-22T17:00:25+00:00"
+    },
+    {
+      "name": "playset-seho",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "mercado",
+        "produtos",
+        "dados"
+      ],
+      "url": "https://www.youtube.com/results?search_query=playset-seho+Flesh+and+Blood",
+      "id": "b0dd70ca46241b1a",
+      "recent_items": [
+        {
+          "id": "a6db7c1546068c569540",
+          "title": "EV EVR - flesh and blood expected value EVERFEST first edition fabtcg 11/2026",
+          "url": "https://www.youtube.com/watch?v=zs8MtyYn5ck",
+          "published_at": "2026-11-22T16:40:52+00:00",
+          "image_url": "https://i3.ytimg.com/vi/zs8MtyYn5ck/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "playset-seho",
+          "excerpt": "🔥 if you want to thank / support me: http://www.patreon.com/playset_seho 🛒 here is my main inventory for sale: FaB single-cards on cardmarket: https://www.cardmarket.com/en/FleshAndBlood/Users/seho ----------------------------------------------------------------------------------------------------------------------------------------------------- #fabtcg #fle"
+        },
+        {
+          "id": "4dcfb70a4b9685d16194",
+          "title": "THIS WEEK's FaB sales flesh and blood tcg. true market watch. MPA release aftermath",
+          "url": "https://www.youtube.com/watch?v=2Xc8wXJt2mU",
+          "published_at": "2026-11-20T13:42:37+00:00",
+          "image_url": "https://i3.ytimg.com/vi/2Xc8wXJt2mU/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "playset-seho",
+          "excerpt": "🔥 if you want to thank / support me: http://www.patreon.com/playset_seho 🛒 here is my main inventory for sale: FaB single-cards on cardmarket: https://www.cardmarket.com/en/FleshAndBlood/Users/seho ----------------------------------------------------------------------------------------------------------------------------------------------------- #fabtcg #fle"
+        },
+        {
+          "id": "b269ea1b3dfd854665b3",
+          "title": "EV ELE - flesh and blood expected value TALES OF ARIA unlimited fabtcg 11/2026",
+          "url": "https://www.youtube.com/watch?v=JP871toyjEs",
+          "published_at": "2026-11-18T12:03:44+00:00",
+          "image_url": "https://i3.ytimg.com/vi/JP871toyjEs/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "playset-seho",
+          "excerpt": "🔥 if you want to thank / support me: http://www.patreon.com/playset_seho 🛒 here is my main inventory for sale: FaB single-cards on cardmarket: https://www.cardmarket.com/en/FleshAndBlood/Users/seho ----------------------------------------------------------------------------------------------------------------------------------------------------- #fabtcg #fle"
+        }
+      ],
+      "last_checked_at": "2026-11-22T19:32:56.039040+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCxQNxoQVvBWzOq_AsepzPzA",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQNxoQVvBWzOq_AsepzPzA",
+      "resolved_channel_id": "UCxQNxoQVvBWzOq_AsepzPzA",
+      "recent_count": 3,
+      "latest_published_at": "2026-11-22T16:40:52+00:00"
+    },
     {
       "name": "Thistle Tavern",
       "platform": "youtube",
@@ -19,6 +410,17 @@
       "url": "https://www.youtube.com/results?search_query=Thistle+Tavern+Flesh+and+Blood",
       "id": "cdbed991ed310538",
       "recent_items": [
+        {
+          "id": "74ba2036ca3edcc8ff15",
+          "title": "Flesh and Blood: Assassin Mastery Pack Opening | Pack 17",
+          "url": "https://www.youtube.com/shorts/ChNk764HqDQ",
+          "published_at": "2026-11-22T16:30:22+00:00",
+          "image_url": "https://i4.ytimg.com/vi/ChNk764HqDQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Thistle Tavern",
+          "excerpt": "Opening pack 17 of Flesh and Blood Mastery Pack: Assassin at Thistle Tavern. Watch the cards as they're revealed and tell us your favourite pull. Subscribe for more Flesh and Blood pack openings. #FleshAndBlood #FABTCG #Assassin #MasteryPack #TCG #Shorts #Aberdeen"
+        },
         {
           "id": "9c68a147a7ed4c7db0ce",
           "title": "Flesh and Blood: Assassin Mastery Pack Opening | Pack 16",
@@ -139,57 +541,406 @@
           "content_platform": "youtube",
           "author": "Thistle Tavern",
           "excerpt": "Opening pack 7 of Flesh and Blood Mastery Pack: Assassin at Thistle Tavern. Watch the cards as they're revealed and tell us your favourite pull. Subscribe for more Flesh and Blood pack openings. #FleshAndBlood #FABTCG #Assassin #MasteryPack #TCG #Shorts #Aberdeen"
-        },
-        {
-          "id": "7bfcc79c118bb00f7dee",
-          "title": "Flesh and Blood: Assassin Mastery Pack Opening | Pack 6",
-          "url": "https://www.youtube.com/shorts/OvlmtHa-FN4",
-          "published_at": "2026-11-17T09:00:12+00:00",
-          "image_url": "https://i4.ytimg.com/vi/OvlmtHa-FN4/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Thistle Tavern",
-          "excerpt": "Opening pack 6 of Flesh and Blood Mastery Pack: Assassin at Thistle Tavern. Watch the cards as they're revealed and tell us your favourite pull. Subscribe for more Flesh and Blood pack openings. #FleshAndBlood #FABTCG #Assassin #MasteryPack #TCG #Shorts #Aberdeen"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:07.359921+00:00",
+      "last_checked_at": "2026-11-22T19:32:57.051845+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC2B7t-qyrRDr296rr4MMbJQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2B7t-qyrRDr296rr4MMbJQ",
       "resolved_channel_id": "UC2B7t-qyrRDr296rr4MMbJQ",
       "recent_count": 12,
-      "latest_published_at": "2026-11-22T09:00:03+00:00"
+      "latest_published_at": "2026-11-22T16:30:22+00:00"
     },
     {
-      "name": "Red Zone Rogue",
+      "name": "Crokeyz",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "magic",
+      "focus": [
+        "Arena",
+        "gameplay",
+        "competitivo"
+      ],
+      "url": "https://www.youtube.com/results?search_query=Crokeyz+MTG",
+      "id": "43de6d0fb1b7dc27",
+      "recent_items": [
+        {
+          "id": "e8d8691931a305409427",
+          "title": "NUD LANDFALL is a Murder Machine",
+          "url": "https://www.youtube.com/watch?v=9D1BgLMA85Q",
+          "published_at": "2026-11-22T16:00:37+00:00",
+          "image_url": "https://i2.ytimg.com/vi/9D1BgLMA85Q/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "CROKEYZ",
+          "excerpt": "Match Timestamps: 00:00 Deckbuilding 05:09 Round 1 32:57 Round 2 51:53 Round 3 1:05:35 Round 4 Decklist: https://mtga.untapped.gg/decks/AAQAAQiJEJDNLZr3CqkCjpgJl64CmHppAAANhwXbBJ4Li2TorBidrhPUgAzS5QcZq4YBtr0CiJkBywIAAgWj3yWn-weI3xLH3QSQAgXexDH8qBC7-wGfMrF2AAAAAA?utm_medium=affiliate&utm_campaign=crokeyz Deck 1 Ba Sing Se 1 Commercial District 1 Zell Dincht 1"
+        },
+        {
+          "id": "47519c32f4758b0ee38e",
+          "title": "DISGUSTING Scaredy-Cat Stratagem",
+          "url": "https://www.youtube.com/watch?v=tc9jjxL84eI",
+          "published_at": "2026-11-21T16:00:39+00:00",
+          "image_url": "https://i1.ytimg.com/vi/tc9jjxL84eI/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "CROKEYZ",
+          "excerpt": "Match Timestamps: 00:00 Deckbuilding 04:56 Round 1 14:07 Round 2 38:54 Round 3 Decklist: https://mtga.untapped.gg/decks/AAQBm5QaAgEIhwXY2AKZ3R7mTgm90wsZgLoWA4wFAe3ERQKHZK6HAQrOA8GgGueHCpKTDe3NE6AIvDQGWgMAAg__X_gE8C7TKJQH42WTAogXkxux9g2LwAm_3ArXhQZy_LoDAAAAAAA?utm_medium=affiliate&utm_campaign=crokeyz Companion 1 Jegantha, the Wellspring Deck 1 Forest 1 Toxic"
+        },
+        {
+          "id": "e38f57777ad061c6299d",
+          "title": "James T. Kirk is an S-Tier Top Deck!",
+          "url": "https://www.youtube.com/watch?v=iHS8nJzFiwQ",
+          "published_at": "2026-11-20T16:00:10+00:00",
+          "image_url": "https://i2.ytimg.com/vi/iHS8nJzFiwQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "CROKEYZ",
+          "excerpt": "Match Timestamps: 00:00 Deckbuilding 04:01 Round 1 10:32 Round 2 36:19 Round 3 Decklist: https://mtga.untapped.gg/decks/AAQAAQACktcswcEXAA7iCYq5Ac4o76cB58Ap5CrLxATRkwSf8QKHAoDjCMQT_NUDQgACCqPfJdz7B7c7yQHGsgOU_Qb27geDA4i0AYD5AQGaky4BrhoAAAA?utm_medium=affiliate&utm_campaign=crokeyz Deck 2 Restless Bivouac 2 Political Triumph 4 Mountain 4 Burst Lightning 4 Sac"
+        },
+        {
+          "id": "1d430f7a967066958f14",
+          "title": "Do-nothing Actualize Pile is UTTERLY INVINCIBLE",
+          "url": "https://www.youtube.com/watch?v=T3OIW6DVmIw",
+          "published_at": "2026-11-19T16:00:09+00:00",
+          "image_url": "https://i1.ytimg.com/vi/T3OIW6DVmIw/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "CROKEYZ",
+          "excerpt": "Match Timestamps: 00:00 Deckbuilding 04:07 Round 1 44:54 Round 2 1:24:00 Round 3 1:44:18 Round 4 2:02:44 Round 5 Decklist: https://mtga.untapped.gg/decks/AAQBm5QaAgEHhwXbBJaxIeZOCb3TCxYEjAXJ6QG92iCrziEDh2SjFdDQRAmPpBqE_Q6LngjXzROgCLw0BloDAAII0xGkU_Au0yiJX4EQ1-gXxN4KApC2MNfgEwHf0DEAAAA?utm_medium=affiliate&utm_campaign=crokeyz Companion 1 Jegantha, the Wellsp"
+        },
+        {
+          "id": "e76296378fb3dd5a7646",
+          "title": "Winning with this Combo Should be an Achievement!",
+          "url": "https://www.youtube.com/watch?v=re-C63KJ1BQ",
+          "published_at": "2026-11-18T16:00:31+00:00",
+          "image_url": "https://i3.ytimg.com/vi/re-C63KJ1BQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "CROKEYZ",
+          "excerpt": "Match Timestamps: 00:00 Deckbuilding Decklist: https://mtga.untapped.gg/decks/AAQAAQLZq0PI3wEDjAUB2I9FAA2kLpG9AcrGHo-lDa8G9jzWtgPx7w_-K-mdA0VVtwgAAgmXEPIE7k_DV63EK6BX2dMTO4SAAgHlkUUAAf96AAA?utm_medium=affiliate&utm_campaign=crokeyz Deck 1 The Soul Stone 1 The Theorist, Jace Beleren 2 Island 2 Swamp 2 Rules of Acquisition 4 Duress 4 Watery Grave 4 Shipwreck M"
+        },
+        {
+          "id": "8f410c0543b5c0976e7b",
+          "title": "Spicy Start Trek Saga Aggro!",
+          "url": "https://www.youtube.com/watch?v=0VShNBoXS-k",
+          "published_at": "2026-11-17T16:00:26+00:00",
+          "image_url": "https://i1.ytimg.com/vi/0VShNBoXS-k/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "CROKEYZ",
+          "excerpt": "Match Timestamps: 00:00 Deckbuilding 05:20 Round 1 24:49 Round 2 Decklist: https://mtga.untapped.gg/decks/AAQAAQTIzTiSmQvKMZRyAojYOPLoCAAN4gnY4QHvpwGm7ym0kAGNxAeA8QIUq-4HCNtzhu0DUgACApiQA76dPgWj3yWTtwiPtAOU_QaBnwsBrhoAAAA?utm_medium=affiliate&utm_campaign=crokeyz Deck 1 Dalkovan Encampment 1 Erode 1 The Mind Stone 1 Guiding Hydra 2 Starting Town 2 Multiversa"
+        },
+        {
+          "id": "6b55e4c7774bdaf0726f",
+          "title": "STAR CAPTAINS ARE GAS",
+          "url": "https://www.youtube.com/watch?v=x9WXNZ-zeOQ",
+          "published_at": "2026-11-16T16:00:14+00:00",
+          "image_url": "https://i1.ytimg.com/vi/x9WXNZ-zeOQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "CROKEYZ",
+          "excerpt": "Match Timestamps: 00:00 Deckbuilding 02:09 Round 1 19:19 Round 2 30:58 Round 3 54:01 Round 4 Decklist: https://mtga.untapped.gg/decks/AAQAAQGJEAPexDHy0hNMA4cF2wTwsEALgBWLZIXbK-PwBLIMkfkGxPYIwy-3rwKCd0IAAgP3yjjb7gf7_AIGo98l0PoHwzypugP7nBC7-wEAAAAA?utm_medium=affiliate&utm_campaign=crokeyz Deck 1 Ba Sing Se 2 Keen-Eyed Curator 2 Q, Stacking the Deck 2 Captain "
+        }
+      ],
+      "last_checked_at": "2026-11-22T19:33:11.108919+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCz3pj4DM9MuRWJ5nCCvBe_g",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCz3pj4DM9MuRWJ5nCCvBe_g",
+      "resolved_channel_id": "UCz3pj4DM9MuRWJ5nCCvBe_g",
+      "recent_count": 7,
+      "latest_published_at": "2026-11-22T16:00:37+00:00"
+    },
+    {
+      "name": "CovertGoBlue",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "magic",
+      "focus": [
+        "Arena",
+        "gameplay",
+        "decks"
+      ],
+      "url": "https://www.youtube.com/results?search_query=CovertGoBlue+MTG",
+      "id": "14ac6604e72e7306",
+      "recent_items": [
+        {
+          "id": "ef60a4d0a557a4d5998d",
+          "title": "Just when everything was going well...",
+          "url": "https://www.youtube.com/watch?v=iaYjn07RP9Q",
+          "published_at": "2026-11-22T16:00:28+00:00",
+          "image_url": "https://i2.ytimg.com/vi/iaYjn07RP9Q/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "CovertGoBlue",
+          "excerpt": "Izzet Prowess from the top 8 of the recent Magic World Championship CGB Dragon Shield Sleeves are here - https://www.dragonshield.com/en-us/p/covertgoblue-sleeves-brushed-art-sleeves-standard-size/AT-18070 CoolStuffInc.com Promo Code CGB5 - https://www.coolstuffinc.com/cgb Dragon Shield Coupon Code CGB5 - https://dragonshield.com/?ref=CGB Decklist - https://"
+        },
+        {
+          "id": "410d21dd3be8ebbd927d",
+          "title": "Is Boros Pixie a BUST in BO1?",
+          "url": "https://www.youtube.com/watch?v=YySV27Wdygw",
+          "published_at": "2026-11-21T16:00:15+00:00",
+          "image_url": "https://i2.ytimg.com/vi/YySV27Wdygw/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "CovertGoBlue",
+          "excerpt": "Is Boros Pixie a BUST in BO1? CGB Dragon Shield Sleeves are here - https://www.dragonshield.com/en-us/p/covertgoblue-sleeves-brushed-art-sleeves-standard-size/AT-18070 CoolStuffInc.com Promo Code CGB5 - https://www.coolstuffinc.com/cgb Dragon Shield Coupon Code CGB5 - https://dragonshield.com/?ref=CGB Decklist - https://moxfield.com/decks/YWvU2bTj0kWCViyPOnk"
+        },
+        {
+          "id": "27eb31f7f95894c7c16b",
+          "title": "Standard will never be the same...",
+          "url": "https://www.youtube.com/watch?v=tVj1inC58Mk",
+          "published_at": "2026-11-20T16:00:07+00:00",
+          "image_url": "https://i1.ytimg.com/vi/tVj1inC58Mk/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "CovertGoBlue",
+          "excerpt": "Dragon Shield Christmas 2026 - TCG Playmat: https://www.dragonshield.com/products/christmas-2026-tcg-playmat?ref=CGB CGB Dragon Shield Sleeves are here - https://www.dragonshield.com/en-us/p/covertgoblue-sleeves-brushed-art-sleeves-standard-size/AT-18070 CoolStuffInc.com Promo Code CGB5 - https://www.coolstuffinc.com/cgb Dragon Shield Coupon Code CGB5 - http"
+        },
+        {
+          "id": "1c3d105ef09819151ff8",
+          "title": "Still playing bad aggro decks? Try this!",
+          "url": "https://www.youtube.com/watch?v=CO12fcmsLMA",
+          "published_at": "2026-11-19T16:00:26+00:00",
+          "image_url": "https://i4.ytimg.com/vi/CO12fcmsLMA/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "CovertGoBlue",
+          "excerpt": "Selesnya Mikey from the recent Magic World Championship CGB Dragon Shield Sleeves are here - https://www.dragonshield.com/en-us/p/covertgoblue-sleeves-brushed-art-sleeves-standard-size/AT-18070 CoolStuffInc.com Promo Code CGB5 - https://www.coolstuffinc.com/cgb Dragon Shield Coupon Code CGB5 - https://dragonshield.com/?ref=CGB Decklist - https://moxfield.com"
+        },
+        {
+          "id": "bc6b686f88746199eb9e",
+          "title": "This deck just WON the Magic World Championship",
+          "url": "https://www.youtube.com/watch?v=pU8eCy933Qw",
+          "published_at": "2026-11-18T16:00:19+00:00",
+          "image_url": "https://i1.ytimg.com/vi/pU8eCy933Qw/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "CovertGoBlue",
+          "excerpt": "Izzet Mission just won the Magic World Championship CGB Dragon Shield Sleeves are here - https://www.dragonshield.com/en-us/p/covertgoblue-sleeves-brushed-art-sleeves-standard-size/AT-18070 CoolStuffInc.com Promo Code CGB5 - https://www.coolstuffinc.com/cgb Dragon Shield Coupon Code CGB5 - https://dragonshield.com/?ref=CGB Decklist - https://moxfield.com/dec"
+        },
+        {
+          "id": "16be37bf5eff97e85dba",
+          "title": "Winning with this deck is TOO EASY😎",
+          "url": "https://www.youtube.com/watch?v=a-ympZgHnmY",
+          "published_at": "2026-11-17T16:00:10+00:00",
+          "image_url": "https://i2.ytimg.com/vi/a-ympZgHnmY/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "CovertGoBlue",
+          "excerpt": "Rakdos Lizards are back and crushing opponents on the MTG Arena BO1 Standard ladder. CGB Dragon Shield Sleeves are here - https://www.dragonshield.com/en-us/p/covertgoblue-sleeves-brushed-art-sleeves-standard-size/AT-18070 CoolStuffInc.com Promo Code CGB5 - https://www.coolstuffinc.com/cgb Dragon Shield Coupon Code CGB5 - https://dragonshield.com/?ref=CGB De"
+        },
+        {
+          "id": "8a2f43047989dcd590fb",
+          "title": "Reanimator is unstoppable",
+          "url": "https://www.youtube.com/watch?v=6rtlk0lq-gk",
+          "published_at": "2026-11-16T16:00:27+00:00",
+          "image_url": "https://i3.ytimg.com/vi/6rtlk0lq-gk/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "CovertGoBlue",
+          "excerpt": "4 Color Reanimator for the Standard BO1 Ladder. CGB Dragon Shield Sleeves are here - https://www.dragonshield.com/en-us/p/covertgoblue-sleeves-brushed-art-sleeves-standard-size/AT-18070 CoolStuffInc.com Promo Code CGB5 - https://www.coolstuffinc.com/cgb Dragon Shield Coupon Code CGB5 - https://dragonshield.com/?ref=CGB Decklist - https://moxfield.com/decks/2"
+        }
+      ],
+      "last_checked_at": "2026-11-22T19:33:10.847798+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UC-UZjHl2kZ-6XKBLgbFgGAQ",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-UZjHl2kZ-6XKBLgbFgGAQ",
+      "resolved_channel_id": "UC-UZjHl2kZ-6XKBLgbFgGAQ",
+      "recent_count": 7,
+      "latest_published_at": "2026-11-22T16:00:28+00:00"
+    },
+    {
+      "name": "TCGTed",
       "platform": "youtube",
       "language": "en",
       "game_id": "flesh-and-blood",
       "focus": [
-        "colecionismo",
-        "produtos",
-        "notícias"
+        "mercado",
+        "notícias",
+        "conteúdo geral"
       ],
-      "url": "https://www.youtube.com/results?search_query=Red+Zone+Rogue+Flesh+and+Blood",
-      "id": "5885be46bc304d1f",
+      "url": "https://www.youtube.com/results?search_query=TCGTed+Flesh+and+Blood",
+      "id": "ef5dd14e73242990",
       "recent_items": [
         {
-          "id": "93e517e062a64ec58488",
-          "title": "NEW LORRAINE UR (and cheeky Omnidex Code) Grand Archive TCG .asphodel/cantabile OFFICIAL SPOILER",
-          "url": "https://www.youtube.com/watch?v=_xeLsi8izCw",
-          "published_at": "2026-11-22T06:09:11+00:00",
-          "image_url": "https://i4.ytimg.com/vi/_xeLsi8izCw/hqdefault.jpg",
+          "id": "e14bc6c926b60d0cfe21",
+          "title": "Flesh and Blood: Top5 Assassin Cards! - 11.22.26 #fabtcg #cardgame #tcg #gaming #games",
+          "url": "https://www.youtube.com/shorts/w7q0sc2ImtE",
+          "published_at": "2026-11-22T15:41:58+00:00",
+          "image_url": "https://i4.ytimg.com/vi/w7q0sc2ImtE/hqdefault.jpg",
           "kind": "video",
           "content_platform": "youtube",
-          "author": "Red Zone Rogue",
-          "excerpt": "⚔ NEW LORRAINE UR (and cheeky Omnidex Code) Grand Archive TCG .asphodel/cantabile OFFICIAL SPOILER ⚔ MORE Grand Archive TCG content 👉 https://www.youtube.com/playlist?list=PLhhu3Y6pAmx50pYMD3NNzM11KZoaoHQ5y (づ｡◕‿‿◕｡)づ LINKS BELOW! Support the Channel Directly: 🎴🤘 Join the Rogue's Gallery through Channel Memberships! https://www.youtube.com/channel/UCSl5xtiqt"
+          "author": "TCGTed",
+          "excerpt": "Fyendal's Collection. For the first month free use code TCGTed Top5 Assassin Cards over the last 7 Days!"
+        },
+        {
+          "id": "23fbc334bbc7e5b8fbae",
+          "title": "Flesh and Blood Market Minute - Wait and See Market?!! BNR and RTNs Loom! #fabtcg",
+          "url": "https://www.youtube.com/watch?v=PtOaswTmki8",
+          "published_at": "2026-11-21T11:28:28+00:00",
+          "image_url": "https://i1.ytimg.com/vi/PtOaswTmki8/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "TCGTed",
+          "excerpt": "This is not financial advice :) Finding cards that are great adds to your personal collection with this video! #fabtcg Twitter: https://x.com/tcgted"
+        },
+        {
+          "id": "94ac85bf05db2c0544e2",
+          "title": "Flesh and Blood: Top5 Generic Cards! - 11.20.26 #fabtcg #cardgame #tcg #gaming #games",
+          "url": "https://www.youtube.com/shorts/rtnZwCIMMy8",
+          "published_at": "2026-11-20T12:42:50+00:00",
+          "image_url": "https://i3.ytimg.com/vi/rtnZwCIMMy8/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "TCGTed",
+          "excerpt": "Fyendal's Collection. For the first month free use code TCGTed Top5 Generic Cards over the last 7 Days!"
+        },
+        {
+          "id": "b90033abd64866735c8e",
+          "title": "Flesh and Blood: Mastery Pack Assassin Breaks! #fabtcg",
+          "url": "https://www.youtube.com/watch?v=i3C4dwyU_v8",
+          "published_at": "2026-11-17T03:12:01+00:00",
+          "image_url": "https://i2.ytimg.com/vi/i3C4dwyU_v8/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "TCGTed",
+          "excerpt": "INTO THE AM PARTNER LINK - http://bit.ly/4nn4PTk #fabtcg #tcg Twitter: https://twitter.com/tcgted IG: https://www.instagram.com/tcg_ted/"
+        },
+        {
+          "id": "744c9c31e43b5f9db4c6",
+          "title": "Flesh and Blood Market Minute - Mastery Pack Assassin HITS!! #fabtcg",
+          "url": "https://www.youtube.com/watch?v=-Gut8MLE164",
+          "published_at": "2026-11-15T23:00:08+00:00",
+          "image_url": "https://i2.ytimg.com/vi/-Gut8MLE164/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "TCGTed",
+          "excerpt": "This is not financial advice :) Finding cards that are great adds to your personal collection with this video! #fabtcg Twitter: https://x.com/tcgted"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:03.164498+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCSl5xtiqtMuSFmO9Gs866ug",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSl5xtiqtMuSFmO9Gs866ug",
-      "resolved_channel_id": "UCSl5xtiqtMuSFmO9Gs866ug",
-      "recent_count": 1,
-      "latest_published_at": "2026-11-22T06:09:11+00:00"
+      "last_checked_at": "2026-11-22T19:32:45.368557+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCOdxqo7yrE5CKVFHKHCnPsA",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOdxqo7yrE5CKVFHKHCnPsA",
+      "resolved_channel_id": "UCOdxqo7yrE5CKVFHKHCnPsA",
+      "recent_count": 5,
+      "latest_published_at": "2026-11-22T15:41:58+00:00"
+    },
+    {
+      "name": "AshenWingzTCG",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "Silver Age",
+        "deck tech",
+        "notícias"
+      ],
+      "url": "https://www.youtube.com/results?search_query=AshenWingzTCG+Flesh+and+Blood",
+      "id": "07cf737cea28dd95",
+      "recent_items": [
+        {
+          "id": "cce81105103ca110f754",
+          "title": "I Won My Skirmish on Dromai AMA | Flesh and Blood TCG",
+          "url": "https://www.youtube.com/watch?v=YrnEk8zBaP8",
+          "published_at": "2026-11-22T15:01:02+00:00",
+          "image_url": "https://i2.ytimg.com/vi/YrnEk8zBaP8/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "AshenWingzTCG",
+          "excerpt": "Channel Members get member only videos as well as a place in my heart! Thank you for supporting the channel and being such a wonderful member of this community! Join this channel to get access to perks: https://www.youtube.com/channel/UC663r9Jbqwv6ftJNZDdVVUg/join AshenWingzTCG Discord: https://discord.gg/k3jDNqXvP7 Bluesky: @ashenwingz.bsky.social #fabtcg #"
+        },
+        {
+          "id": "3f76e35f1b47c2e85372",
+          "title": "Arakni, Huntsman vs Dr. Mortimer | Classic Constructed | MPA | Flesh and Blood TCG",
+          "url": "https://www.youtube.com/watch?v=oRuRzMXnpCU",
+          "published_at": "2026-11-19T18:14:27+00:00",
+          "image_url": "https://i4.ytimg.com/vi/oRuRzMXnpCU/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "AshenWingzTCG",
+          "excerpt": "Channel Members get member only videos as well as a place in my heart! Thank you for supporting the channel and being such a wonderful member of this community! Decklist: https://fabrary.net/decks/01K6S7VNQW5GKSMP9VB9EMY35D Into the AM Partner Link: https://www.intotheam.com/ASHTCG Bulk Recylcing Form: https://docs.google.com/spreadsheets/d/1bTDSLmgxTmMVYES8"
+        },
+        {
+          "id": "97ba30486fc236ded631",
+          "title": "Skirmish Season 16 Week 1 Review | Silver Age | Flesh and Blood TCG",
+          "url": "https://www.youtube.com/watch?v=-Sg3H0QFd6k",
+          "published_at": "2026-11-17T18:14:00+00:00",
+          "image_url": "https://i2.ytimg.com/vi/-Sg3H0QFd6k/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "AshenWingzTCG",
+          "excerpt": "Channel Members get member only videos as well as a place in my heart! Thank you for supporting the channel and being such a wonderful member of this community! Into the AM Partner Link: https://www.intotheam.com/ASHTCG Bulk Recylcing Form: https://docs.google.com/spreadsheets/d/1bTDSLmgxTmMVYES8Rxzat33RX5ykC34UTEIDYDs8QBY/edit?usp=sharing Join this channel "
+        }
+      ],
+      "last_checked_at": "2026-11-22T19:32:46.011943+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UC663r9Jbqwv6ftJNZDdVVUg",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC663r9Jbqwv6ftJNZDdVVUg",
+      "resolved_channel_id": "UC663r9Jbqwv6ftJNZDdVVUg",
+      "recent_count": 3,
+      "latest_published_at": "2026-11-22T15:01:02+00:00"
+    },
+    {
+      "name": "Cardmarket Magic",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "magic",
+      "focus": [
+        "gameplay",
+        "desafios",
+        "humor",
+        "competitivo"
+      ],
+      "url": "https://www.youtube.com/results?search_query=Cardmarket+Magic",
+      "id": "78148b748c0a6427",
+      "recent_items": [
+        {
+          "id": "43d0ebdced20a0529b09",
+          "title": "Winner Gets To Keep Both Packs!",
+          "url": "https://www.youtube.com/shorts/MsKbiAmLVMs",
+          "published_at": "2026-11-22T15:00:31+00:00",
+          "image_url": "https://i2.ytimg.com/vi/MsKbiAmLVMs/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Cardmarket - Magic",
+          "excerpt": "_______________________________ ➥ Buy and Sell your Magic: the Gathering cards: 🛒 https://www.cmkt.co/v ！Opinions expressed in this video are those of the video creator and not necessarily Cardmarket."
+        },
+        {
+          "id": "45bf43b1624cf8f44196",
+          "title": "When You Sharpie Too Hard And Still Lose",
+          "url": "https://www.youtube.com/shorts/fd6ljR5mrhQ",
+          "published_at": "2026-11-20T15:18:16+00:00",
+          "image_url": "https://i3.ytimg.com/vi/fd6ljR5mrhQ/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Cardmarket - Magic",
+          "excerpt": "_______________________________ ➥ Buy and Sell your Magic: the Gathering cards: 🛒 https://www.cmkt.co/v ！Opinions expressed in this video are those of the video creator and not necessarily Cardmarket."
+        },
+        {
+          "id": "fc24b03b8f2b855afa7e",
+          "title": "Guess Your Commander Or Lose It! | with @LRRMTG​",
+          "url": "https://www.youtube.com/watch?v=-KBDNp5oCC4",
+          "published_at": "2026-11-19T17:00:19+00:00",
+          "image_url": "https://i2.ytimg.com/vi/-KBDNp5oCC4/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Cardmarket - Magic",
+          "excerpt": "Carl and Thoralf invited Kathleen and Graham from @LRRMTG to play this weird paper Magic EDH format with them. Nobody knows who their commander is; you can guess but if you get it wrong you loose it forever! _______________________________ ➥ Buy and Sell your Magic: the Gathering cards: 🛒 https://www.cmkt.co/v ！Opinions expressed in this video are those of t"
+        },
+        {
+          "id": "1074b0807485a7caa610",
+          "title": "Every Magic Goblin Ever",
+          "url": "https://www.youtube.com/shorts/Y626ZoAj2iE",
+          "published_at": "2026-11-18T15:00:13+00:00",
+          "image_url": "https://i2.ytimg.com/vi/Y626ZoAj2iE/hqdefault.jpg",
+          "kind": "video",
+          "content_platform": "youtube",
+          "author": "Cardmarket - Magic",
+          "excerpt": "_______________________________ ➥ Buy and Sell your Magic: the Gathering cards: 🛒 https://www.cmkt.co/v ！Opinions expressed in this video are those of the video creator and not necessarily Cardmarket."
+        }
+      ],
+      "last_checked_at": "2026-11-22T19:33:07.907784+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCwatLpmoIeoL9egqVW2Cxbw",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwatLpmoIeoL9egqVW2Cxbw",
+      "resolved_channel_id": "UCwatLpmoIeoL9egqVW2Cxbw",
+      "recent_count": 4,
+      "latest_published_at": "2026-11-22T15:00:31+00:00"
     },
     {
       "name": "MaldHound",
@@ -316,66 +1067,12 @@
           "excerpt": ""
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:19.451861+00:00",
+      "last_checked_at": "2026-11-22T19:33:11.834155+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCZfLLRbcus7Fm0STiCz0AfQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZfLLRbcus7Fm0STiCz0AfQ",
       "resolved_channel_id": "UCZfLLRbcus7Fm0STiCz0AfQ",
       "recent_count": 10,
       "latest_published_at": "2026-11-22T01:15:06+00:00"
-    },
-    {
-      "name": "AshenWingzTCG",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "Silver Age",
-        "deck tech",
-        "notícias"
-      ],
-      "url": "https://www.youtube.com/results?search_query=AshenWingzTCG+Flesh+and+Blood",
-      "id": "07cf737cea28dd95",
-      "recent_items": [
-        {
-          "id": "cce81105103ca110f754",
-          "title": "I Won My Skirmish on Dromai AMA | Flesh and Blood TCG",
-          "url": "https://www.youtube.com/watch?v=YrnEk8zBaP8",
-          "published_at": "2026-11-22T00:30:12+00:00",
-          "image_url": "https://i2.ytimg.com/vi/YrnEk8zBaP8/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "AshenWingzTCG",
-          "excerpt": "Channel Members get member only videos as well as a place in my heart! Thank you for supporting the channel and being such a wonderful member of this community! Join this channel to get access to perks: https://www.youtube.com/channel/UC663r9Jbqwv6ftJNZDdVVUg/join AshenWingzTCG Discord: https://discord.gg/k3jDNqXvP7 Bluesky: @ashenwingz.bsky.social #fabtcg #"
-        },
-        {
-          "id": "3f76e35f1b47c2e85372",
-          "title": "Arakni, Huntsman vs Dr. Mortimer | Classic Constructed | MPA | Flesh and Blood TCG",
-          "url": "https://www.youtube.com/watch?v=oRuRzMXnpCU",
-          "published_at": "2026-11-19T18:14:27+00:00",
-          "image_url": "https://i4.ytimg.com/vi/oRuRzMXnpCU/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "AshenWingzTCG",
-          "excerpt": "Channel Members get member only videos as well as a place in my heart! Thank you for supporting the channel and being such a wonderful member of this community! Decklist: https://fabrary.net/decks/01K6S7VNQW5GKSMP9VB9EMY35D Into the AM Partner Link: https://www.intotheam.com/ASHTCG Bulk Recylcing Form: https://docs.google.com/spreadsheets/d/1bTDSLmgxTmMVYES8"
-        },
-        {
-          "id": "97ba30486fc236ded631",
-          "title": "Skirmish Season 16 Week 1 Review | Silver Age | Flesh and Blood TCG",
-          "url": "https://www.youtube.com/watch?v=-Sg3H0QFd6k",
-          "published_at": "2026-11-17T18:14:00+00:00",
-          "image_url": "https://i2.ytimg.com/vi/-Sg3H0QFd6k/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "AshenWingzTCG",
-          "excerpt": "Channel Members get member only videos as well as a place in my heart! Thank you for supporting the channel and being such a wonderful member of this community! Into the AM Partner Link: https://www.intotheam.com/ASHTCG Bulk Recylcing Form: https://docs.google.com/spreadsheets/d/1bTDSLmgxTmMVYES8Rxzat33RX5ykC34UTEIDYDs8QBY/edit?usp=sharing Join this channel "
-        }
-      ],
-      "last_checked_at": "2026-11-22T11:15:01.230681+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UC663r9Jbqwv6ftJNZDdVVUg",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC663r9Jbqwv6ftJNZDdVVUg",
-      "resolved_channel_id": "UC663r9Jbqwv6ftJNZDdVVUg",
-      "recent_count": 3,
-      "latest_published_at": "2026-11-22T00:30:12+00:00"
     },
     {
       "name": "NumotTheNummy",
@@ -512,7 +1209,7 @@
           "excerpt": "Thanks for watching! ✅ Subscribe: https://www.youtube.com/c/NumotTheNummyYT?sub_confirmation=1 ☑️ Join the Nummy Sub Club to unlock exclusive perks: https://www.youtube.com/channel/UCLzE7jLdn7dqxK-0OdXeuaw/join ---------------------------------------------------------------- • Twitch: https://www.twitch.tv/numotthenummy • Twitter: https://www.twitter.com/num"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:18.742748+00:00",
+      "last_checked_at": "2026-11-22T19:33:11.356972+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCLzE7jLdn7dqxK-0OdXeuaw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLzE7jLdn7dqxK-0OdXeuaw",
       "resolved_channel_id": "UCLzE7jLdn7dqxK-0OdXeuaw",
@@ -600,208 +1297,12 @@
           "excerpt": ""
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:17.887675+00:00",
+      "last_checked_at": "2026-11-22T19:33:10.253113+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCh76d0-ff5eaN68V2OaoghA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh76d0-ff5eaN68V2OaoghA",
       "resolved_channel_id": "UCh76d0-ff5eaN68V2OaoghA",
       "recent_count": 6,
       "latest_published_at": "2026-11-21T21:00:04+00:00"
-    },
-    {
-      "name": "Crokeyz",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "magic",
-      "focus": [
-        "Arena",
-        "gameplay",
-        "competitivo"
-      ],
-      "url": "https://www.youtube.com/results?search_query=Crokeyz+MTG",
-      "id": "43de6d0fb1b7dc27",
-      "recent_items": [
-        {
-          "id": "47519c32f4758b0ee38e",
-          "title": "DISGUSTING Scaredy-Cat Stratagem",
-          "url": "https://www.youtube.com/watch?v=tc9jjxL84eI",
-          "published_at": "2026-11-21T16:00:39+00:00",
-          "image_url": "https://i1.ytimg.com/vi/tc9jjxL84eI/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "CROKEYZ",
-          "excerpt": "Match Timestamps: 00:00 Deckbuilding 04:56 Round 1 14:07 Round 2 38:54 Round 3 Decklist: https://mtga.untapped.gg/decks/AAQBm5QaAgEIhwXY2AKZ3R7mTgm90wsZgLoWA4wFAe3ERQKHZK6HAQrOA8GgGueHCpKTDe3NE6AIvDQGWgMAAg__X_gE8C7TKJQH42WTAogXkxux9g2LwAm_3ArXhQZy_LoDAAAAAAA?utm_medium=affiliate&utm_campaign=crokeyz Companion 1 Jegantha, the Wellspring Deck 1 Forest 1 Toxic"
-        },
-        {
-          "id": "e38f57777ad061c6299d",
-          "title": "James T. Kirk is an S-Tier Top Deck!",
-          "url": "https://www.youtube.com/watch?v=iHS8nJzFiwQ",
-          "published_at": "2026-11-20T16:00:10+00:00",
-          "image_url": "https://i2.ytimg.com/vi/iHS8nJzFiwQ/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "CROKEYZ",
-          "excerpt": "Match Timestamps: 00:00 Deckbuilding 04:01 Round 1 10:32 Round 2 36:19 Round 3 Decklist: https://mtga.untapped.gg/decks/AAQAAQACktcswcEXAA7iCYq5Ac4o76cB58Ap5CrLxATRkwSf8QKHAoDjCMQT_NUDQgACCqPfJdz7B7c7yQHGsgOU_Qb27geDA4i0AYD5AQGaky4BrhoAAAA?utm_medium=affiliate&utm_campaign=crokeyz Deck 2 Restless Bivouac 2 Political Triumph 4 Mountain 4 Burst Lightning 4 Sac"
-        },
-        {
-          "id": "1d430f7a967066958f14",
-          "title": "Do-nothing Actualize Pile is UTTERLY INVINCIBLE",
-          "url": "https://www.youtube.com/watch?v=T3OIW6DVmIw",
-          "published_at": "2026-11-19T16:00:09+00:00",
-          "image_url": "https://i1.ytimg.com/vi/T3OIW6DVmIw/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "CROKEYZ",
-          "excerpt": "Match Timestamps: 00:00 Deckbuilding 04:07 Round 1 44:54 Round 2 1:24:00 Round 3 1:44:18 Round 4 2:02:44 Round 5 Decklist: https://mtga.untapped.gg/decks/AAQBm5QaAgEHhwXbBJaxIeZOCb3TCxYEjAXJ6QG92iCrziEDh2SjFdDQRAmPpBqE_Q6LngjXzROgCLw0BloDAAII0xGkU_Au0yiJX4EQ1-gXxN4KApC2MNfgEwHf0DEAAAA?utm_medium=affiliate&utm_campaign=crokeyz Companion 1 Jegantha, the Wellsp"
-        },
-        {
-          "id": "e76296378fb3dd5a7646",
-          "title": "Winning with this Combo Should be an Achievement!",
-          "url": "https://www.youtube.com/watch?v=re-C63KJ1BQ",
-          "published_at": "2026-11-18T16:00:31+00:00",
-          "image_url": "https://i3.ytimg.com/vi/re-C63KJ1BQ/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "CROKEYZ",
-          "excerpt": "Match Timestamps: 00:00 Deckbuilding Decklist: https://mtga.untapped.gg/decks/AAQAAQLZq0PI3wEDjAUB2I9FAA2kLpG9AcrGHo-lDa8G9jzWtgPx7w_-K-mdA0VVtwgAAgmXEPIE7k_DV63EK6BX2dMTO4SAAgHlkUUAAf96AAA?utm_medium=affiliate&utm_campaign=crokeyz Deck 1 The Soul Stone 1 The Theorist, Jace Beleren 2 Island 2 Swamp 2 Rules of Acquisition 4 Duress 4 Watery Grave 4 Shipwreck M"
-        },
-        {
-          "id": "8f410c0543b5c0976e7b",
-          "title": "Spicy Start Trek Saga Aggro!",
-          "url": "https://www.youtube.com/watch?v=0VShNBoXS-k",
-          "published_at": "2026-11-17T16:00:26+00:00",
-          "image_url": "https://i1.ytimg.com/vi/0VShNBoXS-k/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "CROKEYZ",
-          "excerpt": "Match Timestamps: 00:00 Deckbuilding 05:20 Round 1 24:49 Round 2 Decklist: https://mtga.untapped.gg/decks/AAQAAQTIzTiSmQvKMZRyAojYOPLoCAAN4gnY4QHvpwGm7ym0kAGNxAeA8QIUq-4HCNtzhu0DUgACApiQA76dPgWj3yWTtwiPtAOU_QaBnwsBrhoAAAA?utm_medium=affiliate&utm_campaign=crokeyz Deck 1 Dalkovan Encampment 1 Erode 1 The Mind Stone 1 Guiding Hydra 2 Starting Town 2 Multiversa"
-        },
-        {
-          "id": "6b55e4c7774bdaf0726f",
-          "title": "STAR CAPTAINS ARE GAS",
-          "url": "https://www.youtube.com/watch?v=x9WXNZ-zeOQ",
-          "published_at": "2026-11-16T16:00:14+00:00",
-          "image_url": "https://i1.ytimg.com/vi/x9WXNZ-zeOQ/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "CROKEYZ",
-          "excerpt": "Match Timestamps: 00:00 Deckbuilding 02:09 Round 1 19:19 Round 2 30:58 Round 3 54:01 Round 4 Decklist: https://mtga.untapped.gg/decks/AAQAAQGJEAPexDHy0hNMA4cF2wTwsEALgBWLZIXbK-PwBLIMkfkGxPYIwy-3rwKCd0IAAgP3yjjb7gf7_AIGo98l0PoHwzypugP7nBC7-wEAAAAA?utm_medium=affiliate&utm_campaign=crokeyz Deck 1 Ba Sing Se 2 Keen-Eyed Curator 2 Q, Stacking the Deck 2 Captain "
-        },
-        {
-          "id": "3783ce1f8e17f9b8ba45",
-          "title": "This Deck is an ABSOLUTE ABOMINATION",
-          "url": "https://www.youtube.com/watch?v=j_SaH5YnCg8",
-          "published_at": "2026-11-15T16:00:01+00:00",
-          "image_url": "https://i3.ytimg.com/vi/j_SaH5YnCg8/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "CROKEYZ",
-          "excerpt": "Match Timestamps: 00:00 Deckbuilding 00:04 Round 1 20:56 Round 2 38:33 Round 3 Decklist: https://mtga.untapped.gg/decks/AAQAAQACjAWblkUIg6Ey67ID5vYCxuEK_030nAFDJAjiCchvwknF0AHYwzLx6Qvr6gGw6QEAAgaXEOBUw1eKb46OPo5yA6PfJe30BsqZFQHf0DEAAAA?utm_medium=affiliate&utm_campaign=crokeyz Deck 2 Island 2 Quark's Bar 3 Kellan, Planar Trailblazer 3 Count on Luck 3 Wild Ri"
-        }
-      ],
-      "last_checked_at": "2026-11-22T11:15:18.568061+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCz3pj4DM9MuRWJ5nCCvBe_g",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCz3pj4DM9MuRWJ5nCCvBe_g",
-      "resolved_channel_id": "UCz3pj4DM9MuRWJ5nCCvBe_g",
-      "recent_count": 7,
-      "latest_published_at": "2026-11-21T16:00:39+00:00"
-    },
-    {
-      "name": "CovertGoBlue",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "magic",
-      "focus": [
-        "Arena",
-        "gameplay",
-        "decks"
-      ],
-      "url": "https://www.youtube.com/results?search_query=CovertGoBlue+MTG",
-      "id": "14ac6604e72e7306",
-      "recent_items": [
-        {
-          "id": "410d21dd3be8ebbd927d",
-          "title": "Is Boros Pixie a BUST in BO1?",
-          "url": "https://www.youtube.com/watch?v=YySV27Wdygw",
-          "published_at": "2026-11-21T16:00:15+00:00",
-          "image_url": "https://i2.ytimg.com/vi/YySV27Wdygw/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "CovertGoBlue",
-          "excerpt": "Is Boros Pixie a BUST in BO1? CGB Dragon Shield Sleeves are here - https://www.dragonshield.com/en-us/p/covertgoblue-sleeves-brushed-art-sleeves-standard-size/AT-18070 CoolStuffInc.com Promo Code CGB5 - https://www.coolstuffinc.com/cgb Dragon Shield Coupon Code CGB5 - https://dragonshield.com/?ref=CGB Decklist - https://moxfield.com/decks/YWvU2bTj0kWCViyPOnk"
-        },
-        {
-          "id": "27eb31f7f95894c7c16b",
-          "title": "Standard will never be the same...",
-          "url": "https://www.youtube.com/watch?v=tVj1inC58Mk",
-          "published_at": "2026-11-20T16:00:07+00:00",
-          "image_url": "https://i1.ytimg.com/vi/tVj1inC58Mk/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "CovertGoBlue",
-          "excerpt": "Dragon Shield Christmas 2026 - TCG Playmat: https://www.dragonshield.com/products/christmas-2026-tcg-playmat?ref=CGB CGB Dragon Shield Sleeves are here - https://www.dragonshield.com/en-us/p/covertgoblue-sleeves-brushed-art-sleeves-standard-size/AT-18070 CoolStuffInc.com Promo Code CGB5 - https://www.coolstuffinc.com/cgb Dragon Shield Coupon Code CGB5 - http"
-        },
-        {
-          "id": "1c3d105ef09819151ff8",
-          "title": "Still playing bad aggro decks? Try this!",
-          "url": "https://www.youtube.com/watch?v=CO12fcmsLMA",
-          "published_at": "2026-11-19T16:00:26+00:00",
-          "image_url": "https://i4.ytimg.com/vi/CO12fcmsLMA/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "CovertGoBlue",
-          "excerpt": "Selesnya Mikey from the recent Magic World Championship CGB Dragon Shield Sleeves are here - https://www.dragonshield.com/en-us/p/covertgoblue-sleeves-brushed-art-sleeves-standard-size/AT-18070 CoolStuffInc.com Promo Code CGB5 - https://www.coolstuffinc.com/cgb Dragon Shield Coupon Code CGB5 - https://dragonshield.com/?ref=CGB Decklist - https://moxfield.com"
-        },
-        {
-          "id": "bc6b686f88746199eb9e",
-          "title": "This deck just WON the Magic World Championship",
-          "url": "https://www.youtube.com/watch?v=pU8eCy933Qw",
-          "published_at": "2026-11-18T16:00:19+00:00",
-          "image_url": "https://i1.ytimg.com/vi/pU8eCy933Qw/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "CovertGoBlue",
-          "excerpt": "Izzet Mission just won the Magic World Championship CGB Dragon Shield Sleeves are here - https://www.dragonshield.com/en-us/p/covertgoblue-sleeves-brushed-art-sleeves-standard-size/AT-18070 CoolStuffInc.com Promo Code CGB5 - https://www.coolstuffinc.com/cgb Dragon Shield Coupon Code CGB5 - https://dragonshield.com/?ref=CGB Decklist - https://moxfield.com/dec"
-        },
-        {
-          "id": "16be37bf5eff97e85dba",
-          "title": "Winning with this deck is TOO EASY😎",
-          "url": "https://www.youtube.com/watch?v=a-ympZgHnmY",
-          "published_at": "2026-11-17T16:00:10+00:00",
-          "image_url": "https://i2.ytimg.com/vi/a-ympZgHnmY/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "CovertGoBlue",
-          "excerpt": "Rakdos Lizards are back and crushing opponents on the MTG Arena BO1 Standard ladder. CGB Dragon Shield Sleeves are here - https://www.dragonshield.com/en-us/p/covertgoblue-sleeves-brushed-art-sleeves-standard-size/AT-18070 CoolStuffInc.com Promo Code CGB5 - https://www.coolstuffinc.com/cgb Dragon Shield Coupon Code CGB5 - https://dragonshield.com/?ref=CGB De"
-        },
-        {
-          "id": "8a2f43047989dcd590fb",
-          "title": "Reanimator is unstoppable",
-          "url": "https://www.youtube.com/watch?v=6rtlk0lq-gk",
-          "published_at": "2026-11-16T16:00:27+00:00",
-          "image_url": "https://i3.ytimg.com/vi/6rtlk0lq-gk/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "CovertGoBlue",
-          "excerpt": "4 Color Reanimator for the Standard BO1 Ladder. CGB Dragon Shield Sleeves are here - https://www.dragonshield.com/en-us/p/covertgoblue-sleeves-brushed-art-sleeves-standard-size/AT-18070 CoolStuffInc.com Promo Code CGB5 - https://www.coolstuffinc.com/cgb Dragon Shield Coupon Code CGB5 - https://dragonshield.com/?ref=CGB Decklist - https://moxfield.com/decks/2"
-        },
-        {
-          "id": "b484e8abf2f0d0837834",
-          "title": "I can't stop winning with this deck",
-          "url": "https://www.youtube.com/watch?v=o1gGVKlLKgE",
-          "published_at": "2026-11-15T16:00:31+00:00",
-          "image_url": "https://i4.ytimg.com/vi/o1gGVKlLKgE/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "CovertGoBlue",
-          "excerpt": "Orzhov Lifegain for the BO1 MTG Arena Standard ladder. CGB Dragon Shield Sleeves are here - https://www.dragonshield.com/en-us/p/covertgoblue-sleeves-brushed-art-sleeves-standard-size/AT-18070 CoolStuffInc.com Promo Code CGB5 - https://www.coolstuffinc.com/cgb Dragon Shield Coupon Code CGB5 - https://dragonshield.com/?ref=CGB Decklist - https://moxfield.com/"
-        }
-      ],
-      "last_checked_at": "2026-11-22T11:15:18.288806+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UC-UZjHl2kZ-6XKBLgbFgGAQ",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-UZjHl2kZ-6XKBLgbFgGAQ",
-      "resolved_channel_id": "UC-UZjHl2kZ-6XKBLgbFgGAQ",
-      "recent_count": 7,
-      "latest_published_at": "2026-11-21T16:00:15+00:00"
     },
     {
       "name": "MTGGoldfish",
@@ -893,145 +1394,14 @@
           "content_platform": "youtube",
           "author": "MTGGoldfish",
           "excerpt": "This week the most broken combo deck from 1999 takes on the most broken combo deck of 2025 with a slot in the top 16 on the line! Decklists: https://www.mtggoldfish.com/articles/broken-jar-1999-vs-izzet-cauldron-2025-best-standard-deck-ever-top-32 Need some Magic cards? https://www.cardkingdom.com/mtggoldfish Need to uncurl some foils? https://foilarmor.com/"
-        },
-        {
-          "id": "6f8931109c8bdf4cbfbb",
-          "title": "Star Trek Shouldn't Have Been a Magic Set, But...",
-          "url": "https://www.youtube.com/watch?v=_7QxGWIvhKE",
-          "published_at": "2026-11-15T16:00:03+00:00",
-          "image_url": "https://i4.ytimg.com/vi/_7QxGWIvhKE/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "MTGGoldfish",
-          "excerpt": "Making a Magic set out of Star Trek may have been a mistake, but mistakes are how we learn. Need some Magic cards? https://www.cardkingdom.com/mtggoldfish #MTG #magicthegathering #mtgtrk"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:15.903464+00:00",
+      "last_checked_at": "2026-11-22T19:33:07.002577+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCZAZTSd0xnor7hJFmINIBIw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZAZTSd0xnor7hJFmINIBIw",
       "resolved_channel_id": "UCZAZTSd0xnor7hJFmINIBIw",
-      "recent_count": 8,
+      "recent_count": 7,
       "latest_published_at": "2026-11-21T16:00:09+00:00"
-    },
-    {
-      "name": "Play to Win",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "magic",
-      "focus": [
-        "cEDH",
-        "gameplay",
-        "deck tech"
-      ],
-      "url": "https://www.youtube.com/results?search_query=Play+to+Win+MTG",
-      "id": "0cf116a927d383e5",
-      "recent_items": [
-        {
-          "id": "7942464a2ecb9d3760b1",
-          "title": "taKING a look at KING T'CHALLA",
-          "url": "https://www.youtube.com/shorts/sguQPKBG9og",
-          "published_at": "2026-11-21T15:00:30+00:00",
-          "image_url": "https://i4.ytimg.com/vi/sguQPKBG9og/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Play to Win",
-          "excerpt": ""
-        },
-        {
-          "id": "28bd87cd07d8e4473b1d",
-          "title": "BUILDING A TURBO DECK in cEDH",
-          "url": "https://www.youtube.com/shorts/3tyx2vPG7No",
-          "published_at": "2026-11-20T19:00:25+00:00",
-          "image_url": "https://i4.ytimg.com/vi/3tyx2vPG7No/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Play to Win",
-          "excerpt": ""
-        },
-        {
-          "id": "444033be06ec568a2047",
-          "title": "ANSWERING QUESTIONS ABOUT cEDH AND FIRST IMPRESSIONS OF NEW CARDS - LIVE FROM MAGICCON AMSTERDAM",
-          "url": "https://www.youtube.com/watch?v=7FFg36piNeE",
-          "published_at": "2026-11-20T15:00:40+00:00",
-          "image_url": "https://i4.ytimg.com/vi/7FFg36piNeE/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Play to Win",
-          "excerpt": "The LIVE podcast from MagicCon Amsterdam where we got our first reactions new cards previewed at the event to see how good they will be in cEDH, answer questions from the audience, and talk about some interesting cards that won cEDH tournaments THE BONEYARD PROJECT: COMMANDER EXHIBITION: https://www.kickstarter.com/projects/theboneyardproject/the-boneyard-pr"
-        },
-        {
-          "id": "faf2484667d935304e34",
-          "title": "THE THEORIST, TYLER",
-          "url": "https://www.youtube.com/shorts/thEfQgPsYCo",
-          "published_at": "2026-11-19T15:00:25+00:00",
-          "image_url": "https://i1.ytimg.com/vi/thEfQgPsYCo/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Play to Win",
-          "excerpt": ""
-        },
-        {
-          "id": "5b0b26932b1a6e5be6c8",
-          "title": "RAL",
-          "url": "https://www.youtube.com/shorts/WaKbQo93gnE",
-          "published_at": "2026-11-18T14:40:14+00:00",
-          "image_url": "https://i4.ytimg.com/vi/WaKbQo93gnE/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Play to Win",
-          "excerpt": ""
-        },
-        {
-          "id": "47547b67d4bf50ec1cc7",
-          "title": "THE MADCAP JESTER in cEDH",
-          "url": "https://www.youtube.com/shorts/E5TVRUTWT8Y",
-          "published_at": "2026-11-17T19:32:13+00:00",
-          "image_url": "https://i2.ytimg.com/vi/E5TVRUTWT8Y/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Play to Win",
-          "excerpt": ""
-        },
-        {
-          "id": "3c512bffd4b9e6f8fba9",
-          "title": "THANK YOU MAGIC CON ATLANTA",
-          "url": "https://www.youtube.com/shorts/8NDw52Ku7nU",
-          "published_at": "2026-11-16T23:47:45+00:00",
-          "image_url": "https://i1.ytimg.com/vi/8NDw52Ku7nU/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Play to Win",
-          "excerpt": ""
-        },
-        {
-          "id": "a4344ab7ecd1bf23d33f",
-          "title": "DEEP SPACE 9 IN MAGDA",
-          "url": "https://www.youtube.com/shorts/L4gBfWI4898",
-          "published_at": "2026-11-15T19:00:05+00:00",
-          "image_url": "https://i1.ytimg.com/vi/L4gBfWI4898/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Play to Win",
-          "excerpt": ""
-        },
-        {
-          "id": "0be3fdacd57b7fcf65fd",
-          "title": "WHO'S THE BEST STAR TREK COMMANDER IN cEDH?",
-          "url": "https://www.youtube.com/watch?v=UWAn7iBGGOM",
-          "published_at": "2026-11-15T15:10:30+00:00",
-          "image_url": "https://i2.ytimg.com/vi/UWAn7iBGGOM/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Play to Win",
-          "excerpt": "This week we're trying to figure out which commander from the Star Trek set is best in cEDH DECKLISTS - https://moxfield.com/lists/73Nel-star-trek-d-vana-dal-r-el-spock-temba INSTAGRAM - https://www.instagram.com/playtowinmtg/ PATREON - https://www.patreon.com/playtowin DRAGONSHIELD AFFILIATE LINK - https://dragonshield.com/?ref=playtowin Use this code for 5"
-        }
-      ],
-      "last_checked_at": "2026-11-22T11:15:16.552217+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UC7339iJMCETmek3jdx9LOkg",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7339iJMCETmek3jdx9LOkg",
-      "resolved_channel_id": "UC7339iJMCETmek3jdx9LOkg",
-      "recent_count": 9,
-      "latest_published_at": "2026-11-21T15:00:30+00:00"
     },
     {
       "name": "Rhystic Studies",
@@ -1059,77 +1429,12 @@
           "excerpt": "Skelly Army Camo Tee: https://stitcherssupply.com/collections/featured/products/rhystic-studies-skelly-army-tee RESONATOR: https://www.youtube.com/@resonatormedia Patreon: https://patreon.com/rhysticstudies 0:00 Waste Not 0:13 Skelly Tee Preorder 1:30 New Channel 3:05 Fav Magic Card in 2026 4:28 Hang Your Drywall"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:17.383626+00:00",
+      "last_checked_at": "2026-11-22T19:33:09.596473+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC8e0Sg8TmRRFJytjEGhmVTg",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8e0Sg8TmRRFJytjEGhmVTg",
       "resolved_channel_id": "UC8e0Sg8TmRRFJytjEGhmVTg",
       "recent_count": 1,
       "latest_published_at": "2026-11-21T14:36:44+00:00"
-    },
-    {
-      "name": "TCGTed",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "mercado",
-        "notícias",
-        "conteúdo geral"
-      ],
-      "url": "https://www.youtube.com/results?search_query=TCGTed+Flesh+and+Blood",
-      "id": "ef5dd14e73242990",
-      "recent_items": [
-        {
-          "id": "23fbc334bbc7e5b8fbae",
-          "title": "Flesh and Blood Market Minute - Wait and See Market?!! BNR and RTNs Loom! #fabtcg",
-          "url": "https://www.youtube.com/watch?v=PtOaswTmki8",
-          "published_at": "2026-11-21T11:28:28+00:00",
-          "image_url": "https://i1.ytimg.com/vi/PtOaswTmki8/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "TCGTed",
-          "excerpt": "This is not financial advice :) Finding cards that are great adds to your personal collection with this video! #fabtcg Twitter: https://x.com/tcgted"
-        },
-        {
-          "id": "94ac85bf05db2c0544e2",
-          "title": "Flesh and Blood: Top5 Generic Cards! - 11.20.26 #fabtcg #cardgame #tcg #gaming #games",
-          "url": "https://www.youtube.com/shorts/rtnZwCIMMy8",
-          "published_at": "2026-11-20T12:42:50+00:00",
-          "image_url": "https://i3.ytimg.com/vi/rtnZwCIMMy8/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "TCGTed",
-          "excerpt": "Fyendal's Collection. For the first month free use code TCGTed Top5 Generic Cards over the last 7 Days!"
-        },
-        {
-          "id": "b90033abd64866735c8e",
-          "title": "Flesh and Blood: Mastery Pack Assassin Breaks! #fabtcg",
-          "url": "https://www.youtube.com/watch?v=i3C4dwyU_v8",
-          "published_at": "2026-11-17T03:12:01+00:00",
-          "image_url": "https://i2.ytimg.com/vi/i3C4dwyU_v8/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "TCGTed",
-          "excerpt": "INTO THE AM PARTNER LINK - http://bit.ly/4nn4PTk #fabtcg #tcg Twitter: https://twitter.com/tcgted IG: https://www.instagram.com/tcg_ted/"
-        },
-        {
-          "id": "744c9c31e43b5f9db4c6",
-          "title": "Flesh and Blood Market Minute - Mastery Pack Assassin HITS!! #fabtcg",
-          "url": "https://www.youtube.com/watch?v=-Gut8MLE164",
-          "published_at": "2026-11-15T23:00:08+00:00",
-          "image_url": "https://i2.ytimg.com/vi/-Gut8MLE164/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "TCGTed",
-          "excerpt": "This is not financial advice :) Finding cards that are great adds to your personal collection with this video! #fabtcg Twitter: https://x.com/tcgted"
-        }
-      ],
-      "last_checked_at": "2026-11-22T11:15:00.805696+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCOdxqo7yrE5CKVFHKHCnPsA",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOdxqo7yrE5CKVFHKHCnPsA",
-      "resolved_channel_id": "UCOdxqo7yrE5CKVFHKHCnPsA",
-      "recent_count": 4,
-      "latest_published_at": "2026-11-21T11:28:28+00:00"
     },
     {
       "name": "Kloo TCG",
@@ -1168,7 +1473,7 @@
           "excerpt": "#fabtcg #FleshandBloodTCG #FleshandBlood Looking for FaB Singles in Australia Why Not Check Out Jene's FAB Sales: https://www.facebook.com/groups/1392175722646030/ Due for some new clothes? And feel like supporting me why not check out INTO THE AM using this link https://intotheam.com/kloo-d-in for some cool apparel. Oblivion, damnation and carnage await Rat"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:00.447849+00:00",
+      "last_checked_at": "2026-11-22T19:32:44.851934+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCaLIcHPzIDEP6BYFtTCPVpA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaLIcHPzIDEP6BYFtTCPVpA",
       "resolved_channel_id": "UCaLIcHPzIDEP6BYFtTCPVpA",
@@ -1199,7 +1504,7 @@
           "excerpt": "We talk about post mastery pack assassins' meta"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:08.999556+00:00",
+      "last_checked_at": "2026-11-22T19:32:59.275001+00:00",
       "resolved_url": "https://podcasts.apple.com/br/podcast/on-the-bauble-flesh-and-blood-podcast/id1663413943",
       "resolved_feed_url": "https://anchor.fm/s/ab8af2f4/podcast/rss?fbclid=IwAR1pCKA6_wLNWDsn9OmIl4hJbF2W63wl2Hfx9Q2P1WMvP5j8RywI_OHLEDg",
       "resolved_channel_id": null,
@@ -1231,7 +1536,7 @@
           "excerpt": "Join our Patreon to get: - Free delivery for orders over £40 at Thistle Tavern - 10% off you PCG order - 6 pack twice monthly give away - Early access content - Patreon Discord, - We also like to do random give-aways! https://www.patreon.com/PushThePoint For all your Flesh and Blood singles, head over to Thistle Tavern: Push the Point Patreons get free deliv"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:03.651180+00:00",
+      "last_checked_at": "2026-11-22T19:32:50.211292+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCdOadfDBXY_vEK7hVaZIi_w",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdOadfDBXY_vEK7hVaZIi_w",
       "resolved_channel_id": "UCdOadfDBXY_vEK7hVaZIi_w",
@@ -1309,7 +1614,7 @@
           "excerpt": "ZachTheBold rolls up to play Commander Party with Princess Weekes, Lily Rebel, and The Professor! Commander Party events are being held at local game stores worldwide November 20-26 and January 15-21. For more information and to locate a store near you check out: https://mtg.social/TRKxTCC Thank you to Wizards Of The Coast for sponsoring! Store And Event Loc"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:15.800278+00:00",
+      "last_checked_at": "2026-11-22T19:33:06.749728+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC7-hR5EfgpM6oHfiGDkxfMA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7-hR5EfgpM6oHfiGDkxfMA",
       "resolved_channel_id": "UC7-hR5EfgpM6oHfiGDkxfMA",
@@ -1375,7 +1680,7 @@
           "excerpt": "Is Rachel wrong about how useful a Generous Gift can be? #cmmander #magicthegathering #extraturns"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:16.071265+00:00",
+      "last_checked_at": "2026-11-22T19:33:07.285742+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCLsiaNUb42gRAP7ewbJ0ecQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLsiaNUb42gRAP7ewbJ0ecQ",
       "resolved_channel_id": "UCLsiaNUb42gRAP7ewbJ0ecQ",
@@ -1417,121 +1722,12 @@
           "excerpt": "merch: thetablepit-shop.fourthwall.com"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:05.470557+00:00",
+      "last_checked_at": "2026-11-22T19:32:53.567155+00:00",
       "resolved_url": "https://www.youtube.com/channel/UChqrar0bo7gt-ZodV8lIxlQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChqrar0bo7gt-ZodV8lIxlQ",
       "resolved_channel_id": "UChqrar0bo7gt-ZodV8lIxlQ",
       "recent_count": 2,
       "latest_published_at": "2026-11-20T15:54:30+00:00"
-    },
-    {
-      "name": "Cardmarket Magic",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "magic",
-      "focus": [
-        "gameplay",
-        "desafios",
-        "humor",
-        "competitivo"
-      ],
-      "url": "https://www.youtube.com/results?search_query=Cardmarket+Magic",
-      "id": "78148b748c0a6427",
-      "recent_items": [
-        {
-          "id": "45bf43b1624cf8f44196",
-          "title": "When You Sharpie Too Hard And Still Lose",
-          "url": "https://www.youtube.com/shorts/fd6ljR5mrhQ",
-          "published_at": "2026-11-20T15:18:16+00:00",
-          "image_url": "https://i3.ytimg.com/vi/fd6ljR5mrhQ/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Cardmarket - Magic",
-          "excerpt": "_______________________________ ➥ Buy and Sell your Magic: the Gathering cards: 🛒 https://www.cmkt.co/v ！Opinions expressed in this video are those of the video creator and not necessarily Cardmarket."
-        },
-        {
-          "id": "fc24b03b8f2b855afa7e",
-          "title": "Guess Your Commander Or Lose It! | with @LRRMTG​",
-          "url": "https://www.youtube.com/watch?v=-KBDNp5oCC4",
-          "published_at": "2026-11-19T17:00:19+00:00",
-          "image_url": "https://i2.ytimg.com/vi/-KBDNp5oCC4/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Cardmarket - Magic",
-          "excerpt": "Carl and Thoralf invited Kathleen and Graham from @LRRMTG to play this weird paper Magic EDH format with them. Nobody knows who their commander is; you can guess but if you get it wrong you loose it forever! _______________________________ ➥ Buy and Sell your Magic: the Gathering cards: 🛒 https://www.cmkt.co/v ！Opinions expressed in this video are those of t"
-        },
-        {
-          "id": "1074b0807485a7caa610",
-          "title": "Every Magic Goblin Ever",
-          "url": "https://www.youtube.com/shorts/Y626ZoAj2iE",
-          "published_at": "2026-11-18T15:00:13+00:00",
-          "image_url": "https://i2.ytimg.com/vi/Y626ZoAj2iE/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Cardmarket - Magic",
-          "excerpt": "_______________________________ ➥ Buy and Sell your Magic: the Gathering cards: 🛒 https://www.cmkt.co/v ！Opinions expressed in this video are those of the video creator and not necessarily Cardmarket."
-        },
-        {
-          "id": "42e557d9dd8407b97c98",
-          "title": "The Downside to 200 Dragons",
-          "url": "https://www.youtube.com/shorts/Q4UDNUZqAPA",
-          "published_at": "2026-11-15T15:00:05+00:00",
-          "image_url": "https://i2.ytimg.com/vi/Q4UDNUZqAPA/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Cardmarket - Magic",
-          "excerpt": "_______________________________ ➥ Buy and Sell your Magic: the Gathering cards: 🛒 https://www.cmkt.co/v ！Opinions expressed in this video are those of the video creator and not necessarily Cardmarket."
-        }
-      ],
-      "last_checked_at": "2026-11-22T11:15:16.448542+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCwatLpmoIeoL9egqVW2Cxbw",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwatLpmoIeoL9egqVW2Cxbw",
-      "resolved_channel_id": "UCwatLpmoIeoL9egqVW2Cxbw",
-      "recent_count": 4,
-      "latest_published_at": "2026-11-20T15:18:16+00:00"
-    },
-    {
-      "name": "playset-seho",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "mercado",
-        "produtos",
-        "dados"
-      ],
-      "url": "https://www.youtube.com/results?search_query=playset-seho+Flesh+and+Blood",
-      "id": "b0dd70ca46241b1a",
-      "recent_items": [
-        {
-          "id": "4dcfb70a4b9685d16194",
-          "title": "THIS WEEK's FaB sales flesh and blood tcg. true market watch. MPA release aftermath",
-          "url": "https://www.youtube.com/watch?v=2Xc8wXJt2mU",
-          "published_at": "2026-11-20T13:42:37+00:00",
-          "image_url": "https://i3.ytimg.com/vi/2Xc8wXJt2mU/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "playset-seho",
-          "excerpt": "🔥 if you want to thank / support me: http://www.patreon.com/playset_seho 🛒 here is my main inventory for sale: FaB single-cards on cardmarket: https://www.cardmarket.com/en/FleshAndBlood/Users/seho ----------------------------------------------------------------------------------------------------------------------------------------------------- #fabtcg #fle"
-        },
-        {
-          "id": "b269ea1b3dfd854665b3",
-          "title": "EV ELE - flesh and blood expected value TALES OF ARIA unlimited fabtcg 11/2026",
-          "url": "https://www.youtube.com/watch?v=JP871toyjEs",
-          "published_at": "2026-11-18T12:03:44+00:00",
-          "image_url": "https://i3.ytimg.com/vi/JP871toyjEs/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "playset-seho",
-          "excerpt": "🔥 if you want to thank / support me: http://www.patreon.com/playset_seho 🛒 here is my main inventory for sale: FaB single-cards on cardmarket: https://www.cardmarket.com/en/FleshAndBlood/Users/seho ----------------------------------------------------------------------------------------------------------------------------------------------------- #fabtcg #fle"
-        }
-      ],
-      "last_checked_at": "2026-11-22T11:15:06.547522+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCxQNxoQVvBWzOq_AsepzPzA",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQNxoQVvBWzOq_AsepzPzA",
-      "resolved_channel_id": "UCxQNxoQVvBWzOq_AsepzPzA",
-      "recent_count": 2,
-      "latest_published_at": "2026-11-20T13:42:37+00:00"
     },
     {
       "name": "PleasantKenobi",
@@ -1603,7 +1799,7 @@
           "excerpt": ""
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:17.658670+00:00",
+      "last_checked_at": "2026-11-22T19:33:09.966918+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC_b074DeDtbHukufPf2O1kw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_b074DeDtbHukufPf2O1kw",
       "resolved_channel_id": "UC_b074DeDtbHukufPf2O1kw",
@@ -1658,7 +1854,7 @@
           "excerpt": "Looking at the Majestics from the new Mastery Pack Assassin set, and which heroes they will support! 00:00 - Intro 01:25 - Generics 03:30 - Heroes 10:30 - Majestics Rated This is a Members-First early access video! Become a Dice Commando Channel Member for access to exclusive videos, access to the Discord, and seasonal events: https://www.youtube.com/channel"
         }
       ],
-      "last_checked_at": "2026-11-22T11:14:59.703421+00:00",
+      "last_checked_at": "2026-11-22T19:32:43.918785+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCgclEXaTMqVFktXfEU0KCQw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgclEXaTMqVFktXfEU0KCQw",
       "resolved_channel_id": "UCgclEXaTMqVFktXfEU0KCQw",
@@ -1735,7 +1931,7 @@
           "excerpt": "#florian #fabtcg #fleshandbloodtcg #fabtcg #fleshandbloodtcg #lss #florian #thehunted #newplayers #fleshandbloodtcg #fleshandbloodtcg #deckprofile #thehunted #lss # #mtg #highseas #assassin #runeblade #gurdian #fabgurdian #newplayers #budget #budgetplayer #SuperSlam #cindra #malice #Viserai #Levia https://www.fabfoundry.co/collections/mastery-pack-assassin h"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:00.637772+00:00",
+      "last_checked_at": "2026-11-22T19:32:45.097146+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC8tEld_YXspUwbe7UWiuwtg",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8tEld_YXspUwbe7UWiuwtg",
       "resolved_channel_id": "UC8tEld_YXspUwbe7UWiuwtg",
@@ -1768,176 +1964,12 @@
           "excerpt": "Much discourse is abound about the prevalence of \"Block Slop\" and attrition strategies driven by 15 specific cards in Classic Constructed right now. But is this really the case and what, if true, does it mean for the next phase of Flesh and Blood with FAB 3.0? What about the Road to Nationals Meta?!?! This Episode is sponsored by Arcane Games & events. Check"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:08.800923+00:00",
+      "last_checked_at": "2026-11-22T19:32:59.042986+00:00",
       "resolved_url": "https://arsenalpassfab.podbean.com/",
       "resolved_feed_url": "https://feed.podbean.com/arsenalpassfab/feed.xml",
       "resolved_channel_id": null,
       "recent_count": 1,
       "latest_published_at": "2026-11-20T11:44:07+00:00"
-    },
-    {
-      "name": "AggroBlaze96",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "competitivo",
-        "Talishar",
-        "deck tech"
-      ],
-      "url": "https://www.youtube.com/results?search_query=AggroBlaze96+Flesh+and+Blood",
-      "id": "ea86975757144878",
-      "recent_items": [
-        {
-          "id": "4aaf6d997e8cf5e7d987",
-          "title": "🔴Nebula Blade Florian | Flesh and Blood TCG | !deck !codex",
-          "url": "https://www.youtube.com/watch?v=vOh9Gqx2qcg",
-          "published_at": "2026-11-20T02:30:06+00:00",
-          "image_url": "https://i3.ytimg.com/vi/vOh9Gqx2qcg/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "AggroBlaze96",
-          "excerpt": "Become a MEMBER on YouTube: https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w/join Join the Discord - https://discord.gg/pm9SUCHSCf SAGE Florian - https://fabrary.net/decks/01M7RW8B429HQBFYXYG2BQXJWW Codex Journal - https://codexjournals.com/aggroblaze96 Use code AggroBlaze96 to save 10% at checkout! Metafy - https://metafy.gg/@aggroblaze96 Fablazing "
-        },
-        {
-          "id": "32895d686633453d5a41",
-          "title": "Dr. Mortimer Armory Deck Upgrades in 7 Minutes | Flesh and Blood TCG",
-          "url": "https://www.youtube.com/watch?v=od_d1n0CEzo",
-          "published_at": "2026-11-18T17:00:34+00:00",
-          "image_url": "https://i4.ytimg.com/vi/od_d1n0CEzo/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "AggroBlaze96",
-          "excerpt": "Click this to become a MEMBER on YouTube: https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w/join Join the Discord - https://discord.gg/pm9SUCHSCf Codex Journal - https://codexjournals.com/aggroblaze96 Use code AggroBlaze96 to save 10% at checkout! Metafy - https://metafy.gg/@aggroblaze96 Fablazing - https://fablazing.com/breakpoints AGE Events - https"
-        },
-        {
-          "id": "edc74ce78e9b3700c8b5",
-          "title": "🔴SAGE DGA Killjoy | Flesh and Blood TCG | !deck !discord",
-          "url": "https://www.youtube.com/watch?v=YyAlN7_2l_I",
-          "published_at": "2026-11-18T13:55:06+00:00",
-          "image_url": "https://i2.ytimg.com/vi/YyAlN7_2l_I/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "AggroBlaze96",
-          "excerpt": "Become a MEMBER on YouTube: https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w/join Join the Discord - https://discord.gg/pm9SUCHSCf SAGE Killjoy - https://fabrary.net/decks/01M7K2BYFKC1YBE2ZE0FYCDM9F Codex Journal - https://codexjournals.com/aggroblaze96 Use code AggroBlaze96 to save 10% at checkout! Metafy - https://metafy.gg/@aggroblaze96 Fablazing "
-        },
-        {
-          "id": "7b4f57d6f0ff82828897",
-          "title": "Was Compendium of Rathe a Reprint Set? | Flesh and Blood TCG",
-          "url": "https://www.youtube.com/shorts/5sdGZrPlZms",
-          "published_at": "2026-11-17T17:00:08+00:00",
-          "image_url": "https://i2.ytimg.com/vi/5sdGZrPlZms/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "AggroBlaze96",
-          "excerpt": "Click this to become a MEMBER on YouTube: https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w/join Join the Discord - https://discord.gg/pm9SUCHSCf Codex Journal - https://codexjournals.com/aggroblaze96 Use code AggroBlaze96 to save 10% at checkout! Metafy - https://metafy.gg/@aggroblaze96 Fablazing - https://fablazing.com/breakpoints AGE Events - https"
-        },
-        {
-          "id": "84ed92cbdc1af6d17c03",
-          "title": "🔴One-armed Menace Returns | Flesh and Blood TCG | !codex !metafy",
-          "url": "https://www.youtube.com/watch?v=uzMAUdweEbM",
-          "published_at": "2026-11-17T13:49:23+00:00",
-          "image_url": "https://i2.ytimg.com/vi/uzMAUdweEbM/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "AggroBlaze96",
-          "excerpt": "Become a MEMBER on YouTube: https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w/join Join the Discord - https://discord.gg/pm9SUCHSCf SAGE Kayo - https://fabrary.net/decks/01M7H1KP6JMRGEN61NH1R9MGPT Codex Journal - https://codexjournals.com/aggroblaze96 Use code AggroBlaze96 to save 10% at checkout! Metafy - https://metafy.gg/@aggroblaze96 Fablazing - h"
-        },
-        {
-          "id": "08caabe483fea49f895e",
-          "title": "Will Battle Grounds Fill the Gap in 2027? | Flesh and Blood TCG",
-          "url": "https://www.youtube.com/shorts/WfLF4_egTDc",
-          "published_at": "2026-11-16T17:00:32+00:00",
-          "image_url": "https://i4.ytimg.com/vi/WfLF4_egTDc/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "AggroBlaze96",
-          "excerpt": "Click this to become a MEMBER on YouTube: https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w/join Join the Discord - https://discord.gg/pm9SUCHSCf Codex Journal - https://codexjournals.com/aggroblaze96 Use code AggroBlaze96 to save 10% at checkout! Metafy - https://metafy.gg/@aggroblaze96 Fablazing - https://fablazing.com/breakpoints AGE Events - https"
-        },
-        {
-          "id": "bcfab018d93f857a3956",
-          "title": "Gaslighting Taylor | Flesh and Blood TCG",
-          "url": "https://www.youtube.com/shorts/PhGfSr3TdmY",
-          "published_at": "2026-11-15T17:00:32+00:00",
-          "image_url": "https://i1.ytimg.com/vi/PhGfSr3TdmY/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "AggroBlaze96",
-          "excerpt": "Click this to become a MEMBER on YouTube: https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w/join Join the Discord - https://discord.gg/pm9SUCHSCf Codex Journal - https://codexjournals.com/aggroblaze96 Use code AggroBlaze96 to save 10% at checkout! Metafy - https://metafy.gg/@aggroblaze96 Fablazing - https://fablazing.com/breakpoints AGE Events - https"
-        },
-        {
-          "id": "c0fe4667660fd07c9f72",
-          "title": "AB96 Stream Highlights (Nov 15, 2026)",
-          "url": "https://www.youtube.com/watch?v=FWbAnE0Od1c",
-          "published_at": "2026-11-15T17:00:11+00:00",
-          "image_url": "https://i3.ytimg.com/vi/FWbAnE0Od1c/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "AggroBlaze96",
-          "excerpt": "Click this to become a MEMBER on YouTube: https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w/join Join the Discord - https://discord.gg/pm9SUCHSCf Codex Journal - https://codexjournals.com/aggroblaze96 Use code AggroBlaze96 to save 10% at checkout! Metafy - https://metafy.gg/@aggroblaze96 Fablazing - https://fablazing.com/breakpoints AGE Events - https"
-        }
-      ],
-      "last_checked_at": "2026-11-22T11:14:59.909657+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCaAuLET4Gy0CjrWOHuhTE_w",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaAuLET4Gy0CjrWOHuhTE_w",
-      "resolved_channel_id": "UCaAuLET4Gy0CjrWOHuhTE_w",
-      "recent_count": 8,
-      "latest_published_at": "2026-11-20T02:30:06+00:00"
-    },
-    {
-      "name": "The Spike Feeders",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "magic",
-      "focus": [
-        "Commander",
-        "cEDH",
-        "gameplay",
-        "comunidade"
-      ],
-      "url": "https://www.youtube.com/results?search_query=The+Spike+Feeders+MTG",
-      "id": "20e030dce3d60bb7",
-      "recent_items": [
-        {
-          "id": "3a95cd1ee6ae02b91e76",
-          "title": "MYSTERY BOOSTER: COMMANDER EDITION | Massimo VS Ethki VS Homer VS Muckslinger Gang",
-          "url": "https://www.youtube.com/watch?v=sUT6Y0GSdQc",
-          "published_at": "2026-11-19T20:00:01+00:00",
-          "image_url": "https://i4.ytimg.com/vi/sUT6Y0GSdQc/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "The Spike Feeders",
-          "excerpt": "Check out Gamegenic's line of OFFICIALLY LICENSED Reality Fracture accessories https://www.gamegenic.com/magic-the-gathering/reality-fracture/ SELL YOUR CARDS to Star City Games and get a 30% store credit bonus! Sell Your Cards: https://bit.ly/sellyourcardstsf?aff=15 SCG Hartford: https://scgcon.starcitygames.com/event/scg-con-minneapolis-2027/aff=15 Spike M"
-        },
-        {
-          "id": "1c708d9071a1f17d667a",
-          "title": "STAR TREK COMMANDER PARTY | Borg Queen VS Spock VS Worf VS Jean-Luc Picard #MTGAmbassador #sponsored",
-          "url": "https://www.youtube.com/watch?v=nx-R-GhNrY4",
-          "published_at": "2026-11-17T20:00:20+00:00",
-          "image_url": "https://i3.ytimg.com/vi/nx-R-GhNrY4/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "The Spike Feeders",
-          "excerpt": "This video #sponsored by Wizards of the Coast! Find a Commander Party event at a game store near you: https://mtg.social/TRKxTSF Check out Gamegenic's line of OFFICIALLY LICENSED Magic: the Gathering accessories https://www.gamegenic.com/magic-the-gathering/ Register for SCGCON Minneapolis now: https://scgcon.starcitygames.com/event/scg-con-minneapolis-2027/"
-        },
-        {
-          "id": "f090e4405523d682718a",
-          "title": "We scrapped TWO WHOLE EPISODES #MTGxStarTrek #mtgambassador",
-          "url": "https://www.youtube.com/shorts/nTowxMA_XTs",
-          "published_at": "2026-11-15T17:00:31+00:00",
-          "image_url": "https://i3.ytimg.com/vi/nTowxMA_XTs/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "The Spike Feeders",
-          "excerpt": "Sometimes rules mixups can make way more work for us. This time we had to scrap two hole episodes! #mtgcommander #magicthegathering From our Star Trek Gauntlet Retrospective November 11, 2026 Subscribe to The Spike Feeders for more high quality MTG Commander gameplay videos!"
-        }
-      ],
-      "last_checked_at": "2026-11-22T11:15:18.054728+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCGh7-4mDFssqhu_UpOwRzIA",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGh7-4mDFssqhu_UpOwRzIA",
-      "resolved_channel_id": "UCGh7-4mDFssqhu_UpOwRzIA",
-      "recent_count": 3,
-      "latest_published_at": "2026-11-19T20:00:01+00:00"
     },
     {
       "name": "Elder Dragon Hijinks",
@@ -1964,7 +1996,7 @@
           "excerpt": "Go to https://buyraycon.com/elderBC to get up to 50% off! Thanks to Raycon for sponsoring! This week, we're playing high-speed, high-power Commander with @MentalMisplay and @JoelareMagic! 💛 SUPPORT THE SHOW 💛 https://www.patreon.com/EDHijinks 💙 VISIT OUR CHANNEL SPONSORS 💙 Gamegenic: https://www.gamegenic.com/ Card Kingdom: https://www.cardkingdom.com/landin"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:17.097371+00:00",
+      "last_checked_at": "2026-11-22T19:33:09.347265+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCW8G9RUYzzepznBq5Cn_3Bg",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCW8G9RUYzzepznBq5Cn_3Bg",
       "resolved_channel_id": "UCW8G9RUYzzepznBq5Cn_3Bg",
@@ -1996,7 +2028,7 @@
           "excerpt": "Buds!Elly is back! We catch up and talk Viserai and upcoming bans!Like, comment, and subscribe!FRESH JUICE: An Indie Game Podcast: https://www.youtube.com/@FreshJuicePodQueer Competitor's League:https://bsky.app/profile/ellybird.bsky.social/post/3mo2eciij2c2s Find Elly:https://bsky.app/profile/ellybird.bsky.socialTommy's Linktree: linktr.ee/freshbudspod"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:09.327614+00:00",
+      "last_checked_at": "2026-11-22T19:32:59.644720+00:00",
       "resolved_url": "https://podcasts.apple.com/us/podcast/fresh-and-buds/id1586034048",
       "resolved_feed_url": "https://anchor.fm/s/687e1bbc/podcast/rss",
       "resolved_channel_id": null,
@@ -2029,7 +2061,7 @@
           "excerpt": "It's the most wonderful time of the year! That's right, it's Pitchin' Prediction season and your favorite Host #2 has crawled into a red-and-white suit and taped a beard to his face to make predictions -- just for you! Wait, what do you mean it's not Christmas yet? Please support our first sponsor: Pitchstack. Pitchstack is a deckbuilder and collection manag"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:10.284214+00:00",
+      "last_checked_at": "2026-11-22T19:33:00.800741+00:00",
       "resolved_url": "https://podcasts.apple.com/us/podcast/pitch-it-to-me-podcast/id1695399192",
       "resolved_feed_url": "https://anchor.fm/s/e4fc19b4/podcast/rss",
       "resolved_channel_id": null,
@@ -2061,7 +2093,7 @@
           "excerpt": "The World Championship is over but the action doesn't stop! Join Majin as he covers Calling: Sydney, the Skirmish meta, and a sneak peak at the Pro Tour London Souvenir Package 🇬🇧 🂡 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https://www.ti"
         }
       ],
-      "last_checked_at": "2026-11-22T11:14:59.465571+00:00",
+      "last_checked_at": "2026-11-22T19:32:43.682412+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
       "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
@@ -2091,7 +2123,7 @@
           "excerpt": "The World Championship is over but the action doesn't stop! Join Majin as he covers Calling: Sydney, the Skirmish meta, and a sneak peak at the Pro Tour London Souvenir Package 🇬🇧 🂡 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https://www.ti"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:03.824857+00:00",
+      "last_checked_at": "2026-11-22T19:32:50.452862+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
       "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
@@ -2122,7 +2154,7 @@
           "excerpt": "The World Championship is over but the action doesn't stop! Join Majin as he covers Calling: Sydney, the Skirmish meta, and a sneak peak at the Pro Tour London Souvenir Package 🇬🇧 🂡 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https://www.ti"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:08.317875+00:00",
+      "last_checked_at": "2026-11-22T19:32:58.404255+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
       "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
@@ -2153,7 +2185,7 @@
           "excerpt": "The World Championship is over but the action doesn't stop! Join Majin as he covers Calling: Sydney, the Skirmish meta, and a sneak peak at the Pro Tour London Souvenir Package 🇬🇧 🂡 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https://www.ti"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:03.003823+00:00",
+      "last_checked_at": "2026-11-22T19:32:48.830242+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
       "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
@@ -2186,7 +2218,7 @@
           "excerpt": "The World Championship is over but the action doesn't stop! Join Majin as he covers Calling: Sydney, the Skirmish meta, and a sneak peak at the Pro Tour London Souvenir Package 🇬🇧 🂡 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https://www.ti"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:01.425815+00:00",
+      "last_checked_at": "2026-11-22T19:32:46.697466+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
       "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
@@ -2217,7 +2249,7 @@
           "excerpt": "The World Championship is over but the action doesn't stop! Join Majin as he covers Calling: Sydney, the Skirmish meta, and a sneak peak at the Pro Tour London Souvenir Package 🇬🇧 🂡 🌐 Official Website: http://fabtcg.com 📘 Facebook: https://www.facebook.com/fabtcg ❌ X: https://x.com/fabtcg 📸 Instagram: https://www.instagram.com/fabtcg 🎵 TikTok: https://www.ti"
         }
       ],
-      "last_checked_at": "2026-11-22T11:15:06.248118+00:00",
+      "last_checked_at": "2026-11-22T19:32:55.580147+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCQW-Jql3r6YlBxl1JzJmFJw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQW-Jql3r6YlBxl1JzJmFJw",
       "resolved_channel_id": "UCQW-Jql3r6YlBxl1JzJmFJw",
@@ -2261,44 +2293,12 @@
           "excerpt": "SUPPORT THE CHANNEL! Join this channel to get access to perks: https://www.youtube.com/channel/UCLYtjHT4lwcN8-e5Fh9Rigg/join 🎲MINMAX GAMES: https://www.minmaxgamesfab.com/discount/DMA 🎲My Dragon Shield Affiliate Link: https://www.dragonshield.com/webshop/us/?aff=24 JOIN THE ARMADA! 🎲 Metafy: https://metafy.gg/@dmarmada 🎲 Discord: https://discord.gg/r9vWQddbG"
         }
       ],
-      "last_checked_at": "2026-11-22T11:14:59.214192+00:00",
+      "last_checked_at": "2026-11-22T19:32:43.547155+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCLYtjHT4lwcN8-e5Fh9Rigg",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLYtjHT4lwcN8-e5Fh9Rigg",
       "resolved_channel_id": "UCLYtjHT4lwcN8-e5Fh9Rigg",
       "recent_count": 2,
       "latest_published_at": "2026-11-17T15:45:30+00:00"
-    },
-    {
-      "name": "Man Sant",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "flesh-and-blood",
-      "focus": [
-        "streams",
-        "eventos",
-        "gameplay"
-      ],
-      "url": "https://www.youtube.com/results?search_query=Man+Sant+Flesh+and+Blood",
-      "id": "82be4e333da80b24",
-      "recent_items": [
-        {
-          "id": "bfa81601b3e54aebf7ab",
-          "title": "LEVIA WINS HER FIRST CALLING",
-          "url": "https://www.youtube.com/watch?v=4AnQ5NuPZXs",
-          "published_at": "2026-11-15T15:00:07+00:00",
-          "image_url": "https://i1.ytimg.com/vi/4AnQ5NuPZXs/hqdefault.jpg",
-          "kind": "video",
-          "content_platform": "youtube",
-          "author": "Man Sant",
-          "excerpt": "https://fabrary.net/decks/01M7EGHJN50P9Q8BAWGHNPACQD ► SUPPORT THE CHANNEL ◄ • Get Tokens on Patreon! | https://www.patreon.com/ManSant • SecretLab | https://secretlab.co/?rfsn=7775884.5655520&utm_source=refersion&utm_medium=affiliate&utm_campaign=7775884.5655520 • DragonShield Affiliate | https://dragonshield.com/?ref=ManSant • DragonShield 5% Discount | ma"
-        }
-      ],
-      "last_checked_at": "2026-11-22T11:15:02.282799+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCW-mPwR8EnaclCDXp2HI8hQ",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCW-mPwR8EnaclCDXp2HI8hQ",
-      "resolved_channel_id": "UCW-mPwR8EnaclCDXp2HI8hQ",
-      "recent_count": 1,
-      "latest_published_at": "2026-11-15T15:00:07+00:00"
     },
     {
       "name": "Waning Moon Gaming",
@@ -2312,7 +2312,7 @@
       "url": "https://www.youtube.com/results?search_query=Waning+Moon+Gaming+Flesh+and+Blood",
       "id": "9c9565a3061c86d4",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:05.292909+00:00",
+      "last_checked_at": "2026-11-22T19:32:53.135115+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCeBISHA8ntguvqQGL596LyA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeBISHA8ntguvqQGL596LyA",
       "resolved_channel_id": "UCeBISHA8ntguvqQGL596LyA",
@@ -2331,7 +2331,7 @@
       "url": "https://www.youtube.com/results?search_query=Three+Vibing+Flesh+and+Blood",
       "id": "cd2c4524bc656a9e",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:15.128046+00:00",
+      "last_checked_at": "2026-11-22T19:33:05.968444+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Three+Vibing+Flesh+and+Blood",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2351,7 +2351,7 @@
       "url": "https://www.youtube.com/results?search_query=Three+Floating+Flesh+and+Blood",
       "id": "be52e294c04f1dd1",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:01.046250+00:00",
+      "last_checked_at": "2026-11-22T19:32:45.682019+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCxhcm_b7lGovw0yoo7YiB7Q",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxhcm_b7lGovw0yoo7YiB7Q",
       "resolved_channel_id": "UCxhcm_b7lGovw0yoo7YiB7Q",
@@ -2371,7 +2371,7 @@
       "url": "https://www.youtube.com/results?search_query=The+Teklo+Foundry+Flesh+and+Blood",
       "id": "b321e2f6ac2485cd",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:00.270330+00:00",
+      "last_checked_at": "2026-11-22T19:32:44.551112+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCPwLCno02HJXdrvsqo1R67g",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPwLCno02HJXdrvsqo1R67g",
       "resolved_channel_id": "UCPwLCno02HJXdrvsqo1R67g",
@@ -2390,7 +2390,7 @@
       "url": "https://www.youtube.com/results?search_query=The+Salt+Collector+Flesh+and+Blood",
       "id": "369b0eb8a9f91571",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:07.195866+00:00",
+      "last_checked_at": "2026-11-22T19:32:56.813472+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCTmZO6ueflNWoRmHwMG6jtA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTmZO6ueflNWoRmHwMG6jtA",
       "resolved_channel_id": "UCTmZO6ueflNWoRmHwMG6jtA",
@@ -2410,7 +2410,7 @@
       "url": "https://www.youtube.com/results?search_query=The+Dive+Down+MTG+Podcast",
       "id": "dd592b7502ab6b9a",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:25.647247+00:00",
+      "last_checked_at": "2026-11-22T19:33:18.553283+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=The+Dive+Down+MTG+Podcast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2430,7 +2430,7 @@
       "url": "https://www.youtube.com/results?search_query=Command+Zone+Podcast",
       "id": "a7db3077224be2ad",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:23.121207+00:00",
+      "last_checked_at": "2026-11-22T19:33:15.922695+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Command+Zone+Podcast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2451,7 +2451,7 @@
       "url": "https://www.youtube.com/results?search_query=Spice8Rack+Magic",
       "id": "0e6dd713c898888c",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:17.485447+00:00",
+      "last_checked_at": "2026-11-22T19:33:09.717826+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCDJACu5LRKWE7sqagICB-ew",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDJACu5LRKWE7sqagICB-ew",
       "resolved_channel_id": "UCDJACu5LRKWE7sqagICB-ew",
@@ -2472,7 +2472,7 @@
       "url": "https://www.youtube.com/results?search_query=Spark+of+Genius+Flesh+and+Blood",
       "id": "4829be30276802d7",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:03.930722+00:00",
+      "last_checked_at": "2026-11-22T19:32:50.963918+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCsNvmmC9F9Y2gsMlvYJwqbA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsNvmmC9F9Y2gsMlvYJwqbA",
       "resolved_channel_id": "UCsNvmmC9F9Y2gsMlvYJwqbA",
@@ -2492,7 +2492,7 @@
       "url": "https://www.youtube.com/results?search_query=Sloopdoop+Flesh+and+Blood",
       "id": "02c40ab9691519c5",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:03.420942+00:00",
+      "last_checked_at": "2026-11-22T19:32:49.915751+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCVM_MGFx-XJhOQHcGzzq2ZA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVM_MGFx-XJhOQHcGzzq2ZA",
       "resolved_channel_id": "UCVM_MGFx-XJhOQHcGzzq2ZA",
@@ -2512,7 +2512,7 @@
       "url": "https://www.youtube.com/results?search_query=Sin+FABTCG",
       "id": "cf9e8d0629e54a58",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:04.613962+00:00",
+      "last_checked_at": "2026-11-22T19:32:52.024670+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCsqDsv0b88rC-ObBTEjf0MQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsqDsv0b88rC-ObBTEjf0MQ",
       "resolved_channel_id": "UCsqDsv0b88rC-ObBTEjf0MQ",
@@ -2531,7 +2531,7 @@
       "url": "https://www.youtube.com/results?search_query=Savage+Lands+News+Flesh+and+Blood",
       "id": "3c3bbd72067de19b",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:05.875214+00:00",
+      "last_checked_at": "2026-11-22T19:32:54.475211+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCI5yJdQ4y8r_3J9JCiyHIzQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI5yJdQ4y8r_3J9JCiyHIzQ",
       "resolved_channel_id": "UCI5yJdQ4y8r_3J9JCiyHIzQ",
@@ -2551,7 +2551,7 @@
       "url": "https://www.youtube.com/results?search_query=SNEEP+Flesh+and+Blood+TCG",
       "id": "9bded0b76a55939b",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:02.107911+00:00",
+      "last_checked_at": "2026-11-22T19:32:47.349750+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCQgm4yHm46rSKn1J7tByovA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQgm4yHm46rSKn1J7tByovA",
       "resolved_channel_id": "UCQgm4yHm46rSKn1J7tByovA",
@@ -2571,7 +2571,7 @@
       "url": "https://www.twitch.tv/search?term=SNEEP%20Flesh%20and%20Blood",
       "id": "e1f39fd711f7471d",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:08.700189+00:00",
+      "last_checked_at": "2026-11-22T19:32:58.916858+00:00",
       "resolved_url": "https://www.twitch.tv/sneep",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2591,7 +2591,7 @@
       "url": "https://tcgrunaways.podbean.com/",
       "id": "f4033e0fb136d1f9",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:09.162032+00:00",
+      "last_checked_at": "2026-11-22T19:32:59.463073+00:00",
       "resolved_url": "https://tcgrunaways.podbean.com/",
       "resolved_feed_url": "https://feed.podbean.com/tcgrunaways/feed.xml",
       "resolved_channel_id": null,
@@ -2610,30 +2610,10 @@
       "url": "https://www.youtube.com/results?search_query=Rage+of+Blasmophet",
       "id": "0de1c221803b2f3d",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:02.749502+00:00",
+      "last_checked_at": "2026-11-22T19:32:48.547459+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCQ4luVroq2RQiO608p1n__A",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ4luVroq2RQiO608p1n__A",
       "resolved_channel_id": "UCQ4luVroq2RQiO608p1n__A",
-      "recent_count": 0,
-      "latest_published_at": null
-    },
-    {
-      "name": "Playing With Power MTG",
-      "platform": "youtube",
-      "language": "en",
-      "game_id": "magic",
-      "focus": [
-        "cEDH",
-        "gameplay",
-        "jogadas"
-      ],
-      "url": "https://www.youtube.com/results?search_query=Playing+With+Power+MTG",
-      "id": "40be0db8f85aa40b",
-      "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:16.822317+00:00",
-      "resolved_url": "https://www.youtube.com/channel/UCum8N4KUUC0l_NK_mybvilg",
-      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCum8N4KUUC0l_NK_mybvilg",
-      "resolved_channel_id": "UCum8N4KUUC0l_NK_mybvilg",
       "recent_count": 0,
       "latest_published_at": null
     },
@@ -2650,7 +2630,7 @@
       "url": "https://www.youtube.com/results?search_query=Pheano+Flesh+and+Blood",
       "id": "dd31a32586c1eda8",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:01.801751+00:00",
+      "last_checked_at": "2026-11-22T19:32:47.116988+00:00",
       "resolved_url": "https://www.youtube.com/channel/UClovSsTxY7VX2p7_6WaJhUA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClovSsTxY7VX2p7_6WaJhUA",
       "resolved_channel_id": "UClovSsTxY7VX2p7_6WaJhUA",
@@ -2670,7 +2650,7 @@
       "url": "https://www.twitch.tv/search?term=Pheano%20Flesh%20and%20Blood",
       "id": "873314309f24f42c",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:08.602740+00:00",
+      "last_checked_at": "2026-11-22T19:32:58.789065+00:00",
       "resolved_url": "https://www.twitch.tv/pheano",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2691,10 +2671,30 @@
       "url": "https://www.twitch.tv/search?term=NumotTheNummy",
       "id": "a05c1205abd181d3",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:19.876448+00:00",
+      "last_checked_at": "2026-11-22T19:33:12.621592+00:00",
       "resolved_url": "https://www.twitch.tv/numotthenummy",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
+      "recent_count": 0,
+      "latest_published_at": null
+    },
+    {
+      "name": "Man Sant",
+      "platform": "youtube",
+      "language": "en",
+      "game_id": "flesh-and-blood",
+      "focus": [
+        "streams",
+        "eventos",
+        "gameplay"
+      ],
+      "url": "https://www.youtube.com/results?search_query=Man+Sant+Flesh+and+Blood",
+      "id": "82be4e333da80b24",
+      "recent_items": [],
+      "last_checked_at": "2026-11-22T19:32:47.675053+00:00",
+      "resolved_url": "https://www.youtube.com/channel/UCW-mPwR8EnaclCDXp2HI8hQ",
+      "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCW-mPwR8EnaclCDXp2HI8hQ",
+      "resolved_channel_id": "UCW-mPwR8EnaclCDXp2HI8hQ",
       "recent_count": 0,
       "latest_published_at": null
     },
@@ -2711,7 +2711,7 @@
       "url": "https://www.twitch.tv/search?term=Man%20Sant%20Flesh%20and%20Blood",
       "id": "603367f4b4f35d74",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:08.504572+00:00",
+      "last_checked_at": "2026-11-22T19:32:58.661831+00:00",
       "resolved_url": "https://www.twitch.tv/mansant",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2731,7 +2731,7 @@
       "url": "https://www.youtube.com/results?search_query=Magic+The+Noah+MTG",
       "id": "f84f08dead19d65d",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:19.165898+00:00",
+      "last_checked_at": "2026-11-22T19:33:11.716146+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCYqsJbDDngvxb_rbHzHpYGA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYqsJbDDngvxb_rbHzHpYGA",
       "resolved_channel_id": "UCYqsJbDDngvxb_rbHzHpYGA",
@@ -2752,7 +2752,7 @@
       "url": "https://www.twitch.tv/magic",
       "id": "f35fb0f0f3a64fd5",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:19.675522+00:00",
+      "last_checked_at": "2026-11-22T19:33:12.366806+00:00",
       "resolved_url": "https://www.twitch.tv/magic",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2772,7 +2772,7 @@
       "url": "https://www.youtube.com/results?search_query=MTGRemy",
       "id": "5cb2f12576a68c32",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:18.914676+00:00",
+      "last_checked_at": "2026-11-22T19:33:11.590771+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC3YmkUUyVZSnfPzy4smvgXA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3YmkUUyVZSnfPzy4smvgXA",
       "resolved_channel_id": "UC3YmkUUyVZSnfPzy4smvgXA",
@@ -2793,7 +2793,7 @@
       "url": "https://www.youtube.com/results?search_query=MTGGoldfish+Podcast",
       "id": "7ecd972721980b54",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:22.259967+00:00",
+      "last_checked_at": "2026-11-22T19:33:15.049159+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=MTGGoldfish+Podcast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2812,7 +2812,7 @@
       "url": "https://www.youtube.com/results?search_query=M-n-R+Cast+Flesh+and+Blood",
       "id": "057674591dcd7c7f",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:09.585458+00:00",
+      "last_checked_at": "2026-11-22T19:32:59.933291+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=M-n-R+Cast+Flesh+and+Blood",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2832,7 +2832,7 @@
       "url": "https://www.youtube.com/results?search_query=Lupinefiasco+Daily+FaB",
       "id": "6c2ac7bc558d73b8",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:00.075964+00:00",
+      "last_checked_at": "2026-11-22T19:32:44.430148+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCUn1ebI9uZFSRPAnPVLJgqQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUn1ebI9uZFSRPAnPVLJgqQ",
       "resolved_channel_id": "UCUn1ebI9uZFSRPAnPVLJgqQ",
@@ -2852,7 +2852,7 @@
       "url": "https://www.youtube.com/results?search_query=Lucky+Paper+Radio+MTG",
       "id": "ef4092363caba4b2",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:24.886033+00:00",
+      "last_checked_at": "2026-11-22T19:33:17.734892+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Lucky+Paper+Radio+MTG",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2871,7 +2871,7 @@
       "url": "https://www.youtube.com/results?search_query=Loro+Flesh+and+Blood+TCG",
       "id": "d67f07761612bb01",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:02.483066+00:00",
+      "last_checked_at": "2026-11-22T19:32:48.252288+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCV5U06pp0cdzM4JIfSDCCKQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV5U06pp0cdzM4JIfSDCCKQ",
       "resolved_channel_id": "UCV5U06pp0cdzM4JIfSDCCKQ",
@@ -2891,7 +2891,7 @@
       "url": "https://www.youtube.com/results?search_query=Lords+of+Limited+podcast",
       "id": "676551fb82670039",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:20.639136+00:00",
+      "last_checked_at": "2026-11-22T19:33:13.495425+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Lords+of+Limited+podcast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2912,7 +2912,7 @@
       "url": "https://www.youtube.com/results?search_query=LoadingReadyRun+MTG",
       "id": "cc8cdf460c6f92ec",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:16.276513+00:00",
+      "last_checked_at": "2026-11-22T19:33:07.786791+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCwjN2uVdL9A0i3gaIHKFzuA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA",
       "resolved_channel_id": "UCwjN2uVdL9A0i3gaIHKFzuA",
@@ -2932,7 +2932,7 @@
       "url": "https://www.youtube.com/results?search_query=Living+Legends+Podcast+Flesh+and+Blood",
       "id": "56021035d7d0a808",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:14.273862+00:00",
+      "last_checked_at": "2026-11-22T19:33:05.138377+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Living+Legends+Podcast+Flesh+and+Blood",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2952,7 +2952,7 @@
       "url": "https://www.youtube.com/results?search_query=Limited+Resources+podcast+MTG",
       "id": "831471ef31a52aa0",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:19.974373+00:00",
+      "last_checked_at": "2026-11-22T19:33:12.746359+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Limited+Resources+podcast+MTG",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2972,7 +2972,7 @@
       "url": "https://www.youtube.com/results?search_query=Instant+Speed+Flesh+and+Blood+podcast",
       "id": "1b980260c8b6c058",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:11.279377+00:00",
+      "last_checked_at": "2026-11-22T19:33:01.956704+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Instant+Speed+Flesh+and+Blood+podcast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -2991,7 +2991,7 @@
       "url": "https://www.youtube.com/results?search_query=HamMan215+Flesh+and+Blood",
       "id": "f7c20c6196f886c9",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:01.589152+00:00",
+      "last_checked_at": "2026-11-22T19:32:46.816910+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCq_1Ku3spm-mcXlMLmwFKrA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq_1Ku3spm-mcXlMLmwFKrA",
       "resolved_channel_id": "UCq_1Ku3spm-mcXlMLmwFKrA",
@@ -3010,7 +3010,7 @@
       "url": "https://www.youtube.com/results?search_query=Goblin+Reserve+Flesh+and+Blood",
       "id": "ced4a8eb881d7f0f",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:06.789748+00:00",
+      "last_checked_at": "2026-11-22T19:32:56.284957+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCYfwqXqT8_Uo8aDcdtrAmJw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYfwqXqT8_Uo8aDcdtrAmJw",
       "resolved_channel_id": "UCYfwqXqT8_Uo8aDcdtrAmJw",
@@ -3030,7 +3030,7 @@
       "url": "https://www.youtube.com/results?search_query=Flesh+and+Pod+podcast",
       "id": "ef5c03c1b168007c",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:12.768339+00:00",
+      "last_checked_at": "2026-11-22T19:33:03.583423+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Flesh+and+Pod+podcast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3050,7 +3050,7 @@
       "url": "https://www.youtube.com/results?search_query=Flesh+and+Bloodbrothers",
       "id": "c1261d786b374302",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:06.054378+00:00",
+      "last_checked_at": "2026-11-22T19:32:55.008343+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCcK0Zj_jIZ1O7E26uflO8mA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcK0Zj_jIZ1O7E26uflO8mA",
       "resolved_channel_id": "UCcK0Zj_jIZ1O7E26uflO8mA",
@@ -3069,7 +3069,7 @@
       "url": "https://www.youtube.com/results?search_query=Flesh+And+Bunny+Flesh+and+Blood",
       "id": "f9d0371fc5b829cb",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:07.827151+00:00",
+      "last_checked_at": "2026-11-22T19:32:57.894793+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC3F0uzAEWE1n_FaAxdvH1sQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3F0uzAEWE1n_FaAxdvH1sQ",
       "resolved_channel_id": "UC3F0uzAEWE1n_FaAxdvH1sQ",
@@ -3090,7 +3090,7 @@
       "url": "https://www.youtube.com/results?search_query=Faithless+Brewing+MTG",
       "id": "4b61f36c1c12b89d",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:26.306029+00:00",
+      "last_checked_at": "2026-11-22T19:33:19.422083+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Faithless+Brewing+MTG",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3108,7 +3108,7 @@
       "url": "https://www.youtube.com/results?search_query=FaBrika+Flesh+and+Blood",
       "id": "a164d2870c7dcf41",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:05.676387+00:00",
+      "last_checked_at": "2026-11-22T19:32:54.227948+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCGCyBk8JgFWMZNRmun2oqQA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGCyBk8JgFWMZNRmun2oqQA",
       "resolved_channel_id": "UCGCyBk8JgFWMZNRmun2oqQA",
@@ -3127,7 +3127,7 @@
       "url": "https://www.youtube.com/results?search_query=FABLorian+Flesh+and+Blood",
       "id": "dce893b74ab06e94",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:06.352912+00:00",
+      "last_checked_at": "2026-11-22T19:32:55.825220+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCKyTxXySbcFXQ-CchbXA8LA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKyTxXySbcFXQ-CchbXA8LA",
       "resolved_channel_id": "UCKyTxXySbcFXQ-CchbXA8LA",
@@ -3148,7 +3148,7 @@
       "url": "https://www.youtube.com/results?search_query=FAB+Unofficial+Flesh+and+Blood",
       "id": "691adddc92d07acf",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:04.819545+00:00",
+      "last_checked_at": "2026-11-22T19:32:52.611008+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCuPR7ZkmJeQTKf3K6Ec0_gQ",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuPR7ZkmJeQTKf3K6Ec0_gQ",
       "resolved_channel_id": "UCuPR7ZkmJeQTKf3K6Ec0_gQ",
@@ -3168,7 +3168,7 @@
       "url": "https://www.youtube.com/results?search_query=EDHRECast",
       "id": "61d27419ad5b2a5a",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:24.138558+00:00",
+      "last_checked_at": "2026-11-22T19:33:16.898427+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=EDHRECast",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3189,7 +3189,7 @@
       "url": "https://www.youtube.com/results?search_query=EDHREC+Magic",
       "id": "a94e9601eeb81088",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:16.174611+00:00",
+      "last_checked_at": "2026-11-22T19:33:07.543601+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCApiDwDpn_JpzRGLZKrdr1g",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCApiDwDpn_JpzRGLZKrdr1g",
       "resolved_channel_id": "UCApiDwDpn_JpzRGLZKrdr1g",
@@ -3209,7 +3209,7 @@
       "url": "https://www.youtube.com/results?search_query=Drive+to+Work+Mark+Rosewater",
       "id": "df9ad76b89bdd102",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:21.473387+00:00",
+      "last_checked_at": "2026-11-22T19:33:14.290137+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Drive+to+Work+Mark+Rosewater",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3229,7 +3229,7 @@
       "url": "https://www.youtube.com/results?search_query=DeadSummer+Art+Flesh+and+Blood+lore",
       "id": "1b3a8bb753003b16",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:08.152620+00:00",
+      "last_checked_at": "2026-11-22T19:32:58.160145+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCedz6mqYeQSzeSVa-3gOFIA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCedz6mqYeQSzeSVa-3gOFIA",
       "resolved_channel_id": "UCedz6mqYeQSzeSVa-3gOFIA",
@@ -3250,7 +3250,7 @@
       "url": "https://www.twitch.tv/search?term=Crokeyz",
       "id": "2faec142f970957f",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:19.778522+00:00",
+      "last_checked_at": "2026-11-22T19:33:12.493155+00:00",
       "resolved_url": "https://www.twitch.tv/crokeyz",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3269,7 +3269,7 @@
       "url": "https://www.youtube.com/results?search_query=Crak+N+FaB+Flesh+and+Blood",
       "id": "a778f9015ac51476",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:07.556999+00:00",
+      "last_checked_at": "2026-11-22T19:32:57.613131+00:00",
       "resolved_url": "https://www.youtube.com/channel/UChJWWcfq-ZtjguzUR9CKSBA",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChJWWcfq-ZtjguzUR9CKSBA",
       "resolved_channel_id": "UChJWWcfq-ZtjguzUR9CKSBA",
@@ -3289,7 +3289,7 @@
       "url": "https://www.youtube.com/results?search_query=Common+Language+Podcast+Flesh+and+Blood",
       "id": "a464633cf7c7a203",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:12.029366+00:00",
+      "last_checked_at": "2026-11-22T19:33:02.799790+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Common+Language+Podcast+Flesh+and+Blood",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3309,7 +3309,7 @@
       "url": "https://www.youtube.com/results?search_query=Commander+at+Home+MTG",
       "id": "34e6907606e064b2",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:16.993591+00:00",
+      "last_checked_at": "2026-11-22T19:33:09.227157+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCK05AM3Ed_ckARsrWdQhzig",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK05AM3Ed_ckARsrWdQhzig",
       "resolved_channel_id": "UCK05AM3Ed_ckARsrWdQhzig",
@@ -3328,7 +3328,7 @@
       "url": "https://www.youtube.com/results?search_query=Chants+and+Daggers+Flesh+and+Blood",
       "id": "4f60fbed78f883f3",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:05.013810+00:00",
+      "last_checked_at": "2026-11-22T19:32:52.854245+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCBXMKnLM4TLaKlS13En1KFw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBXMKnLM4TLaKlS13En1KFw",
       "resolved_channel_id": "UCBXMKnLM4TLaKlS13En1KFw",
@@ -3348,7 +3348,7 @@
       "url": "https://www.youtube.com/results?search_query=Cardboard+and+Beyond+Flesh+and+Blood",
       "id": "7a3b05d4837a7836",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:13.463918+00:00",
+      "last_checked_at": "2026-11-22T19:33:04.327091+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Cardboard+and+Beyond+Flesh+and+Blood",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
@@ -3368,7 +3368,7 @@
       "url": "https://www.youtube.com/results?search_query=Card+Advantage+Flesh+and+Blood",
       "id": "bb1a8e905ba6f060",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:04.184163+00:00",
+      "last_checked_at": "2026-11-22T19:32:51.213182+00:00",
       "resolved_url": "https://www.youtube.com/channel/UC8ODNScZNzHs8p5NQXbjTig",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8ODNScZNzHs8p5NQXbjTig",
       "resolved_channel_id": "UC8ODNScZNzHs8p5NQXbjTig",
@@ -3387,7 +3387,7 @@
       "url": "https://www.youtube.com/results?search_query=Bronson+Flesh+and+Blood+TCG",
       "id": "c8b655fb179f8b5d",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:06.988437+00:00",
+      "last_checked_at": "2026-11-22T19:32:56.570075+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCN3LRt9wRyeIC1icFxXHFsw",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCN3LRt9wRyeIC1icFxXHFsw",
       "resolved_channel_id": "UCN3LRt9wRyeIC1icFxXHFsw",
@@ -3406,7 +3406,7 @@
       "url": "https://www.youtube.com/results?search_query=Block+Out+Party+Flesh+and+Blood",
       "id": "31c3007ed38ea2d9",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:04.342457+00:00",
+      "last_checked_at": "2026-11-22T19:32:51.473240+00:00",
       "resolved_url": "https://www.youtube.com/channel/UCeHYxsbE2c6RHeYCDFofWHg",
       "resolved_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeHYxsbE2c6RHeYCDFofWHg",
       "resolved_channel_id": "UCeHYxsbE2c6RHeYCDFofWHg",
@@ -3426,7 +3426,7 @@
       "url": "https://www.youtube.com/results?search_query=Attack+Action+Podcast+Flesh+and+Blood",
       "id": "3bb9ba2e3b3c5ea8",
       "recent_items": [],
-      "last_checked_at": "2026-11-22T11:15:10.576172+00:00",
+      "last_checked_at": "2026-11-22T19:33:01.122971+00:00",
       "resolved_url": "https://www.youtube.com/results?search_query=Attack+Action+Podcast+Flesh+and+Blood",
       "resolved_feed_url": null,
       "resolved_channel_id": null,
