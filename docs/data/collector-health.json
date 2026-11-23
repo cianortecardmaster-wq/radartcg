@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-23T01:46:45.093494+00:00",
+  "generated_at": "2026-11-23T12:33:55.333284+00:00",
   "official_sources_configured": 21,
-  "official_sources_ok": 20,
-  "official_sources_failed": 1,
+  "official_sources_ok": 19,
+  "official_sources_failed": 2,
   "independent_sources_configured": 59,
-  "independent_sources_failed": 8,
+  "independent_sources_failed": 7,
   "media_sources_configured": 94,
   "media_sources_active_7d": 37,
   "media_items_7d": 138,
@@ -15,16 +15,16 @@
   "people_sources_failed": 32,
   "errors": [
     {
+      "source_id": "fab-global",
+      "source": "Flesh and Blood Official",
+      "url": "https://fabtcg.com/en/articles/",
+      "error": "403 Client Error: Forbidden for url: https://fabtcg.com/en/articles/"
+    },
+    {
       "source_id": "pokemon-cn",
       "source": "Pokémon China",
       "url": "https://www.pokemon.cn/topics-tcg/p/1",
-      "error": "HTTPSConnectionPool(host='www.pokemon.cn', port=443): Max retries exceeded with url: /topics-tcg/p/1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pokemon.cn', port=443) at 0x79d6838eddc0>, 'Connection to www.pokemon.cn timed out. (connect timeout=20)'))"
-    },
-    {
-      "source_id": "fab-insights",
-      "source": "FaB Insights",
-      "url": "https://www.fabinsights.net/",
-      "error": "HTTPSConnectionPool(host='www.fabinsights.net', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.fabinsights.net', port=443) at 0x79d683406c60>, 'Connection to www.fabinsights.net timed out. (connect timeout=20)'))"
+      "error": "HTTPSConnectionPool(host='www.pokemon.cn', port=443): Max retries exceeded with url: /topics-tcg/p/1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pokemon.cn', port=443) at 0x797b6115e600>, 'Connection to www.pokemon.cn timed out. (connect timeout=20)'))"
     },
     {
       "source_id": "rathe-adventures",
