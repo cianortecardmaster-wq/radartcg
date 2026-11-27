@@ -1,25 +1,19 @@
 {
-  "generated_at": "2026-11-26T16:54:27.110364+00:00",
+  "generated_at": "2026-11-27T01:46:45.619472+00:00",
   "official_sources_configured": 21,
-  "official_sources_ok": 20,
-  "official_sources_failed": 1,
+  "official_sources_ok": 21,
+  "official_sources_failed": 0,
   "independent_sources_configured": 59,
   "independent_sources_failed": 7,
   "media_sources_configured": 94,
   "media_sources_active_7d": 41,
-  "media_items_7d": 152,
+  "media_items_7d": 150,
   "media_sources_failed": 0,
   "people_configured": 86,
   "people_active_7d": 6,
-  "people_items_7d": 18,
+  "people_items_7d": 19,
   "people_sources_failed": 32,
   "errors": [
-    {
-      "source_id": "fab-global",
-      "source": "Flesh and Blood Official",
-      "url": "https://fabtcg.com/en/articles/",
-      "error": "403 Client Error: Forbidden for url: https://fabtcg.com/en/articles/"
-    },
     {
       "source_id": "rathe-adventures",
       "source": "The Rathe Adventures / FaB PvE",
