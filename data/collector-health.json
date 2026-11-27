@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T12:14:08.458886+00:00",
+  "generated_at": "2026-11-27T21:16:37.631088+00:00",
   "official_sources_configured": 21,
   "official_sources_ok": 20,
   "official_sources_failed": 1,
@@ -7,11 +7,11 @@
   "independent_sources_failed": 7,
   "media_sources_configured": 94,
   "media_sources_active_7d": 40,
-  "media_items_7d": 148,
-  "media_sources_failed": 0,
+  "media_items_7d": 139,
+  "media_sources_failed": 18,
   "people_configured": 86,
-  "people_active_7d": 4,
-  "people_items_7d": 16,
+  "people_active_7d": 5,
+  "people_items_7d": 17,
   "people_sources_failed": 32,
   "errors": [
     {
@@ -61,6 +61,114 @@
       "source": "BMJ TCG",
       "url": "bmjtcg.com.br",
       "error": "slice(None, 3, None)"
+    },
+    {
+      "source_id": "de481889b70eb67d",
+      "source": "Tolarian Community College",
+      "platform": "youtube",
+      "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC7-hR5EfgpM6oHfiGDkxfMA"
+    },
+    {
+      "source_id": "66ae196b350357f0",
+      "source": "MTGGoldfish",
+      "platform": "youtube",
+      "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCZAZTSd0xnor7hJFmINIBIw"
+    },
+    {
+      "source_id": "a39c0c40bc7afe58",
+      "source": "The Command Zone",
+      "platform": "youtube",
+      "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCLsiaNUb42gRAP7ewbJ0ecQ"
+    },
+    {
+      "source_id": "a94e9601eeb81088",
+      "source": "EDHREC",
+      "platform": "youtube",
+      "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCApiDwDpn_JpzRGLZKrdr1g"
+    },
+    {
+      "source_id": "cc8cdf460c6f92ec",
+      "source": "LoadingReadyRun MTG",
+      "platform": "youtube",
+      "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA"
+    },
+    {
+      "source_id": "78148b748c0a6427",
+      "source": "Cardmarket Magic",
+      "platform": "youtube",
+      "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwatLpmoIeoL9egqVW2Cxbw"
+    },
+    {
+      "source_id": "0cf116a927d383e5",
+      "source": "Play to Win",
+      "platform": "youtube",
+      "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC7339iJMCETmek3jdx9LOkg"
+    },
+    {
+      "source_id": "40be0db8f85aa40b",
+      "source": "Playing With Power MTG",
+      "platform": "youtube",
+      "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCum8N4KUUC0l_NK_mybvilg"
+    },
+    {
+      "source_id": "8df225f6759efda0",
+      "source": "Elder Dragon Hijinks",
+      "platform": "youtube",
+      "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCW8G9RUYzzepznBq5Cn_3Bg"
+    },
+    {
+      "source_id": "5097a37243d66036",
+      "source": "Rhystic Studies",
+      "platform": "youtube",
+      "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC8e0Sg8TmRRFJytjEGhmVTg"
+    },
+    {
+      "source_id": "0e6dd713c898888c",
+      "source": "Spice8Rack",
+      "platform": "youtube",
+      "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCDJACu5LRKWE7sqagICB-ew"
+    },
+    {
+      "source_id": "22cd150f8aa4f04d",
+      "source": "PleasantKenobi",
+      "platform": "youtube",
+      "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC_b074DeDtbHukufPf2O1kw"
+    },
+    {
+      "source_id": "d3c4f0b772ee6bf5",
+      "source": "Nitpicking Nerds",
+      "platform": "youtube",
+      "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCh76d0-ff5eaN68V2OaoghA"
+    },
+    {
+      "source_id": "20e030dce3d60bb7",
+      "source": "The Spike Feeders",
+      "platform": "youtube",
+      "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCGh7-4mDFssqhu_UpOwRzIA"
+    },
+    {
+      "source_id": "43de6d0fb1b7dc27",
+      "source": "Crokeyz",
+      "platform": "youtube",
+      "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCz3pj4DM9MuRWJ5nCCvBe_g"
+    },
+    {
+      "source_id": "bd6a7ea63319c48f",
+      "source": "NumotTheNummy",
+      "platform": "youtube",
+      "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCLzE7jLdn7dqxK-0OdXeuaw"
+    },
+    {
+      "source_id": "5cb2f12576a68c32",
+      "source": "MTGRemy",
+      "platform": "youtube",
+      "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC3YmkUUyVZSnfPzy4smvgXA"
+    },
+    {
+      "source_id": "c432eee2b1b51916",
+      "source": "MaldHound",
+      "platform": "youtube",
+      "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCZfLLRbcus7Fm0STiCz0AfQ"
     },
     {
       "person_id": "568a2788f1185757",
